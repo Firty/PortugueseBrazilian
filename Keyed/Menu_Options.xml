@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Áudio visuais</Audiovisuals>
+  <GameVolume>Volume de jogo</GameVolume>
+  <MusicVolume>Volume da música</MusicVolume>
+  <AmbientVolume>Volume ambiente</AmbientVolume>
+  <Antialiasing>Anti-serrilhado</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Rolagem do mouse nas bordas</EdgeScreenScroll>
+  <PauseOnLoad>Pausar no carregamento</PauseOnLoad>
+  <PauseOnUrgentLetter>Pausar no aviso urgente</PauseOnUrgentLetter>
+  <CustomCursor>Cursor personalizado</CustomCursor>
+  <HatsShownOnlyOnMap>Chapéus exibidos apenas no mapa do jogo</HatsShownOnlyOnMap>
+  <UIScale>Escala da IU</UIScale>
+  <KeyboardConfig>Configuração do teclado</KeyboardConfig>
+  <ChooseLanguage>Mudar idioma</ChooseLanguage>
+  <ResetAdaptiveTutor>Restaurar tutorial adaptado</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Tutorial adaptado resetado, ele irá agora ensinar tudo do início.</AdaptiveTutorIsReset>
+  <RunInBackground>Executar em segundo plano</RunInBackground>
+  <DevelopmentMode>Modo desenvolvedor</DevelopmentMode>
+  <ResetModsConfigOnCrash>Restaurar mods ao congelar o jogo</ResetModsConfigOnCrash>
+  <LogVerbose>Relatório detalhado</LogVerbose>
+  <OpenSaveGameDataFolder>Abrir pasta de jogos salvos</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Sobrenomes de pessoas no jogo ou do passado dos personagens que você deseja ver:</NamesYouWantToSee>
+  <AddName>Adicionar nome</AddName>
+  <TypeFirstNickOrLastName>Digite o primeiro nome, apelido ou sobrenome.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Este nome já está na lista de preferências.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Escolher narrador</ChangeStoryteller>
+  <AutosaveInterval>Interv. de salvamento</AutosaveInterval>
+  <TemperatureMode>Modo de temperatura</TemperatureMode>
+  <ShowRealtimeClock>Mostrar relógio de tempo real</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Número máximo de colônias: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Oscilação de vento na vegetação</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>intervalo de gravação automática máxima no modo permadeath é de {0} dia(s).</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Configurar Mods</ModSettings>
+  
+  <!-- Resolution -->
+  <Resolution>Resolução</Resolution>
+  <Fullscreen>Tela cheia</Fullscreen>
+
+  <!-- Privacy-->
+  <Privacy>Privacidade</Privacy>
+  <UserName>Nome do usuário</UserName>
+  <ChooseHistoryUploadPref>Enviar dados de jogabilidade preferencial.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Informações de gameplay dos usuários ajuda os desenvolvedores a balancear o game. Se você concorda, suas informações serão enviadas a cada {0} dias de jogo (E em alguns outros casos raros como o final do jogo) para o servidor de RimWorld e depois analisadas. Dados de jogo carregado consiste apenas de estatísticas e registros de história relacionados com o jogo - nenhuma informação pessoal é enviada, exceto para o nome do usuário, o que significa que é completamente anônima.</AboutHistoryUpload>
+
+  <SelectMod>Selecionar mod...</SelectMod>
+  <NoConfigurableMods>Sem mods configuráveis carregados.</NoConfigurableMods>
+</LanguageData>

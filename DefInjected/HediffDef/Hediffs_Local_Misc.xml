@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TraumaSavant.label>traumatismo craniano</TraumaSavant.label>
+
+	<ChemicalDamageBrain.label>danos químico</ChemicalDamageBrain.label>
+
+	<ChemicalDamageKidney.label>danos químico</ChemicalDamageKidney.label>
+
+	<Cirrhosis.label>cirrose</Cirrhosis.label>
+
+	<ResurrectionPsychosis.label>psicose da ressurreição</ResurrectionPsychosis.label>
+
+	<ResurrectionPsychosis.stages.0.label>inicial</ResurrectionPsychosis.stages.0.label>
+
+	<ResurrectionPsychosis.stages.1.label>pouca</ResurrectionPsychosis.stages.1.label>
+
+	<ResurrectionPsychosis.stages.2.label>moderada</ResurrectionPsychosis.stages.2.label>
+
+	<ResurrectionPsychosis.stages.3.label>avançada</ResurrectionPsychosis.stages.3.label>
+
+	<ResurrectionPsychosis.stages.4.label>extrema</ResurrectionPsychosis.stages.4.label>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantAgave.label>agave</PlantAgave.label>
+
+	<PlantAgave.description>Uma planta de folhas largas do deserto com flores comestíveis e caudas.</PlantAgave.description>
+
+	<PlantSaguaroCactus.label>cacto saguaro</PlantSaguaroCactus.label>
+
+	<PlantSaguaroCactus.description>Um grande nativo do cacto em ambientes árido terrestres.</PlantSaguaroCactus.description>
+
+	<PlantPincushionCactus.label>cacto alfineteiro</PlantPincushionCactus.label>
+
+	<PlantPincushionCactus.description>Um cacto curto. Assim chamado porque se assemelha á uma almofada de alfinetes.</PlantPincushionCactus.description>
+
+	<PlantTreeDrago.description>Uma árvore resistente do deserto coberta com folhas grossas e pontiagudas.</PlantTreeDrago.description>
+
+	<PlantTreeDrago.label>árvore drago</PlantTreeDrago.label>
+
+</LanguageData>

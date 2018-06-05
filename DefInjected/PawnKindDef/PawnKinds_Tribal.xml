@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TribalWarrior.label>guerreiro</TribalWarrior.label>
+
+	<TribalArcher.label>arqueiro</TribalArcher.label>
+
+	<TribalChief.label>cacique</TribalChief.label>
+
+	<TribalTrader.label>comerciante</TribalTrader.label>
+
+	<TribalHunter.label>caçador</TribalHunter.label>
+
+	<TribalBerserker.label>guerreiro</TribalBerserker.label>
+
+	<TribalHeavyArcher.label>arqueiro pesado</TribalHeavyArcher.label>
+
+</LanguageData>

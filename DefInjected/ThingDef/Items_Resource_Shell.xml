@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Shell_Firefoam.label>projétil extintor</Shell_Firefoam.label>
+
+	<Shell_Firefoam.description>Um projétil pressurizado preenchido com espuma extintora de incêndio. Pode ser disparado de morteiros ou instalado em um morteiro. Explode quando danificado.</Shell_Firefoam.description>
+
+	<Shell_AntigrainWarhead.label>ogiva nuclear</Shell_AntigrainWarhead.label>
+
+	<Shell_AntigrainWarhead.description>Uma minúscula ogiva ultra-tecnológica geralmente usada por máquinas de guerra espaciais. Alimentado por um grão de antimatéria, cria uma enorme explosão e inicia incêndios em torno do alvo. Pode ser disparado de morteiros ou instalado como uma armadilha. Explode quando danificado.</Shell_AntigrainWarhead.description>
+
+	<Bullet_Shell_Firefoam.label>projétil extintor</Bullet_Shell_Firefoam.label>
+
+	<Bullet_Shell_AntigrainWarhead.label>ogiva nuclear</Bullet_Shell_AntigrainWarhead.label>
+
+	<Shell_Incendiary.label>projétil incendiario</Shell_Incendiary.label>
+
+	<Shell_Incendiary.description>Um projétil cheio de gel inflamável e uma pequena carga explosiva. Dipersa fogo quando detonado. Pode ser disparado de morteiros ou instalado como uma armadilha. Explode quando danificado.</Shell_Incendiary.description>
+
+	<Shell_EMP.label>projétil EMP</Shell_EMP.label>
+
+	<Shell_EMP.description>Um reservatório cheio de baterias e antenas, para gerar um pulso EMP quando detonado. Os pulsos eletromagnéticos desativam temporariamente os circuitos elétricos. Pode ser disparado de morteiros ou instalado como uma armadilha. Explode quando danificado.</Shell_EMP.description>
+
+</LanguageData>

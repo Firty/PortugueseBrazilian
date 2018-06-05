@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AmbrosiaSprout.label>brotou ambrosia</AmbrosiaSprout.label>
+
+	<AmbrosiaSprout.letterlabel>Brotou ambrosia</AmbrosiaSprout.letterlabel>
+
+	<AmbrosiaSprout.lettertext>Um bosque do misterioso arbusto de ambrosia brotou nas proximidades! Se você esperar que as plantas cresçam, você poderá colher a fruta deliciosa, prazerosa e ligeiramente viciante.</AmbrosiaSprout.lettertext>
+
+	<RansomDemand.letterlabel>Pedido de resgate</RansomDemand.letterlabel>
+
+	<CaravanRequest.label>pedido de caravana</CaravanRequest.label>
+
+	<MeteoriteImpact.letterlabel>Meteorito</MeteoriteImpact.letterlabel>
+
+	<MeteoriteImpact.lettertext>Um grande meteorito de {0} caiu na área.</MeteoriteImpact.lettertext>
+
+	<HerdMigration.label>migração do rebanho</HerdMigration.label>
+
+	<HerdMigration.letterlabel>Migração do rebanho: {0}</HerdMigration.letterlabel>
+
+	<HerdMigration.lettertext>Um grande rebanho de {0} está passando pela área. Eles não atacarão a menos que sejam provocados.</HerdMigration.lettertext>
+
+	<Aurora.letterlabel>Aurora</Aurora.letterlabel>
+
+	<Aurora.lettertext>Uma bela aurora está iluminando o céu. \n\nAs cores ondulantes aumentam o ânimo de qualquer pessoa que sair para fora para ver e torna a noite mais brilhante.</Aurora.lettertext>
+
+	<Tornado.letterlabel>Tornado</Tornado.letterlabel>
+
+	<Tornado.lettertext>Um tornado se formou! \n\nEle deixará um caminho de destruição onde passar.</Tornado.lettertext>
+
+</LanguageData>

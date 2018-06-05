@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CaravanAmbushedByHumanlike.label>caravan ambushed</CaravanAmbushedByHumanlike.label>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s caravan ambushed</CaravanAmbushedByHumanlike.rulepack.rulesstrings.0>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.1>image->[pawn_nameFull] cowering [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.1>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.2>image->[pawn_nameFull] moving to protect an ally [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.2>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.3>image->[pawn_nameFull] moving to attack [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.3>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.4>image->[pawn_nameFull] attacking [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.4>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.5>image->[pawn_nameFull] shouting loudly [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.5>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.6>image->[pawn_nameFull] running [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.6>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.7>image->[pawn_nameFull] grapping with an opponent [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.7>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.8>image->[pawn_nameFull] defending themself [circumstance_group]</CaravanAmbushedByHumanlike.rulepack.rulesstrings.8>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.9>circumstance_phrase->with a [badassadjective] expression</CaravanAmbushedByHumanlike.rulepack.rulesstrings.9>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.10>circumstance_phrase->with a [badassadjective] expression</CaravanAmbushedByHumanlike.rulepack.rulesstrings.10>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.11>circumstance_phrase->while wielding [pawn_possessive] weapon</CaravanAmbushedByHumanlike.rulepack.rulesstrings.11>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.12>circumstance_phrase->while sweating with exertion</CaravanAmbushedByHumanlike.rulepack.rulesstrings.12>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] distant figures approaches from behind a [terrainfeature].</CaravanAmbushedByHumanlike.rulepack.rulesstrings.13>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] [enemy]s can be seen in the distance.</CaravanAmbushedByHumanlike.rulepack.rulesstrings.14>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] is practically surrounded by [enemy]s.</CaravanAmbushedByHumanlike.rulepack.rulesstrings.15>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] is confronted by a [enemy].</CaravanAmbushedByHumanlike.rulepack.rulesstrings.16>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [animal]s flee the scene of conflict in fear.</CaravanAmbushedByHumanlike.rulepack.rulesstrings.17>
+
+	<CaravanAmbushedByHumanlike.rulepack.rulesstrings.18>desc_sentence->In the distance, a [outlander] observes.</CaravanAmbushedByHumanlike.rulepack.rulesstrings.18>
+
+	<CaravanAmbushedByManhunter.label>caravan ambushed by manhunter</CaravanAmbushedByManhunter.label>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s caravan ambushed</CaravanAmbushedByManhunter.rulepack.rulesstrings.0>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.1>image->[pawn_nameFull] cowering [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.1>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.2>image->[pawn_nameFull] moving to protect an ally [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.2>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.3>image->[pawn_nameFull] moving to attack [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.3>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.4>image->[pawn_nameFull] attacking [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.4>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.5>image->[pawn_nameFull] shouting loudly [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.5>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.6>image->[pawn_nameFull] running [circumstance_group]</CaravanAmbushedByManhunter.rulepack.rulesstrings.6>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.7>circumstance_phrase->with a [badassadjective] expression</CaravanAmbushedByManhunter.rulepack.rulesstrings.7>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.8>circumstance_phrase->with a [badassadjective] expression</CaravanAmbushedByManhunter.rulepack.rulesstrings.8>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.9>circumstance_phrase->while wielding [pawn_possessive] weapon</CaravanAmbushedByManhunter.rulepack.rulesstrings.9>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.10>circumstance_phrase->while sweating with exertion</CaravanAmbushedByManhunter.rulepack.rulesstrings.10>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.11>circumstance_phrase->while covered with [gore]</CaravanAmbushedByManhunter.rulepack.rulesstrings.11>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] distant animals approach from behind a [terrainfeature].</CaravanAmbushedByManhunter.rulepack.rulesstrings.12>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.13>desc_sentence->[gore] covers the ground.</CaravanAmbushedByManhunter.rulepack.rulesstrings.13>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.14>desc_sentence->The ground has been trampled into a mess of [gore].</CaravanAmbushedByManhunter.rulepack.rulesstrings.14>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] [animal]s flee the scene of conflict in fear.</CaravanAmbushedByManhunter.rulepack.rulesstrings.15>
+
+	<CaravanAmbushedByManhunter.rulepack.rulesstrings.16>desc_sentence->In the distance, a [outlander] observes.</CaravanAmbushedByManhunter.rulepack.rulesstrings.16>
+
+	<CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+
+	<CaravanMeeting.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s caravan met by others</CaravanMeeting.rulepack.rulesstrings.0>
+
+	<CaravanMeeting.rulepack.rulesstrings.1>image->[pawn_nameFull] greeting a [outlander] [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.1>
+
+	<CaravanMeeting.rulepack.rulesstrings.2>image->[pawn_nameFull] inspecting a [outlander] [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.2>
+
+	<CaravanMeeting.rulepack.rulesstrings.3>image->[pawn_nameFull] calling out to a [outlander] [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.3>
+
+	<CaravanMeeting.rulepack.rulesstrings.4>image->[pawn_nameFull] walking towards a [outlander] [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.4>
+
+	<CaravanMeeting.rulepack.rulesstrings.5>image->[pawn_nameFull] talking quietly [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.5>
+
+	<CaravanMeeting.rulepack.rulesstrings.6>image->[pawn_nameFull] shouting loudly [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.6>
+
+	<CaravanMeeting.rulepack.rulesstrings.7>image->[pawn_nameFull] playing [game] with a [outlander] [circumstance_group]</CaravanMeeting.rulepack.rulesstrings.7>
+
+	<CaravanMeeting.rulepack.rulesstrings.8>circumstance_phrase->with a [friendlyadjective] expression</CaravanMeeting.rulepack.rulesstrings.8>
+
+	<CaravanMeeting.rulepack.rulesstrings.9>circumstance_phrase->with a [friendlyadjective] expression</CaravanMeeting.rulepack.rulesstrings.9>
+
+	<CaravanMeeting.rulepack.rulesstrings.10>circumstance_phrase->while [friendlyverb]</CaravanMeeting.rulepack.rulesstrings.10>
+
+	<CaravanMeeting.rulepack.rulesstrings.11>circumstance_phrase->as others look on</CaravanMeeting.rulepack.rulesstrings.11>
+
+	<CaravanMeeting.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] [outlander]s are [event].</CaravanMeeting.rulepack.rulesstrings.12>
+
+	<CaravanMeeting.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [outlander]s are [event].</CaravanMeeting.rulepack.rulesstrings.13>
+
+	<CaravanMeeting.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] [animal]s surround the group.</CaravanMeeting.rulepack.rulesstrings.14>
+
+	<CaravanMeeting.rulepack.rulesstrings.15>desc_sentence->The sun sets over a [terrainfeature].</CaravanMeeting.rulepack.rulesstrings.15>
+
+	<CaravanMeeting.rulepack.rulesstrings.16>desc_sentence->The sun rises over a [terrainfeature].</CaravanMeeting.rulepack.rulesstrings.16>
+
+	<CaravanMeeting.rulepack.rulesstrings.17>desc_sentence->In the distance, a [outlander] observes.</CaravanMeeting.rulepack.rulesstrings.17>
+
+	<CaravanMeeting.rulepack.rulesstrings.18>event->throwing a party</CaravanMeeting.rulepack.rulesstrings.18>
+
+	<CaravanMeeting.rulepack.rulesstrings.19>event->eating a communal meal</CaravanMeeting.rulepack.rulesstrings.19>
+
+	<CaravanMeeting.rulepack.rulesstrings.20>event->discussing recent events</CaravanMeeting.rulepack.rulesstrings.20>
+
+	<CaravanMeeting.rulepack.rulesstrings.21>event->rekindling old friendships</CaravanMeeting.rulepack.rulesstrings.21>
+
+	<CaravanMeeting.rulepack.rulesstrings.22>event->talking hesitantly</CaravanMeeting.rulepack.rulesstrings.22>
+
+	<CaravanDemand.label>caravan demand</CaravanDemand.label>
+
+	<CaravanDemand.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s caravan receiving a demand</CaravanDemand.rulepack.rulesstrings.0>
+
+	<CaravanDemand.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef]'s caravan being threatened</CaravanDemand.rulepack.rulesstrings.1>
+
+	<CaravanDemand.rulepack.rulesstrings.2>image->[pawn_nameFull] cowering [circumstance_group]</CaravanDemand.rulepack.rulesstrings.2>
+
+	<CaravanDemand.rulepack.rulesstrings.3>image->[pawn_nameFull] shouting loudly [circumstance_group]</CaravanDemand.rulepack.rulesstrings.3>
+
+	<CaravanDemand.rulepack.rulesstrings.4>image->[pawn_nameFull] thinking [circumstance_group]</CaravanDemand.rulepack.rulesstrings.4>
+
+	<CaravanDemand.rulepack.rulesstrings.5>image->[pawn_nameFull] glaring [circumstance_group]</CaravanDemand.rulepack.rulesstrings.5>
+
+	<CaravanDemand.rulepack.rulesstrings.6>image->[pawn_nameFull], threatened by a [outlander], [circumstance_group]</CaravanDemand.rulepack.rulesstrings.6>
+
+	<CaravanDemand.rulepack.rulesstrings.7>image->[pawn_nameFull] brandishing a [weapon] [circumstance_group]</CaravanDemand.rulepack.rulesstrings.7>
+
+	<CaravanDemand.rulepack.rulesstrings.8>circumstance_phrase->with a [badassadjective] expression</CaravanDemand.rulepack.rulesstrings.8>
+
+	<CaravanDemand.rulepack.rulesstrings.9>circumstance_phrase->with a [angstyadjective] expression</CaravanDemand.rulepack.rulesstrings.9>
+
+	<CaravanDemand.rulepack.rulesstrings.10>circumstance_phrase->as others look on</CaravanDemand.rulepack.rulesstrings.10>
+
+	<CaravanDemand.rulepack.rulesstrings.11>circumstance_phrase->while being threatened by [enemy]s</CaravanDemand.rulepack.rulesstrings.11>
+
+	<CaravanDemand.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef] is practically surrounded by [enemy]s.</CaravanDemand.rulepack.rulesstrings.12>
+
+	<CaravanDemand.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [enemy]s are nearby, [action].</CaravanDemand.rulepack.rulesstrings.13>
+
+	<CaravanDemand.rulepack.rulesstrings.14>desc_sentence->The sun sets over a [terrainfeature].</CaravanDemand.rulepack.rulesstrings.14>
+
+	<CaravanDemand.rulepack.rulesstrings.15>desc_sentence->The sun rises over a [terrainfeature].</CaravanDemand.rulepack.rulesstrings.15>
+
+	<CaravanDemand.rulepack.rulesstrings.16>desc_sentence->In the distance, a [outlander] observes.</CaravanDemand.rulepack.rulesstrings.16>
+
+	<CaravanDemand.rulepack.rulesstrings.17>action->sharpening their weapons</CaravanDemand.rulepack.rulesstrings.17>
+
+	<CaravanDemand.rulepack.rulesstrings.18>action->watching for danger</CaravanDemand.rulepack.rulesstrings.18>
+
+	<CaravanDemand.rulepack.rulesstrings.19>action->guarding hostages</CaravanDemand.rulepack.rulesstrings.19>
+
+	<CaravanDemand.rulepack.rulesstrings.20>action->waiting for a decision</CaravanDemand.rulepack.rulesstrings.20>
+
+	<CaravanDemand.rulepack.rulesstrings.21>action->taunting [pawn_nameShortDef]</CaravanDemand.rulepack.rulesstrings.21>
+
+	<MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+
+	<MeteoriteImpact.rulepack.rulesstrings.0>tale_noun->a meteorite falling near [pawn_nameShortDef]'s [community]</MeteoriteImpact.rulepack.rulesstrings.0>
+
+	<MeteoriteImpact.rulepack.rulesstrings.1>tale_noun->a meteorite impacting near [pawn_nameShortDef]'s [community]</MeteoriteImpact.rulepack.rulesstrings.1>
+
+	<MeteoriteImpact.rulepack.rulesstrings.2>image->a [large] rock trailing [color] flames [airborne_circumstance]</MeteoriteImpact.rulepack.rulesstrings.2>
+
+	<MeteoriteImpact.rulepack.rulesstrings.3>image->a brightly-glowing spot [airborne_circumstance]</MeteoriteImpact.rulepack.rulesstrings.3>
+
+	<MeteoriteImpact.rulepack.rulesstrings.4>image->a [large] [color] fireball [airborne_circumstance]</MeteoriteImpact.rulepack.rulesstrings.4>
+
+	<MeteoriteImpact.rulepack.rulesstrings.5>airborne_circumstance->blazing across the sky</MeteoriteImpact.rulepack.rulesstrings.5>
+
+	<MeteoriteImpact.rulepack.rulesstrings.6>airborne_circumstance->falling to the ground in a cloud of ash</MeteoriteImpact.rulepack.rulesstrings.6>
+
+	<MeteoriteImpact.rulepack.rulesstrings.7>airborne_circumstance->shedding rocks and debris as it flies</MeteoriteImpact.rulepack.rulesstrings.7>
+
+	<MeteoriteImpact.rulepack.rulesstrings.8>image->a [large] monolith, [ground_circumstance]</MeteoriteImpact.rulepack.rulesstrings.8>
+
+	<MeteoriteImpact.rulepack.rulesstrings.9>image->a [large] [color] scorched stone, [ground_circumstance]</MeteoriteImpact.rulepack.rulesstrings.9>
+
+	<MeteoriteImpact.rulepack.rulesstrings.10>image->a [color] pillar of rock, [ground_circumstance]</MeteoriteImpact.rulepack.rulesstrings.10>
+
+	<MeteoriteImpact.rulepack.rulesstrings.11>ground_circumstance->surrounded by smoke and ash</MeteoriteImpact.rulepack.rulesstrings.11>
+
+	<MeteoriteImpact.rulepack.rulesstrings.12>ground_circumstance->smoking from heat</MeteoriteImpact.rulepack.rulesstrings.12>
+
+	<MeteoriteImpact.rulepack.rulesstrings.13>ground_circumstance->surrounded by molten debris</MeteoriteImpact.rulepack.rulesstrings.13>
+
+	<MeteoriteImpact.rulepack.rulesstrings.14>ground_circumstance->partially embedded in the ground</MeteoriteImpact.rulepack.rulesstrings.14>
+
+	<MeteoriteImpact.rulepack.rulesstrings.15>ground_circumstance->lying in a cracked crater</MeteoriteImpact.rulepack.rulesstrings.15>
+
+	<MeteoriteImpact.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] looks on in surprise.</MeteoriteImpact.rulepack.rulesstrings.16>
+
+	<MeteoriteImpact.rulepack.rulesstrings.17>desc_sentence->[pawn_nameShortDef] looks on with excitement.</MeteoriteImpact.rulepack.rulesstrings.17>
+
+	<MeteoriteImpact.rulepack.rulesstrings.18>desc_sentence->[pawn_nameShortDef] looks on in shock.</MeteoriteImpact.rulepack.rulesstrings.18>
+
+	<MeteoriteImpact.rulepack.rulesstrings.19>desc_sentence->[quantity_adjphrase] figures approach from a nearby [terrainfeature].</MeteoriteImpact.rulepack.rulesstrings.19>
+
+	<MeteoriteImpact.rulepack.rulesstrings.20>desc_sentence->[quantity_adjphrase] figures prepare tools and equipment.</MeteoriteImpact.rulepack.rulesstrings.20>
+
+	<MeteoriteImpact.rulepack.rulesstrings.21>desc_sentence->[quantity_adjphrase] [animal]s mill around uncertainly.</MeteoriteImpact.rulepack.rulesstrings.21>
+
+	<MeteoriteImpact.rulepack.rulesstrings.22>desc_sentence->The surroundings are muted and dull.</MeteoriteImpact.rulepack.rulesstrings.22>
+
+	<ToxicFallout.label>toxic fallout</ToxicFallout.label>
+
+	<ToxicFallout.rulepack.rulesstrings.0>tale_noun->fallout settling over [pawn_nameShortDef]'s [community]</ToxicFallout.rulepack.rulesstrings.0>
+
+	<ToxicFallout.rulepack.rulesstrings.1>tale_noun->the atmosphere near [pawn_nameShortDef]'s [community] becoming toxic</ToxicFallout.rulepack.rulesstrings.1>
+
+	<ToxicFallout.rulepack.rulesstrings.2>image->an ominous sky, [circumstance_group]</ToxicFallout.rulepack.rulesstrings.2>
+
+	<ToxicFallout.rulepack.rulesstrings.3>image->the air becoming thick and [circumstance_group]</ToxicFallout.rulepack.rulesstrings.3>
+
+	<ToxicFallout.rulepack.rulesstrings.4>image->the ground glowing gently and [circumstance_group]</ToxicFallout.rulepack.rulesstrings.4>
+
+	<ToxicFallout.rulepack.rulesstrings.5>image->fields of dead plants [circumstance_group]</ToxicFallout.rulepack.rulesstrings.5>
+
+	<ToxicFallout.rulepack.rulesstrings.6>image->[quantity_adjphrase] graves [circumstance_group]</ToxicFallout.rulepack.rulesstrings.6>
+
+	<ToxicFallout.rulepack.rulesstrings.7>circumstance_phrase->with no life in sight</ToxicFallout.rulepack.rulesstrings.7>
+
+	<ToxicFallout.rulepack.rulesstrings.8>circumstance_phrase->covered by a faint sheen of luminous dust</ToxicFallout.rulepack.rulesstrings.8>
+
+	<ToxicFallout.rulepack.rulesstrings.9>circumstance_phrase->arranged in a pattern that suggests bones</ToxicFallout.rulepack.rulesstrings.9>
+
+	<ToxicFallout.rulepack.rulesstrings.10>circumstance_phrase->waiting for the poison to stop</ToxicFallout.rulepack.rulesstrings.10>
+
+	<ToxicFallout.rulepack.rulesstrings.11>desc_sentence->[pawn_nameShortDef] lies on the ground, [pawn_possessive] body twisted at an unusual angle.</ToxicFallout.rulepack.rulesstrings.11>
+
+	<ToxicFallout.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef] hides near a [terrainfeature], gazing out with a [angstyadjective] look.</ToxicFallout.rulepack.rulesstrings.12>
+
+	<ToxicFallout.rulepack.rulesstrings.13>desc_sentence->[pawn_nameShortDef] looks on in shock.</ToxicFallout.rulepack.rulesstrings.13>
+
+	<ToxicFallout.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef] rests quietly with a layer of sweat upon [pawn_possessive] face.</ToxicFallout.rulepack.rulesstrings.14>
+
+	<ToxicFallout.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] dead [animal]s litter the ground.</ToxicFallout.rulepack.rulesstrings.15>
+
+	<ToxicFallout.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</ToxicFallout.rulepack.rulesstrings.16>
+
+	<ToxicFallout.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [animal]s mill around uncertainly.</ToxicFallout.rulepack.rulesstrings.17>
+
+	<VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+
+	<VolcanicWinter.rulepack.rulesstrings.0>tale_noun->volcanic winter beginning at [pawn_nameShortDef]'s [community]</VolcanicWinter.rulepack.rulesstrings.0>
+
+	<VolcanicWinter.rulepack.rulesstrings.1>image->a dark and cold sky, [circumstance_group]</VolcanicWinter.rulepack.rulesstrings.1>
+
+	<VolcanicWinter.rulepack.rulesstrings.2>image->the air filling with ash, [circumstance_group]</VolcanicWinter.rulepack.rulesstrings.2>
+
+	<VolcanicWinter.rulepack.rulesstrings.3>image->a frost-covered barren [terrainfeature] [circumstance_group]</VolcanicWinter.rulepack.rulesstrings.3>
+
+	<VolcanicWinter.rulepack.rulesstrings.4>image->[quantity_adjphrase] fields of ash-covered plants [circumstance_group]</VolcanicWinter.rulepack.rulesstrings.4>
+
+	<VolcanicWinter.rulepack.rulesstrings.5>circumstance_phrase->with no life in sight</VolcanicWinter.rulepack.rulesstrings.5>
+
+	<VolcanicWinter.rulepack.rulesstrings.6>circumstance_phrase->barely illuminated by thin shafts of light</VolcanicWinter.rulepack.rulesstrings.6>
+
+	<VolcanicWinter.rulepack.rulesstrings.7>circumstance_phrase->starkly illuminated with chilly blue light</VolcanicWinter.rulepack.rulesstrings.7>
+
+	<VolcanicWinter.rulepack.rulesstrings.8>desc_sentence->[pawn_nameShortDef] huddles near a fire.</VolcanicWinter.rulepack.rulesstrings.8>
+
+	<VolcanicWinter.rulepack.rulesstrings.9>desc_sentence->To stay warm, [pawn_nameShortDef] wears [quantity_adjphrase] [apparel]s.</VolcanicWinter.rulepack.rulesstrings.9>
+
+	<VolcanicWinter.rulepack.rulesstrings.10>desc_sentence->[pawn_nameShortDef] sits nearby, visibly exhausted by the ordeal.</VolcanicWinter.rulepack.rulesstrings.10>
+
+	<VolcanicWinter.rulepack.rulesstrings.11>desc_sentence->[pawn_nameShortDef] hides near a [terrainfeature], gazing out with a [angstyadjective] look.</VolcanicWinter.rulepack.rulesstrings.11>
+
+	<VolcanicWinter.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] starving [animal]s surround the scene.</VolcanicWinter.rulepack.rulesstrings.12>
+
+	<VolcanicWinter.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] shivering [animal]s surround the scene.</VolcanicWinter.rulepack.rulesstrings.13>
+
+	<VolcanicWinter.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</VolcanicWinter.rulepack.rulesstrings.14>
+
+	<VolcanicWinter.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] [animal]s mill around uncertainly.</VolcanicWinter.rulepack.rulesstrings.15>
+
+	<Aurora.label>aurora</Aurora.label>
+
+	<Aurora.rulepack.rulesstrings.0>tale_noun->an aurora visible over [pawn_nameShortDef]'s [community]</Aurora.rulepack.rulesstrings.0>
+
+	<Aurora.rulepack.rulesstrings.1>tale_noun->the polar lights visible over [pawn_nameShortDef]'s [community]</Aurora.rulepack.rulesstrings.1>
+
+	<Aurora.rulepack.rulesstrings.2>tale_noun->[pawn_nameShortDef]'s [community] illuminated by the light of an aurora</Aurora.rulepack.rulesstrings.2>
+
+	<Aurora.rulepack.rulesstrings.3>image->the sky illuminated in [color]s and [color]s [circumstance_phrase]</Aurora.rulepack.rulesstrings.3>
+
+	<Aurora.rulepack.rulesstrings.4>image->a fabulous pattern of [color] rays [circumstance_phrase]</Aurora.rulepack.rulesstrings.4>
+
+	<Aurora.rulepack.rulesstrings.5>image->a network of [color] lights [circumstance_phrase]</Aurora.rulepack.rulesstrings.5>
+
+	<Aurora.rulepack.rulesstrings.6>image->[color] swooping arcs with [color] highlights [circumstance_phrase]</Aurora.rulepack.rulesstrings.6>
+
+	<Aurora.rulepack.rulesstrings.7>image->dancing [color] lights [circumstance_group]</Aurora.rulepack.rulesstrings.7>
+
+	<Aurora.rulepack.rulesstrings.8>circumstance_phrase->over a [terrainfeature]</Aurora.rulepack.rulesstrings.8>
+
+	<Aurora.rulepack.rulesstrings.9>circumstance_phrase->illuminating a [terrainfeature]</Aurora.rulepack.rulesstrings.9>
+
+	<Aurora.rulepack.rulesstrings.10>circumstance_phrase->floating over a [community]</Aurora.rulepack.rulesstrings.10>
+
+	<Aurora.rulepack.rulesstrings.11>circumstance_phrase->bracketed between a [terrainfeature] and a [terrainfeature]</Aurora.rulepack.rulesstrings.11>
+
+	<Aurora.rulepack.rulesstrings.12>desc_sentence->Below, [pawn_nameShortDef] plays [game] with a [friendlyadjective] look.</Aurora.rulepack.rulesstrings.12>
+
+	<Aurora.rulepack.rulesstrings.13>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Aurora.rulepack.rulesstrings.13>
+
+	<Aurora.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] [outlander]s watch from below.</Aurora.rulepack.rulesstrings.14>
+
+	<Aurora.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature], gazing at the sky.</Aurora.rulepack.rulesstrings.15>
+
+	<Aurora.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] [animal]s wander peacefully.</Aurora.rulepack.rulesstrings.16>
+
+	<Aurora.rulepack.rulesstrings.17>desc_sentence->There is no [enemy] in sight.</Aurora.rulepack.rulesstrings.17>
+
+	<Flashstorm.label>flashstorm</Flashstorm.label>
+
+	<Flashstorm.rulepack.rulesstrings.0>tale_noun->a firestorm that threatened [pawn_nameShortDef]'s [community]</Flashstorm.rulepack.rulesstrings.0>
+
+	<Flashstorm.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef]'s [community] menaced by hostile weather</Flashstorm.rulepack.rulesstrings.1>
+
+	<Flashstorm.rulepack.rulesstrings.2>image->[quantity_adjphrase] lightning strikes [circumstance_phrase]</Flashstorm.rulepack.rulesstrings.2>
+
+	<Flashstorm.rulepack.rulesstrings.3>image->[behavior] wall of flames [circumstance_phrase]</Flashstorm.rulepack.rulesstrings.3>
+
+	<Flashstorm.rulepack.rulesstrings.4>image->[behavior] wall of [color] flames [circumstance_phrase]</Flashstorm.rulepack.rulesstrings.4>
+
+	<Flashstorm.rulepack.rulesstrings.5>image->[behavior] cloud of ash and smoke [circumstance_phrase]</Flashstorm.rulepack.rulesstrings.5>
+
+	<Flashstorm.rulepack.rulesstrings.6>image->[behavior] wave of flames [circumstance_phrase]</Flashstorm.rulepack.rulesstrings.6>
+
+	<Flashstorm.rulepack.rulesstrings.7>behavior->a</Flashstorm.rulepack.rulesstrings.7>
+
+	<Flashstorm.rulepack.rulesstrings.8>behavior->an advancing</Flashstorm.rulepack.rulesstrings.8>
+
+	<Flashstorm.rulepack.rulesstrings.9>behavior->an approaching</Flashstorm.rulepack.rulesstrings.9>
+
+	<Flashstorm.rulepack.rulesstrings.10>circumstance_phrase->advancing towards a [community]</Flashstorm.rulepack.rulesstrings.10>
+
+	<Flashstorm.rulepack.rulesstrings.11>circumstance_phrase->underneath an intimidating cloud</Flashstorm.rulepack.rulesstrings.11>
+
+	<Flashstorm.rulepack.rulesstrings.12>circumstance_phrase->nearly enveloping a [terrainfeature]</Flashstorm.rulepack.rulesstrings.12>
+
+	<Flashstorm.rulepack.rulesstrings.13>circumstance_phrase->nearly enveloping [quantity_adjphrase] [terrainfeature]s</Flashstorm.rulepack.rulesstrings.13>
+
+	<Flashstorm.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef] watches with visible fright.</Flashstorm.rulepack.rulesstrings.14>
+
+	<Flashstorm.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Flashstorm.rulepack.rulesstrings.15>
+
+	<Flashstorm.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] is coordinating defensive measures.</Flashstorm.rulepack.rulesstrings.16>
+
+	<Flashstorm.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [outlander]s rush to prepare.</Flashstorm.rulepack.rulesstrings.17>
+
+	<Flashstorm.rulepack.rulesstrings.18>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</Flashstorm.rulepack.rulesstrings.18>
+
+	<Flashstorm.rulepack.rulesstrings.19>desc_sentence->All animal life has left the area.</Flashstorm.rulepack.rulesstrings.19>
+
+	<Tornado.label>tornado</Tornado.label>
+
+	<Tornado.rulepack.rulesstrings.0>tale_noun->a tornado that touched down near [pawn_nameShortDef]'s [community]</Tornado.rulepack.rulesstrings.0>
+
+	<Tornado.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef]'s [community] menaced by hostile weather</Tornado.rulepack.rulesstrings.1>
+
+	<Tornado.rulepack.rulesstrings.2>image->[behavior] cone of twisting air [circumstance_phrase]</Tornado.rulepack.rulesstrings.2>
+
+	<Tornado.rulepack.rulesstrings.3>image->[behavior] tornado [circumstance_phrase]</Tornado.rulepack.rulesstrings.3>
+
+	<Tornado.rulepack.rulesstrings.4>image->[behavior] hurricane [circumstance_phrase]</Tornado.rulepack.rulesstrings.4>
+
+	<Tornado.rulepack.rulesstrings.5>image->[behavior] [color] cloud formation [circumstance_phrase]</Tornado.rulepack.rulesstrings.5>
+
+	<Tornado.rulepack.rulesstrings.6>behavior->an advancing</Tornado.rulepack.rulesstrings.6>
+
+	<Tornado.rulepack.rulesstrings.7>behavior->an approaching</Tornado.rulepack.rulesstrings.7>
+
+	<Tornado.rulepack.rulesstrings.8>behavior->a quickly-moving</Tornado.rulepack.rulesstrings.8>
+
+	<Tornado.rulepack.rulesstrings.9>behavior->a swirling</Tornado.rulepack.rulesstrings.9>
+
+	<Tornado.rulepack.rulesstrings.10>circumstance_phrase->carrying debris with it</Tornado.rulepack.rulesstrings.10>
+
+	<Tornado.rulepack.rulesstrings.11>circumstance_phrase->passing over a [terrainfeature]</Tornado.rulepack.rulesstrings.11>
+
+	<Tornado.rulepack.rulesstrings.12>circumstance_phrase->obscuring a [terrainfeature]</Tornado.rulepack.rulesstrings.12>
+
+	<Tornado.rulepack.rulesstrings.13>circumstance_phrase->enveloping a [terrainfeature]</Tornado.rulepack.rulesstrings.13>
+
+	<Tornado.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef] watches with visible fright.</Tornado.rulepack.rulesstrings.14>
+
+	<Tornado.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Tornado.rulepack.rulesstrings.15>
+
+	<Tornado.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] is coordinating defensive measures.</Tornado.rulepack.rulesstrings.16>
+
+	<Tornado.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [outlander]s rush to prepare.</Tornado.rulepack.rulesstrings.17>
+
+	<Tornado.rulepack.rulesstrings.18>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</Tornado.rulepack.rulesstrings.18>
+
+	<Tornado.rulepack.rulesstrings.19>desc_sentence->All animal life has left the area.</Tornado.rulepack.rulesstrings.19>
+
+	<Raid.label>raid</Raid.label>
+
+	<Raid.rulepack.rulesstrings.0>tale_noun->an assault on [pawn_nameShortDef]'s [community]</Raid.rulepack.rulesstrings.0>
+
+	<Raid.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef]'s [community] attacked by [enemy]s</Raid.rulepack.rulesstrings.1>
+
+	<Raid.rulepack.rulesstrings.2>image->[quantity_adjphrase] [enemy]s [circumstance_phrase]</Raid.rulepack.rulesstrings.2>
+
+	<Raid.rulepack.rulesstrings.3>image->an army [circumstance_phrase]</Raid.rulepack.rulesstrings.3>
+
+	<Raid.rulepack.rulesstrings.4>image->an overwhelming force [circumstance_phrase]</Raid.rulepack.rulesstrings.4>
+
+	<Raid.rulepack.rulesstrings.5>image->an invading force [circumstance_phrase]</Raid.rulepack.rulesstrings.5>
+
+	<Raid.rulepack.rulesstrings.6>image->stylized [color] banners [circumstance_phrase]</Raid.rulepack.rulesstrings.6>
+
+	<Raid.rulepack.rulesstrings.7>image->an enormous [enemy] [circumstance_phrase]</Raid.rulepack.rulesstrings.7>
+
+	<Raid.rulepack.rulesstrings.8>circumstance_phrase->advancing over a [terrainfeature]</Raid.rulepack.rulesstrings.8>
+
+	<Raid.rulepack.rulesstrings.9>circumstance_phrase->completely encircling a [community]</Raid.rulepack.rulesstrings.9>
+
+	<Raid.rulepack.rulesstrings.10>circumstance_phrase->attacking [quantity_adjphrase] [outlander]s</Raid.rulepack.rulesstrings.10>
+
+	<Raid.rulepack.rulesstrings.11>circumstance_phrase->roaring in victory</Raid.rulepack.rulesstrings.11>
+
+	<Raid.rulepack.rulesstrings.12>circumstance_phrase->brandishing [weapon]s</Raid.rulepack.rulesstrings.12>
+
+	<Raid.rulepack.rulesstrings.13>circumstance_phrase->covered in [gore]</Raid.rulepack.rulesstrings.13>
+
+	<Raid.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef] organizes a resistance while [defender_circumstance].</Raid.rulepack.rulesstrings.14>
+
+	<Raid.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] wields a [weapon] defensively while [defender_circumstance].</Raid.rulepack.rulesstrings.15>
+
+	<Raid.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] lies on the ground, wounded.</Raid.rulepack.rulesstrings.16>
+
+	<Raid.rulepack.rulesstrings.17>desc_sentence->[pawn_nameShortDef] retaliates with [pawn_possessive] [weapon] while [defender_circumstance].</Raid.rulepack.rulesstrings.17>
+
+	<Raid.rulepack.rulesstrings.18>desc_sentence->[pawn_nameShortDef] stands as tall as a building, [defender_circumstance].</Raid.rulepack.rulesstrings.18>
+
+	<Raid.rulepack.rulesstrings.19>desc_sentence->[pawn_nameShortDef] wears a [badassadjective] expression.</Raid.rulepack.rulesstrings.19>
+
+	<Raid.rulepack.rulesstrings.20>desc_sentence->[pawn_nameShortDef] wears a [angstyadjective] expression.</Raid.rulepack.rulesstrings.20>
+
+	<Raid.rulepack.rulesstrings.21>desc_sentence->The ground is coated in [gore].</Raid.rulepack.rulesstrings.21>
+
+	<Raid.rulepack.rulesstrings.22>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</Raid.rulepack.rulesstrings.22>
+
+	<Raid.rulepack.rulesstrings.23>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</Raid.rulepack.rulesstrings.23>
+
+	<Raid.rulepack.rulesstrings.24>defender_circumstance->shouting triumphantly</Raid.rulepack.rulesstrings.24>
+
+	<Raid.rulepack.rulesstrings.25>defender_circumstance->glowing [color]</Raid.rulepack.rulesstrings.25>
+
+	<Raid.rulepack.rulesstrings.26>defender_circumstance->raising a fist in defiance</Raid.rulepack.rulesstrings.26>
+
+	<Raid.rulepack.rulesstrings.27>defender_circumstance->flexing [pawn_possessive] muscles</Raid.rulepack.rulesstrings.27>
+
+	<Infestation.label>infestation</Infestation.label>
+
+	<Infestation.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s [community] infested by insects</Infestation.rulepack.rulesstrings.0>
+
+	<Infestation.rulepack.rulesstrings.1>image->a swarm of beetles [circumstance_phrase]</Infestation.rulepack.rulesstrings.1>
+
+	<Infestation.rulepack.rulesstrings.2>image->[quantity_adjphrase] megaspiders [circumstance_phrase]</Infestation.rulepack.rulesstrings.2>
+
+	<Infestation.rulepack.rulesstrings.3>image->an overwhelming tide of [color] insects [circumstance_phrase]</Infestation.rulepack.rulesstrings.3>
+
+	<Infestation.rulepack.rulesstrings.4>image->a dense fog of black specks [circumstance_phrase]</Infestation.rulepack.rulesstrings.4>
+
+	<Infestation.rulepack.rulesstrings.5>circumstance_phrase->advancing over a [terrainfeature]</Infestation.rulepack.rulesstrings.5>
+
+	<Infestation.rulepack.rulesstrings.6>circumstance_phrase->completely encircling a [community]</Infestation.rulepack.rulesstrings.6>
+
+	<Infestation.rulepack.rulesstrings.7>circumstance_phrase->attacking [quantity_adjphrase] [outlander]s</Infestation.rulepack.rulesstrings.7>
+
+	<Infestation.rulepack.rulesstrings.8>circumstance_phrase->bursting out of the ground</Infestation.rulepack.rulesstrings.8>
+
+	<Infestation.rulepack.rulesstrings.9>circumstance_phrase->slaughtering [quantity_adjphrase] [animal]s</Infestation.rulepack.rulesstrings.9>
+
+	<Infestation.rulepack.rulesstrings.10>desc_sentence->[pawn_nameShortDef] organizes a resistance.</Infestation.rulepack.rulesstrings.10>
+
+	<Infestation.rulepack.rulesstrings.11>desc_sentence->[pawn_nameShortDef] wields a [weapon] defensively.</Infestation.rulepack.rulesstrings.11>
+
+	<Infestation.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef] lies on the ground, wounded.</Infestation.rulepack.rulesstrings.12>
+
+	<Infestation.rulepack.rulesstrings.13>desc_sentence->[pawn_nameShortDef] retaliates with [pawn_possessive] [weapon].</Infestation.rulepack.rulesstrings.13>
+
+	<Infestation.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef] wears a [badassadjective] expression.</Infestation.rulepack.rulesstrings.14>
+
+	<Infestation.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] wears a [angstyadjective] expression.</Infestation.rulepack.rulesstrings.15>
+
+	<Infestation.rulepack.rulesstrings.16>desc_sentence->The ground is coated in [gore].</Infestation.rulepack.rulesstrings.16>
+
+	<Infestation.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</Infestation.rulepack.rulesstrings.17>
+
+	<Infestation.rulepack.rulesstrings.18>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</Infestation.rulepack.rulesstrings.18>
+
+	<Infestation.rulepack.rulesstrings.19>desc_sentence->All animal life has left the area.</Infestation.rulepack.rulesstrings.19>
+
+	<ManhunterPack.label>manhunter pack</ManhunterPack.label>
+
+	<ManhunterPack.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s [community] attacked by animals</ManhunterPack.rulepack.rulesstrings.0>
+
+	<ManhunterPack.rulepack.rulesstrings.1>image->a herd of [animal]s [circumstance_phrase]</ManhunterPack.rulepack.rulesstrings.1>
+
+	<ManhunterPack.rulepack.rulesstrings.2>image->[quantity_adjphrase] [animal]s [circumstance_phrase]</ManhunterPack.rulepack.rulesstrings.2>
+
+	<ManhunterPack.rulepack.rulesstrings.3>image->a [huge] [animal] [circumstance_phrase]</ManhunterPack.rulepack.rulesstrings.3>
+
+	<ManhunterPack.rulepack.rulesstrings.4>image->[quantity_adjphrase] shadowy figures [circumstance_phrase]</ManhunterPack.rulepack.rulesstrings.4>
+
+	<ManhunterPack.rulepack.rulesstrings.5>image->[quantity_adjphrase] shadowy quadrupeds [circumstance_phrase]</ManhunterPack.rulepack.rulesstrings.5>
+
+	<ManhunterPack.rulepack.rulesstrings.6>circumstance_phrase->advancing over a [terrainfeature]</ManhunterPack.rulepack.rulesstrings.6>
+
+	<ManhunterPack.rulepack.rulesstrings.7>circumstance_phrase->completely encircling a [community]</ManhunterPack.rulepack.rulesstrings.7>
+
+	<ManhunterPack.rulepack.rulesstrings.8>circumstance_phrase->attacking [quantity_adjphrase] [outlander]s</ManhunterPack.rulepack.rulesstrings.8>
+
+	<ManhunterPack.rulepack.rulesstrings.9>circumstance_phrase->slaughtering [quantity_adjphrase] [animal]s</ManhunterPack.rulepack.rulesstrings.9>
+
+	<ManhunterPack.rulepack.rulesstrings.10>circumstance_phrase->possessed by [hate_emotion]</ManhunterPack.rulepack.rulesstrings.10>
+
+	<ManhunterPack.rulepack.rulesstrings.11>circumstance_phrase->covered in [gore]</ManhunterPack.rulepack.rulesstrings.11>
+
+	<ManhunterPack.rulepack.rulesstrings.12>hate_emotion->hatred</ManhunterPack.rulepack.rulesstrings.12>
+
+	<ManhunterPack.rulepack.rulesstrings.13>hate_emotion->anger</ManhunterPack.rulepack.rulesstrings.13>
+
+	<ManhunterPack.rulepack.rulesstrings.14>hate_emotion->fury</ManhunterPack.rulepack.rulesstrings.14>
+
+	<ManhunterPack.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] organizes a resistance.</ManhunterPack.rulepack.rulesstrings.15>
+
+	<ManhunterPack.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] wields a [weapon] defensively.</ManhunterPack.rulepack.rulesstrings.16>
+
+	<ManhunterPack.rulepack.rulesstrings.17>desc_sentence->[pawn_nameShortDef] lies on the ground, wounded.</ManhunterPack.rulepack.rulesstrings.17>
+
+	<ManhunterPack.rulepack.rulesstrings.18>desc_sentence->[pawn_nameShortDef] retaliates with [pawn_possessive] [weapon].</ManhunterPack.rulepack.rulesstrings.18>
+
+	<ManhunterPack.rulepack.rulesstrings.19>desc_sentence->[pawn_nameShortDef] wears a [badassadjective] expression.</ManhunterPack.rulepack.rulesstrings.19>
+
+	<ManhunterPack.rulepack.rulesstrings.20>desc_sentence->[pawn_nameShortDef] wears a [angstyadjective] expression.</ManhunterPack.rulepack.rulesstrings.20>
+
+	<ManhunterPack.rulepack.rulesstrings.21>desc_sentence->The ground is coated in [gore].</ManhunterPack.rulepack.rulesstrings.21>
+
+	<ManhunterPack.rulepack.rulesstrings.22>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</ManhunterPack.rulepack.rulesstrings.22>
+
+	<ManhunterPack.rulepack.rulesstrings.23>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</ManhunterPack.rulepack.rulesstrings.23>
+
+	<ShipPartCrash.label>ship part crash</ShipPartCrash.label>
+
+	<ShipPartCrash.rulepack.rulesstrings.0>tale_noun->a [mechanoid] colony crashlanding near [pawn_nameShortDef]'s [community]</ShipPartCrash.rulepack.rulesstrings.0>
+
+	<ShipPartCrash.rulepack.rulesstrings.1>tale_noun->a [mechanoid] base landing near [pawn_nameShortDef]'s [community]</ShipPartCrash.rulepack.rulesstrings.1>
+
+	<ShipPartCrash.rulepack.rulesstrings.2>tale_noun->a damaged [mechanoid] ship part landing near [pawn_nameShortDef]'s [community]</ShipPartCrash.rulepack.rulesstrings.2>
+
+	<ShipPartCrash.rulepack.rulesstrings.3>image->a swarm of [mechanoid]s [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.3>
+
+	<ShipPartCrash.rulepack.rulesstrings.4>image->an army of [mechanoid]s [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.4>
+
+	<ShipPartCrash.rulepack.rulesstrings.5>image->[quantity_adjphrase] [mechanoid]s [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.5>
+
+	<ShipPartCrash.rulepack.rulesstrings.6>image->a [huge] [mechanoid] [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.6>
+
+	<ShipPartCrash.rulepack.rulesstrings.7>image->[quantity_adjphrase] [mechanoid] silhouettes [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.7>
+
+	<ShipPartCrash.rulepack.rulesstrings.8>image->[quantity_adjphrase] [mechanoid]s with glowing [color] sensors [circumstance_phrase]</ShipPartCrash.rulepack.rulesstrings.8>
+
+	<ShipPartCrash.rulepack.rulesstrings.9>circumstance_phrase->advancing over a [terrainfeature]</ShipPartCrash.rulepack.rulesstrings.9>
+
+	<ShipPartCrash.rulepack.rulesstrings.10>circumstance_phrase->completely encircling a [community]</ShipPartCrash.rulepack.rulesstrings.10>
+
+	<ShipPartCrash.rulepack.rulesstrings.11>circumstance_phrase->attacking [quantity_adjphrase] [outlander]s</ShipPartCrash.rulepack.rulesstrings.11>
+
+	<ShipPartCrash.rulepack.rulesstrings.12>circumstance_phrase->slaughtering [quantity_adjphrase] [animal]s</ShipPartCrash.rulepack.rulesstrings.12>
+
+	<ShipPartCrash.rulepack.rulesstrings.13>circumstance_phrase->covered in [gore]</ShipPartCrash.rulepack.rulesstrings.13>
+
+	<ShipPartCrash.rulepack.rulesstrings.14>circumstance_phrase->dented and sparking</ShipPartCrash.rulepack.rulesstrings.14>
+
+	<ShipPartCrash.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef] organizes a resistance while [defender_circumstance].</ShipPartCrash.rulepack.rulesstrings.15>
+
+	<ShipPartCrash.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] wields a [weapon] defensively while [defender_circumstance].</ShipPartCrash.rulepack.rulesstrings.16>
+
+	<ShipPartCrash.rulepack.rulesstrings.17>desc_sentence->[pawn_nameShortDef] lies on the ground, wounded.</ShipPartCrash.rulepack.rulesstrings.17>
+
+	<ShipPartCrash.rulepack.rulesstrings.18>desc_sentence->[pawn_nameShortDef] retaliates with [pawn_possessive] [weapon] while [defender_circumstance].</ShipPartCrash.rulepack.rulesstrings.18>
+
+	<ShipPartCrash.rulepack.rulesstrings.19>desc_sentence->[pawn_nameShortDef] stands as tall as a building, [defender_circumstance].</ShipPartCrash.rulepack.rulesstrings.19>
+
+	<ShipPartCrash.rulepack.rulesstrings.20>desc_sentence->[pawn_nameShortDef] wears a [badassadjective] expression.</ShipPartCrash.rulepack.rulesstrings.20>
+
+	<ShipPartCrash.rulepack.rulesstrings.21>desc_sentence->[pawn_nameShortDef] wears a [angstyadjective] expression.</ShipPartCrash.rulepack.rulesstrings.21>
+
+	<ShipPartCrash.rulepack.rulesstrings.22>desc_sentence->The ground is coated in [gore].</ShipPartCrash.rulepack.rulesstrings.22>
+
+	<ShipPartCrash.rulepack.rulesstrings.23>desc_sentence->The ground is coated in scrap metal.</ShipPartCrash.rulepack.rulesstrings.23>
+
+	<ShipPartCrash.rulepack.rulesstrings.24>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</ShipPartCrash.rulepack.rulesstrings.24>
+
+	<ShipPartCrash.rulepack.rulesstrings.25>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</ShipPartCrash.rulepack.rulesstrings.25>
+
+	<ShipPartCrash.rulepack.rulesstrings.26>defender_circumstance->shouting triumphantly</ShipPartCrash.rulepack.rulesstrings.26>
+
+	<ShipPartCrash.rulepack.rulesstrings.27>defender_circumstance->glowing [color]</ShipPartCrash.rulepack.rulesstrings.27>
+
+	<ShipPartCrash.rulepack.rulesstrings.28>defender_circumstance->raising a fist in defiance</ShipPartCrash.rulepack.rulesstrings.28>
+
+	<ShipPartCrash.rulepack.rulesstrings.29>defender_circumstance->flexing [pawn_possessive] muscles</ShipPartCrash.rulepack.rulesstrings.29>
+
+	<Eclipse.label>eclipse</Eclipse.label>
+
+	<Eclipse.rulepack.rulesstrings.0>tale_noun->an eclipse over [pawn_nameShortDef]'s [community]</Eclipse.rulepack.rulesstrings.0>
+
+	<Eclipse.rulepack.rulesstrings.1>image->an unnaturally dark sky, [circumstance_phrase]</Eclipse.rulepack.rulesstrings.1>
+
+	<Eclipse.rulepack.rulesstrings.2>image->a crepuscular sky, [circumstance_phrase]</Eclipse.rulepack.rulesstrings.2>
+
+	<Eclipse.rulepack.rulesstrings.3>image->a moon, ringed by a faint circle of sunlight, [circumstance_phrase]</Eclipse.rulepack.rulesstrings.3>
+
+	<Eclipse.rulepack.rulesstrings.4>image->[quantity_adjphrase] [animal]s milling around uncertainly in darkness, [circumstance_phrase]</Eclipse.rulepack.rulesstrings.4>
+
+	<Eclipse.rulepack.rulesstrings.5>circumstance_phrase->the air still and quiet</Eclipse.rulepack.rulesstrings.5>
+
+	<Eclipse.rulepack.rulesstrings.6>circumstance_phrase->twilight blanketing a nearby [terrainfeature]</Eclipse.rulepack.rulesstrings.6>
+
+	<Eclipse.rulepack.rulesstrings.7>circumstance_phrase->twilight blanketing [quantity_adjphrase] nearby [terrainfeature]s</Eclipse.rulepack.rulesstrings.7>
+
+	<Eclipse.rulepack.rulesstrings.8>circumstance_phrase->with stars visible</Eclipse.rulepack.rulesstrings.8>
+
+	<Eclipse.rulepack.rulesstrings.9>desc_sentence->Below, [pawn_nameShortDef] plays [game] with a [friendlyadjective] look.</Eclipse.rulepack.rulesstrings.9>
+
+	<Eclipse.rulepack.rulesstrings.10>desc_sentence->[pawn_nameShortDef] watches with awe on [pawn_possessive] face.</Eclipse.rulepack.rulesstrings.10>
+
+	<Eclipse.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] [outlander]s watch from below.</Eclipse.rulepack.rulesstrings.11>
+
+	<Eclipse.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature], gazing at the sky.</Eclipse.rulepack.rulesstrings.12>
+
+	<Eclipse.rulepack.rulesstrings.13>desc_sentence->A [community] of spectators watches the sky peacefully.</Eclipse.rulepack.rulesstrings.13>
+
+	<Eclipse.rulepack.rulesstrings.14>desc_sentence->There is no [enemy] in sight.</Eclipse.rulepack.rulesstrings.14>
+
+	<JourneyOffer.label>journey offer</JourneyOffer.label>
+
+	<JourneyOffer.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] receiving a message from an old friend</JourneyOffer.rulepack.rulesstrings.0>
+
+	<JourneyOffer.rulepack.rulesstrings.1>tale_noun->an opportunity arriving for [pawn_nameShortDef]'s [community]</JourneyOffer.rulepack.rulesstrings.1>
+
+	<JourneyOffer.rulepack.rulesstrings.2>image->[pawn_nameShortDef] opening a letter delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.2>
+
+	<JourneyOffer.rulepack.rulesstrings.3>image->[pawn_nameShortDef] using a datacrystal delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.3>
+
+	<JourneyOffer.rulepack.rulesstrings.4>image->[pawn_nameShortDef] unrolling a scroll delivered by [delivery_method] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.4>
+
+	<JourneyOffer.rulepack.rulesstrings.5>image->[pawn_nameShortDef] receiving a transmission from [transmission_source] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.5>
+
+	<JourneyOffer.rulepack.rulesstrings.6>image->[pawn_nameShortDef] receiving a message from [transmission_source] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.6>
+
+	<JourneyOffer.rulepack.rulesstrings.7>image->[pawn_nameShortDef] tuning in to a message from [transmission_source] while [circumstance_group]</JourneyOffer.rulepack.rulesstrings.7>
+
+	<JourneyOffer.rulepack.rulesstrings.8>delivery_method->a [animal]</JourneyOffer.rulepack.rulesstrings.8>
+
+	<JourneyOffer.rulepack.rulesstrings.9>delivery_method->a [outlander]</JourneyOffer.rulepack.rulesstrings.9>
+
+	<JourneyOffer.rulepack.rulesstrings.10>delivery_method->[quantity_adjphrase] [animal]s</JourneyOffer.rulepack.rulesstrings.10>
+
+	<JourneyOffer.rulepack.rulesstrings.11>transmission_source->a rarely-used frequency</JourneyOffer.rulepack.rulesstrings.11>
+
+	<JourneyOffer.rulepack.rulesstrings.12>transmission_source->an ancient transmitter</JourneyOffer.rulepack.rulesstrings.12>
+
+	<JourneyOffer.rulepack.rulesstrings.13>transmission_source->a low-power signal</JourneyOffer.rulepack.rulesstrings.13>
+
+	<JourneyOffer.rulepack.rulesstrings.14>transmission_source->a long-range signal</JourneyOffer.rulepack.rulesstrings.14>
+
+	<JourneyOffer.rulepack.rulesstrings.15>transmission_source->a mysterious signal</JourneyOffer.rulepack.rulesstrings.15>
+
+	<JourneyOffer.rulepack.rulesstrings.16>circumstance_phrase->standing alone near a [terrainfeature]</JourneyOffer.rulepack.rulesstrings.16>
+
+	<JourneyOffer.rulepack.rulesstrings.17>circumstance_phrase->exploring a [terrainfeature]</JourneyOffer.rulepack.rulesstrings.17>
+
+	<JourneyOffer.rulepack.rulesstrings.18>circumstance_phrase->tending crops</JourneyOffer.rulepack.rulesstrings.18>
+
+	<JourneyOffer.rulepack.rulesstrings.19>circumstance_phrase->a [animal] wanders past</JourneyOffer.rulepack.rulesstrings.19>
+
+	<JourneyOffer.rulepack.rulesstrings.20>circumstance_phrase->playing [game]</JourneyOffer.rulepack.rulesstrings.20>
+
+	<JourneyOffer.rulepack.rulesstrings.21>desc_sentence->[quantity_adjphrase] [animal]s wander nearby, unaware.</JourneyOffer.rulepack.rulesstrings.21>
+
+	<JourneyOffer.rulepack.rulesstrings.22>desc_sentence->As [pawn_pronoun] reads, [pawn_pronoun] starts [friendlyverb].</JourneyOffer.rulepack.rulesstrings.22>
+
+	<JourneyOffer.rulepack.rulesstrings.23>desc_sentence->A spectral [outlander] watches from the clouds.</JourneyOffer.rulepack.rulesstrings.23>
+
+	<JourneyOffer.rulepack.rulesstrings.24>desc_sentence->[pawn_nameShortDef] sits near a [terrainfeature].</JourneyOffer.rulepack.rulesstrings.24>
+
+	<JourneyOffer.rulepack.rulesstrings.25>desc_sentence->A [community] is visible in the far distance.</JourneyOffer.rulepack.rulesstrings.25>
+
+	<JourneyOffer.rulepack.rulesstrings.26>desc_sentence->A spaceship is visible in the far distance.</JourneyOffer.rulepack.rulesstrings.26>
+
+</LanguageData>

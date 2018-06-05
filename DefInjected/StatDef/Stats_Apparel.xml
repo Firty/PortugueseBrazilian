@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ArmorRating_Blunt.label>Resistência - Pancada</ArmorRating_Blunt.label>
+
+	<ArmorRating_Blunt.description>Resistência contra dano contundente como ataques de cassetete, queda de rochas e explosões.</ArmorRating_Blunt.description>
+
+	<ArmorRating_Sharp.label>Resistência - Corte</ArmorRating_Sharp.label>
+
+	<ArmorRating_Sharp.description>Resistência contra danos afiados como balas, golpes de faca e mordidas de animais.</ArmorRating_Sharp.description>
+
+	<ArmorRating_Heat.label>Resistência - Calor</ArmorRating_Heat.label>
+
+	<ArmorRating_Heat.description>Resistência contra danos relacionados á temperatura como queimaduras.</ArmorRating_Heat.description>
+
+	<ArmorRating_Electric.label>Resistência - Elétrico</ArmorRating_Electric.label>
+
+	<ArmorRating_Electric.description>Resistência contra danos elétricos como pulsores eletromagnéticos.</ArmorRating_Electric.description>
+
+	<Insulation_Cold.label>Isolamento - Frio</Insulation_Cold.label>
+
+	<Insulation_Cold.description>Quanto esta roupa compensa de temperatura confortável mínima de um utilizador quando em uso.</Insulation_Cold.description>
+
+	<Insulation_Heat.label>Isolamento - Calor</Insulation_Heat.label>
+
+	<Insulation_Heat.description>Quanto esta roupa compensa de temperatura confortável máxima de um utilizador quando em uso.</Insulation_Heat.description>
+
+	<EnergyShieldEnergyMax.label>Energia máxima do escudo</EnergyShieldEnergyMax.label>
+
+	<EnergyShieldEnergyMax.description>A energia máxima que um escudo de proteção pode ter ao mesmo tempo. Mais energia pode absorver mais danos.</EnergyShieldEnergyMax.description>
+
+	<EnergyShieldRechargeRate.label>Taxa de recarga do escudo</EnergyShieldRechargeRate.label>
+
+	<EnergyShieldRechargeRate.description>A taxa na qual um escudo ganha energia enquanto não está quebrado.</EnergyShieldRechargeRate.description>
+
+	<EnergyShieldRechargeRate.formatstring>{0}/s</EnergyShieldRechargeRate.formatstring>
+
+	<SmokepopBeltRadius.label>Área da fumaça</SmokepopBeltRadius.label>
+
+	<SmokepopBeltRadius.description>A área obscurecida quando um cinturão de cortina de fumaça detona.</SmokepopBeltRadius.description>
+
+	<SmokepopBeltRadius.formatstring>{0} c</SmokepopBeltRadius.formatstring>
+
+</LanguageData>

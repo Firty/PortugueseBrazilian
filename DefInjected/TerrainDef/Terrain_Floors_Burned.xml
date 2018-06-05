@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BurnedCarpet.label>carpete queimado</BurnedCarpet.label>
+
+	<BurnedCarpet.description>Este carpete queimou.</BurnedCarpet.description>
+
+	<BurnedWoodPlankFloor.label>piso de madeira queimado</BurnedWoodPlankFloor.label>
+
+	<BurnedWoodPlankFloor.description>Este piso de madeira queimou.</BurnedWoodPlankFloor.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WaterDeep.label>água profunda</WaterDeep.label>
+
+	<WaterShallow.label>água rasa</WaterShallow.label>
+
+	<WaterOceanDeep.label>Oceano profundo</WaterOceanDeep.label>
+
+	<WaterMovingDeep.label>rio profundo</WaterMovingDeep.label>
+
+	<WaterOceanShallow.label>oceano raso</WaterOceanShallow.label>
+
+	<WaterMovingShallow.label>rio raso</WaterMovingShallow.label>
+
+</LanguageData>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Berserk.label>fúria</Berserk.label>
+
+	<Berserk.beginLetterLabel>fúria</Berserk.beginLetterLabel>
+
+	<Berserk.beginLetter>{0} entrou em fúria!</Berserk.beginLetter>
+
+	<Berserk.recoveryMessage>A fúria de {0} chegou ao fim.</Berserk.recoveryMessage>
+
+	<Berserk.baseInspectLine>Estado mental: Fúria</Berserk.baseInspectLine>
+
+	<FireStartingSpree.label>espalhando fogo</FireStartingSpree.label>
+
+	<FireStartingSpree.beginLetterLabel>espalhando fogo</FireStartingSpree.beginLetterLabel>
+
+	<FireStartingSpree.beginLetter>{0} está espalhando fogo.</FireStartingSpree.beginLetter>
+
+	<FireStartingSpree.recoveryMessage>{0} não está mais espalhando fogo.</FireStartingSpree.recoveryMessage>
+
+	<FireStartingSpree.baseInspectLine>Estado mental: Espalhando fogo</FireStartingSpree.baseInspectLine>
+
+	<GiveUpExit.label>desistindo e partindo</GiveUpExit.label>
+
+	<GiveUpExit.beginLetterLabel>desistiu</GiveUpExit.beginLetterLabel>
+
+	<GiveUpExit.beginLetter>{0} está deixando a colônia.</GiveUpExit.beginLetter>
+
+	<GiveUpExit.recoveryMessage>{0} mudou de ideia e está voltando para a colônia.</GiveUpExit.recoveryMessage>
+
+	<GiveUpExit.baseInspectLine>Estado mental: Desistindo e partindo</GiveUpExit.baseInspectLine>
+
+	<BingingDrugExtreme.label>consumindo droga compulsivamente</BingingDrugExtreme.label>
+
+	<BingingDrugExtreme.baseInspectLine>Estado mental: Consumindo {0} compulsivamente</BingingDrugExtreme.baseInspectLine>
+
+	<BingingDrugMajor.label>consumindo droga compulsivamente</BingingDrugMajor.label>
+
+	<BingingDrugMajor.baseInspectLine>Estado mental: Consumindo {0} compulsivamente</BingingDrugMajor.baseInspectLine>
+
+	<WanderPsychotic.label>vagando na psicose</WanderPsychotic.label>
+
+	<WanderPsychotic.beginLetterLabel>atordoado</WanderPsychotic.beginLetterLabel>
+
+	<WanderPsychotic.beginLetter>{0} está vagando em um estado psicótico.</WanderPsychotic.beginLetter>
+
+	<WanderPsychotic.recoveryMessage>{0} não está mais vagando em um estado psicótico.</WanderPsychotic.recoveryMessage>
+
+	<WanderPsychotic.baseInspectLine>Estade mental: Vagando na psicose</WanderPsychotic.baseInspectLine>
+
+	<BingingFood.label>comilança compulsiva</BingingFood.label>
+
+	<BingingFood.beginLetterLabel>comilança</BingingFood.beginLetterLabel>
+
+	<BingingFood.beginLetter>{0} está comendo compulsivamente.</BingingFood.beginLetter>
+
+	<BingingFood.recoveryMessage>{0} não está mais comendo compulsivamente.</BingingFood.recoveryMessage>
+
+	<BingingFood.baseInspectLine>Estado mental: Comilança compulsiva</BingingFood.baseInspectLine>
+
+	<WanderSad.label>vagando triste</WanderSad.label>
+
+	<WanderSad.beginLetterLabel>vagando triste</WanderSad.beginLetterLabel>
+
+	<WanderSad.beginLetter>{0} está vagando na tristeza.</WanderSad.beginLetter>
+
+	<WanderSad.recoveryMessage>{0} não está mais vagando na tristeza.</WanderSad.recoveryMessage>
+
+	<WanderSad.baseInspectLine>Estado mental: Vagando triste</WanderSad.baseInspectLine>
+
+	<WanderOwnRoom.label>sentado sozinho</WanderOwnRoom.label>
+
+	<WanderOwnRoom.beginLetterLabel>escondendo no quarto</WanderOwnRoom.beginLetterLabel>
+
+	<WanderOwnRoom.beginLetter>{0} está se escondendo em seu quarto.</WanderOwnRoom.beginLetter>
+
+	<WanderOwnRoom.recoveryMessage>{0} não está mais se escondendo em seu quarto.</WanderOwnRoom.recoveryMessage>
+
+	<WanderOwnRoom.baseInspectLine>Estado mental: Se escondendo no quarto</WanderOwnRoom.baseInspectLine>
+
+	<InsultingSpree.label>insultando</InsultingSpree.label>
+
+	<InsultingSpree.recoverymessage>{0} não está mais insultando.</InsultingSpree.recoverymessage>
+
+	<InsultingSpree.beginletterlabel>insultando</InsultingSpree.beginletterlabel>
+
+	<InsultingSpree.beginletter>{0} por estar bebado esta insultando.</InsultingSpree.beginletter>
+
+	<InsultingSpree.baseinspectline>Estado mental: Insultando</InsultingSpree.baseinspectline>
+
+	<Slaughterer.label>matador</Slaughterer.label>
+
+	<Slaughterer.recoverymessage>{0} não está mais matando animais aleatóriamente.</Slaughterer.recoverymessage>
+
+	<Slaughterer.beginletterlabel>matador</Slaughterer.beginletterlabel>
+
+	<Slaughterer.beginletter>{0} está em colapso mental e vai descontar sua raiva nos animais.</Slaughterer.beginletter>
+
+	<Slaughterer.baseinspectline>Estado mental: Matador</Slaughterer.baseinspectline>
+
+	<Tantrum.label>Birra</Tantrum.label>
+
+	<Tantrum.recoverymessage>{0} não está mais de birra.</Tantrum.recoverymessage>
+
+	<Tantrum.beginletterlabel>birra</Tantrum.beginletterlabel>
+
+	<Tantrum.beginletter>{0} está de birra.</Tantrum.beginletter>
+
+	<Tantrum.baseinspectline>Estado mental: Birra</Tantrum.baseinspectline>
+
+	<TargetedInsultingSpree.label>insultando</TargetedInsultingSpree.label>
+
+	<TargetedInsultingSpree.beginletterlabel>insultando</TargetedInsultingSpree.beginletterlabel>
+
+	<TargetedInsultingSpree.beginletter>{0} está bebado e esta insultando {1}.</TargetedInsultingSpree.beginletter>
+
+	<TargetedInsultingSpree.baseinspectline>Estado mental: Insultando {0}</TargetedInsultingSpree.baseinspectline>
+
+	<MurderousRage.label>raiva assassina</MurderousRage.label>
+
+	<MurderousRage.recoverymessage>{0} não está mais em uma fúria assassina.</MurderousRage.recoverymessage>
+
+	<MurderousRage.beginletterlabel>raiva assassina</MurderousRage.beginletterlabel>
+
+	<MurderousRage.beginletter>{0} está em uma fúria assassina. HECAP vai matar {1}.</MurderousRage.beginletter>
+
+	<MurderousRage.baseinspectline>Estado mental: Raiva assassina</MurderousRage.baseinspectline>
+
+	<CorpseObsession.label>obsessão por cadáver</CorpseObsession.label>
+
+	<CorpseObsession.recoverymessage>{0} não está mais tendo uma obsessão por cadáver.</CorpseObsession.recoverymessage>
+
+	<CorpseObsession.beginletterlabel>obsessão por cadáver</CorpseObsession.beginletterlabel>
+
+	<CorpseObsession.beginletter>{0} está tendo uma obsessão por cadáver. HECAP vai desenterrar um cadáver.</CorpseObsession.beginletter>
+
+	<CorpseObsession.baseinspectline>Estado mental: Obsessão por cadáver</CorpseObsession.baseinspectline>
+
+	<BedroomTantrum.label>birra</BedroomTantrum.label>
+
+	<BedroomTantrum.recoverymessage>{0} não está mais tendo de birra.</BedroomTantrum.recoverymessage>
+
+	<BedroomTantrum.beginletterlabel>birra</BedroomTantrum.beginletterlabel>
+
+	<BedroomTantrum.baseinspectline>Estado mental: Birra</BedroomTantrum.baseinspectline>
+
+	<BedroomTantrum.beginletter>{0} está tendo uma birra. HECAP vai destruir móveis em seu quarto.</BedroomTantrum.beginletter>
+
+	<Jailbreaker.label>induzindo prisioneiro a fugir</Jailbreaker.label>
+
+	<Jailbreaker.recoverymessage>{0} não está mais induzindo prisioneiros a fugir.</Jailbreaker.recoverymessage>
+
+	<Jailbreaker.beginletterlabel>aprisionado</Jailbreaker.beginletterlabel>
+
+	<Jailbreaker.beginletter>{0} tem um colapso mental e vai induzir os prisioneiros a fugir.</Jailbreaker.beginletter>
+
+	<Jailbreaker.baseinspectline>Estado mental: Aprisionado</Jailbreaker.baseinspectline>
+
+	<TargetedTantrum.label>birra</TargetedTantrum.label>
+
+	<TargetedTantrum.recoverymessage>{0} não está mais de birra.</TargetedTantrum.recoverymessage>
+
+	<TargetedTantrum.beginletterlabel>birra</TargetedTantrum.beginletterlabel>
+
+	<TargetedTantrum.baseinspectline>Estado mental: Birra</TargetedTantrum.baseinspectline>
+
+	<TargetedTantrum.beginletter>{0} está tendo uma birra. HECAP vai destruir {1}.</TargetedTantrum.beginletter>
+
+	<SadisticRage.label>raiva sádica</SadisticRage.label>
+
+	<SadisticRage.recoverymessage>{0} não está mais em uma raiva sádica.</SadisticRage.recoverymessage>
+
+	<SadisticRage.beginletterlabel>raiva sádica</SadisticRage.beginletterlabel>
+
+	<SadisticRage.beginletter>{0} está em uma fúria sádica. HECAP vai desabafar sua raiva contra os prisioneiros.</SadisticRage.beginletter>
+
+	<SadisticRage.baseinspectline>Estado mental: Raiva sádica</SadisticRage.baseinspectline>
+
+</LanguageData>

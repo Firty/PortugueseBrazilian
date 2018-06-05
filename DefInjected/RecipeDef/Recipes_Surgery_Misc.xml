@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Anesthetize.label>anestesia</Anesthetize.label>
+
+	<Anesthetize.description>Torna uma criatura inconsciente administrando um anestésico.</Anesthetize.description>
+
+	<Anesthetize.jobstring>Anestesiar.</Anesthetize.jobstring>
+
+	<AdministerMechSerumHealer.label>administrar soro mech curandeiro</AdministerMechSerumHealer.label>
+
+	<AdministerMechSerumHealer.description>Administra soro mech de curandeiro.</AdministerMechSerumHealer.description>
+
+	<AdministerMechSerumHealer.jobstring>Administrando soro mech de curandeiro.</AdministerMechSerumHealer.jobstring>
+
+</LanguageData>

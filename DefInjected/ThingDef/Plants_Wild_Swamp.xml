@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantTreeCypress.description>Uma árvore alta e de crescimento lento. Normalmente encontrado em pântanos. Apesar de seu crescimento lento, o plantio dessas árvores pode ser lucrativo porque elas produzem muita madeira utilizável.</PlantTreeCypress.description>
+
+	<PlantTreeCypress.label>cipreste</PlantTreeCypress.label>
+
+	<PlantChokevine.label>chokevine</PlantChokevine.label>
+
+	<PlantChokevine.description>Arbusto denso que retarda qualquer um que se mova sobre ele.</PlantChokevine.description>
+
+	<PlantTreeMaple.description>Uma árvore comum de tamanho médio. É freqüentemente encontrado em pântanos e em terrenos úmidos.</PlantTreeMaple.description>
+
+	<PlantTreeMaple.label>árvore de bordo</PlantTreeMaple.label>
+
+	<PlantTreeWillow.description>Uma das árvores de sombra que mais crescem, proporciona uma copa bonita, espessa e frondosa. Não produz muito madeira utilizável.</PlantTreeWillow.description>
+
+	<PlantTreeWillow.label>Salgueiro</PlantTreeWillow.label>
+
+</LanguageData>

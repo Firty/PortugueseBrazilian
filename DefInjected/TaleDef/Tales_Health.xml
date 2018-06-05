@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Wounded.label>ferido</Wounded.label>
+
+	<Wounded.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef]</Wounded.rulepack.rulesstrings.0>
+
+	<Wounded.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] com um [weapon_label]</Wounded.rulepack.rulesstrings.1>
+
+	<Wounded.rulepack.rulesstrings.2>tale_noun->o [wound_name_present] de [victim_nameShortDef] por [killer_nameShortDef]</Wounded.rulepack.rulesstrings.2>
+
+	<Wounded.rulepack.rulesstrings.3>tale_noun->o [wound_name_present] de [victim_nameShortDef] com um [weapon_label]</Wounded.rulepack.rulesstrings.3>
+
+	<Wounded.rulepack.rulesstrings.4>tale_noun->o [wound_name_present] de [victim_nameShortDef]</Wounded.rulepack.rulesstrings.4>
+
+	<Wounded.rulepack.rulesstrings.5>image->[victim_nameFull] sendo [wound_name_past] por [killer_nameFull] [weapon_optional]</Wounded.rulepack.rulesstrings.5>
+
+	<Wounded.rulepack.rulesstrings.6>image->[killer_nameFull] [wound_name_present] [victim_nameFull] [weapon_optional]</Wounded.rulepack.rulesstrings.6>
+
+	<Wounded.rulepack.rulesstrings.7>image->[killer_nameFull] brutally [wound_name_present] [victim_nameFull] [weapon_optional]</Wounded.rulepack.rulesstrings.7>
+
+	<Wounded.rulepack.rulesstrings.8>image->[victim_nameFull] sendo [wound_name_past] [weapon_optional]</Wounded.rulepack.rulesstrings.8>
+
+	<Wounded.rulepack.rulesstrings.9>wound_name_past->ferido</Wounded.rulepack.rulesstrings.9>
+
+	<Wounded.rulepack.rulesstrings.10>wound_name_past->prejudicado</Wounded.rulepack.rulesstrings.10>
+
+	<Wounded.rulepack.rulesstrings.11>wound_name_past->ferido</Wounded.rulepack.rulesstrings.11>
+
+	<Wounded.rulepack.rulesstrings.12>wound_name_past->assaltado</Wounded.rulepack.rulesstrings.12>
+
+	<Wounded.rulepack.rulesstrings.13>wound_name_past->atacado</Wounded.rulepack.rulesstrings.13>
+
+	<Wounded.rulepack.rulesstrings.14>wound_name_present->ferindo</Wounded.rulepack.rulesstrings.14>
+
+	<Wounded.rulepack.rulesstrings.15>wound_name_present->ferindo</Wounded.rulepack.rulesstrings.15>
+
+	<Wounded.rulepack.rulesstrings.16>wound_name_present->ferindo</Wounded.rulepack.rulesstrings.16>
+
+	<Wounded.rulepack.rulesstrings.17>wound_name_present->assaltando</Wounded.rulepack.rulesstrings.17>
+
+	<Wounded.rulepack.rulesstrings.18>wound_name_present->atacando</Wounded.rulepack.rulesstrings.18>
+
+	<Wounded.rulepack.rulesstrings.19>weapon_optional->com um [weapon_label] [circumstance_group]</Wounded.rulepack.rulesstrings.19>
+
+	<Wounded.rulepack.rulesstrings.20>weapon_optional->[circumstance_group]</Wounded.rulepack.rulesstrings.20>
+
+	<Wounded.rulepack.rulesstrings.21>circumstance_phrase->aparentemente sem remorso</Wounded.rulepack.rulesstrings.21>
+
+	<Wounded.rulepack.rulesstrings.22>circumstance_phrase->com eficiência a frio</Wounded.rulepack.rulesstrings.22>
+
+	<Wounded.rulepack.rulesstrings.23>circumstance_phrase->com raiva apaixonada</Wounded.rulepack.rulesstrings.23>
+
+	<Wounded.rulepack.rulesstrings.24>circumstance_phrase->com movimentos rápidos e eficientes</Wounded.rulepack.rulesstrings.24>
+
+	<Wounded.rulepack.rulesstrings.25>circumstance_phrase->sem emoção ou expressão</Wounded.rulepack.rulesstrings.25>
+
+	<Wounded.rulepack.rulesstrings.26>circumstance_phrase->fora da necessidade sombria</Wounded.rulepack.rulesstrings.26>
+
+	<Wounded.rulepack.rulesstrings.27>circumstance_phrase->de uma maneira covarde e sem entusiasmo</Wounded.rulepack.rulesstrings.27>
+
+	<Wounded.rulepack.rulesstrings.28>desc_sentence->[quantity_adjphrase] [animal] é visto.</Wounded.rulepack.rulesstrings.28>
+
+	<Wounded.rulepack.rulesstrings.29>desc_sentence->A [outlander] assiste silenciosamente [side_position].</Wounded.rulepack.rulesstrings.29>
+
+	<Wounded.rulepack.rulesstrings.30>desc_sentence->O sangue está em volta do corpo de [victim_nameShortDef].</Wounded.rulepack.rulesstrings.30>
+
+	<Wounded.rulepack.rulesstrings.31>desc_sentence->[victim_nameShortDef] é coberto em [gore].</Wounded.rulepack.rulesstrings.31>
+
+	<Wounded.rulepack.rulesstrings.32>desc_sentence->[victim_nameShortDef] parece [angstyadjective].</Wounded.rulepack.rulesstrings.32>
+
+	<Wounded.rulepack.rulesstrings.33>desc_sentence->[victim_nameShortDef] está estremecendo de dor.</Wounded.rulepack.rulesstrings.33>
+
+	<Wounded.rulepack.rulesstrings.34>desc_sentence->[victim_nameShortDef] está estremecendo em agonia.</Wounded.rulepack.rulesstrings.34>
+
+	<Wounded.rulepack.rulesstrings.35>desc_sentence->[killer_nameShortDef] está mostrando dentes [killer_possessive].</Wounded.rulepack.rulesstrings.35>
+
+	<Wounded.rulepack.rulesstrings.36>desc_sentence->[killer_nameShortDef] parece satisfeito.</Wounded.rulepack.rulesstrings.36>
+
+	<Wounded.rulepack.rulesstrings.37>desc_sentence->[killer_nameShortDef] parece perturbado com o que [killer_pronoun] está fazendo.</Wounded.rulepack.rulesstrings.37>
+
+	<Wounded.rulepack.rulesstrings.38>desc_sentence->[killer_nameShortDef] parece satisfeito com a situação.</Wounded.rulepack.rulesstrings.38>
+
+	<Wounded.rulepack.rulesstrings.39>desc_sentence->[killer_nameShortDef] parece triunfante.</Wounded.rulepack.rulesstrings.39>
+
+	<Downed.label>abatido</Downed.label>
+
+	<Downed.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef]</Downed.rulepack.rulesstrings.0>
+
+	<Downed.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] com um [weapon_label]</Downed.rulepack.rulesstrings.1>
+
+	<Downed.rulepack.rulesstrings.2>tale_noun->the [wound_name_present] de [victim_nameShortDef] por [killer_nameShortDef]</Downed.rulepack.rulesstrings.2>
+
+	<Downed.rulepack.rulesstrings.3>tale_noun->the [wound_name_present] de [victim_nameShortDef] com um [weapon_label]</Downed.rulepack.rulesstrings.3>
+
+	<Downed.rulepack.rulesstrings.4>tale_noun->the [wound_name_present] de [victim_nameShortDef]</Downed.rulepack.rulesstrings.4>
+
+	<Downed.rulepack.rulesstrings.5>image->[victim_nameFull] sendo [wound_name_past] por [killer_nameFull] [weapon_optional]</Downed.rulepack.rulesstrings.5>
+
+	<Downed.rulepack.rulesstrings.6>image->[killer_nameFull] [wound_name_present] [victim_nameFull] [weapon_optional]</Downed.rulepack.rulesstrings.6>
+
+	<Downed.rulepack.rulesstrings.7>image->[killer_nameFull] brutally [wound_name_present] [victim_nameFull] [weapon_optional]</Downed.rulepack.rulesstrings.7>
+
+	<Downed.rulepack.rulesstrings.8>image->[victim_nameFull] sendo [wound_name_past] [weapon_optional]</Downed.rulepack.rulesstrings.8>
+
+	<Downed.rulepack.rulesstrings.9>wound_name_past->incapacitado</Downed.rulepack.rulesstrings.9>
+
+	<Downed.rulepack.rulesstrings.10>wound_name_past->aleijado</Downed.rulepack.rulesstrings.10>
+
+	<Downed.rulepack.rulesstrings.11>wound_name_past->bateu inconsciente</Downed.rulepack.rulesstrings.11>
+
+	<Downed.rulepack.rulesstrings.12>wound_name_past->desativado</Downed.rulepack.rulesstrings.12>
+
+	<Downed.rulepack.rulesstrings.13>wound_name_present->incapacitante</Downed.rulepack.rulesstrings.13>
+
+	<Downed.rulepack.rulesstrings.14>wound_name_present->prejudicando</Downed.rulepack.rulesstrings.14>
+
+	<Downed.rulepack.rulesstrings.15>wound_name_present->batendo inconsciente</Downed.rulepack.rulesstrings.15>
+
+	<Downed.rulepack.rulesstrings.16>wound_name_present->desativando</Downed.rulepack.rulesstrings.16>
+
+	<Downed.rulepack.rulesstrings.17>weapon_optional->com um [weapon_label] [circumstance_group]</Downed.rulepack.rulesstrings.17>
+
+	<Downed.rulepack.rulesstrings.18>weapon_optional->[circumstance_group]</Downed.rulepack.rulesstrings.18>
+
+	<Downed.rulepack.rulesstrings.19>circumstance_phrase->aparentemente sem remorso</Downed.rulepack.rulesstrings.19>
+
+	<Downed.rulepack.rulesstrings.20>circumstance_phrase->com eficiência a frio</Downed.rulepack.rulesstrings.20>
+
+	<Downed.rulepack.rulesstrings.21>circumstance_phrase->com raiva apaixonada</Downed.rulepack.rulesstrings.21>
+
+	<Downed.rulepack.rulesstrings.22>circumstance_phrase->com movimentos rápidos e eficientes</Downed.rulepack.rulesstrings.22>
+
+	<Downed.rulepack.rulesstrings.23>circumstance_phrase->sem emoção ou expressão</Downed.rulepack.rulesstrings.23>
+
+	<Downed.rulepack.rulesstrings.24>circumstance_phrase->fora da necessidade sombria</Downed.rulepack.rulesstrings.24>
+
+	<Downed.rulepack.rulesstrings.25>circumstance_phrase->de uma maneira covarde e sem entusiasmo</Downed.rulepack.rulesstrings.25>
+
+	<Downed.rulepack.rulesstrings.26>desc_sentence->[quantity_adjphrase] [animal] é visto.</Downed.rulepack.rulesstrings.26>
+
+	<Downed.rulepack.rulesstrings.27>desc_sentence->A [outlander] assiste silenciosamente [side_position].</Downed.rulepack.rulesstrings.27>
+
+	<Downed.rulepack.rulesstrings.28>desc_sentence->[victim_nameShortDef] parece [angstyadjective].</Downed.rulepack.rulesstrings.28>
+
+	<Downed.rulepack.rulesstrings.29>desc_sentence->[victim_nameShortDef] está com os olhos fechados.</Downed.rulepack.rulesstrings.29>
+
+	<Downed.rulepack.rulesstrings.30>desc_sentence->[killer_nameShortDef] está descobrindo os dentes [killer_possessive].</Downed.rulepack.rulesstrings.30>
+
+	<Downed.rulepack.rulesstrings.31>desc_sentence->[killer_nameShortDef] parece satisfeito.</Downed.rulepack.rulesstrings.31>
+
+	<Downed.rulepack.rulesstrings.32>desc_sentence->[killer_nameShortDef] parece perturbado com o que [killer_pronoun] está fazendo.</Downed.rulepack.rulesstrings.32>
+
+	<Downed.rulepack.rulesstrings.33>desc_sentence->[killer_nameShortDef] parece satisfeito com a situação.</Downed.rulepack.rulesstrings.33>
+
+	<Downed.rulepack.rulesstrings.34>desc_sentence->[killer_nameShortDef] parece triunfante.</Downed.rulepack.rulesstrings.34>
+
+	<KilledLongRange.label>killed at distance</KilledLongRange.label>
+
+	<KilledLongRange.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] at extreme distance</KilledLongRange.rulepack.rulesstrings.0>
+
+	<KilledLongRange.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] at extreme distance with a [weapon_label]</KilledLongRange.rulepack.rulesstrings.1>
+
+	<KilledLongRange.rulepack.rulesstrings.2>tale_noun->long distance [wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef]</KilledLongRange.rulepack.rulesstrings.2>
+
+	<KilledLongRange.rulepack.rulesstrings.3>tale_noun->long distance [wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef] with a [weapon_label]</KilledLongRange.rulepack.rulesstrings.3>
+
+	<KilledLongRange.rulepack.rulesstrings.4>image->[killer_nameFull] aiming at [victim_nameFull] [weapon_optional]</KilledLongRange.rulepack.rulesstrings.4>
+
+	<KilledLongRange.rulepack.rulesstrings.5>image->[killer_nameFull] [wound_name_present] [victim_nameFull] [weapon_optional]</KilledLongRange.rulepack.rulesstrings.5>
+
+	<KilledLongRange.rulepack.rulesstrings.6>image->[killer_nameFull] coldly [wound_name_present] [victim_nameFull] [weapon_optional]</KilledLongRange.rulepack.rulesstrings.6>
+
+	<KilledLongRange.rulepack.rulesstrings.7>wound_name_past->murdered</KilledLongRange.rulepack.rulesstrings.7>
+
+	<KilledLongRange.rulepack.rulesstrings.8>wound_name_past->slain</KilledLongRange.rulepack.rulesstrings.8>
+
+	<KilledLongRange.rulepack.rulesstrings.9>wound_name_past->slaughtered</KilledLongRange.rulepack.rulesstrings.9>
+
+	<KilledLongRange.rulepack.rulesstrings.10>wound_name_past->eliminated</KilledLongRange.rulepack.rulesstrings.10>
+
+	<KilledLongRange.rulepack.rulesstrings.11>wound_name_present->murdering</KilledLongRange.rulepack.rulesstrings.11>
+
+	<KilledLongRange.rulepack.rulesstrings.12>wound_name_present->slaying</KilledLongRange.rulepack.rulesstrings.12>
+
+	<KilledLongRange.rulepack.rulesstrings.13>wound_name_present->slaughtering</KilledLongRange.rulepack.rulesstrings.13>
+
+	<KilledLongRange.rulepack.rulesstrings.14>wound_name_present->eliminating</KilledLongRange.rulepack.rulesstrings.14>
+
+	<KilledLongRange.rulepack.rulesstrings.15>weapon_optional->with a [weapon_label] [circumstance_group]</KilledLongRange.rulepack.rulesstrings.15>
+
+	<KilledLongRange.rulepack.rulesstrings.16>weapon_optional->[circumstance_group]</KilledLongRange.rulepack.rulesstrings.16>
+
+	<KilledLongRange.rulepack.rulesstrings.17>circumstance_phrase->seemingly without remorse</KilledLongRange.rulepack.rulesstrings.17>
+
+	<KilledLongRange.rulepack.rulesstrings.18>circumstance_phrase->with cold efficiency</KilledLongRange.rulepack.rulesstrings.18>
+
+	<KilledLongRange.rulepack.rulesstrings.19>circumstance_phrase->from a long distance</KilledLongRange.rulepack.rulesstrings.19>
+
+	<KilledLongRange.rulepack.rulesstrings.20>circumstance_phrase->from a great height</KilledLongRange.rulepack.rulesstrings.20>
+
+	<KilledLongRange.rulepack.rulesstrings.21>circumstance_phrase->without emotion or expression</KilledLongRange.rulepack.rulesstrings.21>
+
+	<KilledLongRange.rulepack.rulesstrings.22>circumstance_phrase->in a cowardly, halfhearted way</KilledLongRange.rulepack.rulesstrings.22>
+
+	<KilledLongRange.rulepack.rulesstrings.23>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledLongRange.rulepack.rulesstrings.23>
+
+	<KilledLongRange.rulepack.rulesstrings.24>desc_sentence->A [outlander] watches silently [side_position].</KilledLongRange.rulepack.rulesstrings.24>
+
+	<KilledLongRange.rulepack.rulesstrings.25>desc_sentence->[victim_nameShortDef] looks [angstyadjective].</KilledLongRange.rulepack.rulesstrings.25>
+
+	<KilledLongRange.rulepack.rulesstrings.26>desc_sentence->[victim_nameShortDef]'s eyes are closed.</KilledLongRange.rulepack.rulesstrings.26>
+
+	<KilledLongRange.rulepack.rulesstrings.27>desc_sentence->[victim_nameShortDef] is covered in [gore].</KilledLongRange.rulepack.rulesstrings.27>
+
+	<KilledLongRange.rulepack.rulesstrings.28>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</KilledLongRange.rulepack.rulesstrings.28>
+
+	<KilledLongRange.rulepack.rulesstrings.29>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledLongRange.rulepack.rulesstrings.29>
+
+	<KilledLongRange.rulepack.rulesstrings.30>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledLongRange.rulepack.rulesstrings.30>
+
+	<KilledLongRange.rulepack.rulesstrings.31>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledLongRange.rulepack.rulesstrings.31>
+
+	<KilledLongRange.rulepack.rulesstrings.32>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledLongRange.rulepack.rulesstrings.32>
+
+	<KilledMelee.label>killed in melee</KilledMelee.label>
+
+	<KilledMelee.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] in close combat</KilledMelee.rulepack.rulesstrings.0>
+
+	<KilledMelee.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] in melee with a [weapon_label]</KilledMelee.rulepack.rulesstrings.1>
+
+	<KilledMelee.rulepack.rulesstrings.2>tale_noun->melee [wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef]</KilledMelee.rulepack.rulesstrings.2>
+
+	<KilledMelee.rulepack.rulesstrings.3>tale_noun->close combat [wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef] with a [weapon_label]</KilledMelee.rulepack.rulesstrings.3>
+
+	<KilledMelee.rulepack.rulesstrings.4>image->[victim_nameFull] being [wound_name_past] by [killer_nameFull] [weapon_optional]</KilledMelee.rulepack.rulesstrings.4>
+
+	<KilledMelee.rulepack.rulesstrings.5>image->[killer_nameFull] [wound_name_present] [victim_nameFull] [weapon_optional]</KilledMelee.rulepack.rulesstrings.5>
+
+	<KilledMelee.rulepack.rulesstrings.6>image->[killer_nameFull] brutally [wound_name_present] [victim_nameFull] [weapon_optional]</KilledMelee.rulepack.rulesstrings.6>
+
+	<KilledMelee.rulepack.rulesstrings.7>image->[victim_nameFull] being [wound_name_past] [weapon_optional]</KilledMelee.rulepack.rulesstrings.7>
+
+	<KilledMelee.rulepack.rulesstrings.8>wound_name_past->murdered</KilledMelee.rulepack.rulesstrings.8>
+
+	<KilledMelee.rulepack.rulesstrings.9>wound_name_past->slain</KilledMelee.rulepack.rulesstrings.9>
+
+	<KilledMelee.rulepack.rulesstrings.10>wound_name_past->slaughtered</KilledMelee.rulepack.rulesstrings.10>
+
+	<KilledMelee.rulepack.rulesstrings.11>wound_name_past->mutilated</KilledMelee.rulepack.rulesstrings.11>
+
+	<KilledMelee.rulepack.rulesstrings.12>wound_name_present->murdering</KilledMelee.rulepack.rulesstrings.12>
+
+	<KilledMelee.rulepack.rulesstrings.13>wound_name_present->slaying</KilledMelee.rulepack.rulesstrings.13>
+
+	<KilledMelee.rulepack.rulesstrings.14>wound_name_present->slaughtering</KilledMelee.rulepack.rulesstrings.14>
+
+	<KilledMelee.rulepack.rulesstrings.15>wound_name_present->mutilating</KilledMelee.rulepack.rulesstrings.15>
+
+	<KilledMelee.rulepack.rulesstrings.16>weapon_optional->with a [weapon_label] [circumstance_group]</KilledMelee.rulepack.rulesstrings.16>
+
+	<KilledMelee.rulepack.rulesstrings.17>weapon_optional->[circumstance_group]</KilledMelee.rulepack.rulesstrings.17>
+
+	<KilledMelee.rulepack.rulesstrings.18>circumstance_phrase->seemingly without remorse</KilledMelee.rulepack.rulesstrings.18>
+
+	<KilledMelee.rulepack.rulesstrings.19>circumstance_phrase->with cold efficiency</KilledMelee.rulepack.rulesstrings.19>
+
+	<KilledMelee.rulepack.rulesstrings.20>circumstance_phrase->with quick, efficient movements</KilledMelee.rulepack.rulesstrings.20>
+
+	<KilledMelee.rulepack.rulesstrings.21>circumstance_phrase->without emotion or expression</KilledMelee.rulepack.rulesstrings.21>
+
+	<KilledMelee.rulepack.rulesstrings.22>circumstance_phrase->in a cowardly, halfhearted way</KilledMelee.rulepack.rulesstrings.22>
+
+	<KilledMelee.rulepack.rulesstrings.23>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledMelee.rulepack.rulesstrings.23>
+
+	<KilledMelee.rulepack.rulesstrings.24>desc_sentence->A [outlander] watches silently [side_position].</KilledMelee.rulepack.rulesstrings.24>
+
+	<KilledMelee.rulepack.rulesstrings.25>desc_sentence->[victim_nameShortDef] looks [angstyadjective].</KilledMelee.rulepack.rulesstrings.25>
+
+	<KilledMelee.rulepack.rulesstrings.26>desc_sentence->[victim_nameShortDef]'s eyes are closed.</KilledMelee.rulepack.rulesstrings.26>
+
+	<KilledMelee.rulepack.rulesstrings.27>desc_sentence->[victim_nameShortDef] is covered in [gore].</KilledMelee.rulepack.rulesstrings.27>
+
+	<KilledMelee.rulepack.rulesstrings.28>desc_sentence->[victim_nameShortDef] and [killer_nameShortDef] are both covered in [gore].</KilledMelee.rulepack.rulesstrings.28>
+
+	<KilledMelee.rulepack.rulesstrings.29>desc_sentence->[killer_nameShortDef] is covered in [gore].</KilledMelee.rulepack.rulesstrings.29>
+
+	<KilledMelee.rulepack.rulesstrings.30>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</KilledMelee.rulepack.rulesstrings.30>
+
+	<KilledMelee.rulepack.rulesstrings.31>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledMelee.rulepack.rulesstrings.31>
+
+	<KilledMelee.rulepack.rulesstrings.32>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledMelee.rulepack.rulesstrings.32>
+
+	<KilledMelee.rulepack.rulesstrings.33>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledMelee.rulepack.rulesstrings.33>
+
+	<KilledMelee.rulepack.rulesstrings.34>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledMelee.rulepack.rulesstrings.34>
+
+	<KilledMelee.rulepack.rulesstrings.35>desc_sentence->[killer_nameShortDef] wears a feral expression.</KilledMelee.rulepack.rulesstrings.35>
+
+	<KilledMajorThreat.label>killed major threat</KilledMajorThreat.label>
+
+	<KilledMajorThreat.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef]</KilledMajorThreat.rulepack.rulesstrings.0>
+
+	<KilledMajorThreat.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] with a [weapon_label]</KilledMajorThreat.rulepack.rulesstrings.1>
+
+	<KilledMajorThreat.rulepack.rulesstrings.2>tale_noun->[wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef]</KilledMajorThreat.rulepack.rulesstrings.2>
+
+	<KilledMajorThreat.rulepack.rulesstrings.3>tale_noun->[wound_name_present] of [victim_nameShortDef] by [killer_nameShortDef] with a [weapon_label]</KilledMajorThreat.rulepack.rulesstrings.3>
+
+	<KilledMajorThreat.rulepack.rulesstrings.4>image->[victim_nameFull] being [wound_name_past] by [killer_nameFull] [weapon_optional]</KilledMajorThreat.rulepack.rulesstrings.4>
+
+	<KilledMajorThreat.rulepack.rulesstrings.5>image->[killer_nameFull] [wound_name_present] [victim_nameFull] [weapon_optional]</KilledMajorThreat.rulepack.rulesstrings.5>
+
+	<KilledMajorThreat.rulepack.rulesstrings.6>image->[killer_nameFull] brutally [wound_name_present] [victim_nameFull] [weapon_optional]</KilledMajorThreat.rulepack.rulesstrings.6>
+
+	<KilledMajorThreat.rulepack.rulesstrings.7>image->[victim_nameFull] being [wound_name_past] [weapon_optional]</KilledMajorThreat.rulepack.rulesstrings.7>
+
+	<KilledMajorThreat.rulepack.rulesstrings.8>wound_name_past->slain</KilledMajorThreat.rulepack.rulesstrings.8>
+
+	<KilledMajorThreat.rulepack.rulesstrings.9>wound_name_past->defeated</KilledMajorThreat.rulepack.rulesstrings.9>
+
+	<KilledMajorThreat.rulepack.rulesstrings.10>wound_name_past->overcome</KilledMajorThreat.rulepack.rulesstrings.10>
+
+	<KilledMajorThreat.rulepack.rulesstrings.11>wound_name_present->slaying</KilledMajorThreat.rulepack.rulesstrings.11>
+
+	<KilledMajorThreat.rulepack.rulesstrings.12>wound_name_present->defeating</KilledMajorThreat.rulepack.rulesstrings.12>
+
+	<KilledMajorThreat.rulepack.rulesstrings.13>wound_name_present->overcoming</KilledMajorThreat.rulepack.rulesstrings.13>
+
+	<KilledMajorThreat.rulepack.rulesstrings.14>weapon_optional->with a [weapon_label] [circumstance_group]</KilledMajorThreat.rulepack.rulesstrings.14>
+
+	<KilledMajorThreat.rulepack.rulesstrings.15>weapon_optional->[circumstance_group]</KilledMajorThreat.rulepack.rulesstrings.15>
+
+	<KilledMajorThreat.rulepack.rulesstrings.16>circumstance_phrase->with cold efficiency</KilledMajorThreat.rulepack.rulesstrings.16>
+
+	<KilledMajorThreat.rulepack.rulesstrings.17>circumstance_phrase->with quick, efficient movements</KilledMajorThreat.rulepack.rulesstrings.17>
+
+	<KilledMajorThreat.rulepack.rulesstrings.18>circumstance_phrase->without emotion or expression</KilledMajorThreat.rulepack.rulesstrings.18>
+
+	<KilledMajorThreat.rulepack.rulesstrings.19>circumstance_phrase->with great heroism</KilledMajorThreat.rulepack.rulesstrings.19>
+
+	<KilledMajorThreat.rulepack.rulesstrings.20>circumstance_phrase->with incredible strength</KilledMajorThreat.rulepack.rulesstrings.20>
+
+	<KilledMajorThreat.rulepack.rulesstrings.21>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledMajorThreat.rulepack.rulesstrings.21>
+
+	<KilledMajorThreat.rulepack.rulesstrings.22>desc_sentence->A [outlander] watches silently [side_position].</KilledMajorThreat.rulepack.rulesstrings.22>
+
+	<KilledMajorThreat.rulepack.rulesstrings.23>desc_sentence->[victim_nameShortDef] looks [angstyadjective].</KilledMajorThreat.rulepack.rulesstrings.23>
+
+	<KilledMajorThreat.rulepack.rulesstrings.24>desc_sentence->[victim_nameShortDef]'s eyes are closed.</KilledMajorThreat.rulepack.rulesstrings.24>
+
+	<KilledMajorThreat.rulepack.rulesstrings.25>desc_sentence->[victim_nameShortDef] is covered in [gore].</KilledMajorThreat.rulepack.rulesstrings.25>
+
+	<KilledMajorThreat.rulepack.rulesstrings.26>desc_sentence->[victim_nameShortDef] and [killer_nameShortDef] are both covered in [gore].</KilledMajorThreat.rulepack.rulesstrings.26>
+
+	<KilledMajorThreat.rulepack.rulesstrings.27>desc_sentence->[victim_nameShortDef]'s corpse towers over [killer_nameShortDef].</KilledMajorThreat.rulepack.rulesstrings.27>
+
+	<KilledMajorThreat.rulepack.rulesstrings.28>desc_sentence->[victim_nameShortDef]'s massive corpse covers a [terrainfeature].</KilledMajorThreat.rulepack.rulesstrings.28>
+
+	<KilledMajorThreat.rulepack.rulesstrings.29>desc_sentence->[victim_nameShortDef]'s eyes glow [color].</KilledMajorThreat.rulepack.rulesstrings.29>
+
+	<KilledMajorThreat.rulepack.rulesstrings.30>desc_sentence->[killer_nameShortDef] is covered in [gore].</KilledMajorThreat.rulepack.rulesstrings.30>
+
+	<KilledMajorThreat.rulepack.rulesstrings.31>desc_sentence->[killer_nameShortDef] is baring [killer_possessive] teeth.</KilledMajorThreat.rulepack.rulesstrings.31>
+
+	<KilledMajorThreat.rulepack.rulesstrings.32>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledMajorThreat.rulepack.rulesstrings.32>
+
+	<KilledMajorThreat.rulepack.rulesstrings.33>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledMajorThreat.rulepack.rulesstrings.33>
+
+	<KilledMajorThreat.rulepack.rulesstrings.34>desc_sentence->[killer_nameShortDef] looks [badassadjective].</KilledMajorThreat.rulepack.rulesstrings.34>
+
+	<KilledMajorThreat.rulepack.rulesstrings.35>desc_sentence->[killer_nameShortDef] is glowing with a heroic aura.</KilledMajorThreat.rulepack.rulesstrings.35>
+
+	<KilledCapacity.label>killed</KilledCapacity.label>
+
+	<KilledCapacity.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef]</KilledCapacity.rulepack.rulesstrings.0>
+
+	<KilledCapacity.rulepack.rulesstrings.1>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] with a [weapon_label]</KilledCapacity.rulepack.rulesstrings.1>
+
+	<KilledCapacity.rulepack.rulesstrings.2>image->[killer_nameFull] [cap_removal] [victim_nameFull]'s capacity for [capacity_label] [weapon_optional]</KilledCapacity.rulepack.rulesstrings.2>
+
+	<KilledCapacity.rulepack.rulesstrings.3>image->[killer_nameFull] [wound_name_present] [victim_nameFull] by [cap_removal] their [capacity_label] [weapon_optional]</KilledCapacity.rulepack.rulesstrings.3>
+
+	<KilledCapacity.rulepack.rulesstrings.4>cap_removal->destroying</KilledCapacity.rulepack.rulesstrings.4>
+
+	<KilledCapacity.rulepack.rulesstrings.5>cap_removal->eliminating</KilledCapacity.rulepack.rulesstrings.5>
+
+	<KilledCapacity.rulepack.rulesstrings.6>cap_removal->ending</KilledCapacity.rulepack.rulesstrings.6>
+
+	<KilledCapacity.rulepack.rulesstrings.7>wound_name_past->slayed</KilledCapacity.rulepack.rulesstrings.7>
+
+	<KilledCapacity.rulepack.rulesstrings.8>wound_name_past->executed</KilledCapacity.rulepack.rulesstrings.8>
+
+	<KilledCapacity.rulepack.rulesstrings.9>wound_name_past->assassinated</KilledCapacity.rulepack.rulesstrings.9>
+
+	<KilledCapacity.rulepack.rulesstrings.10>wound_name_past->eliminated</KilledCapacity.rulepack.rulesstrings.10>
+
+	<KilledCapacity.rulepack.rulesstrings.11>wound_name_present->slaying</KilledCapacity.rulepack.rulesstrings.11>
+
+	<KilledCapacity.rulepack.rulesstrings.12>wound_name_present->executing</KilledCapacity.rulepack.rulesstrings.12>
+
+	<KilledCapacity.rulepack.rulesstrings.13>wound_name_present->assassinating</KilledCapacity.rulepack.rulesstrings.13>
+
+	<KilledCapacity.rulepack.rulesstrings.14>wound_name_present->eliminating</KilledCapacity.rulepack.rulesstrings.14>
+
+	<KilledCapacity.rulepack.rulesstrings.15>weapon_optional->with a [weapon_label] [circumstance_group]</KilledCapacity.rulepack.rulesstrings.15>
+
+	<KilledCapacity.rulepack.rulesstrings.16>weapon_optional->[circumstance_group]</KilledCapacity.rulepack.rulesstrings.16>
+
+	<KilledCapacity.rulepack.rulesstrings.17>circumstance_phrase->seemingly without remorse</KilledCapacity.rulepack.rulesstrings.17>
+
+	<KilledCapacity.rulepack.rulesstrings.18>circumstance_phrase->with cold efficiency</KilledCapacity.rulepack.rulesstrings.18>
+
+	<KilledCapacity.rulepack.rulesstrings.19>circumstance_phrase->with quick, efficient movements</KilledCapacity.rulepack.rulesstrings.19>
+
+	<KilledCapacity.rulepack.rulesstrings.20>circumstance_phrase->without emotion or expression</KilledCapacity.rulepack.rulesstrings.20>
+
+	<KilledCapacity.rulepack.rulesstrings.21>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledCapacity.rulepack.rulesstrings.21>
+
+	<KilledCapacity.rulepack.rulesstrings.22>desc_sentence->A [outlander] watches silently [side_position].</KilledCapacity.rulepack.rulesstrings.22>
+
+	<KilledCapacity.rulepack.rulesstrings.23>desc_sentence->[victim_nameShortDef] looks [angstyadjective].</KilledCapacity.rulepack.rulesstrings.23>
+
+	<KilledCapacity.rulepack.rulesstrings.24>desc_sentence->[victim_nameShortDef]'s eyes are closed.</KilledCapacity.rulepack.rulesstrings.24>
+
+	<KilledCapacity.rulepack.rulesstrings.25>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledCapacity.rulepack.rulesstrings.25>
+
+	<KilledCapacity.rulepack.rulesstrings.26>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledCapacity.rulepack.rulesstrings.26>
+
+	<KilledCapacity.rulepack.rulesstrings.27>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledCapacity.rulepack.rulesstrings.27>
+
+	<KilledCapacity.rulepack.rulesstrings.28>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledCapacity.rulepack.rulesstrings.28>
+
+	<KilledMortar.label>killed with mortar</KilledMortar.label>
+
+	<KilledMortar.rulepack.rulesstrings.0>tale_noun->[killer_nameShortDef] [wound_name_present] [victim_nameShortDef] with a mortar</KilledMortar.rulepack.rulesstrings.0>
+
+	<KilledMortar.rulepack.rulesstrings.1>tale_noun->artillery kill of [victim_nameShortDef] by [killer_nameShortDef]</KilledMortar.rulepack.rulesstrings.1>
+
+	<KilledMortar.rulepack.rulesstrings.2>image->[killer_nameFull] carefully adjusting a firing tube [circumstance_group]</KilledMortar.rulepack.rulesstrings.2>
+
+	<KilledMortar.rulepack.rulesstrings.3>image->[killer_nameFull] looking into the distance [circumstance_group]</KilledMortar.rulepack.rulesstrings.3>
+
+	<KilledMortar.rulepack.rulesstrings.4>image->[killer_nameFull] doing calculations on paper [circumstance_group]</KilledMortar.rulepack.rulesstrings.4>
+
+	<KilledMortar.rulepack.rulesstrings.5>image->[killer_nameFull] testing wind direction [circumstance_group]</KilledMortar.rulepack.rulesstrings.5>
+
+	<KilledMortar.rulepack.rulesstrings.6>circumstance_phrase->while [victim_nameFull] is consumed in a massive explosion</KilledMortar.rulepack.rulesstrings.6>
+
+	<KilledMortar.rulepack.rulesstrings.7>circumstance_phrase->as a shell arcs down towards [victim_nameFull]</KilledMortar.rulepack.rulesstrings.7>
+
+	<KilledMortar.rulepack.rulesstrings.8>circumstance_phrase->while [victim_nameFull] walks around obliviously</KilledMortar.rulepack.rulesstrings.8>
+
+	<KilledMortar.rulepack.rulesstrings.9>circumstance_phrase->as [victim_nameFull] sprints</KilledMortar.rulepack.rulesstrings.9>
+
+	<KilledMortar.rulepack.rulesstrings.10>desc_sentence->[quantity_adjphrase] [animal]s look on.</KilledMortar.rulepack.rulesstrings.10>
+
+	<KilledMortar.rulepack.rulesstrings.11>desc_sentence->A [outlander] watches silently [side_position].</KilledMortar.rulepack.rulesstrings.11>
+
+	<KilledMortar.rulepack.rulesstrings.12>desc_sentence->[victim_nameShortDef] looks [angstyadjective].</KilledMortar.rulepack.rulesstrings.12>
+
+	<KilledMortar.rulepack.rulesstrings.13>desc_sentence->[victim_nameShortDef] is covered in [gore].</KilledMortar.rulepack.rulesstrings.13>
+
+	<KilledMortar.rulepack.rulesstrings.14>desc_sentence->[victim_nameShortDef] is surrounded by explosions.</KilledMortar.rulepack.rulesstrings.14>
+
+	<KilledMortar.rulepack.rulesstrings.15>desc_sentence->[victim_nameShortDef] is surrounded by craters.</KilledMortar.rulepack.rulesstrings.15>
+
+	<KilledMortar.rulepack.rulesstrings.16>desc_sentence->[killer_nameShortDef] seems satisfied.</KilledMortar.rulepack.rulesstrings.16>
+
+	<KilledMortar.rulepack.rulesstrings.17>desc_sentence->[killer_nameShortDef] looks distressed at what [killer_pronoun] is doing.</KilledMortar.rulepack.rulesstrings.17>
+
+	<KilledMortar.rulepack.rulesstrings.18>desc_sentence->[killer_nameShortDef] looks pleased with the situation.</KilledMortar.rulepack.rulesstrings.18>
+
+	<KilledMortar.rulepack.rulesstrings.19>desc_sentence->[killer_nameShortDef] looks triumphant.</KilledMortar.rulepack.rulesstrings.19>
+
+	<Exhausted.label>exhausted</Exhausted.label>
+
+	<Exhausted.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] collapsing from exhaustion</Exhausted.rulepack.rulesstrings.0>
+
+	<Exhausted.rulepack.rulesstrings.1>image->[pawn_nameFull] collapsing on the ground [circumstance_group]</Exhausted.rulepack.rulesstrings.1>
+
+	<Exhausted.rulepack.rulesstrings.2>image->[pawn_nameFull] lying on the ground [circumstance_group]</Exhausted.rulepack.rulesstrings.2>
+
+	<Exhausted.rulepack.rulesstrings.3>image->[pawn_nameFull] lying in bed [circumstance_group]</Exhausted.rulepack.rulesstrings.3>
+
+	<Exhausted.rulepack.rulesstrings.4>image->[pawn_nameFull] collapsed in a chair [circumstance_group]</Exhausted.rulepack.rulesstrings.4>
+
+	<Exhausted.rulepack.rulesstrings.5>image->[pawn_nameFull] peacefully sleeping [circumstance_group]</Exhausted.rulepack.rulesstrings.5>
+
+	<Exhausted.rulepack.rulesstrings.6>circumstance_phrase->with eyes closed</Exhausted.rulepack.rulesstrings.6>
+
+	<Exhausted.rulepack.rulesstrings.7>circumstance_phrase->with a visible look of exhaustion</Exhausted.rulepack.rulesstrings.7>
+
+	<Exhausted.rulepack.rulesstrings.8>circumstance_phrase->while covered in sweat</Exhausted.rulepack.rulesstrings.8>
+
+	<Exhausted.rulepack.rulesstrings.9>circumstance_phrase->and unable to move a muscle</Exhausted.rulepack.rulesstrings.9>
+
+	<Exhausted.rulepack.rulesstrings.10>desc_sentence->[pawn_nameShortDef]'s last project sits nearby, complete.</Exhausted.rulepack.rulesstrings.10>
+
+	<Exhausted.rulepack.rulesstrings.11>desc_sentence->A marvelous construction surrounds [pawn_nameShortDef].</Exhausted.rulepack.rulesstrings.11>
+
+	<Exhausted.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] [outlander]s look grateful for [pawn_nameShortDef]'s heroic effort.</Exhausted.rulepack.rulesstrings.12>
+
+	<Exhausted.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [outlander]s lie nearby in a similar state.</Exhausted.rulepack.rulesstrings.13>
+
+	<Exhausted.rulepack.rulesstrings.14>desc_sentence->The scene takes place inside a newly-built [community].</Exhausted.rulepack.rulesstrings.14>
+
+	<IllnessRevealed.label>illness revealed</IllnessRevealed.label>
+
+	<IllnessRevealed.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] stricken with [illness_label]</IllnessRevealed.rulepack.rulesstrings.0>
+
+	<IllnessRevealed.rulepack.rulesstrings.1>image->[pawn_nameFull] staggering through a field [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.1>
+
+	<IllnessRevealed.rulepack.rulesstrings.2>image->[pawn_nameFull] lying on the ground [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.2>
+
+	<IllnessRevealed.rulepack.rulesstrings.3>image->[pawn_nameFull] lying in bed [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.3>
+
+	<IllnessRevealed.rulepack.rulesstrings.4>image->[pawn_nameFull] lying in a hospital bed [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.4>
+
+	<IllnessRevealed.rulepack.rulesstrings.5>image->[pawn_nameFull] collapsed in a chair [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.5>
+
+	<IllnessRevealed.rulepack.rulesstrings.6>image->[pawn_nameFull] crouching next to a fire [circumstance_group]</IllnessRevealed.rulepack.rulesstrings.6>
+
+	<IllnessRevealed.rulepack.rulesstrings.7>circumstance_phrase->and sweating uncontrollably</IllnessRevealed.rulepack.rulesstrings.7>
+
+	<IllnessRevealed.rulepack.rulesstrings.8>circumstance_phrase->and shivering uncontrollably</IllnessRevealed.rulepack.rulesstrings.8>
+
+	<IllnessRevealed.rulepack.rulesstrings.9>circumstance_phrase->while both sweating and shivering</IllnessRevealed.rulepack.rulesstrings.9>
+
+	<IllnessRevealed.rulepack.rulesstrings.10>circumstance_phrase->with cracked dry lips</IllnessRevealed.rulepack.rulesstrings.10>
+
+	<IllnessRevealed.rulepack.rulesstrings.11>circumstance_phrase->while vomiting</IllnessRevealed.rulepack.rulesstrings.11>
+
+	<IllnessRevealed.rulepack.rulesstrings.12>circumstance_phrase->with a visible rash</IllnessRevealed.rulepack.rulesstrings.12>
+
+	<IllnessRevealed.rulepack.rulesstrings.13>circumstance_phrase->while being tended to by a doctor</IllnessRevealed.rulepack.rulesstrings.13>
+
+	<IllnessRevealed.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] fly-ridden [animal] corpses surround the area.</IllnessRevealed.rulepack.rulesstrings.14>
+
+	<IllnessRevealed.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] twisted [color] [terrainfeature]s surround the scene.</IllnessRevealed.rulepack.rulesstrings.15>
+
+	<IllnessRevealed.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] [outlander]s are stricken with the same afflication.</IllnessRevealed.rulepack.rulesstrings.16>
+
+	<IllnessRevealed.rulepack.rulesstrings.17>desc_sentence->The scene takes place inside a [tree] forest.</IllnessRevealed.rulepack.rulesstrings.17>
+
+	<IllnessRevealed.rulepack.rulesstrings.18>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</IllnessRevealed.rulepack.rulesstrings.18>
+
+	<HeatstrokeRevealed.label>heatstroke revealed</HeatstrokeRevealed.label>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] getting heatstroke</HeatstrokeRevealed.rulepack.rulesstrings.0>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] overheating</HeatstrokeRevealed.rulepack.rulesstrings.1>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.2>image->[pawn_nameFull] trudging through sand [circumstance_group]</HeatstrokeRevealed.rulepack.rulesstrings.2>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.3>image->[pawn_nameFull] huddled in the shade of a [terrainfeature] [circumstance_group]</HeatstrokeRevealed.rulepack.rulesstrings.3>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.4>image->[pawn_nameFull] searching for water [circumstance_group]</HeatstrokeRevealed.rulepack.rulesstrings.4>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.5>image->[pawn_nameFull] searching for shade [circumstance_group]</HeatstrokeRevealed.rulepack.rulesstrings.5>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.6>image->[pawn_nameFull] crawling across sun-baked dirt [circumstance_group]</HeatstrokeRevealed.rulepack.rulesstrings.6>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.7>circumstance_phrase->with red dry skin</HeatstrokeRevealed.rulepack.rulesstrings.7>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.8>circumstance_phrase->and covered in sweat</HeatstrokeRevealed.rulepack.rulesstrings.8>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.9>circumstance_phrase->with cracked dry lips</HeatstrokeRevealed.rulepack.rulesstrings.9>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.10>circumstance_phrase->while vomiting</HeatstrokeRevealed.rulepack.rulesstrings.10>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] dessicated [animal] corpses surround the area.</HeatstrokeRevealed.rulepack.rulesstrings.11>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef]'s clothes are tattered and torn.</HeatstrokeRevealed.rulepack.rulesstrings.12>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.13>desc_sentence->A blazing sun looms in the background.</HeatstrokeRevealed.rulepack.rulesstrings.13>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.14>desc_sentence->The scene takes place inside a blazing desert.</HeatstrokeRevealed.rulepack.rulesstrings.14>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.15>desc_sentence->The scene appears to take place inside, next to a heater.</HeatstrokeRevealed.rulepack.rulesstrings.15>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] unmoving [animal]s surround the scene.</HeatstrokeRevealed.rulepack.rulesstrings.16>
+
+	<HeatstrokeRevealed.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</HeatstrokeRevealed.rulepack.rulesstrings.17>
+
+	<HypothermiaRevealed.label>hypothermia revealed</HypothermiaRevealed.label>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] getting hypothermia</HypothermiaRevealed.rulepack.rulesstrings.0>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] freezing to death</HypothermiaRevealed.rulepack.rulesstrings.1>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.2>image->[pawn_nameFull] trudging through snow [circumstance_group]</HypothermiaRevealed.rulepack.rulesstrings.2>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.3>image->[pawn_nameFull] huddled beside a [terrainfeature] [circumstance_group]</HypothermiaRevealed.rulepack.rulesstrings.3>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.4>image->[pawn_nameFull] searching for a warm [apparel] [circumstance_group]</HypothermiaRevealed.rulepack.rulesstrings.4>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.5>image->[pawn_nameFull] crouching next to a fire [circumstance_group]</HypothermiaRevealed.rulepack.rulesstrings.5>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.6>image->[pawn_nameFull] trying to light a fire [circumstance_group]</HypothermiaRevealed.rulepack.rulesstrings.6>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.7>circumstance_phrase->while their face slowly turns blue</HypothermiaRevealed.rulepack.rulesstrings.7>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.8>circumstance_phrase->and shivering uncontrollably</HypothermiaRevealed.rulepack.rulesstrings.8>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.9>circumstance_phrase->while covered in frost</HypothermiaRevealed.rulepack.rulesstrings.9>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.10>circumstance_phrase->while exhaling clouds of fog</HypothermiaRevealed.rulepack.rulesstrings.10>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] frozen [animal] corpses surround the area.</HypothermiaRevealed.rulepack.rulesstrings.11>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.12>desc_sentence->[pawn_nameShortDef]'s clothes are tattered and worn.</HypothermiaRevealed.rulepack.rulesstrings.12>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.13>desc_sentence->A cold blue moon looms in the background.</HypothermiaRevealed.rulepack.rulesstrings.13>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.14>desc_sentence->The scene takes place inside a snow-covered [tree] forest.</HypothermiaRevealed.rulepack.rulesstrings.14>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.15>desc_sentence->The scene appears to take place inside a freezer.</HypothermiaRevealed.rulepack.rulesstrings.15>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] shivering [animal]s surround the scene.</HypothermiaRevealed.rulepack.rulesstrings.16>
+
+	<HypothermiaRevealed.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</HypothermiaRevealed.rulepack.rulesstrings.17>
+
+	<ToxicityRevealed.label>toxicity revealed</ToxicityRevealed.label>
+
+	<ToxicityRevealed.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s body becoming toxic</ToxicityRevealed.rulepack.rulesstrings.0>
+
+	<ToxicityRevealed.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] receiving toxins from an outside source</ToxicityRevealed.rulepack.rulesstrings.1>
+
+	<ToxicityRevealed.rulepack.rulesstrings.2>image->[pawn_nameFull] staggering through a field [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.2>
+
+	<ToxicityRevealed.rulepack.rulesstrings.3>image->[pawn_nameFull] lying on the ground [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.3>
+
+	<ToxicityRevealed.rulepack.rulesstrings.4>image->[pawn_nameFull] lying in bed [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.4>
+
+	<ToxicityRevealed.rulepack.rulesstrings.5>image->[pawn_nameFull] crouching next to a fire [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.5>
+
+	<ToxicityRevealed.rulepack.rulesstrings.6>image->[pawn_nameFull] trying to light a fire [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.6>
+
+	<ToxicityRevealed.rulepack.rulesstrings.7>image->[pawn_nameFull] mindlessly removing [pawn_possessive] clothes [circumstance_group]</ToxicityRevealed.rulepack.rulesstrings.7>
+
+	<ToxicityRevealed.rulepack.rulesstrings.8>circumstance_phrase->and sweating uncontrollably</ToxicityRevealed.rulepack.rulesstrings.8>
+
+	<ToxicityRevealed.rulepack.rulesstrings.9>circumstance_phrase->and shivering uncontrollably</ToxicityRevealed.rulepack.rulesstrings.9>
+
+	<ToxicityRevealed.rulepack.rulesstrings.10>circumstance_phrase->while both sweating and shivering</ToxicityRevealed.rulepack.rulesstrings.10>
+
+	<ToxicityRevealed.rulepack.rulesstrings.11>circumstance_phrase->with cracked dry lips</ToxicityRevealed.rulepack.rulesstrings.11>
+
+	<ToxicityRevealed.rulepack.rulesstrings.12>circumstance_phrase->while vomiting</ToxicityRevealed.rulepack.rulesstrings.12>
+
+	<ToxicityRevealed.rulepack.rulesstrings.13>circumstance_phrase->with a visible rash</ToxicityRevealed.rulepack.rulesstrings.13>
+
+	<ToxicityRevealed.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] twisted [animal] corpses surround the area.</ToxicityRevealed.rulepack.rulesstrings.14>
+
+	<ToxicityRevealed.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef]'s clothes are falling apart.</ToxicityRevealed.rulepack.rulesstrings.15>
+
+	<ToxicityRevealed.rulepack.rulesstrings.16>desc_sentence->The sky is a murky [color].</ToxicityRevealed.rulepack.rulesstrings.16>
+
+	<ToxicityRevealed.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] twisted [color] [terrainfeature]s surround the scene.</ToxicityRevealed.rulepack.rulesstrings.17>
+
+	<ToxicityRevealed.rulepack.rulesstrings.18>desc_sentence->The scene takes place inside a twisted [tree] forest.</ToxicityRevealed.rulepack.rulesstrings.18>
+
+	<ToxicityRevealed.rulepack.rulesstrings.19>desc_sentence->[quantity_adjphrase] dying [animal]s litter the ground.</ToxicityRevealed.rulepack.rulesstrings.19>
+
+	<GaveBirth.label>gave birth</GaveBirth.label>
+
+	<GaveBirth.rulepack.rulesstrings.0>tale_noun->[mother_nameShortDef] giving birth to [child_nameShortDef]</GaveBirth.rulepack.rulesstrings.0>
+
+	<GaveBirth.rulepack.rulesstrings.1>image->[mother_nameFull] giving birth to [circumstance_group]</GaveBirth.rulepack.rulesstrings.1>
+
+	<GaveBirth.rulepack.rulesstrings.2>image->[mother_nameFull] holding [mother_possessive] [baby], [circumstance_group]</GaveBirth.rulepack.rulesstrings.2>
+
+	<GaveBirth.rulepack.rulesstrings.3>image->[mother_nameFull] lying in bed next to [mother_possessive] [baby], [circumstance_group]</GaveBirth.rulepack.rulesstrings.3>
+
+	<GaveBirth.rulepack.rulesstrings.4>image->[mother_nameFull] collapsed in a chair with [mother_possessive] [baby] [circumstance_group]</GaveBirth.rulepack.rulesstrings.4>
+
+	<GaveBirth.rulepack.rulesstrings.5>baby->infant</GaveBirth.rulepack.rulesstrings.5>
+
+	<GaveBirth.rulepack.rulesstrings.6>baby->newborn</GaveBirth.rulepack.rulesstrings.6>
+
+	<GaveBirth.rulepack.rulesstrings.7>baby->baby</GaveBirth.rulepack.rulesstrings.7>
+
+	<GaveBirth.rulepack.rulesstrings.8>circumstance_phrase->[child_nameFull], who is bloody and crying</GaveBirth.rulepack.rulesstrings.8>
+
+	<GaveBirth.rulepack.rulesstrings.9>circumstance_phrase->[child_nameFull], who is glowing softly [color]</GaveBirth.rulepack.rulesstrings.9>
+
+	<GaveBirth.rulepack.rulesstrings.10>circumstance_phrase->[child_nameFull], who is already trying to pull [child_objective]self around</GaveBirth.rulepack.rulesstrings.10>
+
+	<GaveBirth.rulepack.rulesstrings.11>circumstance_phrase->[child_nameFull], who is looking around with an expression of serenity</GaveBirth.rulepack.rulesstrings.11>
+
+	<GaveBirth.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] [animal]s sleep peacefully nearby.</GaveBirth.rulepack.rulesstrings.12>
+
+	<GaveBirth.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [outlander]s gaze upon the scene.</GaveBirth.rulepack.rulesstrings.13>
+
+	<GaveBirth.rulepack.rulesstrings.14>desc_sentence->A [outlander]s watches from a distance.</GaveBirth.rulepack.rulesstrings.14>
+
+	<GaveBirth.rulepack.rulesstrings.15>desc_sentence->The scene takes place inside a newly-built [community].</GaveBirth.rulepack.rulesstrings.15>
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIPersonaCore.label>núcleo IA</AIPersonaCore.label>
+
+	<AIPersonaCore.description>Um núcleo de computador hiper avançado que abriga um super humano como inteligência artificial. Em seu estado isolado o núcleo está dormente. Instalado em uma estrutura de suporte adequada, no entanto, ele pode se tornar uma mente com um poder assustador.</AIPersonaCore.description>
+
+	<Neurotrainer.label>neurotreinador</Neurotrainer.label>
+
+	<Neurotrainer.description>Um dispositivo de um único uso formado de nanotecnologia. O neurotreinador é inserido através da órbita do olho e libera nanomáquinas no cérebro do sujeito, melhorando rapidamente as suas habilidades em uma área específica.</Neurotrainer.description>
+
+	<Neurotrainer.comps.1.useLabel>Usar neurotreinador para aprender {0}</Neurotrainer.comps.1.useLabel>
+
+	<ThrumboHorn.label>chifre de thrumbo</ThrumboHorn.label>
+
+	<ThrumboHorn.description>Um chifre de thrumbo. É muito afiado, duro e inestimável na maioria dos mercados. Este é um verdadeiro troféu.</ThrumboHorn.description>
+
+	<ElephantTusk.label>presa de elefante</ElephantTusk.label>
+
+	<ElephantTusk.description>Uma presa de um elefante. Muito durável e valiosa. Mortal, mas um pouco desajeitada como uma arma.</ElephantTusk.description>
+
+	<TechprofSubpersonaCore.comps.1.uselabel>Use o núcleo de aprender</TechprofSubpersonaCore.comps.1.uselabel>
+
+	<TechprofSubpersonaCore.label>núcleo de aprender</TechprofSubpersonaCore.label>
+
+	<TechprofSubpersonaCore.description>Um pequeno núcleo de IA que abriga uma subpessoa de baixo nível especializada em tecnologia de ensino. Quando usada, a IA vai te ensinar uma tecnologia que você não conhece, instantaneamente e de graça. Só pode ser usado uma vez.</TechprofSubpersonaCore.description>
+
+	<ElephantTusk.tools.0.label>ponto</ElephantTusk.tools.0.label>
+
+	<ElephantTusk.tools.1.label>base</ElephantTusk.tools.1.label>
+
+	<MechSerumHealer.comps.1.uselabel>Use soro cicatrizador</MechSerumHealer.comps.1.uselabel>
+
+	<MechSerumHealer.label>soro cicatrizador</MechSerumHealer.label>
+
+	<MechSerumHealer.description>Uma super dose de um-uso de mecanitos ajustados para curar condições de saúde. As mecânicas vão mirar e curar a pior condição de saúde que afeta alguém em um determinado momento. Funciona mesmo em condições de saúde que de outro modo seriam incuráveis. Os mecanitos podem até transmutar-se em matéria orgânica, formando novos membros ou órgãos, conforme necessário..</MechSerumHealer.description>
+
+	<MechSerumResurrector.comps.1.uselabel>Use soro ressurreto</MechSerumResurrector.comps.1.uselabel>
+
+	<MechSerumResurrector.label>soro de ressurreição</MechSerumResurrector.label>
+
+	<MechSerumResurrector.description>Uma super dose de um-uso de mecanitos sintonizados para ressuscitar os mortos. Administrado a um cadáver logo após a morte, as mecânicas reparam os tecidos quebrados e dão o corpo de volta à vida. Nem sempre são bem sucedidos - às vezes, o ressuscitado voltará com danos cerebrais, cegueira ou psicose progressiva. Os resultados são melhores quando os mecanitos são administrados mais cedo.</MechSerumResurrector.description>
+
+	<ThrumboHorn.tools.0.label>ponto</ThrumboHorn.tools.0.label>
+
+	<ThrumboHorn.tools.1.label>base</ThrumboHorn.tools.1.label>
+
+	<MechSerumNeurotrainer.comps.1.uselabel>Use soro de treinamento para aprender {0}</MechSerumNeurotrainer.comps.1.uselabel>
+
+</LanguageData>

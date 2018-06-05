@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RepeatCount.label>fazer X vezes</RepeatCount.label>
+
+	<TargetCount.label>fazer até ter X</TargetCount.label>
+
+	<Forever.label>continuamente</Forever.label>
+
+</LanguageData>

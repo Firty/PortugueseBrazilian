@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ArrowHighVelocity.label>flecha</ArrowHighVelocity.label>
+
+	<ArrowHighVelocity.deathmessage>{0} foi morto a flechadas.</ArrowHighVelocity.deathmessage>
+
+	<RangedStab.label>facada</RangedStab.label>
+
+	<RangedStab.deathmessage>{0} foi esfaqueado até a morte.</RangedStab.deathmessage>
+
+</LanguageData>

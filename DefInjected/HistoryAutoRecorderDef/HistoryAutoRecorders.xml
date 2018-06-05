@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WealthTotal.label>riqueza (total)</WealthTotal.label>
+
+	<WealthItems.label>riqueza (itens)</WealthItems.label>
+
+	<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>
+
+	<FreeColonists.label>colonos livres</FreeColonists.label>
+
+	<Prisoners.label>prisioneiros</Prisoners.label>
+
+	<ColonistMood.label>humor</ColonistMood.label>
+
+	<WealthTotal.graphlabely>Montante</WealthTotal.graphlabely>
+
+	<WealthItems.graphlabely>Montante</WealthItems.graphlabely>
+
+	<WealthBuildings.graphlabely>Montante</WealthBuildings.graphlabely>
+
+	<FreeColonists.graphlabely>Colônos</FreeColonists.graphlabely>
+
+	<Prisoners.graphlabely>Prisioneiros</Prisoners.graphlabely>
+
+	<ColonistMood.graphlabely>Por cento</ColonistMood.graphlabely>
+
+</LanguageData>

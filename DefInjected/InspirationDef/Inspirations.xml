@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<WorkFrenzy.label>trabalhando rápido</WorkFrenzy.label>
+
+	<WorkFrenzy.beginletterlabel>Inspiração: trabalhando rápido</WorkFrenzy.beginletterlabel>
+
+	<WorkFrenzy.beginletter>{0} está inspirada(o). HECAP irá trabalhar 2,5 vezes mais rápido pelas próximas 24 horas.</WorkFrenzy.beginletter>
+
+	<WorkFrenzy.endmessage>{0} não está mais inspirada(o) (trabalhando rápido).</WorkFrenzy.endmessage>
+
+	<WorkFrenzy.baseinspectline>Inspirada(o): Trabalhando rápido</WorkFrenzy.baseinspectline>
+
+	<GoFrenzy.label>andar rápido</GoFrenzy.label>
+
+	<GoFrenzy.beginletterlabel>Inspiração: andar rápido</GoFrenzy.beginletterlabel>
+
+	<GoFrenzy.beginletter>{0} está inspirada(o). HECAP vai andar 1,5 vezes mais rápido pelas próximas 24 horas.</GoFrenzy.beginletter>
+
+	<GoFrenzy.endmessage>{0} não esta mais inspirada(o) (andar rápido).</GoFrenzy.endmessage>
+
+	<GoFrenzy.baseinspectline>Inspirada(o): Andar rápido</GoFrenzy.baseinspectline>
+
+	<ShootFrenzy.label>tiro preciso</ShootFrenzy.label>
+
+	<ShootFrenzy.beginletterlabel>Inspiração: tiro preciso</ShootFrenzy.beginletterlabel>
+
+	<ShootFrenzy.beginletter>{0} está inspirada(o). A sua precisão de tiro será melhorada nos próximos 3 dias.</ShootFrenzy.beginletter>
+
+	<ShootFrenzy.endmessage>{0} não está mais inspirada(o) (tiro preciso).</ShootFrenzy.endmessage>
+
+	<ShootFrenzy.baseinspectline>Inspirada(o): Tiro preciso</ShootFrenzy.baseinspectline>
+
+	<InspiredTrade.label>Inspiração comercial</InspiredTrade.label>
+
+	<InspiredTrade.beginletterlabel>Inspiração: Inspiração comercial</InspiredTrade.beginletterlabel>
+
+	<InspiredTrade.beginletter>{0} está inspirada(o). A HECAP receberá um bônus nos preços da próxima negociação. \n\nA Inspiração terminará após 8 dias ou quando uma negociação for concluído.</InspiredTrade.beginletter>
+
+	<InspiredTrade.endmessage>{0} não está mais inspirada(o) (Inspiração comercial).</InspiredTrade.endmessage>
+
+	<InspiredTrade.baseinspectline>Inspirada(o): Inspiração comercial</InspiredTrade.baseinspectline>
+
+	<InspiredRecruitment.label>Inspiração de recrutamento</InspiredRecruitment.label>
+
+	<InspiredRecruitment.beginletterlabel>Inspiração: Inspiração de recrutamento</InspiredRecruitment.beginletterlabel>
+
+	<InspiredRecruitment.beginletter>{0} está inspirada(o). O HECAP recrutará com sucesso o próximo preso, independentemente da dificuldade. \n\nA Inspiração terminará após 8 dias ou quando um preso for recrutado.</InspiredRecruitment.beginletter>
+
+	<InspiredRecruitment.endmessage>{0} não está mais inspirada(o) (Inspiração de recrutamento).</InspiredRecruitment.endmessage>
+
+	<InspiredRecruitment.baseinspectline>Inspirada(o): Inspiração de recrutamento</InspiredRecruitment.baseinspectline>
+
+	<InspiredSurgery.label>Cirurgião inspirada(o)</InspiredSurgery.label>
+
+	<InspiredSurgery.beginletterlabel>Inspiração: Cirurgião inspirada(o)</InspiredSurgery.beginletterlabel>
+
+	<InspiredSurgery.beginletter>{0} está inspirada(o). A chance de  HIM falhar na próxima cirurgia será 10 vezes menor. \n\nA Inspiração terminará após 8 dias ou quando uma cirurgia for realizada.</InspiredSurgery.beginletter>
+
+	<InspiredSurgery.endmessage>{0} não está mais inspirada(o) (Cirurgião inspirada(o)).</InspiredSurgery.endmessage>
+
+	<InspiredSurgery.baseinspectline>Inspirada(o): Cirurgião inspirada(o)</InspiredSurgery.baseinspectline>
+
+	<InspiredArt.label>Inspiração Artistica</InspiredArt.label>
+
+	<InspiredArt.beginletterlabel>Inspiração: Inspiração Artistica</InspiredArt.beginletterlabel>
+
+	<InspiredArt.beginletter>{0} está inspirada(o). Qualquer peça de arte concluída terá 3 níveis de qualidade mais altos do que normalmente. \n\nA Inspiração terminará após 8 dias ou quando uma obra estiver concluída.</InspiredArt.beginletter>
+
+	<InspiredArt.endmessage>{0} não está mais inspirada(o) (Inspiração Artistica).</InspiredArt.endmessage>
+
+	<InspiredArt.baseinspectline>Inspirada(o): Inspiração Artistica</InspiredArt.baseinspectline>
+
+</LanguageData>

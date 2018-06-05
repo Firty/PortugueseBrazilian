@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Nada</WorkTagNone>
+  <WorkTagIntellectual>Pensamentos intelectuais</WorkTagIntellectual>
+  <WorkTagManualDumb>Trabalhos manuais</WorkTagManualDumb>
+  <WorkTagManualSkilled>Trabalhos qualificados</WorkTagManualSkilled>
+  <WorkTagViolent>Violência</WorkTagViolent>
+  <WorkTagCaring>Cuidar</WorkTagCaring>
+  <WorkTagSocial>Socializar</WorkTagSocial>
+  <WorkTagAnimals>Domesticar</WorkTagAnimals>
+  <WorkTagArtistic>Arte</WorkTagArtistic>
+  <WorkTagCrafting>Manufaturar</WorkTagCrafting>
+  <WorkTagCooking>Cozinhar</WorkTagCooking>
+  <WorkTagFirefighting>Combater incêndios</WorkTagFirefighting>
+  <WorkTagCleaning>Limpar</WorkTagCleaning>
+  <WorkTagHauling>Transportar</WorkTagHauling>
+  <WorkTagPlantWork>Plantar</WorkTagPlantWork>
+  <WorkTagMining>Minerar</WorkTagMining>
+
+</LanguageData>

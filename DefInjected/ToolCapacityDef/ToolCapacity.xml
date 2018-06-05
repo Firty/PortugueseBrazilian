@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Stab.label>perfurando</Stab.label>
+
+	<Cut.label>cortando</Cut.label>
+
+	<Blunt.label>esmagando</Blunt.label>
+
+	<Scratch.label>arranhando</Scratch.label>
+
+	<Poke.label>picando</Poke.label>
+
+	<Bite.label>mordendo</Bite.label>
+
+	<ToxicBite.label>mordida tóxica</ToxicBite.label>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AncientTempleContents.label>conteúdo do templo antigo</AncientTempleContents.label>
+
+	<AncientPodContents.label>conteúdo de vagem antiga</AncientPodContents.label>
+
+	<DebugCaravanInventory.label>debug inventario de caravana</DebugCaravanInventory.label>
+
+	<TraderStock.label>estoque de comércio</TraderStock.label>
+
+	<CaravanRequestRewards.label>recompensas de missões de caravana</CaravanRequestRewards.label>
+
+	<BanditCampQuestRewards.label>recompensas de missões de acampamento de bandidos</BanditCampQuestRewards.label>
+
+	<ItemStashQuest.label>missão de esconderijo de itens</ItemStashQuest.label>
+
+	<ResourcePod.label>recurço refugiado</ResourcePod.label>
+
+	<RefugeePod.label>descanço refugiado</RefugeePod.label>
+
+	<PeaceTalksGift.label>fala de paz presente</PeaceTalksGift.label>
+
+	<Meteorite.label>meteorito</Meteorite.label>
+
+</LanguageData>

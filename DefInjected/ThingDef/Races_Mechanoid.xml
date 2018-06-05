@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Mechanoid_Centipede.label>centopeia</Mechanoid_Centipede.label>
+
+	<Mechanoid_Centipede.description>Mechanoide de combate pesado que desliza em dezenas de pés minúsculos. Sua armadura pesada e poder de fogo o torna muito eficaz contra defensores estáticos agrupados. São pouco vulneráveis a táticas de atirar-e-correr.</Mechanoid_Centipede.description>
+
+	<Mechanoid_Centipede_Corpse.label>cadáver de centopéia</Mechanoid_Centipede_Corpse.label>
+
+	<Mechanoid_Centipede_Corpse.description>Corpo sem vida de uma centopéia.</Mechanoid_Centipede_Corpse.description>
+
+	<Mechanoid_Scyther.label>ceifador</Mechanoid_Scyther.label>
+
+	<Mechanoid_Scyther.description>Rápido, espigado, este mechanoide de combate tem o tamanho de um ser humano. Eles tem, normalmente, uma arma primária a distância, e seus corpos são adornados com duas lâminas articuladas para torná-los mortal em combate corpo a corpo. Eles não usam cobertura. Melhor enfrentados com força concentrada, esmagadora.</Mechanoid_Scyther.description>
+
+	<Mechanoid_Scyther_Corpse.label>cadáver de ceifador</Mechanoid_Scyther_Corpse.label>
+
+	<Mechanoid_Scyther_Corpse.description>Corpo sem vida de um ceifador.</Mechanoid_Scyther_Corpse.description>
+
+	<Mechanoid_Centipede.tools.0.label>cabeça</Mechanoid_Centipede.tools.0.label>
+
+	<Mechanoid_Scyther.tools.0.label>lâmina esquerda</Mechanoid_Scyther.tools.0.label>
+
+	<Mechanoid_Scyther.tools.1.label>lâmina direita</Mechanoid_Scyther.tools.1.label>
+
+	<Mechanoid_Scyther.tools.2.label>cabeça</Mechanoid_Scyther.tools.2.label>
+
+</LanguageData>

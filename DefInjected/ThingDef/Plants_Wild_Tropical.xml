@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantTallGrass.label>grama alta</PlantTallGrass.label>
+
+	<PlantTallGrass.description>Grama alta selvagem. Retarda significativamente o movimento de pessoas sobre ele.</PlantTallGrass.description>
+
+	<PlantTreeTeak.label>árvore de teca</PlantTreeTeak.label>
+
+	<PlantTreeTeak.description>Uma árvore de madeira muito forte, usada nos tempos antigos para construir navios.</PlantTreeTeak.description>
+
+	<PlantTreeCecropia.label>árvore embaúba</PlantTreeCecropia.label>
+
+	<PlantTreeCecropia.description>Uma das árvores de floresta mais comuns. Cresce muito rápido, mas produz pouca madeira utilizável.</PlantTreeCecropia.description>
+
+	<PlantRafflesia.label>rafflesia gigante</PlantRafflesia.label>
+
+	<PlantRafflesia.description>Uma rara flor gigante. Você pensaria que uma flor gigante seria linda, mas esta é bem fedorenta e feia.</PlantRafflesia.description>
+
+	<PlantAlocasia.label>alocasia</PlantAlocasia.label>
+
+	<PlantAlocasia.description>Uma planta tropical comum de folhas largas.</PlantAlocasia.description>
+
+	<PlantClivia.label>clivia</PlantClivia.label>
+
+	<PlantClivia.description>Uma planta incomum com flores altas e bonitas. Alguns chamam de "lírio do mato".</PlantClivia.description>
+
+	<PlantTreePalm.description>Uma árvore tropical com um tronco longo e liso, com um aglomerado de folhas.</PlantTreePalm.description>
+
+	<PlantTreePalm.label>Palmeira</PlantTreePalm.label>
+
+	<PlantTreeBamboo.description>Uma espécie de árvore que cresce rápido e em aglomerados. O bambu gera um material semelhante a madeira. A planta em si não é bonita.</PlantTreeBamboo.description>
+
+	<PlantTreeBamboo.label>árvore de bambu</PlantTreeBamboo.label>
+
+	<PlantShrubLow.label>arbustos baixos</PlantShrubLow.label>
+
+	<PlantShrubLow.description>Arbustos baixos de folhas largas. Estes crescem em aglomerados e atrapalham um pouco o movimento.</PlantShrubLow.description>
+
+</LanguageData>

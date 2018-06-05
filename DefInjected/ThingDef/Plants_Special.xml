@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PlantAmbrosia.label>arbusto de ambrosia</PlantAmbrosia.label>
+
+	<PlantAmbrosia.description>Um arbusto que raramente brota, produz ambrosia. A ambrosia é prazerosa de comer e produz um efeito químico de calor ligeiramente viciante.</PlantAmbrosia.description>
+
+	<BurnedTree.label>árvore queimada</BurnedTree.label>
+
+	<BurnedTree.description>Uma árvore queimada. Não produz madeira utilizável.</BurnedTree.description>
+
+</LanguageData>

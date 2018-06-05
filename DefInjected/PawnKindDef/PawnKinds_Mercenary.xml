@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <MercenaryGunner.label>mercenário artilheiro</MercenaryGunner.label>
+    
+    <MercenarySniper.label>mercenário franco-atirador</MercenarySniper.label>
+    
+    <GrenadierDestructive.label>granadeiro</GrenadierDestructive.label>
+    
+    <GrenadierEMP.label>granadeiro PEM</GrenadierEMP.label>
+    
+    <MercenarySlasher.label>mercenário esfaqueador</MercenarySlasher.label>
+    
+    <MercenaryHeavy.label>mercenário pesado</MercenaryHeavy.label>
+    
+    <PirateBoss.label>chefe</PirateBoss.label>
+    
+    <MercenaryElite.label>mercenário de elite</MercenaryElite.label>
+    
+</LanguageData>
