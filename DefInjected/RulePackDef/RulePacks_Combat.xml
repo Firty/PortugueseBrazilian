@@ -419,7 +419,7 @@
 
 	<Combat_RangedFire.rulepack.rulesstrings.14>shotat(p=0.2)->levou a [shotadjective] tiro a</Combat_RangedFire.rulepack.rulesstrings.14>
 
-	<Combat_RangedFire.rulepack.rulesstrings.15>shotat->disparamos [aburst] a</Combat_RangedFire.rulepack.rulesstrings.15>
+	<Combat_RangedFire.rulepack.rulesstrings.15>shotat->disparou no(a) [aburst]</Combat_RangedFire.rulepack.rulesstrings.15>
 
 	<Combat_RangedFire.rulepack.rulesstrings.16>shotat->disparamos [aburst] [shotadverb] a</Combat_RangedFire.rulepack.rulesstrings.16>
 
@@ -439,7 +439,7 @@
 
 	<Combat_RangedFire.rulepack.rulesstrings.24>shotverb->disparado</Combat_RangedFire.rulepack.rulesstrings.24>
 
-	<Combat_RangedFire.rulepack.rulesstrings.25>shotverb->descarregado</Combat_RangedFire.rulepack.rulesstrings.25>
+	<Combat_RangedFire.rulepack.rulesstrings.25>shotverb->descarregou</Combat_RangedFire.rulepack.rulesstrings.25>
 
 	<Combat_RangedFire.rulepack.rulesstrings.26>shotadverb->cuidadosamente</Combat_RangedFire.rulepack.rulesstrings.26>
 
@@ -585,7 +585,7 @@
 
 	<Combat_RangedMiss.rulepack.rulesstrings.0>logentry->[initiator_definite]s [weapon_projectile_label] [missed].</Combat_RangedMiss.rulepack.rulesstrings.0>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.1>logentry->[initiator_definite] perdido [originalTarget_definite].</Combat_RangedMiss.rulepack.rulesstrings.1>
+	<Combat_RangedMiss.rulepack.rulesstrings.1>logentry->[initiator_definite] errou [originalTarget_definite].</Combat_RangedMiss.rulepack.rulesstrings.1>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite]s [weapon_projectile_label] [missing].</Combat_RangedMiss.rulepack.rulesstrings.2>
 
