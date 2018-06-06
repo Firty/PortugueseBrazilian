@@ -57,7 +57,7 @@
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.27>damaged_present->ferindo</Combat_MeleeIncludes.rulepack.rulesstrings.27>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.28>damaged_present->prejudiceo</Combat_MeleeIncludes.rulepack.rulesstrings.28>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.28>damaged_present->prejudicando</Combat_MeleeIncludes.rulepack.rulesstrings.28>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.29>destroyed(p=0.5)->destruido</Combat_MeleeIncludes.rulepack.rulesstrings.29>
 
@@ -93,25 +93,25 @@
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.45>flavortextadverb->impiedosamente</Combat_MeleeIncludes.rulepack.rulesstrings.45>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.46>flavortextadverb->sem coração</Combat_MeleeIncludes.rulepack.rulesstrings.46>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.46>flavortextadverb->sem piedade</Combat_MeleeIncludes.rulepack.rulesstrings.46>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->em uma explosão de sangue</Combat_MeleeIncludes.rulepack.rulesstrings.47>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->e jorrou sangue</Combat_MeleeIncludes.rulepack.rulesstrings.47>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.48>flavortextsituation(recipient_flesh==Mechanoid)->em uma explosão de sucata</Combat_MeleeIncludes.rulepack.rulesstrings.48>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.48>flavortextsituation(recipient_flesh==Mechanoid)->e voou sucata</Combat_MeleeIncludes.rulepack.rulesstrings.48>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.49>flavortextsituation->sem emoção</Combat_MeleeIncludes.rulepack.rulesstrings.49>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.49>flavortextsituation->sem piedade</Combat_MeleeIncludes.rulepack.rulesstrings.49>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.50>flavortextsituation->enquanto usava um visual vazio</Combat_MeleeIncludes.rulepack.rulesstrings.50>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.51>flavortextsituation(initiator_flesh==Normal)->enquanto usava um olhar selvagem</Combat_MeleeIncludes.rulepack.rulesstrings.51>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.52>flavortextsituation(initiator_flesh==Normal)->enquanto vestindo um [badassadjective] olhava</Combat_MeleeIncludes.rulepack.rulesstrings.52>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.52>flavortextsituation(initiator_flesh==Normal)->enquanto vestia um [badassadjective] olhava</Combat_MeleeIncludes.rulepack.rulesstrings.52>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.53>flavortextsituation(initiator_flesh==Normal)->enquanto fazendo careta</Combat_MeleeIncludes.rulepack.rulesstrings.53>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.53>flavortextsituation(initiator_flesh==Normal)->enquanto fazia careta</Combat_MeleeIncludes.rulepack.rulesstrings.53>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.54>flavortextsituation(initiator_flesh==Normal)->enquanto rindo</Combat_MeleeIncludes.rulepack.rulesstrings.54>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.54>flavortextsituation(initiator_flesh==Normal)->enquanto ria</Combat_MeleeIncludes.rulepack.rulesstrings.54>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.55>flavortextsituation(initiator_flesh==Normal)->enquanto sorrindo</Combat_MeleeIncludes.rulepack.rulesstrings.55>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.55>flavortextsituation(initiator_flesh==Normal)->enquanto sorria</Combat_MeleeIncludes.rulepack.rulesstrings.55>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->deixeo uma ferida nojenta</Combat_MeleeIncludes.rulepack.rulesstrings.56>
 
@@ -281,7 +281,7 @@
 
 	<Combat_Hit.rulepack.rulesstrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite] [flavortextadverb].</Combat_Hit.rulepack.rulesstrings.1>
 
-	<Combat_Hit.rulepack.rulesstrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite] [flavortextsituation].</Combat_Hit.rulepack.rulesstrings.2>
+	<Combat_Hit.rulepack.rulesstrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] d[recipient_definite] [flavortextsituation].</Combat_Hit.rulepack.rulesstrings.2>
 
 	<Combat_Hit.rulepack.rulesstrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite], [flavortextconsequence].</Combat_Hit.rulepack.rulesstrings.3>
 
@@ -301,7 +301,7 @@
 
 	<Combat_Hit.rulepack.rulesstrings.11>result(p=1)->[destroyed_present] [recipient_possessive] [destroyed_targets] e [damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulepack.rulesstrings.11>
 
-	<Combat_Hit.rulepack.rulesstrings.12>action(p=0.3)->[initiator_definite] acertar [recipient_definite] com um [damaged_inf] a partir de [implement]</Combat_Hit.rulepack.rulesstrings.12>
+	<Combat_Hit.rulepack.rulesstrings.12>action(p=0.3)->[initiator_definite] acertou [recipient_definite] com um [damaged_inf] com a [implement]</Combat_Hit.rulepack.rulesstrings.12>
 
 	<Combat_Hit.rulepack.rulesstrings.13>action(p=0.3)->[initiator_definite] usava [implement] para [damaged_inf] [recipient_definite]</Combat_Hit.rulepack.rulesstrings.13>
 
@@ -309,7 +309,7 @@
 
 	<Combat_Hit.rulepack.rulesstrings.15>action(p=0.6)->[initiator_definite] [damaged_past] [recipient_definite]</Combat_Hit.rulepack.rulesstrings.15>
 
-	<Combat_FailIncludes.rulepack.rulesstrings.0>action->[initiator_definite] [tried] para [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.0>
+	<Combat_FailIncludes.rulepack.rulesstrings.0>action->[initiator_definite] [tried] [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.0>
 
 	<Combat_FailIncludes.rulepack.rulesstrings.1>action->[initiator_definite] [tried] para [damaged_inf] [recipient_definite] com [implement]</Combat_FailIncludes.rulepack.rulesstrings.1>
 
@@ -335,7 +335,7 @@
 
 	<Combat_FailIncludes.rulepack.rulesstrings.12>tried->tentou</Combat_FailIncludes.rulepack.rulesstrings.12>
 
-	<Combat_FailIncludes.rulepack.rulesstrings.13>tried->tentada</Combat_FailIncludes.rulepack.rulesstrings.13>
+	<Combat_FailIncludes.rulepack.rulesstrings.13>tried->tentou</Combat_FailIncludes.rulepack.rulesstrings.13>
 
 	<Combat_Miss.rulepack.rulesstrings.0>logentry(p=0.2)->[recipient_definite] evitado [initiator_definite]s [weapon_label] [damaged_inf].</Combat_Miss.rulepack.rulesstrings.0>
 
@@ -359,9 +359,9 @@
 
 	<Combat_Miss.rulepack.rulesstrings.10>result->mas errou</Combat_Miss.rulepack.rulesstrings.10>
 
-	<Combat_Miss.rulepack.rulesstrings.11>result->mas bateu apenas ar</Combat_Miss.rulepack.rulesstrings.11>
+	<Combat_Miss.rulepack.rulesstrings.11>result->mas acertou apenas o vento</Combat_Miss.rulepack.rulesstrings.11>
 
-	<Combat_Miss.rulepack.rulesstrings.12>result->mas o balanço foi largo</Combat_Miss.rulepack.rulesstrings.12>
+	<Combat_Miss.rulepack.rulesstrings.12>result->mas o golpe passou longe</Combat_Miss.rulepack.rulesstrings.12>
 
 	<Combat_Miss.rulepack.rulesstrings.13>result->mas tropeçou no último segundo</Combat_Miss.rulepack.rulesstrings.13>
 
