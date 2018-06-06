@@ -117,7 +117,7 @@
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.57>flavortextconsequence->deixeo uma ferida horrível</Combat_MeleeIncludes.rulepack.rulesstrings.57>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.58>flavortextconsequence(recipient_flesh!=Mechanoid)->fazerendo [recipient_objective] [wince] [painevent]</Combat_MeleeIncludes.rulepack.rulesstrings.58>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.58>flavortextconsequence(recipient_flesh!=Mechanoid)->fazendo [recipient_objective] [wince] [painevent]</Combat_MeleeIncludes.rulepack.rulesstrings.58>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.59>flavortextconsequence(p=0.2)->jogeo [recipient_objective] desequilibrado</Combat_MeleeIncludes.rulepack.rulesstrings.59>
 
@@ -151,7 +151,7 @@
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.74>painevent->da lesão</Combat_MeleeIncludes.rulepack.rulesstrings.74>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.75>painevent->da ferida</Combat_MeleeIncludes.rulepack.rulesstrings.75>
+	<Combat_MeleeIncludes.rulepack.rulesstrings.75>painevent->de dor</Combat_MeleeIncludes.rulepack.rulesstrings.75>
 
 	<Combat_MeleeIncludes.rulepack.rulesstrings.76>mortarshell->cartucho</Combat_MeleeIncludes.rulepack.rulesstrings.76>
 
@@ -277,13 +277,13 @@
 
 	<Combat_WoundIncludes.rulepack.rulesstrings.47>expert->artístico</Combat_WoundIncludes.rulepack.rulesstrings.47>
 
-	<Combat_Hit.rulepack.rulesstrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] [recipient_definite] no [recipient_part0_label].</Combat_Hit.rulepack.rulesstrings.0>
+	<Combat_Hit.rulepack.rulesstrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite].</Combat_Hit.rulepack.rulesstrings.0>
 
-	<Combat_Hit.rulepack.rulesstrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] no [recipient_part0_label] [flavortextadverb].</Combat_Hit.rulepack.rulesstrings.1>
+	<Combat_Hit.rulepack.rulesstrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite] [flavortextadverb].</Combat_Hit.rulepack.rulesstrings.1>
 
-	<Combat_Hit.rulepack.rulesstrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] no [recipient_part0_label] [flavortextsituation].</Combat_Hit.rulepack.rulesstrings.2>
+	<Combat_Hit.rulepack.rulesstrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite] [flavortextsituation].</Combat_Hit.rulepack.rulesstrings.2>
 
-	<Combat_Hit.rulepack.rulesstrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] [recipient_definite] no [recipient_part0_label], [flavortextconsequence].</Combat_Hit.rulepack.rulesstrings.3>
+	<Combat_Hit.rulepack.rulesstrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite], [flavortextconsequence].</Combat_Hit.rulepack.rulesstrings.3>
 
 	<Combat_Hit.rulepack.rulesstrings.4>logentry(p=0.4)->[initiator_definite], wielding [initiator_possessive] [weapon_label] [expertly], [flavortextadverb] [damaged_past] [recipient_definite] no [recipient_part0_label].</Combat_Hit.rulepack.rulesstrings.4>
 
@@ -391,41 +391,41 @@
 
 	<Combat_RangedFire.rulepack.rulesstrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] com [initiator_possessive] [weapon_label].</Combat_RangedFire.rulepack.rulesstrings.0>
 
-	<Combat_RangedFire.rulepack.rulesstrings.1>logentry->[initiator_definite] [shot] [initiator_possessive] [weapon_label] a [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.1>
+	<Combat_RangedFire.rulepack.rulesstrings.1>logentry->[initiator_definite] [shot] [initiator_possessive] [weapon_label] em [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.1>
 
 	<Combat_RangedFire.rulepack.rulesstrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.2>
 
-	<Combat_RangedFire.rulepack.rulesstrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] a [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.3>
+	<Combat_RangedFire.rulepack.rulesstrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] em [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.3>
 
 	<Combat_RangedFire.rulepack.rulesstrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulepack.rulesstrings.4>
 
 	<Combat_RangedFire.rulepack.rulesstrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [initiator_possessive] [weapon_label].</Combat_RangedFire.rulepack.rulesstrings.5>
 
-	<Combat_RangedFire.rulepack.rulesstrings.6>shot_a->[shotadverb] [shotverb] um</Combat_RangedFire.rulepack.rulesstrings.6>
+	<Combat_RangedFire.rulepack.rulesstrings.6>shot_a->[shotadverb] [shotverb] uma</Combat_RangedFire.rulepack.rulesstrings.6>
 
-	<Combat_RangedFire.rulepack.rulesstrings.7>shot_a(p=2)->[shotverb] um</Combat_RangedFire.rulepack.rulesstrings.7>
+	<Combat_RangedFire.rulepack.rulesstrings.7>shot_a(p=2)->[shotverb] uma</Combat_RangedFire.rulepack.rulesstrings.7>
 
 	<Combat_RangedFire.rulepack.rulesstrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulepack.rulesstrings.8>
 
 	<Combat_RangedFire.rulepack.rulesstrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulepack.rulesstrings.9>
 
-	<Combat_RangedFire.rulepack.rulesstrings.10>shotat->tiro [aburst] a</Combat_RangedFire.rulepack.rulesstrings.10>
+	<Combat_RangedFire.rulepack.rulesstrings.10>shotat->atirou [aburst] em</Combat_RangedFire.rulepack.rulesstrings.10>
 
-	<Combat_RangedFire.rulepack.rulesstrings.11>shotat->[shotadverb] tiro [aburst] a</Combat_RangedFire.rulepack.rulesstrings.11>
+	<Combat_RangedFire.rulepack.rulesstrings.11>shotat->[shotadverb] atirou [aburst] em</Combat_RangedFire.rulepack.rulesstrings.11>
 
-	<Combat_RangedFire.rulepack.rulesstrings.12>shotat(p=0.5)->tentou atirar [aburst] a</Combat_RangedFire.rulepack.rulesstrings.12>
+	<Combat_RangedFire.rulepack.rulesstrings.12>shotat(p=0.5)->tentou atirar [aburst] em</Combat_RangedFire.rulepack.rulesstrings.12>
 
-	<Combat_RangedFire.rulepack.rulesstrings.13>shotat(p=0.3)->levou um tiro a</Combat_RangedFire.rulepack.rulesstrings.13>
+	<Combat_RangedFire.rulepack.rulesstrings.13>shotat(p=0.3)->disparou em</Combat_RangedFire.rulepack.rulesstrings.13>
 
-	<Combat_RangedFire.rulepack.rulesstrings.14>shotat(p=0.2)->levou a [shotadjective] tiro a</Combat_RangedFire.rulepack.rulesstrings.14>
+	<Combat_RangedFire.rulepack.rulesstrings.14>shotat(p=0.2)->levou uma [shotadjective] tiro em</Combat_RangedFire.rulepack.rulesstrings.14>
 
-	<Combat_RangedFire.rulepack.rulesstrings.15>shotat->disparou no(a) [aburst]</Combat_RangedFire.rulepack.rulesstrings.15>
+	<Combat_RangedFire.rulepack.rulesstrings.15>shotat->disparou em</Combat_RangedFire.rulepack.rulesstrings.15>
 
-	<Combat_RangedFire.rulepack.rulesstrings.16>shotat->disparamos [aburst] [shotadverb] a</Combat_RangedFire.rulepack.rulesstrings.16>
+	<Combat_RangedFire.rulepack.rulesstrings.16>shotat->disparou [aburst] [shotadverb] em</Combat_RangedFire.rulepack.rulesstrings.16>
 
-	<Combat_RangedFire.rulepack.rulesstrings.17>shotat(p=0.5)->apontado e disparado [aburst] a</Combat_RangedFire.rulepack.rulesstrings.17>
+	<Combat_RangedFire.rulepack.rulesstrings.17>shotat(p=0.5)->aponta e dispara [aburst] em</Combat_RangedFire.rulepack.rulesstrings.17>
 
-	<Combat_RangedFire.rulepack.rulesstrings.18>shotat(p=0.3)->abriu fogo a</Combat_RangedFire.rulepack.rulesstrings.18>
+	<Combat_RangedFire.rulepack.rulesstrings.18>shotat(p=0.3)->abriu fogo em</Combat_RangedFire.rulepack.rulesstrings.18>
 
 	<Combat_RangedFire.rulepack.rulesstrings.19>aburst-></Combat_RangedFire.rulepack.rulesstrings.19>
 
@@ -435,11 +435,11 @@
 
 	<Combat_RangedFire.rulepack.rulesstrings.22>burst(burst==True,p=3)->estourar</Combat_RangedFire.rulepack.rulesstrings.22>
 
-	<Combat_RangedFire.rulepack.rulesstrings.23>shotverb->tiro</Combat_RangedFire.rulepack.rulesstrings.23>
+	<Combat_RangedFire.rulepack.rulesstrings.23>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.23>
 
-	<Combat_RangedFire.rulepack.rulesstrings.24>shotverb->disparado</Combat_RangedFire.rulepack.rulesstrings.24>
+	<Combat_RangedFire.rulepack.rulesstrings.24>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.24>
 
-	<Combat_RangedFire.rulepack.rulesstrings.25>shotverb->descarregou</Combat_RangedFire.rulepack.rulesstrings.25>
+	<Combat_RangedFire.rulepack.rulesstrings.25>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.25>
 
 	<Combat_RangedFire.rulepack.rulesstrings.26>shotadverb->cuidadosamente</Combat_RangedFire.rulepack.rulesstrings.26>
 
@@ -497,9 +497,9 @@
 
 	<Combat_RangedDamage.rulepack.rulesstrings.15>logentry(p=6)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]s [destroyed_targets] e [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.15>
 
-	<Combat_RangedDamage.rulepack.rulesstrings.16>logentry(p=0.2)->[initiator_definite] acertar [recipient_definite] com um [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.16>
+	<Combat_RangedDamage.rulepack.rulesstrings.16>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com uma [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.16>
 
-	<Combat_RangedDamage.rulepack.rulesstrings.17>logentry(p=0.2)->[initiator_definite]s [weapon_projectile_label] acertar [recipient_definite].</Combat_RangedDamage.rulepack.rulesstrings.17>
+	<Combat_RangedDamage.rulepack.rulesstrings.17>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com uma [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.17>
 
 	<Combat_RangedDamage.rulepack.rulesstrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] e acertar [recipient_definite] com um [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.18>
 
@@ -511,7 +511,7 @@
 
 	<Combat_RangedDamage.rulepack.rulesstrings.22>destroyed_past->despedaçado</Combat_RangedDamage.rulepack.rulesstrings.22>
 
-	<Combat_RangedDamage.rulepack.rulesstrings.23>destroyed_past->esmagado</Combat_RangedDamage.rulepack.rulesstrings.23>
+	<Combat_RangedDamage.rulepack.rulesstrings.23>destroyed_past->esmagou</Combat_RangedDamage.rulepack.rulesstrings.23>
 
 	<Combat_RangedDamage.rulepack.rulesstrings.24>destroyed_past->obliterado</Combat_RangedDamage.rulepack.rulesstrings.24>
 
@@ -557,7 +557,7 @@
 
 	<Combat_RangedDamage.rulepack.rulesstrings.45>damaged_past->danificou</Combat_RangedDamage.rulepack.rulesstrings.45>
 
-	<Combat_RangedDamage.rulepack.rulesstrings.46>damaged_past->atirou</Combat_RangedDamage.rulepack.rulesstrings.46>
+	<Combat_RangedDamage.rulepack.rulesstrings.46>damaged_past->disparou</Combat_RangedDamage.rulepack.rulesstrings.46>
 
 	<Combat_RangedDamage.rulepack.rulesstrings.47>damaged_present->ferindo</Combat_RangedDamage.rulepack.rulesstrings.47>
 
@@ -583,41 +583,41 @@
 
 	<Combat_RangedDamage.rulepack.rulesstrings.58>missed->estreitamente perdida</Combat_RangedDamage.rulepack.rulesstrings.58>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.0>logentry->[initiator_definite]s [weapon_projectile_label] [missed].</Combat_RangedMiss.rulepack.rulesstrings.0>
+	<Combat_RangedMiss.rulepack.rulesstrings.0>logentry->O tiro de [initiator_definite] [missed].</Combat_RangedMiss.rulepack.rulesstrings.0>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.1>logentry->[initiator_definite] errou [originalTarget_definite].</Combat_RangedMiss.rulepack.rulesstrings.1>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.2>logentry->[originalTarget_definite] [avoidance], [initiator_definite]s [weapon_projectile_label] [missing].</Combat_RangedMiss.rulepack.rulesstrings.2>
+	<Combat_RangedMiss.rulepack.rulesstrings.2>logentry->[originalTarget_definite] [avoidance], a [weapon_projectile_label] de [initiator_definite] passou [missing].</Combat_RangedMiss.rulepack.rulesstrings.2>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.3>missed(p=4)->perdido</Combat_RangedMiss.rulepack.rulesstrings.3>
+	<Combat_RangedMiss.rulepack.rulesstrings.3>missed(p=4)->se perdeu</Combat_RangedMiss.rulepack.rulesstrings.3>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.4>missed(p=2)->perdido por uma pequena margem</Combat_RangedMiss.rulepack.rulesstrings.4>
+	<Combat_RangedMiss.rulepack.rulesstrings.4>missed(p=2)->passou bem perto</Combat_RangedMiss.rulepack.rulesstrings.4>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.5>missed(p=2)->perdido por uma ampla margem</Combat_RangedMiss.rulepack.rulesstrings.5>
+	<Combat_RangedMiss.rulepack.rulesstrings.5>missed(p=2)->passou bem longe</Combat_RangedMiss.rulepack.rulesstrings.5>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.6>missed->foi largo</Combat_RangedMiss.rulepack.rulesstrings.6>
+	<Combat_RangedMiss.rulepack.rulesstrings.6>missed->passou longe</Combat_RangedMiss.rulepack.rulesstrings.6>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.7>missed->voou para o ar</Combat_RangedMiss.rulepack.rulesstrings.7>
+	<Combat_RangedMiss.rulepack.rulesstrings.7>missed->voou pelo ar</Combat_RangedMiss.rulepack.rulesstrings.7>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.8>missed->voou alto no ar</Combat_RangedMiss.rulepack.rulesstrings.8>
+	<Combat_RangedMiss.rulepack.rulesstrings.8>missed->voou alto pelo ar</Combat_RangedMiss.rulepack.rulesstrings.8>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.9>missed->cavado no chão</Combat_RangedMiss.rulepack.rulesstrings.9>
+	<Combat_RangedMiss.rulepack.rulesstrings.9>missed->cravado no chão</Combat_RangedMiss.rulepack.rulesstrings.9>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.10>missed->carona [originalTarget_definite]s tampa</Combat_RangedMiss.rulepack.rulesstrings.10>
+	<Combat_RangedMiss.rulepack.rulesstrings.10>missed->foi no rumo de [originalTarget_definite] mas errou</Combat_RangedMiss.rulepack.rulesstrings.10>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.11>missed->saltou do chão e foi perdido</Combat_RangedMiss.rulepack.rulesstrings.11>
+	<Combat_RangedMiss.rulepack.rulesstrings.11>missed->bateu no chão e de perdeu</Combat_RangedMiss.rulepack.rulesstrings.11>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.12>missed->cavou um buraco no chão</Combat_RangedMiss.rulepack.rulesstrings.12>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.13>missed(p=0.2)->passou a milímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.13>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.14>missed->passou centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.14>
+	<Combat_RangedMiss.rulepack.rulesstrings.14>missed->passou a centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.14>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.15>missed->passou a um metro de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.15>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.16>missed->foi soprado fora do curso</Combat_RangedMiss.rulepack.rulesstrings.16>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.17>missing->perdido</Combat_RangedMiss.rulepack.rulesstrings.17>
+	<Combat_RangedMiss.rulepack.rulesstrings.17>missing->se perdeu</Combat_RangedMiss.rulepack.rulesstrings.17>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.18>missing->faltando por uma pequena margem</Combat_RangedMiss.rulepack.rulesstrings.18>
 
@@ -625,19 +625,19 @@
 
 	<Combat_RangedMiss.rulepack.rulesstrings.20>missing->indo bem</Combat_RangedMiss.rulepack.rulesstrings.20>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.21>missing->voando no ar</Combat_RangedMiss.rulepack.rulesstrings.21>
+	<Combat_RangedMiss.rulepack.rulesstrings.21>missing->voando pelo ar</Combat_RangedMiss.rulepack.rulesstrings.21>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.22>missing->voando alto no ar</Combat_RangedMiss.rulepack.rulesstrings.22>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.23>missing->cavando no chão</Combat_RangedMiss.rulepack.rulesstrings.23>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.24>missing->pular do chão e se perder</Combat_RangedMiss.rulepack.rulesstrings.24>
+	<Combat_RangedMiss.rulepack.rulesstrings.24>missing->raspando o chão e se perdeu</Combat_RangedMiss.rulepack.rulesstrings.24>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.25>missing->cavando um torrão do chão</Combat_RangedMiss.rulepack.rulesstrings.25>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.26>missing(p=0.2)->passando milímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.26>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.27>missing->passando centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.27>
+	<Combat_RangedMiss.rulepack.rulesstrings.27>missing->passando a centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.27>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.28>missing->passando um metro de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.28>
 
@@ -645,11 +645,11 @@
 
 	<Combat_RangedMiss.rulepack.rulesstrings.30>avoidance(originalTarget_mobile==True)->empurrou de lado no último segundo</Combat_RangedMiss.rulepack.rulesstrings.30>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.31>avoidance(originalTarget_mobile==True)->tropeçou em uma tentativa de escapar</Combat_RangedMiss.rulepack.rulesstrings.31>
+	<Combat_RangedMiss.rulepack.rulesstrings.31>avoidance(originalTarget_mobile==True)->tropeçou ao tentar escapar</Combat_RangedMiss.rulepack.rulesstrings.31>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.32>avoidance(originalTarget_mobile==True)->jogou [originalTarget_objective]auto ao chão</Combat_RangedMiss.rulepack.rulesstrings.32>
+	<Combat_RangedMiss.rulepack.rulesstrings.32>avoidance(originalTarget_mobile==True)->se jogou ao chão</Combat_RangedMiss.rulepack.rulesstrings.32>
 
-	<Combat_RangedMiss.rulepack.rulesstrings.33>avoidance(originalTarget_mobile==True,p=0.3)->se escondeu atrás do pedaço de capa mais próximo</Combat_RangedMiss.rulepack.rulesstrings.33>
+	<Combat_RangedMiss.rulepack.rulesstrings.33>avoidance(originalTarget_mobile==True,p=0.3)->se escondeu atrás do pedaço de pedra mais próximo</Combat_RangedMiss.rulepack.rulesstrings.33>
 
 	<Combat_RangedMiss.rulepack.rulesstrings.34>avoidance(originalTarget_mobile==True,p=0.3)->saltou atrás do próximo pedaço de capa</Combat_RangedMiss.rulepack.rulesstrings.34>
 

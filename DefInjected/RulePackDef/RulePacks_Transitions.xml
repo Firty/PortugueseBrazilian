@@ -71,7 +71,7 @@
 
 	<Transition_Downed.rulepack.rulesstrings.29>collapsedmeta(p=0.5)->[collapsed] [helplessly]</Transition_Downed.rulepack.rulesstrings.29>
 
-	<Transition_DiedInclude.rulepack.rulesstrings.0>logentry(p=1.5)->[culpritHediff_labelNoun] causado [subject_definite] a [die].</Transition_DiedInclude.rulepack.rulesstrings.0>
+	<Transition_DiedInclude.rulepack.rulesstrings.0>logentry(p=1.5)->[culpritHediff_labelNoun] causou a [die] de [subject_definite].</Transition_DiedInclude.rulepack.rulesstrings.0>
 
 	<Transition_DiedInclude.rulepack.rulesstrings.1>logentry(p=1.5)->[culpritHediff_labelNoun] no [culpritHediff_target_label] causado [subject_definite] a [die].</Transition_DiedInclude.rulepack.rulesstrings.1>
 
@@ -87,7 +87,7 @@
 
 	<Transition_Died.rulepack.rulesstrings.0>die(p=2)->morrer</Transition_Died.rulepack.rulesstrings.0>
 
-	<Transition_Died.rulepack.rulesstrings.1>die->perecer</Transition_Died.rulepack.rulesstrings.1>
+	<Transition_Died.rulepack.rulesstrings.1>die->morte</Transition_Died.rulepack.rulesstrings.1>
 
 	<Transition_Died.rulepack.rulesstrings.2>die->expirar</Transition_Died.rulepack.rulesstrings.2>
 
@@ -97,7 +97,7 @@
 
 	<Transition_Died.rulepack.rulesstrings.5>die(subject_flesh==Mechanoid,p=0.5)->parar de funcionar</Transition_Died.rulepack.rulesstrings.5>
 
-	<Transition_Died.rulepack.rulesstrings.6>died(p=2)->morto</Transition_Died.rulepack.rulesstrings.6>
+	<Transition_Died.rulepack.rulesstrings.6>died(p=2)->morreu</Transition_Died.rulepack.rulesstrings.6>
 
 	<Transition_Died.rulepack.rulesstrings.7>died->pereceu</Transition_Died.rulepack.rulesstrings.7>
 

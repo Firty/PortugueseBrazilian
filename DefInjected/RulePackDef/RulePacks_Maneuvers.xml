@@ -149,15 +149,15 @@
 
 	<Maneuver_Smash_Damage.rulepack.rulesstrings.4>damaged_inf->pancada</Maneuver_Smash_Damage.rulepack.rulesstrings.4>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.5>damaged_past(p=4)->esmagado</Maneuver_Smash_Damage.rulepack.rulesstrings.5>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.5>damaged_past(p=4)->esmagou</Maneuver_Smash_Damage.rulepack.rulesstrings.5>
 
 	<Maneuver_Smash_Damage.rulepack.rulesstrings.6>damaged_past->apanhou</Maneuver_Smash_Damage.rulepack.rulesstrings.6>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.7>damaged_past->espancado</Maneuver_Smash_Damage.rulepack.rulesstrings.7>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.7>damaged_past->espancou</Maneuver_Smash_Damage.rulepack.rulesstrings.7>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.8>damaged_past->lançado</Maneuver_Smash_Damage.rulepack.rulesstrings.8>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.8>damaged_past->lançou</Maneuver_Smash_Damage.rulepack.rulesstrings.8>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.9>damaged_past->espancado</Maneuver_Smash_Damage.rulepack.rulesstrings.9>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.9>damaged_past->espancou</Maneuver_Smash_Damage.rulepack.rulesstrings.9>
 
 	<Maneuver_Smash_Damage.rulepack.rulesstrings.10>damaged_present->esmagando</Maneuver_Smash_Damage.rulepack.rulesstrings.10>
 
@@ -169,15 +169,15 @@
 
 	<Maneuver_Smash_Damage.rulepack.rulesstrings.14>damaged_present->espancando</Maneuver_Smash_Damage.rulepack.rulesstrings.14>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.15>destroyed_past->despedaçado</Maneuver_Smash_Damage.rulepack.rulesstrings.15>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.15>destroyed_past->despedaçou</Maneuver_Smash_Damage.rulepack.rulesstrings.15>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.16>destroyed_past->esmagado</Maneuver_Smash_Damage.rulepack.rulesstrings.16>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.16>destroyed_past->esmagou</Maneuver_Smash_Damage.rulepack.rulesstrings.16>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.17>destroyed_past->destruido</Maneuver_Smash_Damage.rulepack.rulesstrings.17>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.17>destroyed_past->destruiu</Maneuver_Smash_Damage.rulepack.rulesstrings.17>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.18>destroyed_past->aniquilado</Maneuver_Smash_Damage.rulepack.rulesstrings.18>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.18>destroyed_past->aniquilou</Maneuver_Smash_Damage.rulepack.rulesstrings.18>
 
-	<Maneuver_Smash_Damage.rulepack.rulesstrings.19>destroyed_past->quebrado</Maneuver_Smash_Damage.rulepack.rulesstrings.19>
+	<Maneuver_Smash_Damage.rulepack.rulesstrings.19>destroyed_past->quebrou</Maneuver_Smash_Damage.rulepack.rulesstrings.19>
 
 	<Maneuver_Smash_Damage.rulepack.rulesstrings.20>destroyed_present->despedaçado</Maneuver_Smash_Damage.rulepack.rulesstrings.20>
 
@@ -313,15 +313,15 @@
 
 	<Poke.rulepack.rulesstrings.18>flavortextconsequence->batendo [recipient_objective] para o lado</Poke.rulepack.rulesstrings.18>
 
-	<Poke.rulepack.rulesstrings.19>destroyed_past->despedaçado</Poke.rulepack.rulesstrings.19>
+	<Poke.rulepack.rulesstrings.19>destroyed_past->despedaçou</Poke.rulepack.rulesstrings.19>
 
-	<Poke.rulepack.rulesstrings.20>destroyed_past->esmagado</Poke.rulepack.rulesstrings.20>
+	<Poke.rulepack.rulesstrings.20>destroyed_past->esmagou</Poke.rulepack.rulesstrings.20>
 
-	<Poke.rulepack.rulesstrings.21>destroyed_past->destruido</Poke.rulepack.rulesstrings.21>
+	<Poke.rulepack.rulesstrings.21>destroyed_past->destruiu</Poke.rulepack.rulesstrings.21>
 
-	<Poke.rulepack.rulesstrings.22>destroyed_past->aniquilado</Poke.rulepack.rulesstrings.22>
+	<Poke.rulepack.rulesstrings.22>destroyed_past->aniquilou</Poke.rulepack.rulesstrings.22>
 
-	<Poke.rulepack.rulesstrings.23>destroyed_past->quebrado</Poke.rulepack.rulesstrings.23>
+	<Poke.rulepack.rulesstrings.23>destroyed_past->quebrou</Poke.rulepack.rulesstrings.23>
 
 	<Poke.rulepack.rulesstrings.24>destroyed_present->despedaçando</Poke.rulepack.rulesstrings.24>
 
