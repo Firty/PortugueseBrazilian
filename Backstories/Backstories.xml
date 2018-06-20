@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BackstoryTranslations>
 	<ColonySettler43>
-		<title>Colonizad. de colônias</title>
+		<title>Colonizad. de colônia</title>
 		<titleShort>Colonizador(a)</titleShort>
 		<desc>[PAWN_nameDef] era um(a) colonizador(a) em um novo mundo de colônias.
 
@@ -12,43 +12,43 @@ Tal vida exige um pau-para-toda-obra em tarefas práticas.</desc>
 		<titleShort>Estúpido(a)</titleShort>
 		<desc>Lavrar, capinar, guiar carros de boi, empurrar carrinhos de mão. Cavar valas, plantar sementes, antecipar a colheita.
 
-Os agricultores de nível medieval não são educados no sentido usual, mas eles sabem muito sobre o cultivo de plantas sem tecnologia. Dito isto, tal vida deixa um essencialmente incapaz de participar de atividades intelectuais, orientadas por tecnologia.</desc>
+Os fazendeiros de nível medieval não são educados no sentido usual, mas eles sabem muito sobre o cultivo de plantas sem tecnologia. Tal vida deixa uma pessoa essencialmente incapaz de participar de atividades intelectuais, orientadas por tecnologia.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
 		<title>Lorde medieval</title>
 		<titleShort>Nobre</titleShort>
-		<desc>[PAWN_nameDef] era um lorde em um planeta pré-industrial. [PAWN_pronoun] foi a festas, gerenciou os subordinados, e até aprendeu alguma esgrima.
+		<desc>[PAWN_nameDef] era um(a) lorde em um planeta pré-industrial. [PAWN_pronoun] foi a festas, gerenciou os subordinados, e até aprendeu alguma esgrima.
 
-Suas mãos macias não seguravam uma ferramenta de trabalho durante todo o tempo. [PAWN_pronoun] considera que o trabalho manual está abaixo dHE.</desc>
+Suas mãos macias não seguraram uma ferramenta de trabalho durante todo este tempo. [PAWN_pronoun] considera que o trabalho manual está abaixo dHE.</desc>
 	</MedievalLord20>
 	<UrbworldEntrepreneur55>
 		<title>Empresári. do m. urbano</title>
 		<titleShort>Empresário(a)</titleShort>
 		<desc>Nos mundos urbanos, a maioria sofre. Mas alguém tem que dirigir as corporações.
 
-[PAWN_nameDef] aprendeu as habilidades do comércio - lubrificação de palmas e análise técnica. [PAWN_pronoun] é uma máquina sociointellectual.</desc>
+[PAWN_nameDef] aprendeu as habilidades do comércio - lubrificação de palmas e análise técnica. [PAWN_pronoun] é uma máquina sociointelectual.</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
 		<title>Minei. do esp. profundo</title>
 		<titleShort>Mineiro(a)</titleShort>
-		<desc>[PAWN_nameDef] fez o trabalho suado e sujo de puxar metal para fora dos asteróides em uma plataforma de espaço profundo. [PAWN_pronoun] usou diariamente as suas habilidades práticas industriais - e não era ruim em uma luta de bar qualquer.</desc>
+		<desc>[PAWN_nameDef] fez o trabalho suado e sujo de puxar metal para fora dos asteróides em uma plataforma do espaço profundo. [PAWN_pronoun] usou diariamente as suas habilidades práticas industriais - e não era ruim em uma luta de bar qualquer.</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>Cientista da marinha</title>
 		<titleShort>Cientista</titleShort>
-		<desc>A guerra interestelar é conquistada pela tecnologia, assim marinhas imperiais estão sempre no auge da pesquisa moderna. Melhor ainda, eles tem primeiro acesso aos artefatos Transcendentes porque eles os encontram no espaço.
+		<desc>A guerra interestelar é conquistada pela tecnologia, de modo que as marinhas imperiais estão sempre no auge da pesquisa moderna. Ainda melhor, eles têm acesso antecipado a Artefatos Transcendentes porque os encontram no espaço.
 
 [PAWN_nameDef] trabalhou em um laboratório da marinha.</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
 		<title>Comissário(a) militar</title>
 		<titleShort>Comissário(a)</titleShort>
-		<desc>[PAWN_nameDef] era um(a) espiã(o) interno(a) em um batalhão do exército imperial. se certificou de que os homens eram leais, e não cair para trás a menos que ordenado. Isto fez dHE impopular, mas [PAWN_pronoun] obteve grande habilidade para detectar a menor desonestidade.</desc>
+		<desc>[PAWN_nameDef] era um(a) espiã(o) interno(a) em um batalhão do exército imperial. Se certificou de que os homens eram leais, e não caírem para trás a menos que ordenado. Isto fez dHE impopular, mas [PAWN_pronoun] obteve grande habilidade para detectar a menor desonestidade.</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
 		<title>Pirata espacial</title>
 		<titleShort>Pirata</titleShort>
-		<desc>A pirataria aparece em todos os lugares onde os governos são fracos e a sociedade se espalha. fazia parte desta velha parte da existência humana, extorquindo e esmagando naves comerciais pacíficas para o lucro.</desc>
+		<desc>A pirataria aparece em todos os lugares onde os governos são fracos e a sociedade se espalha. Fazia parte desta velha parte da existência humana, extorquindo e esmagando naves comerciais pacíficas para o lucro.</desc>
 	</SpacePirate69>
 	<PitBrawler20>
 		<title>Lutador(a) de poço</title>
@@ -56,9 +56,9 @@ Suas mãos macias não seguravam uma ferramenta de trabalho durante todo o tempo
 		<desc>[PAWN_nameDef] tinha nove anos quando [PAWN_pronoun] obteve sua primeira luta. [PAWN_pronoun] ganhou, mas o mais importante foi o prazer de sua audiência. A luta de poço acabou por ser uma carreira lucrativa para aqueles que poderiam sobreviver a ela. E foi ainda na maior parte legal.</desc>
 	</PitBrawler20>
 	<IllegalShipwright28>
-		<title>Carpinteir. naval ilegal</title>
+		<title>Carpint. naval ilegal</title>
 		<titleShort>Carpinteiro(a) naval</titleShort>
-		<desc>Existe uma lei que diz que você não está autorizado a colocar grasers terawatt-gama em uma barcaça de carga. Especialmente se você escondê-los sob o que parece um prato de comunicações para melhor emboscada potencial. [PAWN_nameDef] descobriu que há grande lucro a ser feito, entretanto, daqueles que não estão interessados nessas leis.</desc>
+		<desc>Há uma lei que diz que não é permitido colocar geradores de radiação electromagnética de alcance terawatt em uma barcaça de carga. Especialmente se escondê-los sob o que parece uma antena de comunicações para um melhor potencial de emboscada. [PAWN_nameDef] descobriu que há grande benefício, entretanto, para aqueles que não estão interessados nessas leis.</desc>
 	</IllegalShipwright28>
 	<Courtesean56>
 		<title>Cortesã(o)</title>
@@ -68,7 +68,7 @@ Suas mãos macias não seguravam uma ferramenta de trabalho durante todo o tempo
 	<SpaceMarine10>
 		<title>Fuzileiro(a) espacial</title>
 		<titleShort>Fuzileiro(a)</titleShort>
-		<desc>[PAWN_nameDef] era um(a) guerreiro(a) de uma marinha Imperial. Seu trabalho era perfurar em naves inimigas, derrubar a tripulação e capturar a nave intacta. E ele [PAWN_pronoun] era bom(oa) nisso.</desc>
+		<desc>[PAWN_nameDef] era um(a) guerreiro(a) de uma marinha Imperial. Seu trabalho era perfurar em naves inimigas, derrubar a tripulação e capturar a nave intacta. E [PAWN_pronoun] era bom(oa) nisso.</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>Assassino(a)</title>
@@ -95,9 +95,9 @@ Tal vida não ensina habilidades técnicas e instila uma aversão ao trabalho ma
 		<desc>Os mundos urbanos são antigas e escuras paisagens industriais que eclodem com superpopulação e poluição. [PAWN_nameDef] cresceu nos escuros subúrbios de tal lugar. [PAWN_pronoun] teve que lutar por cada pedaço de comida.</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
-		<title>Soldado cult. em cuba</title>
-		<titleShort>Cultivado(a) em cuba</titleShort>
-		<desc>[PAWN_nameDef] não foi feito como uma pessoa, mas como um instrumento de destruição. Crescido(a) em uma instalação de armas biológicas e ensinado(a) o combate durante seu crescimento acelerado, [PAWN_nameDef] ainda tem uma propensão para o combate de todos os tipos e uma aversão ao contato humano.</desc>
+		<title>Soldado artificial</title>
+		<titleShort>Artificial</titleShort>
+		<desc>[PAWN_nameDef] não foi feito(a) como uma pessoa, mas como um instrumento de destruição. Criado(a) em uma instalação de armas biológicas e ensinado(a) o combate durante seu crescimento acelerado, [PAWN_nameDef] ainda tem uma propensão para o combate de todos os tipos e uma aversão ao contato humano.</desc>
 	</VatgrownSoldier83>
 	<Hermit87>
 		<title>Eremita</title>
@@ -122,8 +122,8 @@ Tal vida não ensina habilidades técnicas e instila uma aversão ao trabalho ma
 [PAWN_pronoun] sempre pode ser encontrado(a) contando histórias ou cantando músicas, e é capaz de se proteger dos perigos da estrada. No entanto, [PAWN_pronoun] sempre esteve conspicuamente ausente sempre que havia trabalho duro a ser feito.</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
-		<title>Dono(a) de casa</title>
-		<titleShort>Dono(a) de casa</titleShort>
+		<title>Companheiro(a) de casa</title>
+		<titleShort>Companheiro(a) de casa</titleShort>
 		<desc>Quando adulto(a), [PAWN_nameDef] manteve casa e cuidou de crianças enquanto seu cônjuge trabalhava.</desc>
 	</Housemate5>
 	<GlitterworldEmpath39>
@@ -169,7 +169,7 @@ Por causa disto, [PAWN_pronoun] nunca recebeu uma educação adequada.</desc>
 	</Scout67>
 	<JoywireArtist62>
 		<title>Artista de ara. da alegria</title>
-		<titleShort>Criador(a) de arame da alegria</titleShort>
+		<titleShort>Arameiro(a) da alegria</titleShort>
 		<desc>[PAWN_nameDef] trabalhou em um laboratório do mundo urbano desenvolvendo o software de ponta arame da alegria para maximizar o prazer do usuário.
 
 Quando o governo local impôs severas restrições à fabricação de arame da alegria, [PAWN_pronoun] começou a vender seus produtos no mercado negro.</desc>
@@ -177,9 +177,9 @@ Quando o governo local impôs severas restrições à fabricação de arame da a
 	<FrightenedChild6>
 		<title>Criança assustada</title>
 		<titleShort>Assustado(a)</titleShort>
-		<desc>[PAWN_nameDef] cresceu com uma lista de fobias e neuroses. [PAWN_pronoun] temia, entre outras coisas, médicos e patógenos transmitidos pelos alimentos.
+		<desc>[PAWN_nameDef] cresceu com uma lista de fobias e neuroses. [PAWN_pronoun] temia, entre outras coisas, doutores e patógenos transmitidos pelos alimentos.
 
-Como resultado, [PAWN_pronoun] aprendeu a cozinhar e cuidar de si mesmo(a), mas muitos de seus medos lhe seguem na idade adulta.</desc>
+Como resultado, [PAWN_pronoun] aprendeu a cozinhar e cuidar de si mesmo(a), mas muitos de seus medos lhe acompanham na idade adulta.</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
 		<title>Artista conceitual</title>
@@ -201,9 +201,9 @@ Seu trabalho envolveu cirurgias cosméticas elaboradas e criativas. [PAWN_pronou
 		<desc>Quando a maioria das pessoas em seu mundo optou por desistir de sua individualidade e humanidade biológica para se juntar em uma mente de colmeia online, [PAWN_nameDef] se juntou a uma facção rebelde que optou por abandonar a maioria das tecnologias.</desc>
 	</LudditeRebel42>
 	<Bartender47>
-		<title>Barman</title>
-		<titleShort>Barman</titleShort>
-		<desc>[PAWN_nameDef] trabalhou como barman em uma surrada estação espacial. O trabalho envolveu um pouco misturar bebidas, um pouco de diplomacia, e um pouco de golpes de cabeça.</desc>
+		<title>Atendente de bar</title>
+		<titleShort>Atendente de bar</titleShort>
+		<desc>[PAWN_nameDef] trabalhou como um(a) atendente de bar em uma estação espacial decadente. O trabalho envolveu um pouco misturar bebidas, um pouco de diplomacia, e um pouco de golpes de cabeça.</desc>
 	</Bartender47>
 	<CaveworldTender5>
 		<title>Jovem cavador(a) de túneis</title>
@@ -213,7 +213,7 @@ Seu trabalho envolveu cirurgias cosméticas elaboradas e criativas. [PAWN_pronou
 	<CaveworldTunneler74>
 		<title>Cavador(a) de túneis</title>
 		<titleShort>Cavador(a)</titleShort>
-		<desc>[PAWN_nameDef] trabalhou como um(a) escavador(a) no complexo maciço da caverna subterrânea.
+		<desc>[PAWN_nameDef] trabalhou como um(a) escavador(a) no complexo maciço de caverna subterrânea.
 
 [PAWN_pronoun] conhece a rocha tão bem que [PAWN_pronoun] pode quase navegar nas cavernas pelo cheiro.</desc>
 	</CaveworldTunneler74>
@@ -225,7 +225,7 @@ Seu trabalho envolveu cirurgias cosméticas elaboradas e criativas. [PAWN_pronou
 	<Evangelist66>
 		<title>Evangelista</title>
 		<titleShort>Evangelista</titleShort>
-		<desc>Em seu 21o aniversário, [PAWN_nameDef] experimentou um despertar religioso. [PAWN_pronoun] decidiu passar o resto da sua vida espalhando a palavra de sua divindade, a beleza de sua cultura, e sua tradição médica incomum.</desc>
+		<desc>Em seu 21º aniversário, [PAWN_nameDef] experimentou um despertar religioso. [PAWN_pronoun] decidiu passar o resto da sua vida espalhando a palavra de sua divindade, a beleza de sua cultura, e sua tradição médica incomum.</desc>
 	</Evangelist66>
 	<TunnelworldIlluminator50>
 		<title>Iluminad. do mundo-túnel</title>
@@ -235,11 +235,11 @@ Seu trabalho envolveu cirurgias cosméticas elaboradas e criativas. [PAWN_pronou
 	<Herbalist89>
 		<title>Herbalista</title>
 		<titleShort>Herbalista</titleShort>
-		<desc>[PAWN_nameDef] morava na floresta perto de uma aldeia. Embora muitos dos aldeões lhe temessem, aldeões doente viriam a [PAWN_pronoun] para comprar salves e cataplasmas feitas a partir das ervas que [PAWN_pronoun] cultivou em seu jardim. [PAWN_pronoun] estava feliz em ajudá-los — por um preço.</desc>
+		<desc>[PAWN_nameDef] viveu na floresta perto de uma aldeia. Embora muitos dos aldeões lhe temessem, os aldeões doentes vinham até [PAWN_pronoun] para comprar pomadas e cataplasmas feitas a partir das ervas que [PAWN_pronoun] cultivou em seu jardim. [PAWN_pronoun] estava feliz em ajudá-los — por um preço.</desc>
 	</Herbalist89>
 	<ComaChild18>
-		<title>Criança em coma</title>
-		<titleShort>Coma</titleShort>
+		<title>Criança de coma</title>
+		<titleShort>Criança de coma</titleShort>
 		<desc>Um acidente infantil colocou [PAWN_nameDef] em coma. [PAWN_pronoun] só acordou do coma em sua adolescência. Seu corpo nunca se recuperou dos anos de inatividade, mas as pessoas tendem a ter pena dHE quando ouvem sua história.</desc>
 	</ComaChild18>
 	<CivilServant75>
@@ -265,14 +265,14 @@ Seu trabalho envolveu cirurgias cosméticas elaboradas e criativas. [PAWN_pronou
 		<desc>[PAWN_nameDef] nega envolvimento nos crimes que provocaram sua prisão em uma colônia penal brutal. [PAWN_pronoun] escapou por tunelamento abaixo do perímetro usando talheres modificados.</desc>
 	</EscapedConvict68>
 	<StarshipJanitor15>
-		<title>Zelad. de nave espacial</title>
+		<title>Zelad. de espaçonave</title>
 		<titleShort>Zelador(a)</titleShort>
 		<desc>Enquanto outros passageiros passam os anos entre sistemas estelares em sarcófagos de cripto-sono, [PAWN_nameDef] teve que acordar em intervalos periódicos para realizar inspeções, verificar os sistemas de navegação, e para olear os mechanoides.</desc>
 	</StarshipJanitor15>
 	<Pyromaniac68>
 		<title>Piromaníaco(a)</title>
 		<titleShort>Piromaníaco(a)</titleShort>
-		<desc>Desde uma idade precoce, [PAWN_nameDef] tinha uma fascinação insalubre por fogo. [PAWN_pronoun] poderia colocar fogo em pilhas de lixo e ficar tão fascinado(a) pelas chamas que [PAWN_pronoun] se queimaria distraidamente.
+		<desc>Desde uma idade precoce, [PAWN_nameDef] tinha uma fascinação doentia por fogo. [PAWN_pronoun] poderia colocar fogo em pilhas de lixo e ficar tão fascinado(a) pelas chamas que [PAWN_pronoun] se queimaria distraidamente.
 
 Um dia enquanto brincava com fósforos, [PAWN_pronoun] queimou descuidadamente sua casa.</desc>
 	</Pyromaniac68>
@@ -281,18 +281,25 @@ Um dia enquanto brincava com fósforos, [PAWN_pronoun] queimou descuidadamente s
 		<titleShort>Mudo(a)</titleShort>
 		<desc>[PAWN_nameDef] foi muito afetado(a) por um evento traumático no início de sua vida. Durante muitos anos [PAWN_pronoun] se recusou a falar com as pessoas, preferindo ao invés disto brincar com os numerosos animais de estimação de sua casa.</desc>
 	</Mute55>
+	<WarRefugee70>
+		<title>Refugiado(a) de guerra</title>
+		<titleShort>Refugiado(a)</titleShort>
+		<desc>A guerra estourou na casa de [PAWN_nameDef] quando [PAWN_pronoun] era um bebê. Seus pais fugiram com [PAWN_pronoun], procurando segurança onde quer que pudessem encontrá-la. As primeiras lembranças de [PAWN_nameDef] são de ser ensinado(a) a se defender.
+
+A violência e a destruição que [PAWN_pronoun] testemunhou lhe deixou marcado(a) para toda a vida.</desc>
+	</WarRefugee70>
 	<MusicLover26>
 		<title>Amante da música</title>
 		<titleShort>Músico(a)</titleShort>
-		<desc>Quando criança, [PAWN_nameDef] tinha talento para tocar instrumentos musicais e cantar. [PAWN_pronoun] recebeu treinamento especializado e adorou tocar em recitais e concertos, Embora o generoso louvor que [PAWN_pronoun] recebeu lhe fez um pouco auto-obcecado(a).</desc>
+		<desc>Quando criança, [PAWN_nameDef] tinha talento para tocar instrumentos musicais e cantar. [PAWN_pronoun] recebeu treinamento especializado e adorou tocar em recitais e concertos, Embora o generoso louvor que [PAWN_pronoun] recebeu lhe fez um pouco auto obcecado(a).</desc>
 	</MusicLover26>
 	<ChildStar51>
 		<title>Estrela infantil</title>
 		<titleShort>Estrela</titleShort>
-		<desc>era bem conhecido(a) em todo o seu mundo natal como ator(triz) infantil em filmes e programas de TV. Sua fama lhe colocou em contato com muitos tipos diferentes de pessoas, mas também tendem a ficar no caminho de sua educação.</desc>
+		<desc>[PAWN_nameDef] era bem conhecido(a) em todo o seu mundo natal como ator(triz) infantil em filmes e programas de TV. Sua fama lhe colocou em contato com muitos tipos diferentes de pessoas, mas também tendem a ficar no caminho de sua educação.</desc>
 	</ChildStar51>
 	<ChildSpy95>
-		<title>Criança espiã(o)</title>
+		<title>Criança espiã</title>
 		<titleShort>Espiã(o)</titleShort>
 		<desc>As crianças são frequentemente presumidas inocentes, e podem ser ideais como espiões. [PAWN_nameDef] foi treinado(a) na arte de infiltração e coleta de informações quando [PAWN_pronoun] tinha apenas nove anos de idade.
 
@@ -320,13 +327,20 @@ Era um trabalho ocupado, [PAWN_pronoun] ele sempre podia encontrar tempo para co
 	<Bodyguard22>
 		<title>Guarda-costas</title>
 		<titleShort>Guarda-costas</titleShort>
-		<desc>[PAWN_nameDef] encontrou trabalho em um mundo médio, protegendo quem quer que lhe pago do perigo. [PAWN_pronoun] ganhou proficiência em muitas formas de combate diferentes, e foi conhecido(a) por sua crueldade contra aqueles que lhe cruzaram.</desc>
+		<desc>[PAWN_nameDef] encontrou trabalho em um mundo médio, protegendo quem quer que lhe pagou do perigo. [PAWN_pronoun] ganhou proficiência em muitas formas de combate diferentes, e foi conhecido(a) por sua crueldade contra aqueles que lhe cruzaram.</desc>
 	</Bodyguard22>
 	<Novelist96>
 		<title>Novelista</title>
 		<titleShort>Novelista</titleShort>
 		<desc>[PAWN_nameDef] viveu em um mundo brilhante, escrevendo romances bem sucedidos. [PAWN_pronoun] viveu um estilo de vida despreocupado, gastando seus dias escrevendo e suas noites festejando...e nunca fez um dia de trabalho manual em sua vida.</desc>
 	</Novelist96>
+	<Mathematician18>
+		<title>Matemático(a)</title>
+		<titleShort>Prof. de matemática</titleShort>
+		<desc>[PAWN_nameDef] fez pesquisa matemática em uma universidade.
+
+[PAWN_pronoun] passou grande parte de seu tempo livre imerso(a) em simulações de tiro, embora [PAWN_pronoun] foi frequentemente ridicularizado(a) por outros jogadores por sua terrível pontaria.</desc>
+	</Mathematician18>
 	<Paramedic85>
 		<title>Paramédico(a)</title>
 		<titleShort>Paramédico(a)</titleShort>
@@ -380,16 +394,16 @@ Seu trabalho ocupado e numerosas lojas de fast-food nas proximidades significava
 		<titleShort>Desertor(a)</titleShort>
 		<desc>No início de sua vida adulta, [PAWN_nameDef] decidiu abandonar a ditadura opressiva onde [PAWN_pronoun] vivia. Sua defecção não foi bem recebida, e agentes foram enviado atrás dHE.
 
-[PAWN_pronoun] passou anos em fuga, tratando suas próprias feridas de forma que nenhum médico poderia lhe trair. A provação fez dHE amargo(a) e desconfiado(a).</desc>
+[PAWN_pronoun] passou anos em fuga, tratando suas próprias feridas de forma que nenhum doutor poderia lhe trair. A provação fez dHE amargo(a) e desconfiado(a).</desc>
 	</Defector59>
 	<FactoryWorker82>
-		<title>Trabalhad. de fábrica</title>
+		<title>Operário(a) de fábrica</title>
 		<titleShort>Trabalhador(a)</titleShort>
 		<desc>[PAWN_nameDef] fez um trabalho servil e não qualificado em uma fábrica da era industrial. Seu trabalho também incluía cuidar das mulas e dos cavalos que transportavam mercadorias ao redor da cidade.</desc>
 	</FactoryWorker82>
 	<RanchOwner88>
 		<title>Proprietário(a) de rancho</title>
-		<titleShort>Dono(a) de rancho</titleShort>
+		<titleShort>Rancheiro(a)</titleShort>
 		<desc>[PAWN_nameDef] possuiu e operou uma fazenda bem-sucedida onde [PAWN_pronoun] criou animais para a carne e lã.
 
 [PAWN_pronoun] se recusou a fazer qualquer trabalho simples que [PAWN_pronoun] poderia pagar a alguém para fazer por [PAWN_pronoun].</desc>
@@ -424,7 +438,7 @@ Durante seus anos de subterrâneo [PAWN_pronoun] também ganhou experiência na 
 	<TestSubject75>
 		<title>Cobaia</title>
 		<titleShort>Testador(a)</titleShort>
-		<desc>Nos mundos urbanos mais corruptos, os cientistas sem uma bússola moral cometem atrocidades indescritíveis em nome da pesquisa. [PAWN_nameDef] foi mantido sozinho(a) em uma instalação selada desde o nascimento e submetido(a) a uma variedade de experiências comportamentais na tentativa de lhe transformar em um(a) super-soldado(a) perfeito(a).</desc>
+		<desc>Nos mundos urbanos mais corruptos, os cientistas sem uma bússola moral cometem atrocidades indescritíveis em nome da pesquisa. [PAWN_nameDef] foi mantido sozinho(a) em uma instalação selada desde o nascimento e submetido(a) a uma variedade de experiências comportamentais na tentativa de lhe transformar em um(a) super soldado(a) perfeito(a).</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
 		<title>Assistente médico</title>
@@ -444,7 +458,7 @@ Depois de seu primeiro vislumbre do mundo exterior, [PAWN_pronoun] decidiu fugir
 		<desc>Duas gerações antes de [PAWN_nameDef] nascer, uma guerra apocalíptica arrastou o seu planeta natal para a anarquia. [PAWN_nameDef] foi encarregado(a) de observar os rebanhos de sua tribo, mas muitas vezes se esquivou de seus deveres para ir explorar as naves de guerra quebradas espalhadas pelo planeta.</desc>
 	</WreckageExplorer75>
 	<ApocalypseSurvivor86>
-		<title>Sobrevive. de apocalipse</title>
+		<title>Sobreviv. de apocalipse</title>
 		<titleShort>Sobrevivente</titleShort>
 		<desc>[PAWN_nameDef] nasceu durante um tempo de inquietação em seu mundo natal, como a mudança climática ameaçava a fome em massa e inundações. À medida que [PAWN_pronoun] cresceu, a situação piorava - bilhões morriam e estados pacíficos desciam para a anarquia. [PAWN_nameDef] e seus pais fizeram tudo o que tinham para sobreviver.</desc>
 	</ApocalypseSurvivor86>
@@ -466,7 +480,7 @@ Depois de seu primeiro vislumbre do mundo exterior, [PAWN_pronoun] decidiu fugir
 	<Actor76>
 		<title>Ator(triz)</title>
 		<titleShort>Ator(triz)</titleShort>
-		<desc>[PAWN_nameDef] viajou pelo seu mundo natal com uma companhia de atores, tocando em teatros lotados e amando audiências em todos os lugares. [PAWN_pronoun] era um(a) perfeccionista, e fez seus próprios adereços e trajes em vez de usar aqueles que lhe foi dado(a).</desc>
+		<desc>[PAWN_nameDef] viajou pelo seu mundo natal com uma companhia de atores, tocando em teatros lotados e amando audiências em todos os lugares. [PAWN_pronoun] era um(a) perfeccionista, e fez seus próprios adereços e roupas em vez de usar aqueles que lhe foi dado(a).</desc>
 	</Actor76>
 	<Tactician22>
 		<title>Tático(a)</title>
@@ -492,7 +506,7 @@ Embora [PAWN_pronoun] exercesse seus passatempos artísticos, Seus subordinados 
 	</BiosphereManager30>
 	<Veterinarian19>
 		<title>Veterinário(a)</title>
-		<titleShort>Vet</titleShort>
+		<titleShort>Veterinário(a)</titleShort>
 		<desc>[PAWN_nameDef] tratou animais doentes e feridos para viver. Vendo o sofrimento deles afetado sua posição sobre a prática de comer carne, e por muitos anos [PAWN_pronoun] viveu como um(a) vegetariano(a), rejeitando a tradição culinária amante da carne de seu mundo natal.</desc>
 	</Veterinarian19>
 	<ExplosivesExpert30>
@@ -503,7 +517,7 @@ Embora [PAWN_pronoun] exercesse seus passatempos artísticos, Seus subordinados 
 	<Counselor20>
 		<title>Conselheiro(a)</title>
 		<titleShort>Conselheiro(a)</titleShort>
-		<desc>Um terrível trauma quando [PAWN_nameDef] era um jovem adulto lhe fez desenvolver um grave transtorno alimentar. Com aconselhamento [PAWN_pronoun] aprendeu a ter uma relação mais saudável com a comida, e decidiu colocar suas novas habilidades para usar ajudando os outros a superar seus problemas emocionais.</desc>
+		<desc>Um terrível trauma quando [PAWN_nameDef] era um(a) jovem adulto(a) lhe fez desenvolver um grave transtorno alimentar. Com aconselhamento [PAWN_pronoun] aprendeu a ter uma relação mais saudável com a comida, e decidiu colocar suas novas habilidades para usar ajudando os outros a superar seus problemas emocionais.</desc>
 	</Counselor20>
 	<Recruiter51>
 		<title>Recrutador(a)</title>
@@ -527,8 +541,8 @@ Embora [PAWN_pronoun] eventualmente se recuperou e foi liberado(a), a sua experi
 [PAWN_pronoun] também ocasionalmente trabalhou em um romance que [PAWN_pronoun] sabia que seria um best-seller - logo que [PAWN_pronoun] pudesse encontrar uma editora que estivesse interessada.</desc>
 	</Drifter25>
 	<VRDesigner15>
-		<title>designer de RV</title>
-		<titleShort>Desenv de jogo</titleShort>
+		<title>Designer de RV</title>
+		<titleShort>Desenv. de jogos</titleShort>
 		<desc>[PAWN_nameDef] projetou simulações de realidade virtual para cidadãos do mundo brilhante. [PAWN_pronoun] prestou grande atenção aos detalhes de seus mundos, incluindo a aprendizagem de tudo o que [PAWN_pronoun] podia sobre a vida vegetal para tornar suas paisagens mais realistas.</desc>
 	</VRDesigner15>
 	<HumanComputer63>
@@ -578,7 +592,7 @@ Ele tinha o hábito de falar sobre a sua coleção muito tempo depois que as pes
 		<titleShort>Solitário(a)</titleShort>
 		<desc>O Solitário nunca gostou muito do conselho tribal ou das festas anuais. [PAWN_pronoun] prefere a planície aberta e o assobio solitário do vento através das rochas.
 
-[PAWN_pronoun] visita sua tribo de tempos em tempos, mas na maioria das vezes [PAWN_pronoun] cuida de si mesmo(a) usando suas próprias habilidades de sobrevivência.</desc>
+[PAWN_pronoun] visita sua tribo de vez em quando, mas na maioria das vezes [PAWN_pronoun] cuida de si mesmo(a) usando suas próprias habilidades de sobrevivência.</desc>
 	</Loner43>
 	<AbandonedChild27>
 		<title>Criança abandonada</title>
@@ -602,23 +616,28 @@ Ele tinha o hábito de falar sobre a sua coleção muito tempo depois que as pes
 	</Scavenger86>
 	<CaveChild31>
 		<title>Criança de caverna</title>
-		<titleShort>Caverna</titleShort>
+		<titleShort>Criança de caverna</titleShort>
 		<desc>[PAWN_nameDef] cresceu em um complexo de cavernas grandes e intrincadas que se estendeu profundamente em uma montanha. [PAWN_pronoun] ajudou os adultos a manter e melhorar as cavernas profundas.</desc>
 	</CaveChild31>
 	<SoleSurvivor85>
 		<title>Único sobrevivente</title>
 		<titleShort>Sobrevivente</titleShort>
-		<desc>A tribo inteira de [PAWN_nameDef] foi destruída em uma invasão. Embora [PAWN_pronoun] tenha sido uma criança adotada por outro grupo, [PAWN_pronoun] estava com cicatrizes emocionais, e preferiu ficar perto de casa, cozinhar e cuidar da safra.</desc>
+		<desc>A tribo inteira de [PAWN_nameDef] foi destruída em um assalto. Embora [PAWN_pronoun] tenha sido uma criança adotada por outro grupo, [PAWN_pronoun] estava com cicatrizes emocionais, e preferiu ficar perto de casa, cozinhar e cuidar da safra.</desc>
 	</SoleSurvivor85>
 	<VengefulChild49>
 		<title>Criança vingativa</title>
 		<titleShort>Vingativo(a)</titleShort>
-		<desc>Quando criança, [PAWN_nameDef] retornou à sua aldeia para descobrir que tinha sido dizimada por bandidos. [PAWN_pronoun] jurou vingança contra os atacantes e começou uma violenta agitação através da selvageria.</desc>
+		<desc>Quando criança, [PAWN_nameDef] retornou à sua aldeia para descobrir que tinha sido dizimada por bandidos. [PAWN_pronoun] jurou vingança contra os atacantes e começou um violento tumulto através da selvageria.</desc>
 	</VengefulChild49>
+	<FireKeeper85>
+		<title>Guardiã(o) do fogo</title>
+		<titleShort>Guardiã(o) do fogo</titleShort>
+		<desc>Em sua infância, [PAWN_nameDef] foi responsável por manter o fogo da tribo em andamento. [PAWN_pronoun] tomou esta responsabilidade muito a sério.</desc>
+	</FireKeeper85>
 	<Healer89>
 		<title>Curandeiro(a)</title>
 		<titleShort>Curandeiro(a)</titleShort>
-		<desc>Depois que o curador mais velho de sua tribo foi morto em uma invasão, [PAWN_nameDef] assumiu o papel. [PAWN_pronoun] passou seus dias coletando ervas e compostos minerais da área próxima para usar em remédios surpreendentemente eficazes.</desc>
+		<desc>Depois que o curador mais velho de sua tribo foi morto em um assalto, [PAWN_nameDef] assumiu o papel. [PAWN_pronoun] passou seus dias coletando ervas e compostos minerais da área próxima para usar em remédios surpreendentemente eficazes.</desc>
 	</Healer89>
 	<Scout93>
 		<title>Escoteiro(a)</title>
@@ -633,7 +652,7 @@ Ele tinha o hábito de falar sobre a sua coleção muito tempo depois que as pes
 	<MuffaloShaman94>
 		<title>Múfalo xamã</title>
 		<titleShort>Xamã</titleShort>
-		<desc>Por causa de sua sabedoria tranquila e grande força, [PAWN_nameDef] se tornou o(a) líder espiritual de uma tribo nômade que seguia os rebanhos de múfalo itinerante.</desc>
+		<desc>Por causa de sua sabedoria tranquila e grande força, [PAWN_nameDef] se tornou o(a) líder espiritual de uma tribo nômade que seguia os rebanhos de múfalos itinerantes.</desc>
 	</MuffaloShaman94>
 	<LoreKeeper35>
 		<title>Guardiã(o) da sabedoria</title>
@@ -648,12 +667,12 @@ Ele tinha o hábito de falar sobre a sua coleção muito tempo depois que as pes
 	<CaveTender26>
 		<title>Tenro(a) de caverna</title>
 		<titleShort>Tenro(a)</titleShort>
-		<desc>Enquanto os outros estavam fora caçando e forrageand, [PAWN_nameDef] iria ficar em casa para cozinhar e cuidar dos jovens e doentes.</desc>
+		<desc>Enquanto os outros estavam fora caçando e forrageando, [PAWN_nameDef] ficava em casa para cozinhar e cuidar dos jovens e doentes.</desc>
 	</CaveTender26>
 	<Warrior37>
 		<title>Guerreiro(a)</title>
 		<titleShort>Guerreiro(a)</titleShort>
-		<desc>[PAWN_nameDef] era um guerreiro(a) temível(a), proficiente com muitas armas. [PAWN_pronoun] participou em muitas batalhas.</desc>
+		<desc>[PAWN_nameDef] era um(a) guerreiro(a) temível(a), proficiente com muitas armas. [PAWN_pronoun] participou em muitas batalhas.</desc>
 	</Warrior37>
 	<TribeChild78>
 		<title>Criança de tribo</title>
@@ -696,7 +715,7 @@ Ele não podia suportar responder perguntas sobre seus pais, então ele substitu
 	<ArmyCook51>
 		<title>Cozinheiro do exército</title>
 		<titleShort>Cozinheiro</titleShort>
-		<desc>[PAWN_nameDef] entrou para o exército como trabalhador e passou a maior parte do tempo cozinhando e a reparando. Enquanto ele estava em um planeta perigoso, ele foi submetido a treinamento básico de tiro e sobrevivência.</desc>
+		<desc>[PAWN_nameDef] entrou para o exército como um trabalhador e passou a maior parte do tempo cozinhando e a reparando. Enquanto ele estava em um planeta perigoso, ele foi submetido a treinamento básico de tiro e sobrevivência.</desc>
 	</ArmyCook51>
 	<UrbworldCriminal64>
 		<title>Criminoso do m. urbano</title>
@@ -763,7 +782,7 @@ Infelizmente isto também levou que [PAWN_pronoun] seja um solitário como [PAWN
 		<desc>Durante a precipitação da 'guerra interna destruidora', seus pais foram capturados e [PAWN_pronoun] nasceu em uma vida de escravidão. Forçado a limpar coliseus depois de sangrentas batalhas por dinheiro. Assistindo, esperando e aprendendo. Coliseus foram a única coisa que [PAWN_pronoun] já conheceu. Uma noite, enquanto limpava o coliseu, sua família foi assassinada.</desc>
 	</ColiseumCleaner12>
 	<ColiseumFighter29>
-		<title>Lutador de coluseu</title>
+		<title>Lutador de coliseu</title>
 		<titleShort>Lutador</titleShort>
 		<desc>Aplicando o conhecimento que ele ganhou de anos ao redor de lutadores, [PAWN_pronoun] se tornou um gladiador de sucesso no coliseu que ele limpou uma vez.</desc>
 	</ColiseumFighter29>
@@ -810,7 +829,7 @@ Depois da morte de seu pai em batalha, [PAWN_nameDef] começou a explorar as est
 		<titleShort>Escravo</titleShort>
 		<desc>[PAWN_nameDef] cresceu como um escravo de uma família nobre particularmente desagradável em um mundo medieval. 
 
-Enquanto ele não recebeu educação formal, o regime de trabalho duro fez seu corpo forte.</desc>
+Embora não tenha recebido uma educação formal, o regime de trabalho duro fez seu corpo forte.</desc>
 	</WorkCampSlave37>
 	<BanishedSoldier4>
 		<title>Soldado banido</title>
@@ -832,7 +851,7 @@ Mais tarde, quando ele planejou usar sua posição para matar o lorde e libertar
 	<VoyagerChild9>
 		<title>Criança viajante</title>
 		<titleShort>Viajante</titleShort>
-		<desc>[PAWN_nameDef] foi criado em uma nave espacial de P&amp;D, e passou a maior parte de sua infância viajando através do vazio.
+		<desc>[PAWN_nameDef] foi criado em uma espaçonave de P&amp;D, e passou a maior parte de sua infância viajando através do vazio.
 
 Se aproximando de um planetoide misterioso, a nave foi gravemente danificada. Sua próxima memória é da nave que saindo de órbita, totalmente reparada. [PAWN_pronoun] logo desenvolveu um dom não natural para a pesquisa tecnológica.</desc>
 	</VoyagerChild9>
@@ -851,7 +870,7 @@ Suas experiências de infância com diversas culturas permitiram que [PAWN_prono
 	<GeneticScientist4>
 		<title>Cientista genético</title>
 		<titleShort>Geneticista</titleShort>
-		<desc>Depois da guerra [PAWN_nameDef] se juntou a uma empresa de engenharia genética. Ele trabalhou em melhorias para humanos e gado. Suas experiências em infligir e curar feridas foram muito benéficas para seu trabalho, mas ele desenvolveu um senso de humor negro. Isto fez as reuniões sociais estranhas.</desc>
+		<desc>Depois da guerra [PAWN_nameDef] se juntou a uma empresa de engenharia genética. Ele trabalhou em melhorias para humanos e gado. Suas experiências em infligir e curar feridas foram muito benéficas para seu trabalho, mas ele desenvolveu um senso de humor negro. Isto fez as reuniões sociais desajeitadas.</desc>
 	</GeneticScientist4>
 	<CoreDilettante99>
 		<title>Diletante do núcleo</title>
@@ -904,7 +923,7 @@ Ele gostava deste trabalho solitário, e tendia a ficar fora do caminho das pess
 	<ConstructionGrunt79>
 		<title>Operário de construção</title>
 		<titleShort>Construtor</titleShort>
-		<desc>Crescendo no laboratório de seu pai, [PAWN_nameDef] recebeu a vida de uma elite intelectual. Ele conseguiu tudo o que eke desejava, e o preço nunca foi um objeto.
+		<desc>Crescendo no laboratório de seu pai, [PAWN_nameDef] recebeu a vida de uma elite intelectual. Ele conseguiu tudo o que desejava, e o preço nunca foi um objeto.
 
 Entretanto [PAWN_nameDef] não participou no luxo dado a ele. Em vez disso, ele perseguiu mais físico, e - aos olhos de seu pai - empregos de baixa classe.</desc>
 	</ConstructionGrunt79>
@@ -929,14 +948,14 @@ Um dia, ele tentou fazer amizade com um esquilo, lhe dando uma pulseira. O esqui
 		<titleShort>Piloto</titleShort>
 		<desc>Depois que sua província foi assediada por um de seus vizinhos, [PAWN_nameDef] se ofereceu para um programa de modificação genérica que criou pilotos para os muitos aviões de caça que ele tinha ajudado a desenvolver. As modificações lhe permitiram pilotar a nave, mas também lhe tornou menos capaz de se concentrar nas pessoas ao seu redor.
 
-Nessa época, as pessoas lhe chamavam de "Squirrel".</desc>
+Nessa época, as pessoas lhe chamavam de "Esquilo".</desc>
 	</EngineeredPilot99>
 	<StreetKid29>
 		<title>Menino de rua</title>
 		<titleShort>Menino de rua</titleShort>
 		<desc>Crescendo nas ruas de um planeta deserto, o único amigo de [PAWN_nameDef] era um cão chamado Descanso. O par ralou, encontrando apenas comida suficiente para sobreviver.
 
-Quando [PAWN_pronoun] tinha 13 anos, um grupo criminoso interplanetário lhe levou abaixo de suas asas.</desc>
+Quando [PAWN_pronoun] tinha 13 anos, um grupo criminoso interplanetário levou ele abaixo de suas asas.</desc>
 	</StreetKid29>
 	<BanditLeader92>
 		<title>Líder de bandidos</title>
@@ -994,7 +1013,7 @@ Ele é um atirador naturalmente dotado. No entanto, sua verdadeira paixão é ap
 		<desc>Depois de ver a pobreza desenfreada comum em mundos urbanos superlotados, [PAWN_nameDef] decidiu dedicar sua vida a ajudar os menos afortunados. Esta cruzada lhe ensinou como cuidar dos doentes e dos famintos.</desc>
 	</SpaceHumanitarian98>
 	<CorpStudent17>
-		<title>Estudante de corp</title>
+		<title>Estudante de corpor.</title>
 		<titleShort>Estudante</titleShort>
 		<desc>[PAWN_nameDef] foi criado para se tornar um executivo da grande empresa de comércio de espaço que possuía seu planeta natal. Sua família tinha trabalhado para esta corporação por sete gerações.
 
@@ -1015,9 +1034,9 @@ Ele foi considerado culpado. No entanto, devido à influência de sua família, 
 	<RugbyPlayer15>
 		<title>Jogador de rugby</title>
 		<titleShort>Ala</titleShort>
-		<desc>Depois de anos de vício em jogos de realidade virtual, [PAWN_nameDef] foi salvo quando os médicos lhe desconectaram.
+		<desc>Depois de anos de vício em jogos de realidade virtual, [PAWN_nameDef] foi salvo quando os doudores lhe desconectaram.
 
-Infelizmente, eles o desconectaram durante uma partida de Rugby Rampage 4. A reação mental fundiu sua identidade real e sua identidade virtual, lhe deixando com a personalidade e as habilidades de um jogador de rugby.</desc>
+Infelizmente, eles o desconectaram durante uma partida de Râguebi Rampage 4. A reação mental fundiu sua identidade real e sua identidade virtual, lhe deixando com a personalidade e as habilidades de um jogador de râguebi.</desc>
 	</RugbyPlayer15>
 	<Nerd92>
 		<title>Nerd</title>
@@ -1055,7 +1074,7 @@ Ele optou por operar como uma arma contratada, trabalhando para várias organiza
 	<SpaceStationCook63>
 		<title>Cozinheiro est. espacial</title>
 		<titleShort>Cozinheiro</titleShort>
-		<desc>A estação espacial de [PAWN_nameDef] estava longe de qualquer planetas povoados, e era em si mesmo insuficiente. Por esta razão, [PAWN_nameDef] foi forçado a aprender a cozinhar para manter a tripulação viva. Embora [PAWN_pronoun] apreciasse esta oportunidade de aprendizagem, ele não apreciou a crítica que veio com isto, e tem tido problemas de auto-estima desde então.</desc>
+		<desc>A estação espacial de [PAWN_nameDef] estava longe de qualquer planetas povoados, e era em si mesmo insuficiente. Por esta razão, [PAWN_nameDef] foi forçado a aprender a cozinhar para manter a tripulação viva. Embora [PAWN_pronoun] apreciasse esta oportunidade de aprendizagem, ele não apreciou a crítica que veio com isto, e tem tido problemas de autoestima desde então.</desc>
 	</SpaceStationCook63>
 	<SonOfAHuntress96>
 		<title>Filho de uma caçadora</title>
@@ -1130,7 +1149,7 @@ Quando ele se recusou a limpar depois os gatos, [PAWN_pronoun] foi transferido p
 [PAWN_pronoun] defendeu suas naves contra piratas e engajou em contratos de guerra espacial privada.</desc>
 	</SpaceMarine90>
 	<VatgrownAssassin17>
-		<title>Assassino cult. em cuba</title>
+		<title>Assassino transgênico</title>
 		<titleShort>Clone</titleShort>
 		<desc>[PAWN_nameDef] não foi feito como um homem, mas um assassino de coração frio. Ele foi bio-projetado por cientistas, e treinado como um assassino. Ele foi criado para não ter nenhuma emoção, nenhum sentimento, e nenhum cuidado para quem vive, e quem morre.</desc>
 	</VatgrownAssassin17>
@@ -1149,30 +1168,30 @@ Quando [PAWN_pronoun] saiu para as passarelas da cidade, [PAWN_pronoun] apreciou
 	<Microbiologist37>
 		<title>Microbiologista</title>
 		<titleShort>Biólogo</titleShort>
-		<desc>Uma praga atingiu o mundo urbano nativo de [PAWN_nameDef]. Ele e outros pesquisadores revelaram que a doença era uma arma biológica, mas as pessoas se voltaram contra eles, os culpando pela doença.
+		<desc>O mundo urbano nativo de [PAWN_nameDef] foi atingido por uma praga. [PAWN_nameDef] e outros pesquisadores revelaram que a doença era uma arma biológica, mas as pessoas se voltaram contra eles, os culpando pela doença.
 
 [PAWN_nameDef] mal escapou de seu mundo natal quando ele caiu no caos.</desc>
 	</Microbiologist37>
 	<StarforceCadet91>
-		<title>Cadete de força estrelar</title>
+		<title>Cadete de força estelar</title>
 		<titleShort>Cadete</titleShort>
-		<desc>Criado em Amen-Ti, mundo brilhante capital do Império Estrelar, [PAWN_nameDef] teve uma infância fácil.
+		<desc>Criado em Amen-Ti, mundo brilhante capital do Império Estelar, [PAWN_nameDef] teve uma infância fácil.
 
 Quando jovem, [PAWN_nameDef] decidiu que se juntar à Força Estelar seria sua maneira de retribuir ao Império.</desc>
 	</StarforceCadet91>
 	<AceFighterPilot70>
 		<title>Piloto de caça craque</title>
 		<titleShort>Craque</titleShort>
-		<desc>[PAWN_nameDef] graduou-se da Academia Estrelar com honras e se distinguiu como um piloto de caça craque em três campanhas contra mais culturas agressoras avançadas. 
+		<desc>[PAWN_nameDef] graduou-se da Academia Estelar com honras e se distinguiu como um piloto de caça craque em três campanhas contra mais culturas agressoras avançadas. 
 
 No entanto, após uma batalha viciosa, ele se viu preso e seu navio transportador destruído. Com nenhum lugar para ir, ele entrou em sua cápsula de escape e orou.</desc>
 	</AceFighterPilot70>
 	<Stableboy75>
 		<title>Cavalariço</title>
 		<titleShort>Cavalariço</titleShort>
-		<desc>[PAWN_nameDef] foi um cavalariço em um planeta medieval, quase todos os dias limpando esterco para ganhar o seu sustento.
+		<desc>[PAWN_nameDef] era um cavalariço em um planeta medieval, limpando esterco quase todos os dias para ganhar seu sustento.
 
-Até o momento [PAWN_pronoun] estava saindo da infância, [PAWN_nameDef] tinha economizado dinheiro suficiente para pagar a um comerciante espacial para lhe levar fora do planeta.</desc>
+Quando [PAWN_pronoun] estava saindo da infância, [PAWN_nameDef] tinha economizado dinheiro suficiente para pagar um comerciante de espaço para levá-lo fora do mundo.</desc>
 	</Stableboy75>
 	<Brigand23>
 		<title>Salteador</title>
@@ -1182,7 +1201,7 @@ Até o momento [PAWN_pronoun] estava saindo da infância, [PAWN_nameDef] tinha e
 	<ArtfulDodger87>
 		<title>Esquivador astuto</title>
 		<titleShort>Astuto</titleShort>
-		<desc>[PAWN_nameDef] cresceu em um dos mundo urbanos e teve de se defender por ele mesmo toda a sua vida. Ele nunca confiou em ninguém, confiando em sua capacidade de persuasão e astúcia para sobreviver.
+		<desc>[PAWN_nameDef] cresceu em um dos mundos urbanos e teve de se defender por ele mesmo toda a sua vida. Ele nunca confiou em ninguém, confiando em sua capacidade de persuasão e astúcia para sobreviver.
 
 Ele logo se tornou habilidoso com armas de fogo e facas como também com palavras.</desc>
 	</ArtfulDodger87>
@@ -1237,7 +1256,7 @@ Obcecado com as lendas de seu povo, [PAWN_nameDef] procura alguém que possa lhe
 	<InformationBroker88>
 		<title>Corretora de informação</title>
 		<titleShort>Corretora</titleShort>
-		<desc>[PAWN_nameDef] pegou uma nave para o próximo sistema estrelar e começou uma vida de viagens e aprendizado, rapidamente coletando um enorme banco de conhecimento de pessoas de todas as formas e tamanhos.
+		<desc>[PAWN_nameDef] pegou uma nave para o próximo sistema estelar e começou uma vida de viagens e aprendizado, rapidamente coletando um enorme banco de conhecimento de pessoas de todas as formas e tamanhos.
 
 [PAWN_pronoun] aprendeu a vender este conhecimento para grande, lucro e se tornou uma poderosa corretora de informação.</desc>
 	</InformationBroker88>
@@ -1273,7 +1292,7 @@ Sendo um aprendiz rápido, ele aperfeiçoou muitas de suas habilidades e, além 
 	<AerospaceEngineer58>
 		<title>Engenheiro aeroespacial</title>
 		<titleShort>Engenheiro</titleShort>
-		<desc>[PAWN_nameDef] era um engenheiro responsável pela produção de aeronaves e naves espaciais. [PAWN_pronoun] se concentrou em melhorar as linhas de produção, e era conhecido por seu domínio de questões técnicas e de pesquisa.</desc>
+		<desc>[PAWN_nameDef] era um engenheiro responsável pela produção de aeronaves e espaçonaves. [PAWN_pronoun] se concentrou em melhorar as linhas de produção, e era conhecido por seu domínio de questões técnicas e de pesquisa.</desc>
 	</AerospaceEngineer58>
 	<WildChild8>
 		<title>Criança selvagem</title>
@@ -1318,7 +1337,7 @@ Ele rapidamente aprendeu a brincar com os medos das pessoas, e foi apelidado de 
 		<titleShort>Delinquente</titleShort>
 		<desc>[PAWN_nameDef] era a única filha de sommeliers de celebridades. Seus pais esperavam que ela assumisse a profissão da família, mas depois de sua terceira admissão em um centro de detenção para jovens, este caminho de carreira se tornou improvável.
 
-Enquanto em detenção, [PAWN_nameDef] se tornou hábil em fazer hastes e desenvolveu um interesse em orinologia.</desc>
+Enquanto estava em detenção, [PAWN_nameDef] se tornou hábil em descascar batatas e desenvolveu um interesse por ornitologia.</desc>
 	</YouthDelinquent81>
 	<InvoluntaryHermit72>
 		<title>Eremita involuntária</title>
@@ -1335,8 +1354,18 @@ Mais tarde, ela foi descoberta vestida em pele de vombate pigmeu, discutindo a i
 	<MedicalScientist25>
 		<title>Cientista médico</title>
 		<titleShort>Cientista</titleShort>
-		<desc>[PAWN_nameDef] se alistou como médico em uma nave de ciência de passagem. Vagueando as estrelas com uma grande tripulação de xenohumanos e transpássaros, Ele fez pesquisa genética sobre espécies encontradas. Ele desenvolveu uma amizade profunda com um transpássaro, mas foi forçado a deixar a nave quando o capitão demitiu todos os não-aviários.</desc>
+		<desc>[PAWN_nameDef] se alistou como doutor em uma nave de ciência de passagem. Vagueando as estrelas com uma grande tripulação de xenohumanos e transpássaros, Ele fez pesquisa genética sobre espécies encontradas. Ele desenvolveu uma amizade profunda com um transpássaro, mas foi forçado a deixar a nave quando o capitão demitiu todos os não-aviários.</desc>
 	</MedicalScientist25>
+	<UrbworldUrchin35>
+		<title>Garoto(a) do m. urbano</title>
+		<titleShort>Garoto(a) de rua</titleShort>
+		<desc>Abandonado entre as imundas torres de concreto, [PAWN_nameDef] nunca conheceu seus pais. [PAWN_pronoun] nunca recebeu uma educação formal, e muitas vezes recorreu a trabalhos humildes em troca de alimentos. Às vezes, mentiu, enganou e roubou para sobreviver.</desc>
+	</UrbworldUrchin35>
+	<VoidRaider31>
+		<title>Invasor do vazio</title>
+		<titleShort>Invasor</titleShort>
+		<desc>Desejando aventura e glória, [PAWN_nameDef] se estabeleceu pelo vazio com um bando de invasores, jurando lealdade ao seu bando e irmãos, e espalhando sua glória através das estrelas com sua lâmina e pistola na mão.</desc>
+	</VoidRaider31>
 	<MidworldSketcher21>
 		<title>Esboçador do m. médio</title>
 		<titleShort>Esboçador</titleShort>
@@ -1371,8 +1400,15 @@ No final, [PAWN_nameDef] foi o líder de um grande grupo de piratas treinados e 
 		<titleShort>Cavaleiro</titleShort>
 		<desc>[PAWN_nameDef] lutou pelo rei e país no campo de batalha, onde ele aprimorou ainda mais sua habilidade como um espadachim. Sua maior glória foi levar uma carga em uma sala do tribunal inimigo e capturar o rei na ponta da espada.</desc>
 	</MedievalKnight71>
+	<StarSquire93>
+		<title>Escudeiro estelar</title>
+		<titleShort>Escudeiro</titleShort>
+		<desc>Nascido em um mundo medieval, a primeira memória de [PAWN_nameDef] é de olhar para o céu da noite. 
+
+Desde então, [PAWN_pronoun] sonhou com escoltamento para um cavaleiro entre os céus cheios de estrelas. Seu foco nesta visão lhe deixou um pouco único de espírito.</desc>
+	</StarSquire93>
 	<StarKnight78>
-		<title>Cavaleiro estrelar</title>
+		<title>Cavaleiro estelar</title>
 		<titleShort>Cavaleiro</titleShort>
 		<desc>Abduzido de seu mundo natal medieval, [PAWN_nameDef] escapou mais tarde de seus captores através de uma exibição impressionante de manejo de espada.
 
@@ -1416,6 +1452,13 @@ Este estilo de vida mimada lhe fez perder muitas lições básicas da vida. [PAW
 
 Um incidente desagradável com um vaso de plantas e um assassinato que deu errado lhe deixou com uma aversão à vida vegetal.</desc>
 	</NinjaAssassin4>
+	<MilitaryChild84>
+		<title>Criança militar</title>
+		<titleShort>Militar</titleShort>
+		<desc>[PAWN_nameDef] cresceu em uma família com um rico fundo militar. Seus anos de adolescência foram gastos em sistema de viagem para o sistema onde seus pais foram implantados.
+
+Seguindo a tradição de sua família, [PAWN_pronoun] se alistou na idade mais cedo possível.</desc>
+	</MilitaryChild84>
 	<LazyProgrammer84>
 		<title>Programador preguiçoso</title>
 		<titleShort>Programador</titleShort>
@@ -1440,7 +1483,7 @@ Quando [PAWN_pronoun] soube que eles planejavam se desfazer dHE, [PAWN_nameDef] 
 	<TestSubject90>
 		<title>Cobaia</title>
 		<titleShort>Sujeita</titleShort>
-		<desc>Cobaia #11,529,914 de experiência #56,048 passou a sua infância em salas brancas realizando testes mentais e físicos.
+		<desc>Cobaia Nº 11,529,914 da experiência Nº 56,048 passou a sua infância em salas brancas realizando testes mentais e físicos.
 
 Sua única companheira era uma voz que se chamava Mãe. Mãe recompensou o sucesso com louvor - e fracasso com castigo severo.</desc>
 	</TestSubject90>
@@ -1452,19 +1495,19 @@ Sua única companheira era uma voz que se chamava Mãe. Mãe recompensou o suces
 Um dia, Mãe disse que seu teste final estava além da porta vermelha, E que mesmo se [PAWN_nameDef] não pudesse ouvir sua voz, Mãe estaria sempre lá.</desc>
 	</TestSubject6>
 	<FireScarredChild32>
-		<title>Criança cicatriz. de fogo</title>
+		<title>Criança cicatri. pelo fogo</title>
 		<titleShort>Assustado</titleShort>
 		<desc>[PAWN_nameDef] era uma criança ativa que viveu uma infância sem intercorrências até que ele caiu em um incêndio e sofreu horríveis queimaduras em suas mãos e braços. Embora as cicatrizes tenham desbotado, ele não pode suportar estar perto do fogo.</desc>
 	</FireScarredChild32>
 	<SpaceshipSalesman6>
-		<title>Vendedor nave espacial</title>
+		<title>Vendedor espaçonaves</title>
 		<titleShort>Vendedor</titleShort>
-		<desc>[PAWN_nameDef] tentou sua mão em vários trabalhos, incluindo a construção de gaiolas de coelho espacial e trabalhando em um projeto de pesquisa de trigo mutante. Finalmente, ele encontrou sua verdadeira vocação como um vendedor de espaçonaves. Especializado em espaçonave recreativa, sua conversa suave e natureza encantadora lhe serviu bem.</desc>
+		<desc>[PAWN_nameDef] tentou sua mão em vários trabalhos, incluindo a construção de gaiolas de coelho espacial e trabalhando em um projeto de pesquisa de trigo mutante. Finalmente, ele encontrou sua verdadeira vocação como um vendedor de naves espaciais. Especializado em nave espacial recreativa, sua conversa suave e natureza encantadora lhe serviu bem.</desc>
 	</SpaceshipSalesman6>
 	<TechEnthusiast65>
 		<title>Entusiasta da tecnologia</title>
 		<titleShort>Nerd tecnológico</titleShort>
-		<desc>[PAWN_nameDef] tinha todas as geringonça mais recentes quando criança. Passou todo seu tempo jogando jogos com IAs ao invés de com outras crianças. Ele sempre se sentia estranho com novas pessoas.</desc>
+		<desc>[PAWN_nameDef] tinha todas as geringonça mais recentes quando criança. Passou todo seu tempo jogando jogos com IAs ao invés de com outras crianças. Ele sempre se sentia desajeitado com novas pessoas.</desc>
 	</TechEnthusiast65>
 	<AIProgrammer5>
 		<title>Programador de IA</title>
@@ -1493,16 +1536,16 @@ Viajando com frequência, [PAWN_pronoun] era educado em casa e via o mundo princ
 Os monges lhe ensinaram disciplina e trabalho duro. Em troca, [PAWN_pronoun] iria para a cidade e 'adquirir' vinhos exóticos para degustação noturna dos monges.</desc>
 	</Winerunner96>
 	<VinhoKing50>
-		<title>Rei Vinho</title>
+		<title>Rei vinho</title>
 		<titleShort>Rei das bebidas</titleShort>
 		<desc>Após a proibição vir a Aracena VI, [PAWN_nameDef] expandiu seu negócio de bebidas subterrâneas até dominar o mercado em dois continentes. Eles lhe chamaram de Rei Vinho.
 
 Embora [PAWN_pronoun] controlava principalmente sua competição por manobras políticas magistral, Ele não estava acima do assassinato ocasionais de abatimento ou de estilete.</desc>
 	</VinhoKing50>
 	<StreetChild49>
-		<title>Criança da rua</title>
-		<titleShort>Rua</titleShort>
-		<desc>Mãe viciada em drogas de [PAWN_nameDef] morreu, lhe deixando órfão em uma idade jovem. Para permanecer vivo, [PAWN_pronoun] recorreu ao roubo, e quando necessário, a prostituição. Quando [PAWN_nameDef] foi pego roubando de uma igreja, a sacerdotisa viu uma criança ferida mas esperta, e lhe levou para dar a [PAWN_pronoun] uma segunda chance na vida.</desc>
+		<title>Criança de rua</title>
+		<titleShort>Criança de rua</titleShort>
+		<desc>A mãe viciada em drogas de [PAWN_nameDef] morreu, deixando [PAWN_pronoun] órfão em uma idade jovem. Para permanecer vivo, [PAWN_pronoun] recorreu ao roubo, e quando necessário, a prostituição. Quando [PAWN_nameDef] foi pego roubando de uma igreja, a sacerdotisa viu uma criança ferida mas esperta, e lhe levou para dar uma segunda chance na vida.</desc>
 	</StreetChild49>
 	<SlaveChemist35>
 		<title>Químico escravo</title>
@@ -1531,7 +1574,7 @@ Embora [PAWN_pronoun] controlava principalmente sua competição por manobras po
 	</SpaceMarine27>
 	<FoundryApprentice81>
 		<title>Aprendiz de fundição</title>
-		<titleShort>Fundidor</titleShort>
+		<titleShort>Fundidora</titleShort>
 		<desc>[PAWN_nameDef] cresceu como aprendiz nas fundições de um mundo industrial. Esta experiência deu a [PAWN_pronoun] habilidades metalúrgicas e músculos fortes, mas retardou o seu desenvolvimento artístico.</desc>
 	</FoundryApprentice81>
 	<CombatEngineer42>
@@ -1552,7 +1595,7 @@ Embora [PAWN_pronoun] controlava principalmente sua competição por manobras po
 	<ChildProdigy22>
 		<title>Criança prodígio</title>
 		<titleShort>Prodígio</titleShort>
-		<desc>Depois de se formar na faculdade aos doze anos, [PAWN_nameDef] dedicou sua vida a se tornar imortal. No entanto sua pesquisa cruzou a linha quando ele tentou modificar seu corpo usando terapia genética e aumento mecânico.  Ele foi preso e condenado para um planeta prisional.</desc>
+		<desc>Depois de se formar na faculdade aos doze anos, [PAWN_nameDef] dedicou sua vida a se tornar imortal. No entanto sua pesquisa cruzou a linha quando ele tentou modificar seu corpo usando terapia genética e aumento mecânico. Ele foi preso e condenado para um planeta prisional.</desc>
 	</ChildProdigy22>
 	<RenegadeEngineer33>
 		<title>Engenheiro renegado</title>
@@ -1573,14 +1616,14 @@ Embora nunca um menino duro ou social, [PAWN_pronoun] gostava de cavar através 
 		<titleShort>Erudito</titleShort>
 		<desc>Depois de se formar na universidade no topo de sua turma, [PAWN_nameDef] rapidamente se tornou um bem conhecido e atlético professor universitário.
 
-Com sua nova fama encontrada e aptidão veio uma súbita relutância em preformar o trabalho servil - tais tarefas são melhor deixadas para os estudantes de pós-graduação.</desc>
+Com sua nova fama encontrada e aptidão veio uma súbita relutância em pré-formar o trabalho servil - tais tarefas são melhor deixadas para os estudantes de pós-graduação.</desc>
 	</Osteologist68>
 	<GNomeSculptor81>
 		<title>Escultor G-nome</title>
 		<titleShort>Escultor</titleShort>
 		<desc>[PAWN_nameDef] foi projetado em um laboratório como parte do Projeto G-nome. Ele foi implantado no nascimento com conhecimento enciclopédico de todos os aspectos da xenobiologia.
 
-Os cientistas do G-nome lhe apelidaram de [PAWN_nameDef] e lhe ocuparam com esculpimento. Ele desenvolveu um amor de esculpir gnomos e acessórios gnomo.</desc>
+Os cientistas do G-nome lhe apelidaram de Gizmo e lhe ocuparam com esculpimento. Ele desenvolveu um amor de esculpir gnomos e acessórios gnomo.</desc>
 	</GNomeSculptor81>
 	<Gnomebiologist56>
 		<title>Gnomobiologista</title>
@@ -1594,12 +1637,12 @@ No entanto, ele nunca parou de esculpir gnomos de quintal, e considera que esta 
 		<titleShort>Artista</titleShort>
 		<desc>Crescendo em um circo, [PAWN_nameDef] aprendeu muitas coisas interessantes. Mais interessante que as bolas que ele fez malabarismo foram os bolsos ele escolheu entre shows.
 
-Um erro com algumas baras de fogo lhe fez desenvolver um medo mortal de fogo.</desc>
+Um erro com alguns bastões de fogo lhe fez desenvolver um medo mortal de fogo.</desc>
 	</CircusPerformer69>
 	<CriminalKingpin63>
 		<title>Chefe criminoso</title>
 		<titleShort>Chefe</titleShort>
-		<desc>[PAWN_nameDef] descobriu seu dom - as pessoas fizeram o que ele disse, quando ele disse isto. Tirando proveito disto, ele partiu para os planetas dos mundos isolados para fazer um nome para si mesmo no submundo criminoso.
+		<desc>[PAWN_nameDef] descobriu seu dom - as pessoas faziam o que ele disse, quando ele disse isto. Se aproveitando disto, ele partiu para os planetas dos mundos isolados para fazer um nome para si mesmo no submundo criminoso.
 
 Ter pessoas fazendo coisas para ele lhe ensinou a evitar o trabalho manual a todo custo.</desc>
 	</CriminalKingpin63>
@@ -1622,7 +1665,7 @@ No pequeno espaço que ele tinha para si, ele estudou sua paixão - armas de fog
 	</GunKid57>
 	<UrbworldSergeant87>
 		<title>Sargento do m. urbano</title>
-		<titleShort>Sergeant</titleShort>
+		<titleShort>Sargento</titleShort>
 		<desc>A paixão de [PAWN_nameDef] por todas as coisas militaristas se manteve com ele todo o caminho até a idade adulta.
 
 Depois de se matricular como policial local, ele logo foi promovido a sargento.</desc>
@@ -1656,7 +1699,7 @@ Apesar de seus melhores esforços, seu reino foi destruído. [PAWN_nameDef] dese
 	<SpaceFanboy24>
 		<title>Fanboy espacial</title>
 		<titleShort>Fanboy</titleShort>
-		<desc>[PAWN_nameDef] sonhou com viagens espaciais. Ele construiu sua própria nave espacial de mentira de uma velha caixa da polícia e foi ver o grande desconhecido.</desc>
+		<desc>[PAWN_nameDef] sonhou com viagens espaciais. Ele construiu sua própria espaçonave de mentira de uma velha caixa da polícia e foi ver o grande desconhecido.</desc>
 	</SpaceFanboy24>
 	<Castaway19>
 		<title>Náufrago</title>
@@ -1673,7 +1716,7 @@ Sua obsessão com a tecnologia significava que [PAWN_pronoun] nunca apreciava ar
 	<EnergyResearcher46>
 		<title>Pesquisadora de energia</title>
 		<titleShort>Pesquisadora</titleShort>
-		<desc>[PAWN_nameDef] estava trabalhando em uma ideia para comunicação rápida em longas distâncias. cometeu um erro que destruiu o seu laboratório e a maior parte da cidade. [PAWN_pronoun] fugiu do planeta para escapar das autoridades.</desc>
+		<desc>[PAWN_nameDef] estava trabalhando em uma ideia para comunicação rápida em longas distâncias. Cometeu um erro que destruiu o seu laboratório e a maior parte da cidade. [PAWN_pronoun] fugiu do planeta para escapar das autoridades.</desc>
 	</EnergyResearcher46>
 	<WarChild73>
 		<title>Criança de guerra</title>
@@ -1712,7 +1755,7 @@ Seus homens eram leais e lutaram duro, mas seus ideais logo desapareceram e suas
 	<ChildOfGlass96>
 		<title>Criança de vidro</title>
 		<titleShort>Sobrevivente</titleShort>
-		<desc>[PAWN_nameDef] foi criado no subsolo em um planeta "mármore" - um terreno baldio radioativo e precipitação tóxica.
+		<desc>[PAWN_nameDef] foi criado no subsolo em um planeta de "mármore" - um terreno baldio radioativo e precipitação tóxica.
 
 Para sobreviver em um planeta desprovido de vida, [PAWN_pronoun] teve de aprender a cultivar no subterrâneo e como lutar sem desperdiçar balas.</desc>
 	</ChildOfGlass96>
@@ -1726,7 +1769,7 @@ Para sobreviver em um planeta desprovido de vida, [PAWN_pronoun] teve de aprende
 	<AmateurBotanist14>
 		<title>Botânico amador</title>
 		<titleShort>Botânico</titleShort>
-		<desc>Passando muitos verões rastejando através da sujeira, [PAWN_nameDef] que ele tinha bastante o polegar verde. Em vez de aprender a cozinhar a comida que ele cultivou, ele só cultivou mais e mais.</desc>
+		<desc>Passando muitos verões rastejando através da sujeira, [PAWN_nameDef] descobriu que gostava muito de plantas. Em vez de aprender a cozinhar a comida que cultivava, só cultivou mais e mais.</desc>
 	</AmateurBotanist14>
 	<Undertaker50>
 		<title>Agente funerário</title>
@@ -1753,7 +1796,7 @@ Uma noite, depois que seus pais adormeceram, ele conseguiu se esgueirar a bordo 
 	<HiredAssassin2>
 		<title>Assassino contratado</title>
 		<titleShort>Assassino</titleShort>
-		<desc>[PAWN_nameDef] era um mestre ladrão, trabalhando principalmente para o crime organizado. Ao longo do tempo, ele fez um nome para di mesmo e mudou seu negócio para a "remoção" paga de ameaças humanas.</desc>
+		<desc>[PAWN_nameDef] era um mestre ladrão, trabalhando principalmente para o crime organizado. Ao longo do tempo, ele fez um nome para si mesmo e mudou seu negócio para a "remoção" paga de ameaças humanas.</desc>
 	</HiredAssassin2>
 	<VideoGamer91>
 		<title>Jogador de videogame</title>
@@ -1761,14 +1804,14 @@ Uma noite, depois que seus pais adormeceram, ele conseguiu se esgueirar a bordo 
 		<desc>[PAWN_nameDef] foi criado em um mundo brilhante. Tudo que ele queria veio a ele. Na escola, ele era uma borboleta social. Em casa, ele passou seu tempo procurando as mais novas geringonças e jogando seus videogames favoritos.</desc>
 	</VideoGamer91>
 	<SpaceshipChef34>
-		<title>Chef de nave espacial</title>
+		<title>Chef de espaçonave</title>
 		<titleShort>Chef</titleShort>
-		<desc>[PAWN_nameDef] conseguiu um lugar em uma nave se tornando cozinheiro da nave. Ele gostava de cozinhar e ajudar o médico a limpar as feridas, mas nunca se acostumou a limpar os pratos.</desc>
+		<desc>[PAWN_nameDef] conseguiu um lugar em uma nave se tornando cozinheiro da nave. Ele gostava de cozinhar e ajudar o doutor a limpar as feridas, mas nunca se acostumou a limpar os pratos.</desc>
 	</SpaceshipChef34>
 	<DreadedBaby55>
 		<title>Bebê temido</title>
 		<titleShort>Bebê mano</titleShort>
-		<desc>[PAWN_nameDef] foi encontrado quando bebê em uma espaçonave acidentada. De acordo com os registros de dados da nave, [PAWN_pronoun] inventou o dispositivo nuclear que alimentou sua nave. Apparently, ele também inventou o céu e o hamburger, e é dito ter gerado uma raça de gatinhos dourados saborosos.</desc>
+		<desc>[PAWN_nameDef] foi encontrado quando bebê em uma espaçonave acidentada. De acordo com os registros de dados da nave, [PAWN_pronoun] inventou o dispositivo nuclear que alimentava sua nave. Aparentemente, ele também inventou o céu e o hambúrguer, e é dito ter gerado uma raça de gatinhos dourados saborosos.</desc>
 	</DreadedBaby55>
 	<DreadedDude3>
 		<title>Cara temido</title>
@@ -1793,13 +1836,13 @@ Há até uma religião sobre eles, em algum lugar, envolvendo macarrão e almôn
 		<desc>Nascida em um mundo urbano para o governante de três megacidades, as perspectivas da [PAWN_nameDef] pareciam boas - Até que uma insurreição violenta derrubou sua família. O exílio introduziu [PAWN_nameDef] ao trabalho árduo e ao combate, mas alguns escrúpulos elevados nascidos permanecem.</desc>
 	</DisplacedNoble82>
 	<Minister38>
-		<title>Ministro</title>
-		<titleShort>Ministro</titleShort>
-		<desc>[PAWN_nameDef] conseguiu garantir uma posição importante no governo de um mundo brilhante menor. [PAWN_pronoun] se acostumou com a opulência, enquanto tentava manter seus cidadãos contentes. tinha tempo suficiente para o prazer e indulgência - embora [PAWN_pronoun] nunca se esqueceu de como fazer o trabalho duro.</desc>
+		<title>Ministra</title>
+		<titleShort>Ministra</titleShort>
+		<desc>[PAWN_nameDef] conseguiu garantir uma posição importante no governo de um mundo brilhante menor. [PAWN_pronoun] se acostumou com a opulência, enquanto tentava manter seus cidadãos contentes. Tinha tempo suficiente para o prazer e indulgência - embora [PAWN_pronoun] nunca se esqueceu de como fazer o trabalho duro.</desc>
 	</Minister38>
 	<ChessMaster23>
 		<title>Mestre do xadrez</title>
-		<titleShort>Cabeça de xadrez</titleShort>
+		<titleShort>Cabeça do xadrez</titleShort>
 		<desc>[PAWN_nameDef] adorava jogar xadrez. [PAWN_pronoun] ainda ganhou o apelido de [PAWN_nameDef] por alguns de seus movimentos astutos. 
 
 [PAWN_pronoun] nunca se meteu em problemas - principalmente porque ele era bom em não ser pego.</desc>
@@ -1833,7 +1876,7 @@ Seu nome tem sido associado mais de uma vez a estratégias que superaram esmagad
 		<titleShort>Mineiro de especiaria</titleShort>
 		<desc>[PAWN_nameDef] fez sua marca no universo como um mineiro de especiarias atribuído para a lucrativa colônia mineira de Rural Pen'The.
 
-Pouco ele sabia, Benn estava prestes a embarcar em uma carreira que mudaria sua vida.</desc>
+Pouco ele sabia, mas estava prestes a embarcar em uma carreira que mudaria sua vida.</desc>
 	</Spiceminer98>
 	<BrutalThief33>
 		<title>Ladrão brutal</title>
@@ -1857,18 +1900,18 @@ Ele confiava menos em seus punhos e mais em suas armas de fogo. Sua reputação 
 Nascido em um mundo urbano violento, [PAWN_nameDef] foi treinado desde uma idade jovem para lutar as guerras de outros, e se tornou bastante bom nisto.</desc>
 	</BoySoldier18>
 	<MarbleDoctor3>
-		<title>Médico de mármore</title>
-		<titleShort>Médico</titleShort>
+		<title>Doutor de mármore</title>
+		<titleShort>Doutor</titleShort>
 		<desc>Em um mundo bombardeado, primeiros socorros é muitas vezes a única ajuda.
 
-[PAWN_nameDef] usou suas habilidades médicas para ajudar os feridos e os doentes. [PAWN_pronoun] acreditava que embora armas de fogo e máquinas possam ser poderosas, um médico é ainda mais.</desc>
+[PAWN_nameDef] usou suas habilidades médicas para ajudar os feridos e os doentes. [PAWN_pronoun] acreditava que embora armas de fogo e máquinas possam ser poderosas, um doutor é ainda mais.</desc>
 	</MarbleDoctor3>
 	<ApocalypseChild97>
 		<title>Criança de apocalipse</title>
 		<titleShort>Apocalipse</titleShort>
 		<desc>[PAWN_nameDef] passou sua infância em um mundo pós-apocalíptico. Ele lutou pela sobrevivência desde uma idade jovem, em um planeta onde a confiança não existia.
 
-Ele disse a todos que não tinha sorte.</desc>
+Ele disse a todos que ele não tinha sorte.</desc>
 	</ApocalypseChild97>
 	<MobHenchman44>
 		<title>Capanga de quadrilha</title>
@@ -1883,9 +1926,9 @@ Ele disse a todos que não tinha sorte.</desc>
 [PAWN_pronoun] teve vários empregos, mas nunca alcançou mais do que uma educação básica.</desc>
 	</OrphanOfWar96>
 	<MechWarVeteran90>
-		<title>Vetera. de guerra mech</title>
+		<title>Veter. de guerra mech</title>
 		<titleShort>Veterano</titleShort>
-		<desc>[PAWN_nameDef] lutou contra enxames de mechanoides desonestos desde que ele tinha idade suficiente para se alistar. sangrou em meia dúzia de mundos e perdeu mais do que se importa recordar. Estas experiências lhe deixaram endurecido, tanto mentalmente como fisicamente.</desc>
+		<desc>[PAWN_nameDef] lutou contra enxames de mechanoides desonestos desde que ele tinha idade suficiente para se alistar. Sangrou em meia dúzia de mundos e perdeu mais do que se importa recordar. Estas experiências lhe deixaram endurecido, tanto mentalmente como fisicamente.</desc>
 	</MechWarVeteran90>
 	<ImperialStudent92>
 		<title>Estudante imperial</title>
@@ -1893,7 +1936,7 @@ Ele disse a todos que não tinha sorte.</desc>
 		<desc>[PAWN_nameDef] estudou em um mundo médio imperial onde armas de fogo foram proibidas e estudo de auto-defesa foi encorajado. A relativa segurança permitiu que [PAWN_pronoun] se concentrasse em sua pesquisa botânica.</desc>
 	</ImperialStudent92>
 	<PoisonGardener85>
-		<title>Jardineiro veneno</title>
+		<title>Jardineiro de veneno</title>
 		<titleShort>Botânico</titleShort>
 		<desc>[PAWN_nameDef] passou quase todo o seu tempo tendendo para um jardim de veneno e ficou afastado da sociedade.
 
@@ -1916,14 +1959,14 @@ Nesse tempo [PAWN_pronoun] aprendeu alguns usos culinários seguros e medicinais
 		<titleShort>Cabeça de tecnologia</titleShort>
 		<desc>Permanente no casco da nave com seu pai em uma traje EVA de tamanho infantil, [PAWN_nameDef] adorou o espaço desde uma idade jovem.
 
-[PAWN_pronoun]  foi colocado em um Programa Acadêmico Civil. Enquanto fingindo ser como o seu pai, [PAWN_pronoun] passou seu tempo cuidando de plantas em sua sala bagunçada. Seu apelido foi dado por seu amor de círculos.</desc>
+[PAWN_pronoun] foi colocado em um Programa Acadêmico Civil. Enquanto fingindo ser como o seu pai, [PAWN_pronoun] passou seu tempo cuidando de plantas em sua sala bagunçada. Seu apelido foi dado por seu amor de círculos.</desc>
 	</TechHead78>
 	<SystemsEngineer27>
 		<title>Engenheiro de sistemas</title>
 		<titleShort>Engenheiro</titleShort>
 		<desc>Como SEU pai, [PAWN_nameDef] era um engenheiro de sistemas. [PAWN_pronoun] foi qualificado em sistemas de colônias e naves.
 
-Quando não está trabalhando, ele iria fazer figuras mecânicas, Ler livros antigos, ou ocasionalmente viajar para mundos inexplorados. Sendo introvertido, [PAWN_pronoun] fez estas coisas principalmente sozinho.</desc>
+Quando não está trabalhando, ele iria fazer figuras mecânicas, ler livros antigos, ou ocasionalmente viajar para mundos inexplorados. Sendo introvertido, [PAWN_pronoun] fez estas coisas principalmente sozinho.</desc>
 	</SystemsEngineer27>
 	<Orphan91>
 		<title>Órfão</title>
@@ -1952,7 +1995,7 @@ Depois de ter conseguido mapear todo o cérebro, [PAWN_nameDef] se juntou a uma 
 	<BlackjackPlayer50>
 		<title>Jogador de blackjack</title>
 		<titleShort>Jogador</titleShort>
-		<desc>A única habilidade útil que [PAWN_nameDef] aprendeu com sua escola militar era a contagem de cartas. Ele acumulou muitos inimigos trapaceabdo em casinos, se tornando cada vez mais intenso e violento enquanto a ameaça de retaliação cresceu.
+		<desc>A única habilidade útil que [PAWN_nameDef] aprendeu com sua escola militar era a contagem de cartas. Ele acumulou muitos inimigos trapaceando em casinos, se tornando cada vez mais intenso e violento enquanto a ameaça de retaliação cresceu.
 
 Quando ele finalmente foi pego, eles queimaram metade de sua pele fora. Ele nunca será capaz de enfrentar o fogo ou a violência novamente.</desc>
 	</BlackjackPlayer50>
@@ -1972,7 +2015,7 @@ Embora ele se preocupasse mais com seu penteado do que com suas notas, ele de al
 	</AcademyStudent52>
 	<ComputerEngineer28>
 		<title>Engenhe. de informática</title>
-		<titleShort>Cabeça tecn</titleShort>
+		<titleShort>Cabeça de tecnologia</titleShort>
 		<desc>Entediado de seu trabalho de escritório de código-macaco e sentindo falta dos dias de glória da Academia, [PAWN_nameDef] viu um comercial sobre a fronteira onde "apenas os fortes sobrevivem".
 
 Com sua esposa Morgan, [PAWN_nameDef] empreendeu uma viagem ao desconhecido.</desc>
@@ -1992,7 +2035,7 @@ Com sua esposa Morgan, [PAWN_nameDef] empreendeu uma viagem ao desconhecido.</de
 	<MedicalStudent18>
 		<title>Estudante de medicina</title>
 		<titleShort>Estudante</titleShort>
-		<desc>[PAWN_nameDef] cresceu em um mundo brilhante em uma família de médicos e optou por manter a tradição.
+		<desc>[PAWN_nameDef] cresceu em um mundo brilhante em uma família de doutores e optou por manter a tradição.
 
 [PAWN_pronoun] teve poucos amigos, mas se deu bem com seus irmãos.</desc>
 	</MedicalStudent18>
@@ -2028,7 +2071,7 @@ Ela ficou encarregada de executar seu planeta natal desde uma idade precoce, e a
 	<MedicalStudent71>
 		<title>Estudante de medicina</title>
 		<titleShort>Estudante</titleShort>
-		<desc>Nascida em uma longa linha de médicos, [PAWN_nameDef] foi orientada em todos os campos da medicina, de pomadas de ervas às modernas drogas sintéticas. [PAWN_pronoun] também pegou um desdém saudável para o trabalho de classe inferior.</desc>
+		<desc>Nascida em uma longa linha de doutores, [PAWN_nameDef] foi orientada em todos os campos da medicina, de pomadas de ervas às modernas drogas sintéticas. [PAWN_pronoun] também pegou um desdém saudável para o trabalho de classe inferior.</desc>
 	</MedicalStudent71>
 	<SpaceNavyDoctor40>
 		<title>Doutora marinha espac.</title>
@@ -2069,7 +2112,7 @@ Ao longo do caminho, ele ajudou pessoas em necessidade.</desc>
 Seus sonhos lhe levaram a perguntar o que estava além das luzes no céu.</desc>
 	</PsychologyStudent88>
 	<AcolyteOfStars66>
-		<title>Acólito de estrelas</title>
+		<title>Acólito das estrelas</title>
 		<titleShort>Sacerdote</titleShort>
 		<desc>Sempre o sonhador, [PAWN_nameDef] percorreu o universo para encontrar a coisa que ele sentia lhe chamar.
 
@@ -2109,7 +2152,7 @@ Quando [PAWN_pronoun] cresceu, [PAWN_nameDef] cresceu um pouco grande demais e f
 	<WanderingHealer6>
 		<title>Curandeira errante</title>
 		<titleShort>Curandeira</titleShort>
-		<desc>[PAWN_nameDef] estudou para ser uma médica, mas estava insatisfeita com a sua prática em um mundo médio de outra forma pacífico.
+		<desc>[PAWN_nameDef] estudou para ser uma doutora, mas estava insatisfeita com a sua prática em um mundo médio de outra forma pacífico.
 
 Em vez disto, [PAWN_pronoun] escolheu puxar para cima as raízes e viajar para os mundos isolados para cuidar de pessoas que precisavam dHE mais.</desc>
 	</WanderingHealer6>
@@ -2146,12 +2189,12 @@ Depois de algumas modificações cosméticas dolorosas, [PAWN_nameDef] mal se as
 		<titleShort>Sobrevivente</titleShort>
 		<desc>[PAWN_nameDef] e sua família viveram uma vida dura mas próspera junto com seus companheiros colonos em um mundo isolado distante.
 
-Um dia, um grupo de mechanoides atacou, matando todos com exceção de Robert. Ele viveu sozinho no deserto até que um grupo de invasores o encontraram.</desc>
+Um dia, um grupo de mechanoides atacou, matando todos com exceção de [PAWN_nameDef]. Ele viveu sozinho no deserto até que um grupo de assaltantes lhe encontraram.</desc>
 	</FeralChild73>
 	<RaiderKing70>
 		<title>Rei assaltante</title>
 		<titleShort>Assaltante</titleShort>
-		<desc>Começando como nada mais do que um escravo, [PAWN_nameDef] subiu rapidamente entre as fileiras de invasores até que todos soubessem seu nome e sua crueldade.</desc>
+		<desc>Começando como nada mais do que um escravo, [PAWN_nameDef] subiu rapidamente entre as fileiras de assaltantes até que todos soubessem seu nome e sua crueldade.</desc>
 	</RaiderKing70>
 	<Scout86>
 		<title>Escoteiro</title>
@@ -2177,7 +2220,7 @@ Depois de recuperar sua saúde, [PAWN_nameDef] prendeu o prefeito. [PAWN_pronoun
 		<titleShort>Hierarca</titleShort>
 		<desc>Ordenado como um sacerdote em sua comunidade local, [PAWN_nameDef] usou intriga e diplomacia para subir ao escalão mais alto do clero. Ele teve vários títulos e terras.
 
-Um dia, um comerciante pousou sua nave espacial perto da casa de [PAWN_nameDef]. [PAWN_pronoun] decidiu acompanhar o comerciante em busca de novos mundos e desafios.</desc>
+Um dia, um comerciante pousou sua espaçonave perto da casa de [PAWN_nameDef]. [PAWN_pronoun] decidiu acompanhar o comerciante em busca de novos mundos e desafios.</desc>
 	</ReligiousHierarch42>
 	<Pickpocket96>
 		<title>Batedor(a) de carteiras</title>
@@ -2200,7 +2243,7 @@ Ele serviu no super-destruidor interplanetário HMS Criança-Trovão.</desc>
 	</SpaceCadet12>
 	<SanitationCaptain28>
 		<title>Capitão de saneamento</title>
-		<titleShort>Zelador </titleShort>
+		<titleShort>Zelador</titleShort>
 		<desc>Depois de graduar na escola de treinamento de oficiais, [PAWN_nameDef] foi designado para o principal campo de batalha no Criança-Trovão. Ele serviu lá por um ano antes de suas ações "galantes" lhe virem reatribuído ao corpo de manutenção.
 
 Foi com o corpo de manutenção que foi apelidado de Table por conta de suas pernas.</desc>
@@ -2229,7 +2272,7 @@ A vida do exército lhe quebrou e lhe construiu de volta. Foi ensinado a ele pon
 	<GalacticSightseer55>
 		<title>Turista galáctico</title>
 		<titleShort>Turista</titleShort>
-		<desc>[PAWN_nameDef] viajou pelas estrelas. [PAWN_pronoun] dificilmente conseguiu juntar os custos de viagem fazendo trabalhos estranhos nas estações, but it was all worth it. Vendo as maravilhas da galáxia foi onde [PAWN_pronoun] achou seu chamado.
+		<desc>[PAWN_nameDef] viajou pelas estrelas. [PAWN_pronoun] mal conseguia pagar os custos de viagem fazendo trabalhos estranhos esporádicos nas estações, mas tudo valeu a pena. Foi vendo as maravilhas da galáxia que [PAWN_pronoun] encontrou seu chamado.
 
 [PAWN_pronoun] adora acampar em mundos exóticos e aprender os padrões de vida selvagem estranha. As maravilhas do universo lhe inspiraram como nada mais poderia.</desc>
 	</GalacticSightseer55>
@@ -2251,7 +2294,7 @@ A vida do exército lhe quebrou e lhe construiu de volta. Foi ensinado a ele pon
 	<MutinousCaptain49>
 		<title>Capitão amotinado</title>
 		<titleShort>Capitão</titleShort>
-		<desc>[PAWN_nameDef] foi levado para as estrelas por escravos depois que sua tribo foi dizimada em uma invasão. Ao longo dos anos, [PAWN_pronoun] aprendeu o idioma de seus captores, eventualmente trabalhando para eles como intérprete e diplomata.
+		<desc>[PAWN_nameDef] foi levado para as estrelas por escravos depois que sua tribo foi dizimada em um assalto. Ao longo dos anos, [PAWN_pronoun] aprendeu o idioma de seus captores, eventualmente trabalhando para eles como intérprete e diplomata.
 
 O capitão só soube da verdadeira astúcia de [PAWN_nameDef] quando a vingança foi tomada por forma de motim.</desc>
 	</MutinousCaptain49>
@@ -2282,6 +2325,13 @@ Aos cinco anos, se matriculou na academia corporativa onde ele aprendeu lealdade
 		<titleShort>Menino soldado</titleShort>
 		<desc>[PAWN_nameDef] foi criado em uma base militar no sistema Xennoa. [PAWN_pronoun] foi exposto a muitas atividades extenuantes diferentes e cresceu forte em uma idade precoce. A [PAWN_pronoun] também aprendeu negociação, táticas médicas e militares.</desc>
 	</MilitaryTrainee74>
+	<AWOLSoldier54>
+		<title>Soldado ASLO</title>
+		<titleShort>Soldado</titleShort>
+		<desc>[PAWN_nameDef] era um soldado de infantaria.
+
+Quando [PAWN_pronoun] foi informado de sua atribuição para a Guerra de Xennoa-Zartza, [PAWN_pronoun] decidiu que não queria ser um soldado. Ele foi capaz de escapar via jato espacial militar.</desc>
+	</AWOLSoldier54>
 	<Bookworm75>
 		<title>Devorador de Livros</title>
 		<titleShort>Devorador de Livros</titleShort>
@@ -2295,18 +2345,18 @@ Aos cinco anos, se matriculou na academia corporativa onde ele aprendeu lealdade
 	<ColonyKid89>
 		<title>Criança de colônia</title>
 		<titleShort>Criança de colônia</titleShort>
-		<desc>[PAWN_nameDef] nasceu filho de dois médicos em uma pequena colônia. Por causa de seus pais, [PAWN_pronoun] sempre esteve interessado em ciência e medicina.
+		<desc>[PAWN_nameDef] nasceu filho de dois doutores em uma pequena colônia. Por causa de seus pais, [PAWN_pronoun] sempre esteve interessado em ciência e medicina.
 
 [PAWN_nameDef] nunca realmente se deu bem com outras crianças, e como resultado se tornou retirado e insociável.</desc>
 	</ColonyKid89>
 	<StarshipDoctor78>
 		<title>Doutor de nave espacial</title>
 		<titleShort>Doutor</titleShort>
-		<desc>[PAWN_nameDef] foi um doutor em uma nave espacial. Ele era um cirurgião brilhante e se envolveu em pesquisa própria. However, ele era muito recluso e nunca teve a melhor maneira de cabeceira.</desc>
+		<desc>[PAWN_nameDef] foi um doutor em uma nave espacial. Ele era um cirurgião brilhante e se envolveu em pesquisa própria. Contudo, era bastante recluso e nunca teve jeito para cuidar dos pacientes.</desc>
 	</StarshipDoctor78>
 	<CaravanChild53>
 		<title>Criança de caravana</title>
-		<titleShort>Criança</titleShort>
+		<titleShort>Criança de caravana</titleShort>
 		<desc>[PAWN_nameDef] nasceu em uma nave mercante do mundo urbano para uma mãe empreendedora e a um pai ausente. Nascido masculino, ela não gostava de coisas de menino, e começou a ter as coisas de sua mãe o tempo todo.
 
 Eventualmente, ela viajou com sua mãe para um mundo brilhante e gastou suas economias em um corpo que ela estava feliz.</desc>
@@ -2323,27 +2373,22 @@ Eventualmente, ela viajou com sua mãe para um mundo brilhante e gastou suas eco
 
 [PAWN_pronoun] foi uma das muitas crianças que foram tiradas de seus pais e forçadas para os novos programas de educação.</desc>
 	</ReEducatedYouth32>
-	<FarmMechanic40>
-		<title>Mecânico fazendeiro</title>
-		<titleShort>Mecânico</titleShort>
-		<desc>Crescendo em um planeta agrícola, [PAWN_nameDef] passou seu tempo aprendendo sobre a maquinaria automatizada que cresceu e colheu a multidão de colheitas.</desc>
-	</FarmMechanic40>
-	<OrbitalReservist59>
-		<title>Reservista orbital</title>
-		<titleShort>Reservista</titleShort>
-		<desc>Quando o governo declarou que iria reforçar suas defesas militares, [PAWN_nameDef] foi alistado e treinado.
+	<FallenOfficial20>
+		<title>Oficial caído</title>
+		<titleShort>Oficial</titleShort>
+		<desc>[PAWN_nameDef] era um funcionário de um governo autocrático.
 
-[PAWN_pronoun] esteve estacionado em uma base orbital, manejando os sistemas de defesa e, em situações terríveis, descendo em uma nave de envio para a superfície.</desc>
-	</OrbitalReservist59>
+Quando seus superiores exigiram que [PAWN_pronoun] participasse de atrocidades, [PAWN_nameDef] renunciou e escapou de seu mundo natal com nada além das roupas em suas costas.</desc>
+	</FallenOfficial20>
 	<AccursedChild43>
 		<title>Criança amaldiçoada</title>
 		<titleShort>Amaldiçoado</titleShort>
 		<desc>[PAWN_nameDef] nasceu no auge de um eclipse lunar. Os anciãos declararam que [PAWN_pronoun] era um filho da escuridão que lhe trouxe sob seus cuidados.
 
-Sua infância inteira foi gasto estudando o conhecimento e os rituais de sua pessoas - até o dia da chamada.</desc>
+Sua infância inteira foi gasta estudando o conhecimento e os rituais de suas pessoas - até o dia da chamada.</desc>
 	</AccursedChild43>
 	<ShamanOfShadows30>
-		<title>Xamã de sombras</title>
+		<title>Xamã das sombras</title>
 		<titleShort>Xamã</titleShort>
 		<desc>Quando os monstros de fogo vieram do céu, [PAWN_nameDef] foi chamado por sua tribo para guiá-los na batalha.
 
@@ -2380,7 +2425,7 @@ Para proteger o futuro da empresa [PAWN_pronoun] passou por um treinamento milit
 	<EnergeticPopIdol4>
 		<title>Ídolo pop energético</title>
 		<titleShort>Ídolo pop</titleShort>
-		<desc>[PAWN_nameDef] cresceu em um mundo brilhante, treinando em artes de rapieira e cantando. Ela passou vários anos como uma ídolo pop adolescente energética.
+		<desc>[PAWN_nameDef] cresceu em um mundo brilhante, treinada nas artes de florete e canto. Ela passou vários anos como uma ídolo pop adolescente energética.
 
 No entanto, ela decidiu que as indústrias de música e modelagem não estavam lhe prestando atenção suficiente, então ela saiu.</desc>
 	</EnergeticPopIdol4>
@@ -2429,9 +2474,9 @@ Ele aprendeu muitas habilidades de sobrevivência, incluindo como prosperar no e
 	<UrbworldPimp46>
 		<title>Proxeneta do m. urbano</title>
 		<titleShort>Proxeneta</titleShort>
-		<desc>No início, [PAWN_nameDef] fez um pequeno lucro com a venda de drogas. Então, ele mudou para vender mulheres e fez uma fortuna.
+		<desc>No início, [PAWN_nameDef] fez um pequeno lucro com a venda de drogas. Então, ele mudou para venda de mulheres e fez uma fortuna.
 
-[PAWN_pronoun] desenvolveu grandes habilidades com seus punhos. Ele também aprendeu a corrigir ferimentos que [PAWN_pronoun] infligiu nas meninas.</desc>
+[PAWN_pronoun] desenvolveu grandes habilidades com seus punhos. Ele também aprendeu a arrumar os ferimentos que [PAWN_pronoun] infligia nas meninas.</desc>
 	</UrbworldPimp46>
 	<ScienceProdigy96>
 		<title>Prodígio da ciência</title>
@@ -2448,7 +2493,7 @@ Um infeliz acidente de laboratório lhe deixou com um medo mortal de fogo.</desc
 	<SpeederRacer68>
 		<title>Corredor de alta velocid.</title>
 		<titleShort>Corredor</titleShort>
-		<desc>[PAWN_nameDef] era filho de um agricultor de samambaias nas florestas altas de Khalderia.
+		<desc>[PAWN_nameDef] era filho de um fazendeiro de samambaias nas florestas altas de Khalderia.
 
 Ele encontrou seu primeiro amor em corridas de altas velocidade, entrando e saindo de copa maciças e vistas deslumbrantes de sua terra natal. O infame submundo da corrida também lhe forçou a aprender a se defender com uma palavra rápida ou um tiro mais rápido.</desc>
 	</SpeederRacer68>
@@ -2469,8 +2514,20 @@ Ele encontrou seu primeiro amor em corridas de altas velocidade, entrando e sain
 		<titleShort>Guarda-florestal</titleShort>
 		<desc>[PAWN_nameDef] vivia sozinho, no fundo de uma floresta. [PAWN_pronoun] protegia a fauna selvagem contra caçadores furtivos, E aprendeu a satisfazer suas próprias necessidades materiais sem ajuda externa.</desc>
 	</Ranger8>
+	<MarineCadet8>
+		<title>Cadete da marinha</title>
+		<titleShort>Cadete</titleShort>
+		<desc>[PAWN_nameDef] estava em um programa de cadete da marinha planetário.
+
+[PAWN_pronoun] foi expulso por disparar contra um oficial. Nunca foi provado se isso foi um acidente.</desc>
+	</MarineCadet8>
+	<ClanChief70>
+		<title>Chefe de clã</title>
+		<titleShort>Chefe</titleShort>
+		<desc>[PAWN_nameDef] conseguiu um pequeno clã criminoso em um mundo de eixos comerciais distantes.</desc>
+	</ClanChief70>
 	<YoungPsychologist60>
-		<title>Jovem psicólogo</title>
+		<title>Psicólogo jovem</title>
 		<titleShort>Psicó</titleShort>
 		<desc>[PAWN_nameDef] nasceu e cresceu em um mundo médio pobre, no banco de passageiro da cabine de sua mãe.
 
@@ -2484,8 +2541,8 @@ Assistindo pedestres e ouvindo os passageiros de táxi o dia inteiro, [PAWN_pron
 Por diversão, [PAWN_pronoun] os reuniu e os levou a uma certa morte. [PAWN_pronoun] sabia então que [PAWN_pronoun] tinha o talento para perceber suas ambições de liderança.</desc>
 	</FactionLeader69>
 	<LabGrownChild20>
-		<title>Criança cult. em labora.</title>
-		<titleShort>cultivada em laboratório</titleShort>
+		<title>Criança nascida em lab.</title>
+		<titleShort>Nascida em laboratório</titleShort>
 		<desc>[PAWN_nameDef] nasceu em um laboratório como parte de uma tentativa altruísta mas fracassada de criar uma nova classe de seres humanos.
 
 Sua infância estava cheia de livros e tutoria um-por-um. Ele era estranho, tímido e ingênuo para a verdadeira natureza da humanidade.</desc>
@@ -2498,7 +2555,7 @@ Sua infância estava cheia de livros e tutoria um-por-um. Ele era estranho, tím
 Incapaz de se adaptar às políticas sociais de seu local de trabalho, ele se enterrou em seu trabalho e não conseguiu progredir na escada corporativa. Todos os dias, ele desejava ser deixado sozinho.</desc>
 	</CorpResearcher9>
 	<TechScholar7>
-		<title>Erudito de tecn</title>
+		<title>Erudito de tecnologia</title>
 		<titleShort>Erudito</titleShort>
 		<desc>[PAWN_nameDef] foi um jovem erudito do mundo da ciência e da tecnologia.
 
@@ -2506,7 +2563,7 @@ Incapaz de se adaptar às políticas sociais de seu local de trabalho, ele se en
 	</TechScholar7>
 	<TechnologyDoctor90>
 		<title>Doutor de tecnologia</title>
-		<titleShort>Doutor de tecn</titleShort>
+		<titleShort>Doutor de tecnologia</titleShort>
 		<desc>[PAWN_nameDef] realizou pesquisa sobre combustíveis propulsivos e geração de energia.
 
 [PAWN_pronoun] adorava a pesquisa de tecnologia e esperava melhorar a vida humana fazendo isto.</desc>
@@ -2521,12 +2578,12 @@ Incapaz de se adaptar às políticas sociais de seu local de trabalho, ele se en
 	<PirateTrooper88>
 		<title>Soldado pirata</title>
 		<titleShort>Soldado</titleShort>
-		<desc>[PAWN_nameDef] se juntou a uma organização criminosa interestelar de renome, e era frequentemente parte dos partidos de embarque de assalto de choque durante assaltos de espaçonaves.
+		<desc>[PAWN_nameDef] se juntou a uma organização criminosa interestelar de renome, e era frequentemente parte dos partidos de embarque de assalto de choque durante assaltos de naves espaciais.
 
 Embora sua experiência de combate lhe tenha feito um bom lutador, a crueldade do trabalho lhe deixou de coração frio e sem entusiasmo sobre a interação social.</desc>
 	</PirateTrooper88>
 	<FactoryWorker58>
-		<title>Trabalhador de fábrica</title>
+		<title>Operário de fábrica</title>
 		<titleShort>Trabalhador</titleShort>
 		<desc>[PAWN_nameDef] cresceu em uma grande cidade de fábrica em um mundo industrial.
 
@@ -2537,7 +2594,7 @@ Como a pobreza era desenfreada e a comida escassa, ele trabalhava para qualquer 
 		<titleShort>Médico</titleShort>
 		<desc>Depois que seu país entrou em uma guerra de larga escala, [PAWN_nameDef] foi recrutado para o exército como um médico de combate.
 
-Seus poucos anos nas trincheiras tentando manter seus companheiros soldados vivos lhe deram um sentido agudo para primeiros socorros. Perder muitos amigos fez dele estóico e reservado.</desc>
+Seus poucos anos nas trincheiras tentando manter seus companheiros soldados vivos lhe deram um sentido agudo para primeiros socorros. Perder muitos amigos fez dele estoico e reservado.</desc>
 	</CombatMedic16>
 	<RichBoy51>
 		<title>Menino rico</title>
@@ -2561,8 +2618,8 @@ Ele acabou ganhando dinheiro suficiente para embarcar em um cargueiro barato. El
 Por causa de seu horário exigente e natureza introvertida, ela se tornou socialmente inepta.</desc>
 	</Athlete75>
 	<StilettoAssassin10>
-		<title>Assassino de estilete</title>
-		<titleShort>Assassino</titleShort>
+		<title>Assassina de estilete</title>
+		<titleShort>Assassina</titleShort>
 		<desc>Por causa de suas habilidades, [PAWN_nameDef] desenvolveu um senso de superioridade. Com o tempo, ela perdeu seu senso de empatia. Ela frequentemente se envolvia em brigas, e descobriu como é fácil para matar uma pessoa.
 
 Depois de perceber seus talentos, ela se tornou um dos assassinos mais eficientes do sistema.</desc>
@@ -2589,7 +2646,7 @@ Ele aprendeu a rastrear e capturar qualquer animal nos lugares mais perigosos, E
 [PAWN_pronoun] usou drogas para aumentar sua produtividade. Infelizmente, os efeitos colaterais Incluíndo delírios persistentes de ser mecanizado, o que limitou sua vida social.</desc>
 	</MechanoidHacker35>
 	<BattlefieldTech63>
-		<title>Tecn de campo de batal.</title>
+		<title>Tec. de campo de batal.</title>
 		<titleShort>Técnico</titleShort>
 		<desc>[PAWN_nameDef] recebeu treinamento com armas de fogo, mas seu trabalho foi focado na adaptação técnica e manipulação de mechanoides de combate no campo de batalha.
 
@@ -2598,7 +2655,7 @@ Ele aprendeu a rastrear e capturar qualquer animal nos lugares mais perigosos, E
 	<ProjectSubject48>
 		<title>Sujeito de projeto</title>
 		<titleShort>Sujeito</titleShort>
-		<desc>[PAWN_nameDef] foi escolhido por agentes do governo para o misterios "Projeto Quadro".
+		<desc>[PAWN_nameDef] foi escolhido por agentes do governo para o misterioso "Projeto Quadro".
 
 Devido a bloqueios de memória, no entanto, ele se lembra muito pouco sobre este projeto ou sua verdadeira agenda - apenas que havia poucos sobreviventes.</desc>
 	</ProjectSubject48>
@@ -2633,8 +2690,18 @@ Sua busca de ingredientes lhe trouxe em algumas chamadas próximas com flora e f
 		<titleShort>Cientista</titleShort>
 		<desc>A ânsia de conhecimento de [PAWN_nameDef] foi apenas acompanhada de seu desdém por qualquer pessoa que se interponha no caminho de sua pesquisa.
 
-Viajando de mundo para mundo, ele buscou respostas para perguntas que poucos ousaram perguntar.</desc>
+Viajando de mundo em mundo, ele buscou respostas para perguntas que poucos ousaram perguntar.</desc>
 	</MadScientist79>
+	<PoorKid76>
+		<title>Criança pobre</title>
+		<titleShort>Criança pobre</titleShort>
+		<desc>Uma criança abandonada por seus pais, [PAWN_nameDef] aprendeu a sobreviver sozinho antes de completar dez anos.</desc>
+	</PoorKid76>
+	<Warrior43>
+		<title>Guerreiro</title>
+		<titleShort>Guerreiro</titleShort>
+		<desc>[PAWN_nameDef] foi um herói de guerra durante a terceira guerra mundial de seu planeta. [PAWN_pronoun] ajudou a impedir o lançamento de armas nucleares durante um impasse particularmente tenso.</desc>
+	</Warrior43>
 	<Dreamer11>
 		<title>Sonhador</title>
 		<titleShort>Sonhador</titleShort>
@@ -2647,7 +2714,7 @@ Viajando de mundo para mundo, ele buscou respostas para perguntas que poucos ous
 		<titleShort>Explorador</titleShort>
 		<desc>[PAWN_nameDef] uma vez passou dez anos preso, sozinho em um planeta alienígena. [PAWN_pronoun] rapidamente se adaptou ao ambiente local, e aprendeu a se comunicar com seus inimigos locais.
 
-Este longo período sozinho lhe deixou sem amigos íntimos. coração é sensível, mas ele aprendeu a esconder suas emoções muito bem.</desc>
+Este longo período sozinho lhe deixou sem amigos íntimos. Seu coração é sensível, mas ele aprendeu a esconder suas emoções muito bem.</desc>
 	</SpaceExplorer81>
 	<UrbworldUrchin13>
 		<title>Diabrete do m. urbano</title>
@@ -2691,6 +2758,18 @@ Ele aprendeu a roubar e matar para sobreviver nas ruas implacáveis, ganhando ha
 
 Ele desfrutava de fazer obras de arte de suas vítimas, e era conhecido por deixar sua assinatura nos corpos dos que ele matou.</desc>
 	</SerialMurderer52>
+	<KidScientist80>
+		<title>Criança cientista</title>
+		<titleShort>Cientista</titleShort>
+		<desc>Nascido em uma família influente, [PAWN_nameDef] recebeu a melhor educação que o dinheiro poderia comprar. Seu intelecto logo provou ser superior a muitos. No entanto, sua falta de empatia rapidamente a pôs em desacordo com seus professores e seus pais.</desc>
+	</KidScientist80>
+	<MadScientist65>
+		<title>Cientista maluco</title>
+		<titleShort>Cientista</titleShort>
+		<desc>Depois de terminar sua educação, [PAWN_nameDef] foi contratada pelo principal pesquisador genético do planeta. Mais tarde, ela foi pega executando experiências desumanos ilegais.
+
+Apesar da influência de sua família, ela foi condenada e sentenciada a trabalhos forçados em uma colônia penal.</desc>
+	</MadScientist65>
 	<MedievalThief74>
 		<title>Ladrão medieval</title>
 		<titleShort>Ladrão</titleShort>
@@ -2717,11 +2796,25 @@ Sua mãe Prostefóbica adoeceu com doença cardíaca. Em desespero, o pai de [PA
 		<titleShort>Paciente</titleShort>
 		<desc>[PAWN_nameDef] foi colocado(a) em um hospital psiquiátrico. Lá, [PAWN_pronoun] passou seu tempo envolvido(a) nas atividades calmantes do asilo.
 
-[PAWN_pronoun] foi eventualmente libertado(a), mas [PAWN_pronoun] manteve sua distância emocional, sua curiosidade gis sobre anatomia humana, e seu homônimo riso maníaco.</desc>
+[PAWN_pronoun] foi eventualmente libertado(a), mas [PAWN_pronoun] manteve sua distância emocional, sua curiosidade sobre a anatomia humana, e seu homônimo riso maníaco.</desc>
 	</MentalPatient64>
+	<YouthSoldier75>
+		<title>Jovem soldado</title>
+		<titleShort>Soldado</titleShort>
+		<desc>Nascido de uma longa linha de soldados, [PAWN_nameDef] se juntou a um programa de treinamento militar.
+
+[PAWN_pronoun] se destacou no treinamento físico, e até passou na maioria dos exames intelectuais. Embora [PAWN_pronoun] nunca tenha sido particularmente brilhante ou esperto, [PAWN_nameDef] aprendeu o valor do trabalho duro e do sofrimento.</desc>
+	</YouthSoldier75>
+	<SpaceMarine48>
+		<title>Fuzileiro espacial</title>
+		<titleShort>Fuzileiro</titleShort>
+		<desc>[PAWN_nameDef] foi guerreiro em uma marinha Imperial.
+
+O trabalho de HISCAP era perfurar as espaçonaves inimigas, matar a tripulação e capturar a nave intacta. E ele era bom nisso.</desc>
+	</SpaceMarine48>
 	<GalacticPage15>
-		<title>Pajem galáctico</title>
-		<titleShort>Pajem</titleShort>
+		<title>Soldado galáctico</title>
+		<titleShort>Soldado</titleShort>
 		<desc>[PAWN_nameDef] serviu o alto almirante de uma frota espacial. [PAWN_pronoun] aprendeu as maneiras da corte, incluindo a etiqueta e ofício de discurso.
 
 Em sua sociedade feudal, considerou uma grande honra servir a um homem de tal prestígio.</desc>
@@ -2731,7 +2824,7 @@ Em sua sociedade feudal, considerou uma grande honra servir a um homem de tal pr
 		<titleShort>Emissário</titleShort>
 		<desc>[PAWN_nameDef] entrou no corpo diplomático. Honra e tradição foram os valores que ele levou com ele em cada missão.
 
-Sua posição de prestígio lhe distanciou do trabalho manual de quebra-traseiro, lhe ermitindo se concentrar em suas habilidades de artesão da palavra. Ele deixou o ferraria para outros.</desc>
+Sua posição de prestígio lhe distanciou do trabalho manual árduo, lhe permitindo se concentrar em suas habilidades de artesão da palavra. Ele deixou o ferraria para outros.</desc>
 	</EnvoyOfTheStars91>
 	<ApprenticeSmith9>
 		<title>Aprendiz de ferreiro</title>
@@ -2748,14 +2841,14 @@ Eles foram alguns dos últimos ferreiros do planeta a usarem métodos tradiciona
 		<desc>Como um ferreiro em um mundo medieval, [PAWN_nameDef] ganhou uma reputação pela alta qualidade de seu trabalho. [PAWN_pronoun] não era ruim em usar as espadas que [PAWN_pronoun] forjou também.</desc>
 	</Blacksmith32>
 	<CloneFarmed43>
-		<title>Clone-cultivado</title>
+		<title>Clone-criado</title>
 		<titleShort>Descartável</titleShort>
-		<desc>As crianças clones são semeadas em wombvats ricos em orgânicos e rapidamente crescidas em um universo simmed. Elas são colhidas mais tarde, às vezes para alimentar, às vezes para órgãos, às vezes para os trabalhadores - mas elas são sempre chamadas 'Descartáveis'.</desc>
+		<desc>As crianças clones são disseminadas em wombvats ricos em orgânicos e rapidamente crescidas em um universo simmed. Elas são colhidas mais tarde, às vezes para alimentar, às vezes para órgãos, às vezes para os trabalhadores - mas elas são sempre chamadas de 'Descartáveis'.</desc>
 	</CloneFarmed43>
 	<CloneFarmer72>
 		<title>Cultivador de clone</title>
 		<titleShort>Clonador</titleShort>
-		<desc>A colheita dos produtos das fazendas de clones é feita principalmente pelos próprios clones -particularmente para aqueles cujos sims tendiam para o social. Este clone foi um tal, que escapou das fazendas e se dirigiu para as estrelas.</desc>
+		<desc>A colheita dos produtos das fazendas de clones é feita principalmente pelos próprios clones, em particular aqueles cujos sims tendiam em direção ao social. Este clone foi um tal, que escapou das fazendas e se dirigiu para as estrelas.</desc>
 	</CloneFarmer72>
 	<GangMember12>
 		<title>Membro de gangue</title>
@@ -2804,7 +2897,7 @@ Sua agressividade passiva surgiu de vez em quando, mas ela tentou se adaptar à 
 		<titleShort>Jogador pro</titleShort>
 		<desc>[PAWN_nameDef] estava obcecado com os videogames, já que suas mãos eram grandes o suficiente para segurar um joystick.
 
-conseguiu acabamentos médios em vários torneios locais durante a era de 16-bits. Ninguém notou quando ele se aposentou no início de sua adolescência.</desc>
+Conseguiu acabamentos médios em vários torneios locais durante a era de 16-bits. Ninguém notou quando ele se aposentou no início de sua adolescência.</desc>
 	</ProfessionalGamer86>
 	<ToasterRepairman81>
 		<title>Reparador de torradeira</title>
@@ -2813,6 +2906,20 @@ conseguiu acabamentos médios em vários torneios locais durante a era de 16-bit
 
 Algumas criações fracassadas e ocasionalmente desastrosas mais tarde, ele desistiu de seu sonho e assumiu um trabalho mais adequado ao seu conjunto de habilidades.</desc>
 	</ToasterRepairman81>
+	<DataDecoder25>
+		<title>Descodificador de dados</title>
+		<titleShort>Descodificador</titleShort>
+		<desc>Nascido em um mundo brilhante, [PAWN_nameDef] estava muito interessado no processo de documentação de informações, e rapidamente se tornou registrador sênior da brilhopédia.
+
+[PAWN_pronoun] era autodidata, mas [PAWN_pronoun] não tinha experiência social.</desc>
+	</DataDecoder25>
+	<ArchotechSpy14>
+		<title>Espião Arcotécnico</title>
+		<titleShort>IA Espiã</titleShort>
+		<desc>[PAWN_nameDef] fazia pesquisas cibernéticas. Estudando um mundo transcendido, [PAWN_pronoun] se envolveu demais com seus assuntos. Ao longo do tempo, o núcleo da máquina arcotécnica recrutou os serviços de HIM como uma IA espiã.
+
+Quando [PAWN_pronoun] mais tarde se rebelou contra seu mestre não-humano, ele enviou mechanoides através do espaço para caçar HIM.</desc>
+	</ArchotechSpy14>
 	<WolfPackMember79>
 		<title>Membro de alcate. lobos</title>
 		<titleShort>Feroz</titleShort>
@@ -2821,7 +2928,7 @@ Algumas criações fracassadas e ocasionalmente desastrosas mais tarde, ele desi
 [PAWN_pronoun] aprendeu a lutar eficientemente por dente e garra. [PAWN_pronoun] também aprendeu estratégias de caça primal brutalmente eficazes.</desc>
 	</WolfPackMember79>
 	<BehaviourResearch99>
-		<title>Pesquis. de comportame.</title>
+		<title>Pesquisad. comportame.</title>
 		<titleShort>Cientista</titleShort>
 		<desc>Capturado(a) como uma criança feroz, [PAWN_nameDef] foi forçado(a) para os caminhos da sociedade moderna. [PAWN_pronoun] rapidamente se adaptou e se tornou um(a) pesquisador(a) comportamental, eventualmente possuindo uma instalação privada.
 
@@ -2851,7 +2958,7 @@ O treinamento de táticas de guerrilha que [PAWN_nameDef] recebeu de seus associ
 	<Flaneur73>
 		<title>Vadio</title>
 		<titleShort>Vadio</titleShort>
-		<desc>[PAWN_nameDef] passeava e sorvia seu caminho através das ruas e cafés de seu mundo, perseguindo a liberdade aem cada turno, nunca se anexou.
+		<desc>[PAWN_nameDef] passeava e provou seu caminho através das ruas e cafés de seu mundo, perseguindo a liberdade em cada turno, nunca se anexou.
 
 Durante todo este tempo, Ele permaneceu desconfiado dos outros. E nunca tomou uma ordem de ninguém.</desc>
 	</Flaneur73>
@@ -2865,7 +2972,7 @@ Durante todo este tempo, Ele permaneceu desconfiado dos outros. E nunca tomou um
 	<ChiefEngineer74>
 		<title>Engenheira chefe</title>
 		<titleShort>Engenheira</titleShort>
-		<desc>Como engenheira chefe a bordo de uma grande nave espacial, [PAWN_nameDef] era uma especialista em todas as coisas complicadas e complexas.
+		<desc>Como engenheira chefe a bordo de uma grande espaçonave, [PAWN_nameDef] era uma especialista em todas as coisas complicadas e complexas.
 
 Ela dependia de outros membros da tripulação para algumas das necessidades básicas da vida. Ela e sua nave eventualmente desapareceram em uma longa viagem de exploração.</desc>
 	</ChiefEngineer74>
@@ -2883,6 +2990,13 @@ Mais tarde, seu pai olhe tomou como aprendiz de ferreiro e lhe criou como um hom
 
 Condenado à prisão perpétua, [PAWN_nameDef] aprendeu sobre viajar e invadir de outros criminosos.</desc>
 	</BlacksmithShooter88>
+	<JoywireAddict67>
+		<title>Viciado(a) ara. da alegria</title>
+		<titleShort>Viciado(a)</titleShort>
+		<desc>Os pais ricos de [PAWN_nameDef] forneceram tudo o que [PAWN_pronoun] sempre quis. Depois de descobrir arames da alegria, [PAWN_pronoun] ficou obcecado(a). Quando seus pais perceberam o que aconteceu, eles lhe cortaram fora.
+
+Indiferente e muitas vezes violenta(a), [PAWN_pronoun] procurou seu próximo arame da alegria fixo por qualquer meio possível.</desc>
+	</JoywireAddict67>
 	<AddictionCounsel61>
 		<title>Conselhei. de dependên.</title>
 		<titleShort>Conselheiro(a)</titleShort>
@@ -2914,7 +3028,7 @@ O menino conseguiu se esconder em um duto de refrigeração sob a casa de campo 
 	<VoidspaceRaider8>
 		<title>Assaltante espaço vazio</title>
 		<titleShort>Assaltante</titleShort>
-		<desc>Após anos de busca do assassino que separou sua família, [PAWN_nameDef] foi oferecido a um lugar com um grupo de invasores de navegação espacial. Ele aceitou, esperando encontrar o assassino que ele buscava.
+		<desc>Após anos de busca do assassino que separou sua família, [PAWN_nameDef] foi oferecido a um lugar com um grupo de assaltantes de navegação espacial. Ele aceitou, esperando encontrar o assassino que ele buscava.
 
 Devido à sua capacidade aparentemente interminável de fugir escassamente do perigo, ele ganhou o apelido de "Blackjack" em reconhecimento à sua sorte.</desc>
 	</VoidspaceRaider8>
@@ -2942,8 +3056,15 @@ Ela cresceu rápido, e aprendeu cedo que ela tinha que descobrir como enganar as
 	<SpaceMerchant61>
 		<title>Comerciante espacial</title>
 		<titleShort>Comerciante</titleShort>
-		<desc>Como parte de um estilo de vida interplanetário autônomo, [PAWN_nameDef] procurou dominar seus interesses românticos tanto quanto seus adversários de negócios. Quando ela não tinha o sua próprio nava para voar, ela trabalhou em naves fretadas para aluguer.</desc>
+		<desc>Como parte de um estilo de vida interplanetário autônomo, [PAWN_nameDef] procurou dominar seus interesses românticos tanto quanto seus adversários de negócios. Quando ela não tinha o sua próprio nave para voar, ela trabalhou em naves fretadas para aluguer.</desc>
 	</SpaceMerchant61>
+	<ChildChemist73>
+		<title>Químico(a) infantil</title>
+		<titleShort>Químico(a)</titleShort>
+		<desc>Uma criança do mundo médio, [PAWN_nameDef] foi fixado(a) em descobrir exatamente como tudo funcionava.
+
+[PAWN_pronoun] coletou objetos raros e realizou experimentos perigosos neles. Aprofundando nestas experiências, [PAWN_pronoun] se tornou isolado(a) do resto do mundo. [PAWN_pronoun] só deixou sua área de pesquisa para coletar mais materiais.</desc>
+	</ChildChemist73>
 	<BeastSlayer8>
 		<title>Matador(a) de bestas</title>
 		<titleShort>Matador(a)</titleShort>
@@ -2954,7 +3075,7 @@ Preferindo trabalhar sozinho, [PAWN_nameDef] apreciou a emoção da caça, e a c
 	<BrothelGofer60>
 		<title>Faz-tudo de bordel</title>
 		<titleShort>Faz-tudo</titleShort>
-		<desc>Nascido em um mundo médio movido a vapor por um século de crises econômicas, [PAWN_nameDef] foi trabalhar em uma idade jovem. Pechincha, polimento de sapato, costura - ele fez tudo isso. Mas he era mais conhecido como um faz-tudo de bordel, entregando todos os tipos de afrodisíacos e produtos químicos para as salas das meninas.</desc>
+		<desc>Nascido em um mundo médio movido a vapor por um século de crises econômicas, [PAWN_nameDef] foi trabalhar em uma idade jovem. Pechincha, polimento de sapato, costura - ele fez tudo isso. Mas [PAWN_pronoun] era mais conhecido como um faz-tudo de bordel, entregando todos os tipos de afrodisíacos e produtos químicos para as salas das meninas.</desc>
 	</BrothelGofer60>
 	<DrugLieutenant88>
 		<title>Tenente de drogas</title>
@@ -3011,8 +3132,8 @@ Eventualmente, suas criações lhe trouxeram a mais alta honra no Mundo Semânti
 Quando a família foi atacada, seu pai ordenou a [PAWN_pronoun] que se escondesse em uma cripta secreta de longo-sono.</desc>
 	</CrimeBossChild12>
 	<MercenaryLeader48>
-		<title>Líder mercenário</title>
-		<titleShort>Mercenário</titleShort>
+		<title>Líder mercenário(a)</title>
+		<titleShort>Mercenário(a)</titleShort>
 		<desc>Sozinho(a), [PAWN_nameDef] começou a reconstruir o trabalho da vida de seu pai. [PAWN_pronoun] desafiou o líder de um pequeno bando de mercenários e assumiu o controle, em seguida, liderou o bando enquanto sequestraram naves de comércio e roubavam carga valiosa.
 
 Seus homens se amotinaram. [PAWN_pronoun] foi abandonado(a), preso(a) e condenado(a) à morte.</desc>
@@ -3020,19 +3141,33 @@ Seus homens se amotinaram. [PAWN_pronoun] foi abandonado(a), preso(a) e condenad
 	<SentimentalChild27>
 		<title>Criança sentimental</title>
 		<titleShort>Menino agradável</titleShort>
-		<desc>[PAWN_nameDef] era uma criança agradável. Quando alguém tinha um problema, [PAWN_pronoun] tentava consertá-lo. Mas, sendo uma criança, [PAWN_nameDef] sempre teve sucesso. Isto magoou sua alma sensível.
+		<desc>[PAWN_nameDef] era uma criança agradável. Quando alguém tinha um problema, [PAWN_pronoun] tentava consertá-lo. Mas, sendo uma criança, HEnem sempre teve sucesso. Isto magoou sua alma sensível.
 
-[PAWN_pronoun] sonhou em ser um soldado que lutava com invasores e alienígenas.</desc>
+[PAWN_pronoun] sonhou em ser um soldado que lutava com assaltantes e alienígenas.</desc>
 	</SentimentalChild27>
 	<SpecialForces72>
 		<title>Forças especiais</title>
 		<titleShort>Especialista</titleShort>
 		<desc>Me dê uma razão para matar - uma boa razão!
 
-[PAWN_nameDef] era um soldado tão hábil que entrou nas forças especiais para combater militantes e xenohumanos invasores. [PAWN_pronoun] nunca se imaginou um herói solitário, mas ele desempenhou seu papel no grupo bem.</desc>
+[PAWN_nameDef] era um soldado tão hábil que entrou nas forças especiais para combater militantes e xenohumanos assaltantes. [PAWN_pronoun] nunca se imaginou um herói solitário, mas ele desempenhou seu papel no grupo bem.</desc>
 	</SpecialForces72>
+	<DustyFarmHand63>
+		<title>Lavrador empoeirado</title>
+		<titleShort>Lavrador</titleShort>
+		<desc>A partir do momento que [PAWN_nameDef] começou a andar, [PAWN_pronoun] ajudou a cuidar dos animais e cultivos que o seu povo tinha em suas terras áridas.
+
+O trabalho endureceu HIM, mas deixou pouco tempo para atividades intelectuais.</desc>
+	</DustyFarmHand63>
+	<DromedaryKnight31>
+		<title>Cavaleiro dromedário</title>
+		<titleShort>Cavaleiro</titleShort>
+		<desc>Tendo chamado a atenção do seu povo do Rei da Areia, [PAWN_nameDef] foi treinado na técnica de combate Ratabum de Areia.
+
+Sempre com um camelo para carregar suas coisas, [PAWN_pronoun] serviu seu povo da areia fielmente.</desc>
+	</DromedaryKnight31>
 	<HackerKid65>
-		<title>Menino hacker</title>
+		<title>Criança hacker</title>
 		<titleShort>Hacker</titleShort>
 		<desc>Nascido em um mundo de alta tecnologia, [PAWN_nameDef] aprendeu a hackear computadores em uma idade jovem. 
 
@@ -3052,6 +3187,13 @@ Passar muitas horas mexendo sozinho fez dHE muito bom com máquinas, mas muito r
 
 À medida que [PAWN_pronoun] cresceu, ele se voltou para as drogas para melhorar sua realidade. Durante estes tempos difíceis [PAWN_pronoun] encontrou paixão e refúgio na academia.</desc>
 	</VideoGamer94>
+	<DischargedSoldier81>
+		<title>Soldado descarregado</title>
+		<titleShort>Soldado</titleShort>
+		<desc>[PAWN_nameDef] se prostituiu para financiar seus hábitos de drogas. Como uma fuga, [PAWN_pronoun] se juntou às forças armadas e aprendeu a lutar.
+
+Muito esperto para o exército, [PAWN_pronoun] questionava e muitas vezes discordava das decisões de seus superiores. Isto eventualmente levou a sua dispensa desonrosa lhe deixou com um chip em seu ombro.</desc>
+	</DischargedSoldier81>
 	<Student1>
 		<title>Estudante</title>
 		<titleShort>Estudante</titleShort>
@@ -3074,7 +3216,7 @@ A maioria das crianças morreu, mas [PAWN_nameDef] não. Ele matou seu primeiro 
 	<SuperSoldier81>
 		<title>Super soldado</title>
 		<titleShort>Soldado</titleShort>
-		<desc>Produto de um programa de super-soldado executado por um governo agora deposto, [PAWN_nameDef] estava perdido. [PAWN_pronoun] sobreviveu ao ataque suicida final na nave-mãe inimiga. E agora?
+		<desc>Produto de um programa de super soldado executado por um governo agora deposto, [PAWN_nameDef] estava perdido. [PAWN_pronoun] sobreviveu ao ataque suicida final na nave-mãe inimiga. E agora?
 
 Pela primeira vez em sua vida, ele não tinha ordens, nem objetivos. [PAWN_pronoun] se levantou dos destroços e se esforçou para a incerteza, para a liberdade.</desc>
 	</SuperSoldier81>
@@ -3104,6 +3246,34 @@ Infelizmente, o trabalho monótono apagou seus impulsos criativos remanescentes.
 
 Eventualmente, [PAWN_pronoun] foi capaz de escolher seus clientes corporativos. [PAWN_pronoun] fez vários amigos ricos, como também alguns inimigos poderosos.</desc>
 	</MechanicsEngineer7>
+	<PlagueChild8>
+		<title>Criança da peste</title>
+		<titleShort>Criança</titleShort>
+		<desc>Nascido em um mundo assolado pela peste, os pais de [PAWN_nameDef] eram médicos. 
+
+[PAWN_nameDef] foi uma criança criada em quarentena reversa, sob o juramento de Hipócrates. [PAWN_pronoun] experimentou pouca interação social. No entanto, ganhou muita experiência médica ajudando em tratamentos.</desc>
+	</PlagueChild8>
+	<PlagueDoctor99>
+		<title>Doutor da peste</title>
+		<titleShort>Doutor</titleShort>
+		<desc>[PAWN_nameDef] forneceu cuidados médicos em vários mundos devastados pela peste, sempre trabalhando sob o juramento de Hipócrates. [PAWN_pronoun] melhorou as condições para aqueles sob quarentena enquanto administrava tratamentos médicos complexos e desenvolvia medicamentos.
+
+[PAWN_pronoun] nunca teve tempo para desfrutar de uma vida normal fora do trabalho.</desc>
+	</PlagueDoctor99>
+	<YoungMaster70>
+		<title>Jovem mestre</title>
+		<titleShort>Mestre</titleShort>
+		<desc>Nascido em uma família de médicos, [PAWN_nameDef] ansiava por poder. HISCAP intelecto afiado e carisma ajudaram a ganhar o respeito de seus colegas.
+
+Decidindo que a melhor maneira de ganhar poder era escalar as fileiras militares imperiais, ele se alistou na idade mais jovem possível.</desc>
+	</YoungMaster70>
+	<ImperialGeneral31>
+		<title>General imperial</title>
+		<titleShort>General</titleShort>
+		<desc>A sede por poder definiu [PAWN_nameDef]. [PAWN_pronoun] rapidamente subiu nas fileiras militares e logo alcançou o posto de general.
+
+Para [PAWN_pronoun] deram a tarefa mais desafiadora - conquistar mundos distantes e inexplorados. A vitória poderia até posicioná-lo como sucessor do imperador.</desc>
+	</ImperialGeneral31>
 	<CaravanTraveler5>
 		<title>Viajante de caravana</title>
 		<titleShort>Viajante</titleShort>
@@ -3116,6 +3286,350 @@ Eventualmente, [PAWN_pronoun] foi capaz de escolher seus clientes corporativos. 
 
 [PAWN_pronoun] e seu povo prosperaram, mas sua riqueza fez deles um alvo para bandoleiros. Eles muitas vezes tinham que pegar em armas para afastar bandidos e bandidos de estrada.</desc>
 	</Caravaneer77>
+	<FarmersSon51>
+		<title>Filho do fazendeiro</title>
+		<titleShort>Fazendeiro</titleShort>
+		<desc>[PAWN_nameDef] passou grande parte de sua infância aprendendo o bioma da agricultura. Em seu bioma, eles mantinham animais para investigar o que iria lidar melhor com o ambiente alienígena.
+
+Devido a isto, às limitações de curso e o sistema de racionamento de oxigênio, ele raramente conseguiu encontrar alguém fora de sua família.</desc>
+	</FarmersSon51>
+	<RebelFighter79>
+		<title>Lutador rebelde</title>
+		<titleShort>Rebelde</titleShort>
+		<desc>Quando a guerra civil começou [PAWN_nameDef] permaneceu neutro em ambos os lados, até que seu bioma foi bombardeado por uma milícia lealista.
+
+Mais tarde, sua unidade lhe deu o apelido de "Rare" depois que ele queimou a moradia de luxo de um líder lealista, com eles ainda dentro dele.</desc>
+	</RebelFighter79>
+	<WealthyStudent21>
+		<title>Estudante rico(a)</title>
+		<titleShort>Estudante</titleShort>
+		<desc>[PAWN_nameDef] nasceu em um mundo brilhante rico. [PAWN_pronoun] estudou na escola Cáspio de engenharia, e se destacou em matemática e programação de computadores.
+
+[PAWN_nameDef] cresceu em ambientes limpos e esterilizados. [PAWN_pronoun] nunca viu uma fazenda ou pecuária.</desc>
+	</WealthyStudent21>
+	<Roboticist20>
+		<title>Roboticista</title>
+		<titleShort>Roboticista</titleShort>
+		<desc>[PAWN_nameDef] se sentia mais confortável com robôs e inteligências artificiais do que com pessoas orgânicas, assim [PAWN_pronoun] trabalhou como um roboticista. [PAWN_pronoun] tomou um interesse particular em mecanitos e tecnologia antiga.
+
+[PAWN_nameDef] contou com outras pessoas para suas necessidades básicas.</desc>
+	</Roboticist20>
+	<StreetPeddler62>
+		<title>Ambulante de rua</title>
+		<titleShort>Ambulante</titleShort>
+		<desc>Crescendo em um mundo médio industrial onde roubos e assaltos não eram incomuns, [PAWN_nameDef] ajudou a sustentar sua família fazendo pequenas bugigangas e novidades para vender aos transeuntes.
+
+[PAWN_pronoun] aprendeu cedo que não era sempre o que [PAWN_pronoun] sabia, mas quem ele sabia que iria lhe levar longe na vida.</desc>
+	</StreetPeddler62>
+	<PrivateDetective57>
+		<title>Detetive particular</title>
+		<titleShort>Detetive</titleShort>
+		<desc>Como um detective privado, perspicácia aguda e uma língua prateada foram as melhores ferramentas de [PAWN_nameDef]. [PAWN_pronoun] frequentemente passava suas noites trabalhando em casos que variavam desde descobrir assuntos e aprender segredos comerciais para resolver casos de assassinato e se infiltrar em organizações criminosas. Não havia um caso que [PAWN_pronoun] não aceitasse pelo preço certo.</desc>
+	</PrivateDetective57>
+	<BodyguardTrainee27>
+		<title>Guarda-costas estagiário</title>
+		<titleShort>Guarda-costas</titleShort>
+		<desc>[PAWN_nameDef] nasceu em uma família hábil de guarda-costas famosa. Suas mães Elena e Victoria lhe forçou em muitas situações perigosas, lhe treinando para colocar o bem-estar do seu cliente sobre o seu próprio.
+
+[PAWN_nameDef] foi ensinado sobre muitas ervas e venenos naturais para lhe ajudar a prevenir dos clientes serem envenenados.</desc>
+	</BodyguardTrainee27>
+	<SpaceBartender52>
+		<title>Atenden. de bar espacial</title>
+		<titleShort>Atendente de bar</titleShort>
+		<desc>[PAWN_nameDef] se tornou um atendente de bar em uma estação espacial. [PAWN_pronoun] interagiu e fez amizade com muitos estranhos.
+
+Conforme o tempo passava, [PAWN_nameDef] usou seu conhecimento de ervas para elaborar suas próprias misturas estranhas para seus clientes.</desc>
+	</SpaceBartender52>
+	<SpoiledChild65>
+		<title>Criança mimada</title>
+		<titleShort>Mimado</titleShort>
+		<desc>[PAWN_nameDef] era filha de um engenheiro espacial industrioso. Seus pais proibiram a maioria das tarefas manuais e perigosas, então [PAWN_pronoun] aprendeu arte e música em vez disto.
+
+[PAWN_pronoun] amava animais, mas seus pais nunca lhe deixaram ter um animal de estimação - embora ela brincou muito com os animais de estimação de outras pessoas.</desc>
+	</SpoiledChild65>
+	<CosmeticSurgeon52>
+		<title>Cirurgiã estética</title>
+		<titleShort>Cirurgião</titleShort>
+		<desc>[PAWN_nameDef] tinha uma maneira de cabeceira terrível devido à sua abrasividade. [PAWN_pronoun] muitas vezes intimidava seus pacientes em obterem cirurgia estética. [PAWN_pronoun] ganhou um monte de dinheiro desta forma.
+
+Embora muito estudioso e cuidadoso em seu trabalho, [PAWN_pronoun] nunca teve que levantar um dedo para fazer tarefas domésticas.</desc>
+	</CosmeticSurgeon52>
+	<Philosopher26>
+		<title>Filósofo</title>
+		<titleShort>Pensador</titleShort>
+		<desc>[PAWN_nameDef] era um estudante em um mundo brilhante. [PAWN_pronoun] teve um tempo difícil na escola, uma vez que as outras crianças pensaram que [PAWN_pronoun] era um pouco estranho.
+
+[PAWN_pronoun] sempre manteve uma distância destes eventos, sendo surpreendido continuamente pelas muitas maneiras interessantes e desajeitadas que a vida pode ir.</desc>
+	</Philosopher26>
+	<UprightDiplomat83>
+		<title>Diplomata honesto</title>
+		<titleShort>Diplomata</titleShort>
+		<desc>Como um diplomata, [PAWN_nameDef] foi designado para lidar com tarefas diplomáticas nos setores de borda externa ensopados de sangue.
+
+[PAWN_pronoun] esperava acabar com as guerras intermináveis, até que seu consulado, o St. Anthem, fosse atacado por uma frota de invasores.</desc>
+	</UprightDiplomat83>
+	<CaveChild67>
+		<title>Criança de caverna</title>
+		<titleShort>Criança de caverna</titleShort>
+		<desc>NNAME cresceu em uma caverna em um planeta de tundra, e foi adotado por um grupo viajante de entretenimento conhecido apenas como os Assistentes. Uma vez em tripulação viajante das estrelas, os Assistemtes lhe contaram histórias maravilhosas sobre o universo.
+
+Um dia, os Assistentes não retornaram do vasculhamento. Depois de anos de espera, [PAWN_nameDef] partiu para o espaço para encontrá-los.</desc>
+	</CaveChild67>
+	<VideoProducer97>
+		<title>Produtor de vídeo</title>
+		<titleShort>Produtor</titleShort>
+		<desc>Desajeitado demais para se socializar, [PAWN_nameDef] encontrou conforto na produção de vídeos. Estranhamente, as pessoas gostaram de seus vídeos, chamando eles de "dramas de seriados perfeitos".
+
+[PAWN_nameDef] aproveitou isto e transmitiu mais, sempre esperançoso de que ele seria contactado pelos Assistentes.</desc>
+	</VideoProducer97>
+	<RangerChild91>
+		<title>Criança de guarda-flore.</title>
+		<titleShort>Criança guarda-florestal</titleShort>
+		<desc>[PAWN_nameDef] foi criada em uma floresta. Seu pai lhe ensinou a caçar e a viver da terra, de modo que [PAWN_pronoun] poderia viver sem a necessidade de outros quando o pai morreu.
+
+Acostumada ao trabalho manual e com uma mente intuitiva, [PAWN_nameDef] poderia sobreviver semanas sozinha.</desc>
+	</RangerChild91>
+	<BushSniper97>
+		<title>Franco-atira. de arbusto</title>
+		<titleShort>Franco-atirador</titleShort>
+		<desc>A vida pacífica de [PAWN_nameDef] foi interrompida quando seu país foi brutalmente invadido.
+
+[PAWN_nameDef] foi convocada para serviço assim que [PAWN_pronoun] fosse maior de idade, e rapidamente mostrou uma aptidão por fuzis. [PAWN_pronoun] passou meses vivendo nas florestas pegando soldados que ousavam atravessar a fronteira.</desc>
+	</BushSniper97>
+	<GlitterworldRoyal5>
+		<title>Realeza do m. brilhante</title>
+		<titleShort>Realeza</titleShort>
+		<desc>[PAWN_nameDef] cresceu em uma família real do mundo brilhante. Ela foi preparada desde uma idade jovem para se casar com a família real de outro planeta.
+
+Infelizmente, seus dentes tortos lhe fizeram indesejável aos pretendentes, assim que se tornou amarga e ressentida.</desc>
+	</GlitterworldRoyal5>
+	<PirateSympathizer24>
+		<title>Pirata simpatizante</title>
+		<titleShort>Pirata</titleShort>
+		<desc>Desde sua juventude, [PAWN_nameDef] desenvolveu conexões no submundo. Lá ela treinou em combate corpo a corpo e se tornou uma conselheira confiável do submundo.
+
+Depois de participar de uma rebelião fracassada, ela fugiu de seu mundo natal para viajar com um bando de piratas.</desc>
+	</PirateSympathizer24>
+	<PlagueSurvivor48>
+		<title>Sobrevivente de praga</title>
+		<titleShort>Sobrevivente</titleShort>
+		<desc>[PAWN_nameDef] assistiu enquanto uma misteriosa praga se espalhou por sua cidade, matando sua família e amigos.
+
+[PAWN_pronoun] aprendeu alguns remédios por observar os doutores da praga, mas foi mentalmente marcado(a) pela provação.</desc>
+	</PlagueSurvivor48>
+	<UnethicalDoctor97>
+		<title>Doutor não ético</title>
+		<titleShort>Doutor</titleShort>
+		<desc>[PAWN_nameDef] se tornou um(a) doutor(a) para salvar vidas e pesquisar medicina. [PAWN_pronoun] logo percebeu que a única maneira de progredir em sua pesquisa era realizar experimentos em pacientes humanos.
+
+[PAWN_pronoun] frequentemente usou pacientes para seus experimentos - se eles estavam dispostos ou não.</desc>
+	</UnethicalDoctor97>
+	<OffworldRecruit22>
+		<title>Recruta fora de mundo</title>
+		<titleShort>Recruta</titleShort>
+		<desc>[PAWN_nameDef] nasceu e cresceu em uma instalação de crescimento de soldados fora do mundo. Desde uma idade muito jovem, [PAWN_pronoun] foi ensinado em torno de táticas de combate de perto, agressão, e como sobreviver em planetas distantes.
+
+Um dos melhores, [PAWN_nameDef] foi eventualmente escolhido para entrar no corpo de tropas de choque de implantação orbital.</desc>
+	</OffworldRecruit22>
+	<ShockTrooper52>
+		<title>Tropa de choque</title>
+		<titleShort>Tropa de choque</titleShort>
+		<desc>[PAWN_nameDef] esteve em uma unidade de tropas de choque do espaço profundo implantada em vários planetas em várias guerras.
+
+Durante um assalto de risco, toda a sua unidade foi aniquilada. Ninguém sabia o que aconteceu no campo naquele dia, mas [PAWN_nameDef] carregará o fardo para sempre.</desc>
+	</ShockTrooper52>
+	<ProdigalStudent39>
+		<title>Estudante pródigo</title>
+		<titleShort>Estudante</titleShort>
+		<desc>[PAWN_nameDef] era um estudante fiel, e era dedicado a aprender tudo e qualquer coisa que ele pudesse sobre a humanidade e suas criações.
+
+Enquanto [PAWN_pronoun] era evitado como um nerd, [PAWN_pronoun] não se importava. [PAWN_pronoun] esperava por um futuro mais brilhante.</desc>
+	</ProdigalStudent39>
+	<CombatMedtech40>
+		<title>Médico técnico combate</title>
+		<titleShort>Médico</titleShort>
+		<desc>Como um médico técnico militar, o trabalho de [PAWN_nameDef] era a arrumar e construir qualquer coisa que ele pudesse colocar suas mãos, de pessoas vivas a máquinas e mechas.
+
+Enviado em áreas perigosas, [PAWN_pronoun] nunca teve problemas para salvar as vidas dos soldados e construir a tecnologia e máquinas necessárias para vencer.</desc>
+	</CombatMedtech40>
+	<AdventurousYouth32>
+		<title>Jovem aventureiro</title>
+		<titleShort>Aventureiro</titleShort>
+		<desc>[PAWN_nameDef] explorou tudo ao redor da grande propriedade de sua família, descobrindo pequenas maravilhas naturais escondidas em catacumbas, rios e cavernas nas proximidades.
+
+Durante sua adolescência, [PAWN_nameDef] fez inúmeros inimigos.</desc>
+	</AdventurousYouth32>
+	<TreasureHunter70>
+		<title>Caçador de tesouros</title>
+		<titleShort>Aventureiro</titleShort>
+		<desc>[PAWN_nameDef] explorou planetas isolados exteriores na esperança de encontrar tesouros raros.
+
+Depois de ter conseguido encontrar uma escultura lendária, [PAWN_pronoun] foi traído por seus homens. [PAWN_pronoun] sobreviveu a seu ataque traidor, mas a escultura foi levada.
+
+[PAWN_pronoun] criou a Compania Mercenário Bigorna para lhe ajuda buscar vingança.</desc>
+	</TreasureHunter70>
+	<PilotFan99>
+		<title>Fã de piloto</title>
+		<titleShort>Fã de piloto</titleShort>
+		<desc>O pai de [PAWN_nameDef] era um piloto de caça estelar, e [PAWN_pronoun] sempre idolatrava o velho.
+
+Desde uma idade jovem, [PAWN_pronoun] coletou lembranças de piloto e estudou livros de pilotos, se preparando para se juntar à marinha espacial e seguir os passos de seu pai.</desc>
+	</PilotFan99>
+	<StarfighterPilot54>
+		<title>Piloto de caça estrelar</title>
+		<titleShort>Piloto</titleShort>
+		<desc>Depois de anos de treinamento e perfuração, [PAWN_nameDef] finalmente se tornou um(a) piloto de caça estelar.
+
+Centenas de missões de combate mais tarde, [PAWN_pronoun] cresceu entediado(a) e começou a procurar novas emoções. [PAWN_pronoun] se juntou a um bando de piratas espaciais, que ansiosamente lhe acolheu por causa de sua habilidade de piloto.</desc>
+	</StarfighterPilot54>
+	<MedicalHelper65>
+		<title>Ajudante médico</title>
+		<titleShort>Ajudante médico</titleShort>
+		<desc>[PAWN_nameDef] viajou entre os mundos isolados com sua família. A mãe de [PAWN_nameDef], uma doutora renomada, frequentemente entregou palestras no casco de sua nave de carga adaptada/médica.
+
+Às vezes, a família assumia um difícil trabalho médico de longo prazo com pacientes especialmente necessitados, e [PAWN_nameDef] ajudava onde ele podia.</desc>
+	</MedicalHelper65>
+	<GangSoldier28>
+		<title>Soldado de gangue</title>
+		<titleShort>Soldado</titleShort>
+		<desc>Vivendo por muitos anos entre três assentamentos de assaltantes, [PAWN_nameDef] perseverou através de muitos desafios: uma implosão de espaçonave, criptostasis, pouso forçado em uma bola de poeira miserável de um planeta, e cuidar de um velho voltar à saúde, e muitas de batalhas.
+
+[PAWN_pronoun] eventualmente assumiu o controle de uma gangue violenta.</desc>
+	</GangSoldier28>
+	<CountryChild62>
+		<title>Criança de país</title>
+		<titleShort>Criança caipira</titleShort>
+		<desc>[PAWN_nameDef] foi criado para temer a Deus e amar o seu país. [PAWN_pronoun] era uma genuína criança de sertão. [PAWN_pronoun] sempre trabalhou duro para ganhar respeito ao invés de exigi-lo.</desc>
+	</CountryChild62>
+	<SpaceMarine80>
+		<title>Fuzileiro espacial</title>
+		<titleShort>Fuzileiro</titleShort>
+		<desc>[PAWN_nameDef] se juntou aos Fuzileiros Interplanetários para viajar as estrelas e lutar por seu planeta. [PAWN_pronoun] distinguiu-se em várias batalhas.
+
+Suas experiências lhe dessensibilizou para as pessoas ao seu redor, e suas habilidades sociais degradaram. Mas, ele aprendeu a lutar.</desc>
+	</SpaceMarine80>
+	<RebelWriter82>
+		<title>Escritor rebelde</title>
+		<titleShort>Escritor</titleShort>
+		<desc>Desde cedo, [PAWN_nameDef] desenvolveu um talento para a escrita. [PAWN_pronoun] logo estava escrevendo um jornal on-line popular - anonimamente, para ocultar sua idade - sobre temas que vão desde a bioética à teoria política e xenosociologia.</desc>
+	</RebelWriter82>
+	<Adventurer17>
+		<title>Aventureiro</title>
+		<titleShort>Aventureiro</titleShort>
+		<desc>A sede de aventura de [PAWN_nameDef] lhe levou a muitos planetas. [PAWN_pronoun] visitou os mundos brilhantes mais brilhantes e os mais negros planetas tóxicos devastado pela guerra em sua busca para encontrar novidade e emoção.
+
+[PAWN_pronoun] trabalhou tão pouco quanto possível, muitas vezes contornando limites éticos para fazer um dinheirinho rápido. Entre todos os empregos, ele odiava cozinhar mais.</desc>
+	</Adventurer17>
+	<ExiledPrince89>
+		<title>Príncipe exilado</title>
+		<titleShort>Príncipe</titleShort>
+		<desc>Um membro de uma família real, [PAWN_nameDef] foi exilado por envergonhar a sua família.
+
+Vivendo em uma terra estrangeira, principalmente sozinho, [PAWN_pronoun] passou a maior parte de seu tempo fazendo cabanas e casas para viver nelas. [PAWN_pronoun] encontrou pouco tempo em um dia médio para o divertimento, e perdeu todos seus amigos e família.</desc>
+	</ExiledPrince89>
+	<BloodyWanderer51>
+		<title>Andarilho sangrento</title>
+		<titleShort>Andarilho</titleShort>
+		<desc>[PAWN_nameDef] era um andarilho, viajava de cidade em cidade, pegando biscates e roubando para viver.
+
+Um dia, ele teve um colapso mental e foi a um longo tumulto, destruindo várias cidades e matando muitos. [PAWN_pronoun] eventualmente se acalmou, mas sua sede de sangue nunca lhe deixou.</desc>
+	</BloodyWanderer51>
+	<NewAgeDuelist36>
+		<title>Duelista de nova era</title>
+		<titleShort>Duelista</titleShort>
+		<desc>[PAWN_nameDef] ficou fascinado com o combate. Seus pais viajavam frequentemente, então [PAWN_pronoun] foi capaz de experimentar muitos estilos diferentes de luta, desde o jiu-jitsu da 76ª onda até o infame "karatê estilo mundo urbano".
+
+Uma criança educada, a maioria dos lutadores aceitou seus pedidos de treinamento - mas circular muitas vezes sem terminar uma tutela fez dHE preguiçoso.</desc>
+	</NewAgeDuelist36>
+	<PirateDoctor33>
+		<title>Doutor pirata</title>
+		<titleShort>Doutor ruim</titleShort>
+		<desc>[PAWN_nameDef] tinha uma paixão pela medicina, mas nunca se preocupou em obter um diploma de médico. Somente piratas e terroristas subfinanciados estavam desesperados o suficiente para contratar seus serviços, e seus pacientes cirúrgicos tinham cerca de uma taxa de 50% de sobrevivência.
+
+Apesar disto, sua atitude otimista lhe levou a continuar tentando curar os necessitados. Contanto que eles pagassem adiantado.</desc>
+	</PirateDoctor33>
+	<SpoiledBrat84>
+		<title>Pirralho mimado</title>
+		<titleShort>Pirralho</titleShort>
+		<desc>Nascido em uma família rica, [PAWN_nameDef] recebeu tudo, e nunca desenvolveu a ética básica de trabalho ou os fundamentos de uma personalidade não-dependente.
+
+[PAWN_pronoun] era esperado para se tornar um dos melhores doutores do mundo.</desc>
+	</SpoiledBrat84>
+	<BloodyDentist33>
+		<title>Dentista sangrento</title>
+		<titleShort>Dentista</titleShort>
+		<desc>Após estudar em um colégio famoso, a personalidade fraca de [PAWN_nameDef] eventualmente estalou sob a tensão de administradores irritados e choradeira de pacientes. [PAWN_pronoun] foi em uma série de assassinatos secretos, matando muitos dos que estavam sob seus cuidados.
+
+Após uma perseguição, [PAWN_pronoun] conseguiu escapar de seu planeta e viajar para um novo mundo.</desc>
+	</BloodyDentist33>
+	<CowFarmer93>
+		<title>Fazendeiro de vacas</title>
+		<titleShort>Fazendeiro</titleShort>
+		<desc>[PAWN_nameDef] cresceu em um mundo isolado, sob a tirania de seu pai, que lhe obrigou a trabalhar todos os dias na fazenda. [PAWN_pronoun] sonhava em escapar de seu pai e explorar o universo.
+
+Um dia, quando a nave comercial estava sobrecarregada, [PAWN_pronoun] se escondeu entre as mercadorias nas cápsulas de lançamento, e escapou para o espaço.</desc>
+	</CowFarmer93>
+	<MasterChef6>
+		<title>Chef mestre</title>
+		<titleShort>Chef</titleShort>
+		<desc>Em um mundo brilhante, [PAWN_nameDef] encontrou um trabalho lavando pratos em um famoso restaurante e trabalhou seu caminho até as fileiras.
+
+Alguns anos mais tarde, sua carreira chegou ao fim quando alguém envenenou a refeição que [PAWN_pronoun] estava se preparando para o prefeito. Sem trabalho, [PAWN_pronoun] partiu para explorar as estrelas mais uma vez.</desc>
+	</MasterChef6>
+	<DiscardedYouth95>
+		<title>Jovem descartado</title>
+		<titleShort>Descartado</titleShort>
+		<desc>[PAWN_nameDef] cresceu isolado em um planeta de lixo. Um terreno de despejo para mundos brilhantes vizinhos, era uma casa severa. Quando bebê, [PAWN_pronoun] chupava a torneira de um dispensador de pasta de nutrientes descartado para o conforto.
+
+Nestas desesperadas circunstâncias, contra todas as probabilidades, [PAWN_pronoun] sobreviveu - e prosperou.</desc>
+	</DiscardedYouth95>
+	<Mercenary19>
+		<title>Mercenário</title>
+		<titleShort>Mercenário</titleShort>
+		<desc>Depois de escapar de seu planeta natal, [PAWN_nameDef] caiu em um bando de mercenários. [PAWN_pronoun] lutou ao lado de seus irmãos e irmãs nos braços por muitos anos.
+
+Um dia, eles foram pegos em uma luta que eles não podiam vencer. Se recusando a recuar, [PAWN_nameDef] foi abatido por seus inimigos. [PAWN_pronoun] ficou alarmado ao acordar em uma pilha de cadáveres, misteriosamente ileso.</desc>
+	</Mercenary19>
+	<DisasterSurvivor28>
+		<title>Sobrevivente de desastre</title>
+		<titleShort>Sobrevivente</titleShort>
+		<desc>O planeta de [PAWN_nameDef] colidiu com uma pequena lua. Tudo que ele conhecia como casa foi destruído, e toda a sua família morreu. [PAWN_pronoun] foi deixado nas ruínas de cuidar de si mesmo.</desc>
+	</DisasterSurvivor28>
+	<ExplorerWriter37>
+		<title>Escritor explorador</title>
+		<titleShort>Explorador</titleShort>
+		<desc>[PAWN_nameDef] viajou de planeta em planeta, coletando amostras, histórias e pesquisas. 
+
+Seu objetivo era reunir conhecimento suficiente para fazer um guia de sobrevivência para as gerações futuras.</desc>
+	</ExplorerWriter37>
+	<RebelChild7>
+		<title>Criança rebelde</title>
+		<titleShort>Rebelde</titleShort>
+		<desc>[PAWN_nameDef] nasceu sob regime autoritária. Apesar da intensa opressão da família e da comunidade, ela nunca desistiu de lutar por sua dignidade e sua liberdade.
+
+Ela foi muitas vezes colocada em situações desesperadas, onde até mesmo a família tentava aterrorizá-la com violência. Ela aprendeu a não confiar em ninguém.</desc>
+	</RebelChild7>
+	<MilitiaSoldier83>
+		<title>Soldado da milícia</title>
+		<titleShort>Soldado</titleShort>
+		<desc>[PAWN_nameDef] se juntou às milícias e lutou por direitos e paz.
+
+Depois que seu mundo natal foi inesperadamente destruído nas guerras, ela viajou grandes distâncias, buscando um refúgio onde pudesse construir um novo e livre modo de vida.</desc>
+	</MilitiaSoldier83>
+	<MidworldCadet20>
+		<title>Cadete do mundo médio</title>
+		<titleShort>Cadete</titleShort>
+		<desc>Crescendo em um mundo médio de alta tecnologia com uma indústria florescente do trânsito espacial, [PAWN_nameDef] desejou partir para as estrelas e viver entre a crescente classe espacial.
+
+[PAWN_pronoun] se destacou em seus estudos, e ganho acesso à academia naval mais prestigiada de seu planeta natal.</desc>
+	</MidworldCadet20>
+	<WarshipCaptain77>
+		<title>Capitã de nave de guerra</title>
+		<titleShort>Capitã</titleShort>
+		<desc>Os anos como oficial de uma avançada nave de guerra, ensinaram [PAWN_nameDef] a arte da liderança, as mais altas técnicas de engenharia e como manter a calma enquanto os inimigos tentam lhe matar.
+
+Infelizmente, [PAWN_nameDef] muito raramente teve contato com a natureza.</desc>
+	</WarshipCaptain77>
 	<Punk70>
 		<title>Punk</title>
 		<titleShort>Punk</titleShort>
@@ -3123,7 +3637,7 @@ Eventualmente, [PAWN_pronoun] foi capaz de escolher seus clientes corporativos. 
 	</Punk70>
 	<GameDeveloper59>
 		<title>Desenvolvedor de jogos</title>
-		<titleShort>Desenv de jogos</titleShort>
+		<titleShort>Desenv. de jogos</titleShort>
 		<desc>[PAWN_nameDef] foi um desenvolvedor de jogos independente.
 
 Após um sucesso inicial, a carreira de [PAWN_nameDef] rapidamente degenerou em um circo de ideias equivocadas, ofertas que deram errado, e desesperado, golpe publicitário fracassado.</desc>
