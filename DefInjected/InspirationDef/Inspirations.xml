@@ -5,7 +5,7 @@
 
 	<WorkFrenzy.beginletterlabel>Inspiração: trabalhando rápido</WorkFrenzy.beginletterlabel>
 
-	<WorkFrenzy.beginletter>{0} está inspirada(o). HECAP irá trabalhar 2,5 vezes mais rápido pelas próximas 24 horas.</WorkFrenzy.beginletter>
+	<WorkFrenzy.beginletter>{0} está inspirada(o). [PAWN_pronoun] irá trabalhar 2,5 vezes mais rápido pelas próximas 24 horas.</WorkFrenzy.beginletter>
 
 	<WorkFrenzy.endmessage>{0} não está mais inspirada(o) (trabalhando rápido).</WorkFrenzy.endmessage>
 
@@ -15,7 +15,7 @@
 
 	<GoFrenzy.beginletterlabel>Inspiração: andar rápido</GoFrenzy.beginletterlabel>
 
-	<GoFrenzy.beginletter>{0} está inspirada(o). HECAP vai andar 1,5 vezes mais rápido pelas próximas 24 horas.</GoFrenzy.beginletter>
+	<GoFrenzy.beginletter>{0} está inspirada(o). [PAWN_pronoun] vai andar 1,5 vezes mais rápido pelas próximas 24 horas.</GoFrenzy.beginletter>
 
 	<GoFrenzy.endmessage>{0} não esta mais inspirada(o) (andar rápido).</GoFrenzy.endmessage>
 
@@ -35,7 +35,7 @@
 
 	<InspiredTrade.beginletterlabel>Inspiração: Inspiração comercial</InspiredTrade.beginletterlabel>
 
-	<InspiredTrade.beginletter>{0} está inspirada(o). A HECAP receberá um bônus nos preços da próxima negociação. \n\nA Inspiração terminará após 8 dias ou quando uma negociação for concluído.</InspiredTrade.beginletter>
+	<InspiredTrade.beginletter>{0} está inspirada(o). A [PAWN_pronoun] receberá um bônus nos preços da próxima negociação. \n\nA Inspiração terminará após 8 dias ou quando uma negociação for concluído.</InspiredTrade.beginletter>
 
 	<InspiredTrade.endmessage>{0} não está mais inspirada(o) (Inspiração comercial).</InspiredTrade.endmessage>
 
@@ -45,7 +45,7 @@
 
 	<InspiredRecruitment.beginletterlabel>Inspiração: Inspiração de recrutamento</InspiredRecruitment.beginletterlabel>
 
-	<InspiredRecruitment.beginletter>{0} está inspirada(o). O HECAP recrutará com sucesso o próximo preso, independentemente da dificuldade. \n\nA Inspiração terminará após 8 dias ou quando um preso for recrutado.</InspiredRecruitment.beginletter>
+	<InspiredRecruitment.beginletter>{0} está inspirada(o). O [PAWN_pronoun] recrutará com sucesso o próximo preso, independentemente da dificuldade. \n\nA Inspiração terminará após 8 dias ou quando um preso for recrutado.</InspiredRecruitment.beginletter>
 
 	<InspiredRecruitment.endmessage>{0} não está mais inspirada(o) (Inspiração de recrutamento).</InspiredRecruitment.endmessage>
 

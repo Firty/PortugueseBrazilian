@@ -123,7 +123,7 @@
 
 	<MurderousRage.beginletterlabel>raiva assassina</MurderousRage.beginletterlabel>
 
-	<MurderousRage.beginletter>{0} está em uma fúria assassina. HECAP vai matar {1}.</MurderousRage.beginletter>
+	<MurderousRage.beginletter>{0} está em uma fúria assassina. [PAWN_pronoun] vai matar {1}.</MurderousRage.beginletter>
 
 	<MurderousRage.baseinspectline>Estado mental: Raiva assassina</MurderousRage.baseinspectline>
 
@@ -133,7 +133,7 @@
 
 	<CorpseObsession.beginletterlabel>obsessão por cadáver</CorpseObsession.beginletterlabel>
 
-	<CorpseObsession.beginletter>{0} está tendo uma obsessão por cadáver. HECAP vai desenterrar um cadáver.</CorpseObsession.beginletter>
+	<CorpseObsession.beginletter>{0} está tendo uma obsessão por cadáver. [PAWN_pronoun] vai desenterrar um cadáver.</CorpseObsession.beginletter>
 
 	<CorpseObsession.baseinspectline>Estado mental: Obsessão por cadáver</CorpseObsession.baseinspectline>
 
@@ -145,7 +145,7 @@
 
 	<BedroomTantrum.baseinspectline>Estado mental: Birra</BedroomTantrum.baseinspectline>
 
-	<BedroomTantrum.beginletter>{0} está tendo uma birra. HECAP vai destruir móveis em seu quarto.</BedroomTantrum.beginletter>
+	<BedroomTantrum.beginletter>{0} está tendo uma birra. [PAWN_pronoun] vai destruir móveis em seu quarto.</BedroomTantrum.beginletter>
 
 	<Jailbreaker.label>induzindo prisioneiro a fugir</Jailbreaker.label>
 
@@ -165,7 +165,7 @@
 
 	<TargetedTantrum.baseinspectline>Estado mental: Birra</TargetedTantrum.baseinspectline>
 
-	<TargetedTantrum.beginletter>{0} está tendo uma birra. HECAP vai destruir {1}.</TargetedTantrum.beginletter>
+	<TargetedTantrum.beginletter>{0} está tendo uma birra. [PAWN_pronoun] vai destruir {1}.</TargetedTantrum.beginletter>
 
 	<SadisticRage.label>raiva sádica</SadisticRage.label>
 
@@ -173,7 +173,7 @@
 
 	<SadisticRage.beginletterlabel>raiva sádica</SadisticRage.beginletterlabel>
 
-	<SadisticRage.beginletter>{0} está em uma fúria sádica. HECAP vai desabafar sua raiva contra os prisioneiros.</SadisticRage.beginletter>
+	<SadisticRage.beginletter>{0} está em uma fúria sádica. [PAWN_pronoun] vai desabafar sua raiva contra os prisioneiros.</SadisticRage.beginletter>
 
 	<SadisticRage.baseinspectline>Estado mental: Raiva sádica</SadisticRage.baseinspectline>
 
