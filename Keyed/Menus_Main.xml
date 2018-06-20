@@ -2,18 +2,18 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Aprender a jogar</Tutorial>
+  <Tutorial>Tutorial</Tutorial>
   <NewColony>Nova colônia</NewColony>
   <BackToGame>Voltar ao Jogo</BackToGame>
   <ReviewScenario>Revisão de cenário</ReviewScenario>
   <Save>Salvar</Save>
-  <LoadGame>Carregar colônia</LoadGame>
+  <LoadGame>Carregar jogo</LoadGame>
   <Options>Opções</Options>
   <Mods>Mods</Mods>
   <Credits>Créditos</Credits>
-  <QuitToMainMenu>Voltar para o menu principal</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Salvar e sair para o Menu Principal</SaveAndQuitToMainMenu>
-  <QuitToOS>Sair para o SO</QuitToOS>
+  <QuitToMainMenu>Sair para o menu principal</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Salvar e sair para o Menu</SaveAndQuitToMainMenu>
+  <QuitToOS>Sair do jogo</QuitToOS>
   <SaveAndQuitToOS>Salvar e sair do jogo</SaveAndQuitToOS>
   <FictionPrimer>Ficção primer</FictionPrimer>
   <LudeonBlog>Blog de Ludeon</LudeonBlog>
@@ -31,7 +31,7 @@
   <WorldSaveAndFinish>Salvar e concluir</WorldSaveAndFinish>
   <Reset>Restaurar</Reset>
   <PlanetCoverage>Cobertura do globo</PlanetCoverage>
-  <PlanetRainfall>Precipitação geral</PlanetRainfall>
+  <PlanetRainfall>Chuva geral</PlanetRainfall>
   <PlanetTemperature>Temperatura geral</PlanetTemperature>
   <PlanetRainfall_Low>Baixa</PlanetRainfall_Low>
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
@@ -41,13 +41,13 @@
   <PlanetTemperature_High>Alta</PlanetTemperature_High>
   <WorldSeed>Semente</WorldSeed>
   <RandomizeSeed>Semente aleatória</RandomizeSeed>
-  <PlanetCoverageTip>O planeta é sempre o mesmo diâmetro, mas já que é muito maior do que o necessário para o jogo, Não geramos toda a superfície, porque pode levar um tempo muito longo. Esta é a percentagem da superfície que você quer gerado.</PlanetCoverageTip>
+  <PlanetCoverageTip>O planeta é sempre do mesmo diâmetro, mas já que é muito maior do que o necessário para o jogo, nós não geramos toda a superfície porque pode levar um tempo muito longo. Esta é a percentagem da superfície que você quer gerado.</PlanetCoverageTip>
   <WorldFactionsTab>Facções</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Selecionar mundo</SelectWorld>
   <WorldChooseButton>Selecionar</WorldChooseButton>
-  <NoWorldsFilesFound>Nenhum arquivo de mundo encontrado. Crie um mundo primeiro..</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Nenhum arquivo de mundo encontrado. Crie um mundo primeiro.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
   <BuildNowAvailable>A versão {0} está disponível. Verifique ludeon.com para mais informações.</BuildNowAvailable>
@@ -68,16 +68,16 @@
   <ConfirmUnsubscribe>Tem certeza de que deseja cancelar a inscrição de {0}?</ConfirmUnsubscribe>
   <Author>Autor</Author>
   <WorkshopPage>Página da Oficina</WorkshopPage>
-  <UploadToSteamWorkshop>Upload para a Oficina Steam</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Enviar para a Oficina Steam</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Atualização na Oficina Steam</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload já está em andamento.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Envio já está em andamento.</UploadAlreadyInProgress>
   <WorkshopSubmissionFailed>Submissão na Oficina falhou.\n\nRazão: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Upload terminado com sucesso {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Enviado com sucesso {0}.</WorkshopUploadSucceeded>
   <Downloading>Baixando</Downloading>
   <Source>Fonte</Source>
   <ModTargetVersion>Para a versão: {0}</ModTargetVersion>
   <ModNotMadeForThisVersion>Este mod não foi feito para esta versão do RimWorld, e provavelmente não irá funcionar corretamente.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>O mod precisa de uma versão alvo bem formatado em About.xml. Como isso: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>O mod precisa de uma versão alvo bem formatado em About.xml. Como isto: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Arraste para reordenar</DragToReorder>
 
   <!--=========== Select scenario =============-->
@@ -102,7 +102,7 @@
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Escolha o narrador</ChooseAIStoryteller>
-  <HowStorytellersWork>O narrador cria eventos como invasões de piratas, queda de recursos ou ataques de animais. Suas escolhas afetarão a história da sua colônia.</HowStorytellersWork>
+  <HowStorytellersWork>O narrador cria eventos como assalto de piratas, queda de recursos ou ataques de animais. Suas escolhas afetarão a história da sua colônia.</HowStorytellersWork>
   <MustChooseDifficulty>Por favor, escolha um nível de dificuldade.</MustChooseDifficulty>
   <Difficulty>Dificuldade</Difficulty>
 
@@ -114,10 +114,10 @@
   <CannotLandBiome>Você não pode pousar sobre este bioma: {0}</CannotLandBiome>
   <BiomeNotImplemented>Bioma não implementado</BiomeNotImplemented>
   <CannotLandImpassableMountains>Você não pode pousar em montanhas intransitáveis.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} já tem uma base aqui.</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} já tem uma base lá.</BaseAlreadyThere>
   <YourBaseAlreadyThere>Você já tem uma base lá.</YourBaseAlreadyThere>
-  <TileOccupied>Este espaço está ocupado.</TileOccupied>
-  <FactionBaseAdjacent>Assentamentos não podem ser diretamente adjacentes uns aos outros.</FactionBaseAdjacent>
+  <TileOccupied>Este azulejo está ocupado.</TileOccupied>
+  <FactionBaseAdjacent>Os assentamentos não podem estar diretamente juntos um ao outro.</FactionBaseAdjacent>
   <Biome>Bioma</Biome>
   <Terrain>Terreno</Terrain>
   <Road>Estrada</Road>
@@ -125,9 +125,9 @@
   <Elevation>Elevação</Elevation>
   <Fertility>Fertilidade</Fertility>
   <AvgTemp>Temperatura média</AvgTemp>
-  <AvgSummerTemp>Temperatura do verão</AvgSummerTemp>
-  <AvgWinterTemp>Temperatura do inverno</AvgWinterTemp>
-  <Rainfall>Precipitação</Rainfall>
+  <AvgSummerTemp>Temperatura no verão</AvgSummerTemp>
+  <AvgWinterTemp>Temperatura no inverno</AvgWinterTemp>
+  <Rainfall>Chuva</Rainfall>
   <SpecialFeatures>Características especiais</SpecialFeatures>
   <HasCoast0>Costa norte</HasCoast0>
   <HasCoast1>Costa leste</HasCoast1>
@@ -145,10 +145,10 @@
   <PerYear>por ano</PerYear>
 
 
-	<!--=========== Character chooser ==========-->
+  <!--=========== Character chooser ==========-->
   <CreateCharacters>Criar personagens</CreateCharacters>
   <FirstNameDesc>O primeiro nome do personagem.\n\nIsto só é exibido em alguns menus.</FirstNameDesc>
-  <ShortIdentifierDesc>Como o personagem será chamado.\n\nIste nome é o principal, ele é exibido em todos os momentos. Pode ser o primeiro ou o último nome, ou um apelido completamente separado.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Como o personagem será chamado.\n\nIsto é exibido em todos os momentos. Ele pode ser o primeiro ou o último nome, ou um apelido completamente separado.</ShortIdentifierDesc>
   <LastNameDesc>O sobrenome do personagem.\n\nIsto só é exibido em alguns menus.</LastNameDesc>
   <Randomize>Aleatorizar</Randomize>
   <AgeIndicator>Idade {0}</AgeIndicator>
@@ -157,8 +157,8 @@
   <Traits>Traços</Traits>
   <PermanentMoodEffect>Efeito de humor permanente</PermanentMoodEffect>
   <Skills>Habilidades</Skills>
-  <NoneLower>Nenhum</NoneLower>
-  <Adulthood>Fase adulta</Adulthood>
+  <NoneLower>nenhum</NoneLower>
+  <Adulthood>Idade adulta</Adulthood>
   <Childhood>Infância</Childhood>
   <Male>masculino</Male>
   <Female>feminino</Female>
