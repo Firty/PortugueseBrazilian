@@ -17,18 +17,18 @@
 
 	<QuestDownedRefugee.letterlabel>Oportunidade de refugiado incapacitado</QuestDownedRefugee.letterlabel>
 
-	<QuestDownedRefugee.lettertext>{0} entra em contato com você no rádio e solicita ajuda. HECAP está ferido e incapaz de se mover. Sem a sua ajuda, a HE irá morrer dentro de {1} dias. \n\nPode ser perigoso, por isso tenha cuidado.</QuestDownedRefugee.lettertext>
+	<QuestDownedRefugee.lettertext>{0} entra em contato com você no rádio e solicita ajuda. [PAWN_pronoun] está ferido e incapaz de se mover. Sem a sua ajuda, a [PAWN_pronoun] irá morrer dentro de {1} dias. \n\nPode ser perigoso, por isso tenha cuidado.</QuestDownedRefugee.lettertext>
 
 	<QuestPrisonerWillingToJoin.label>oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.label>
 
 	<QuestPrisonerWillingToJoin.letterlabel>Oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.letterlabel>
 
-	<QuestPrisonerWillingToJoin.lettertext>Um preso preso por {0} conseguiu roubar um rádio e ligar para você! \n\nNAME está sendo mantido em um acampamento próximo sob guarda armada. Resgate-o e ele se juntará à sua colônia. HECAP é um {1} e tem {2} anos de idade.</QuestPrisonerWillingToJoin.lettertext>
+	<QuestPrisonerWillingToJoin.lettertext>Um preso preso por {0} conseguiu roubar um rádio e ligar para você! \n\nNAME está sendo mantido em um acampamento próximo sob guarda armada. Resgate-o e ele se juntará à sua colônia. [PAWN_pronoun] é um {1} e tem {2} anos de idade.</QuestPrisonerWillingToJoin.lettertext>
 
 	<QuestPeaceTalks.label>oportunidade de negociações de paz</QuestPeaceTalks.label>
 
 	<QuestPeaceTalks.letterlabel>Oportunidade de negociações de paz</QuestPeaceTalks.letterlabel>
 
-	<QuestPeaceTalks.lettertext>NAME, {0} de {1}, nos enviou uma mensagem. O HECAP quer falar conosco em um local próximo. \n\nPode ser uma ótima oportunidade para melhorar as relações com sua facção, mas cuidado - um negociador ruim pode causar mais danos do que benefícios e até mesmo irritá-los. \n\nA oferta expira daqui a {2} dias.</QuestPeaceTalks.lettertext>
+	<QuestPeaceTalks.lettertext>[PAWN_nameDef], {0} de {1}, nos enviou uma mensagem. O [PAWN_pronoun] quer falar conosco em um local próximo. \n\nPode ser uma ótima oportunidade para melhorar as relações com sua facção, mas cuidado - um negociador ruim pode causar mais danos do que benefícios e até mesmo irritá-los. \n\nA oferta expira daqui a {2} dias.</QuestPeaceTalks.lettertext>
 
 </LanguageData>

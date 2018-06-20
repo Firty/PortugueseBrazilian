@@ -41,7 +41,7 @@
   <LetterLabelMessageRecruitSuccess>Novo recruta</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{0} recrutou com sucesso {1} ({2} de chance).</MessageRecruitSuccess>
   <MessageTameSuccess>{0} domesticou com sucesso {1} ({2} de chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{0} domesticou com sucesso {1} ({2} de chance) e nomeou HE de {3}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{0} domesticou com sucesso {1} ({2} de chance) e nomeou [PAWN_pronoun] de {3}.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>A colônia não pode pagar este negócio.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Você não tem prata suficiente pronta para o negócio.</MessageColonyNotEnoughSilver>
@@ -175,7 +175,7 @@
 
 	<MessageOldWoundHealed>Por causa de {0}, {2} de {1} se curou.</MessageOldWoundHealed>
 
-	<MessageRescueeJoined>Uma vez que você resgatou HE, {0} se juntou ao seu grupo!</MessageRescueeJoined>
+	<MessageRescueeJoined>Uma vez que você resgatou [PAWN_pronoun], {0} se juntou ao seu grupo!</MessageRescueeJoined>
 
   <MessageAttackedCaravanIsNowHostile>Por você ter atacado uma caravana de {0}, esta facção é agora hostil a você.</MessageAttackedCaravanIsNowHostile>
   <MessageFactionPawnCrushed>{0} perdeu pessoas para um colapso do telhado. Relação de facção: {1}</MessageFactionPawnCrushed>
@@ -233,7 +233,7 @@
   <MessageSiteCountdownBecauseNoMoreEnemies>Você derrotou todos os inimigos. Em {0}, a caravana será automaticamente reformada.</MessageSiteCountdownBecauseNoMoreEnemies>
   <MessageSiteCountdownBecauseNoEnemiesInitially>Em {0}, a caravana será automaticamente reformada. Você pode reformar a caravana agora na tela do Mundo.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <MessageCantBanishDownedPawn>Não é possível banir {0} porque HE não pode andar.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Não é possível banir {0} porque [PAWN_pronoun] não pode andar.</MessageCantBanishDownedPawn>
 
   <MessageSleepingPawnsWokenUp>{0} acordou.</MessageSleepingPawnsWokenUp>
 
@@ -248,7 +248,7 @@
   <MessageFailedToRescueRelative>Você não conseguiu resgatar {0}. Isso tornará {1} triste.</MessageFailedToRescueRelative>
   <MessageRescuedRelative>Você resgatou {0}. Isso fará com que {1} fique feliz.</MessageRescuedRelative>
 
-  <MessagePrisonerRescued>Você resgatou NAME e HE se juntou à sua colônia.</MessagePrisonerRescued>
+  <MessagePrisonerRescued>Você resgatou [PAWN_nameDef] e [PAWN_pronoun] se juntou à sua colônia.</MessagePrisonerRescued>
 
   <MessageTornadoLeftMap>O tornado deixou o mapa.</MessageTornadoLeftMap>
   <MessageTornadoDissipated>O tornado se dissipou.</MessageTornadoDissipated>
@@ -257,8 +257,8 @@
 
   <MessageWarningCavePlantsExposedToLight>Aviso: {0} não pode viver quando exposto à luz.</MessageWarningCavePlantsExposedToLight>
 
-  <MessageTargetedTantrumChangedTarget>{0} não conseguiu alcançar {1}, então HE decidiu redirecionar HIS raiva em {2}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{0} não conseguiu alcançar {1}, então [PAWN_pronoun] decidiu redirecionar HIS raiva em {2}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{0} não conseguiu alcançar {1} então HE decidiu redirecionar HIS raiva em {2}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{0} não conseguiu alcançar {1} então [PAWN_pronoun] decidiu redirecionar HIS raiva em {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
 </LanguageData>
