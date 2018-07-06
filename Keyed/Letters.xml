@@ -100,7 +100,6 @@
   <LetterLabelAffair>Caso</LetterLabelAffair>
   <LetterAffair>{0}, casado(a) com {1}, começou um caso com {2}.</LetterAffair>
   <LetterLabelNewLovers>Novos amantes</LetterLabelNewLovers>
-  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
   <LetterNoLongerLovers>{0} e {1} não estão mais em um relacionamento.</LetterNoLongerLovers>
   <LetterLabelBreakup>Rompimento</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Casamento em andamento!</LetterLabelAcceptedProposal>
@@ -225,6 +224,7 @@
   <!-- Player entered site (generic label) -->
   <LetterLabelPlayerEnteredNewSiteGeneric>Arrived at site</LetterLabelPlayerEnteredNewSiteGeneric>
 
+  <!--<LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>-->
   <!--<RelationsBrokenDown>As relações com {0} foram rompidas. Eles agora são hostis a você.</RelationsBrokenDown>-->
   <!--<RelationsWarmed>As relações com {0} foram aquecidas. Eles agora não são mais hostis a você.</RelationsWarmed>-->
   <!--<RelationsBrokenCapture>Por você ter capturado {0}, {1} agora é seu inimigo.</RelationsBrokenCapture>-->
