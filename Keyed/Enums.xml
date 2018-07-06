@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- glow -->
   <Dark>Escuro</Dark>
   <Lit>Iluminado</Lit>
   <LitBrightly>Muito iluminado</LitBrightly>
-  
+
   <!-- history upload pref -->
   <Unspecified>Indeciso</Unspecified>
   <Always>Permitir</Always>
   <Never>Não permitir</Never>
-  
+
   <!-- Price types -->
   <PriceTypeVeryCheap>muito barato</PriceTypeVeryCheap>
   <PriceTypeCheap>barato</PriceTypeCheap>
@@ -19,7 +19,7 @@
   <PriceTypeExorbitant>exorbitante</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>não estocado</StoragePriorityUnstored>
+  <StoragePriorityUnstored>não armazenar</StoragePriorityUnstored>
   <StoragePriorityLow>baixa</StoragePriorityLow>
   <StoragePriorityNormal>normal</StoragePriorityNormal>
   <StoragePriorityPreferred>preferida</StoragePriorityPreferred>
@@ -41,28 +41,24 @@
 
   <!-- Quality category -->
   <QualityCategory_Awful>horrível</QualityCategory_Awful>
-  <QualityCategory_Shoddy>ruim</QualityCategory_Shoddy>
   <QualityCategory_Poor>pobre</QualityCategory_Poor>
   <QualityCategory_Normal>normal</QualityCategory_Normal>
   <QualityCategory_Good>bom</QualityCategory_Good>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
   <QualityCategory_Excellent>excelente</QualityCategory_Excellent>
   <QualityCategory_Masterwork>obra-prima</QualityCategory_Masterwork>
   <QualityCategory_Legendary>lendário</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>horr</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>ruim</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Poor>pobr</QualityCategoryShort_Poor>
-  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Awful>horrível</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Poor>pobre</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>normal</QualityCategoryShort_Normal>
   <QualityCategoryShort_Good>bom</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>supe</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>exce</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>obra</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
-  
+  <QualityCategoryShort_Excellent>excelente</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>obra-prima</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>lendário</QualityCategoryShort_Legendary>
+
   <!-- Hunger -->
   <HungerLevel_Starving>Faminto</HungerLevel_Starving>
   <HungerLevel_UrgentlyHungry>Urgentemente com fome</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Fome</HungerLevel_Hungry>
+  <HungerLevel_Hungry>Com fome</HungerLevel_Hungry>
   <HungerLevel_Fed>Alimentado</HungerLevel_Fed>
 
   <!-- -Fatigue -->
@@ -77,7 +73,7 @@
   <Hilliness_LargeHills>colinas grandes</Hilliness_LargeHills>
   <Hilliness_Mountainous>montanhoso</Hilliness_Mountainous>
   <Hilliness_Impassable>intransitável</Hilliness_Impassable>
-  
+
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Criando</WorkshopInteractStage_CreatingItem>
   <WorkshopInteractStage_SubmittingItem>Submetendo</WorkshopInteractStage_SubmittingItem>
@@ -91,19 +87,19 @@
   <!-- Mod sources -->
   <ContentSource_LocalFolder>pasta local</ContentSource_LocalFolder>
   <ContentSource_SteamWorkshop>Oficina Steam</ContentSource_SteamWorkshop>
-  
+
   <!-- Medical care category -->
   <MedicalCareCategory_NoCare>Sem atendimento médico</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Atendimento médico, mas sem medicina</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Medicina herbal ou pior</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Medicina normal ou pior</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Melhor medicina e assistência médica</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoMeds>Atendimento médico, mas sem medicamento</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Medicamento herbal ou pior</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Medicamento normal ou pior</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Melhor medicamento e assistência médica</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <HostilityResponseMode_Ignore>Ignorar</HostilityResponseMode_Ignore>
   <HostilityResponseMode_Attack>Atacar</HostilityResponseMode_Attack>
   <HostilityResponseMode_Flee>Fugir</HostilityResponseMode_Flee>
-  
+
   <!-- HediffGrowthMode -->
   <HediffGrowthMode_Growing>crescendo</HediffGrowthMode_Growing>
   <HediffGrowthMode_Stable>estável</HediffGrowthMode_Stable>
@@ -116,27 +112,27 @@
   <TechLevel_Industrial>industrial</TechLevel_Industrial>
   <TechLevel_Spacer>espacial</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendente</TechLevel_Transcendent>
+  <TechLevel_Archotech>archotech</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <PlayerPawnsArriveMethod_Standing>De pé</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Cápsulas caídas</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Cápsulas de descida</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <PawnGenerationContext_All>todos os personagens</PawnGenerationContext_All>
   <PawnGenerationContext_PlayerStarter>personagens jogáveis iniciais</PawnGenerationContext_PlayerStarter>
   <PawnGenerationContext_NonPlayer>personagens não jogáveis</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
   <ShowAnimalNames>Ver nomes - animais</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Domados(nomeados)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Domados(todos)</AnimalNameDisplayMode_TameAll>
-  
+  <AnimalNameDisplayMode_TameNamed>Domados (nomeados)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Domados (todos)</AnimalNameDisplayMode_TameAll>
+
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <Kelvin>Kelvin</Kelvin>
-  
+
   <!-- Direction8Way -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
@@ -146,5 +142,30 @@
   <Direction8Way_SouthWest_Short>SO</Direction8Way_SouthWest_Short>
   <Direction8Way_West_Short>O</Direction8Way_West_Short>
   <Direction8Way_NorthWest_Short>NO</Direction8Way_NorthWest_Short>
-  
+
+  <!-- Diet category -->
+  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+
+  <!--<QualityCategory_Shoddy>ruim</QualityCategory_Shoddy>-->
+  <!--<QualityCategory_Superior>superior</QualityCategory_Superior>-->
+  <!--<QualityCategoryShort_Shoddy>ruim</QualityCategoryShort_Shoddy>-->
+  <!--<QualityCategoryShort_Superior>superior</QualityCategoryShort_Superior>-->
+  <!-- Trainable intelligence -->
+  <!--<TrainableIntelligence_None>nada</TrainableIntelligence_None>-->
+  <!--<TrainableIntelligence_Simple>simples</TrainableIntelligence_Simple>-->
+  <!--<TrainableIntelligence_Intermediate>intermediário</TrainableIntelligence_Intermediate>-->
+  <!--<TrainableIntelligence_Advanced>avançado</TrainableIntelligence_Advanced>-->
+  <!--<TechLevel_Transcendent>transcendente</TechLevel_Transcendent>-->
+
 </LanguageData>

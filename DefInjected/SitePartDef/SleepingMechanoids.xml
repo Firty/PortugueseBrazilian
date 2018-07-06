@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<SleepingMechanoids.label>mechanoids dormindo</SleepingMechanoids.label>
+  <SleepingMechanoids.label>mechanoides adormecidos</SleepingMechanoids.label>
+  <SleepingMechanoids.description>Alguns mechanoides dormindo.</SleepingMechanoids.description>
+  <SleepingMechanoids.descriptionDialogue>há mecanoides dormindo na área</SleepingMechanoids.descriptionDialogue>
 
-	<SleepingMechanoids.description>Um ou mais mechanoids dormindo.</SleepingMechanoids.description>
 
 </LanguageData>

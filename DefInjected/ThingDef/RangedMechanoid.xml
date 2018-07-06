@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_InfernoCannon.label>projétil de canhão infernal</Bullet_InfernoCannon.label>
+
+  <Gun_InfernoCannon.label>canhão infernal</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>Dispositivo incendiário de mini-artilharia. Construído por mechanoides.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.0.label>barrel</Gun_InfernoCannon.tools.0.label>
+
+  <Bullet_ChargeBlasterHeavy.label>tiro de carga pesada</Bullet_ChargeBlasterHeavy.label>
+
+  <Gun_ChargeBlasterHeavy.label>disparador de carga pesada</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>Disparador de carga detonadora para área de fogo supressiva. Construído por mechanoides.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.0.label>barrel</Gun_ChargeBlasterHeavy.tools.0.label>
+
+
+</LanguageData>

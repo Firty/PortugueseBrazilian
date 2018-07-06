@@ -1,32 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PegLeg.label>perna de pau</PegLeg.label>
+  <!-- Added body parts -->
 
-	<Denture.label>dentadura</Denture.label>
+  <PegLeg.label>perna de pau</PegLeg.label>
+  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
 
-	<SimpleProstheticLeg.label>perna protética simples</SimpleProstheticLeg.label>
+  <WoodenFoot.label>wooden foot</WoodenFoot.label>
+  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
 
-	<SimpleProstheticArm.label>braço protético simples</SimpleProstheticArm.label>
+  <Denture.label>dentadura</Denture.label>
+  <Denture.labelNoun>a denture</Denture.labelNoun>
 
-	<BionicEye.label>olho biônico</BionicEye.label>
+  <SimpleProstheticLeg.label>perna protética simples</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
 
-	<BionicArm.label>braço biônico</BionicArm.label>
+  <SimpleProstheticArm.label>braço protético simples</SimpleProstheticArm.label>
+  <SimpleProstheticArm.comps.0.tools.0.label>punho</SimpleProstheticArm.comps.0.tools.0.label>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
 
-	<BionicLeg.label>perna biônica</BionicLeg.label>
+  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
 
-	<PowerClaw.label>garra energizada</PowerClaw.label>
+  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
+  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
 
-	<ScytherBlade.label>lâmina de ceifador</ScytherBlade.label>
+  <BionicEye.label>olho biônico</BionicEye.label>
+  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
 
-	<SimpleProstheticArm.comps.0.tools.0.label>punho</SimpleProstheticArm.comps.0.tools.0.label>
+  <BionicArm.label>braço biônico</BionicArm.label>
+  <BionicArm.comps.0.tools.0.label>punho</BionicArm.comps.0.tools.0.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
 
-	<ScytherBlade.comps.0.tools.0.label>lâmina</ScytherBlade.comps.0.tools.0.label>
+  <BionicLeg.label>perna biônica</BionicLeg.label>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
 
-	<ScytherBlade.comps.0.tools.1.label>ponto</ScytherBlade.comps.0.tools.1.label>
+  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
 
-	<BionicArm.comps.0.tools.0.label>punho</BionicArm.comps.0.tools.0.label>
+  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
 
-	<PowerClaw.comps.0.tools.0.label>garra</PowerClaw.comps.0.tools.0.label>
+  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+
+  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+
+  <PowerClaw.label>garra potente</PowerClaw.label>
+  <PowerClaw.comps.0.tools.0.label>garra</PowerClaw.comps.0.tools.0.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
+
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+
+
+  <!--<ScytherBlade.label>lâmina de ceifeiro</ScytherBlade.label>-->
+  <!--<ScytherBlade.comps.0.tools.0.label>lâmina</ScytherBlade.comps.0.tools.0.label>-->
+  <!--<ScytherBlade.comps.0.tools.1.label>ponta</ScytherBlade.comps.0.tools.1.label>-->
 
 </LanguageData>

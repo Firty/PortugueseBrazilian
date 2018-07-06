@@ -1,8 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<WildMan.label>homem selvagem</WildMan.label>
+  <Slave.label>escravo</Slave.label>
+  <Slave.labelPlural>escravos</Slave.labelPlural>
 
-	<WildMan.labelfemale>mulher selvagem</WildMan.labelfemale>
+  <WildMan.label>homem selvagem</WildMan.label>
+  <WildMan.labelPlural>homens selvagens</WildMan.labelPlural>
+  <WildMan.labelMale>homem selvagem</WildMan.labelMale>
+  <WildMan.labelMalePlural>homens selvagens</WildMan.labelMalePlural>
+  <WildMan.labelFemale>mulher selvagem</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>mulheres selvagens</WildMan.labelFemalePlural>
+
 
 </LanguageData>

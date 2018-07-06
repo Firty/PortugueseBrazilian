@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Bombardment.label>bombardeamento</Bombardment.label>
+  <Bombardment.label>bombardment</Bombardment.label>
+  <PowerBeam.label>power beam</PowerBeam.label>
 
-	<PowerBeam.label>feixe de potência</PowerBeam.label>
 
 </LanguageData>

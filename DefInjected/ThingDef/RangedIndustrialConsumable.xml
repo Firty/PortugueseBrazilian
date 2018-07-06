@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_TripleRocket.label>lançador de foguetes triplo</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Lançador de foguetes de um uso único que dispara 3 projéteis em uma rápida sucessão.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+
+  <Bullet_Rocket.label>foguete</Bullet_Rocket.label>
+
+  <Gun_DoomsdayRocket.label>lançador de foguetes apocalíptico</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Lançador de foguetes de um uso único para uma rápida sucessão.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+
+  <Bullet_DoomsdayRocket.label>foguete apocalíptico</Bullet_DoomsdayRocket.label>
+
+
+</LanguageData>

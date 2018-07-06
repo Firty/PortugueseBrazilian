@@ -1,34 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<QuestBanditCamp.label>oportunidade de acampamento bandido</QuestBanditCamp.label>
+  <Quest_TradeRequest.label>trade request</Quest_TradeRequest.label>
 
-	<QuestBanditCamp.letterlabel>Oportunidade de acampamento bandido</QuestBanditCamp.letterlabel>
+  <Quest_BanditCamp.label>bandit camp quest</Quest_BanditCamp.label>
+  <Quest_BanditCamp.letterText>{0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\nIf we succeed, their relations will improve, and they'll send us this reward:\n\n{3}</Quest_BanditCamp.letterText>
+  <Quest_BanditCamp.letterLabel>Bandit camp quest</Quest_BanditCamp.letterLabel>
 
-	<QuestBanditCamp.lettertext>{0}, {1} de {2} nos enviou uma mensagem. \n\nAlguns bandidos em um acampamento saquearam uma de suas caravanas. Eles nos pediram para destruir esse acampamento, e eliminar todos os inimigos e torres. \n\nSe tivermos sucesso, a nossa relação com eles melhorarão e eles nos enviarão essa recompensa: \n\n {3}</QuestBanditCamp.lettertext>
+  <Quest_ItemStash.label>item stash quest</Quest_ItemStash.label>
+  <Quest_ItemStash.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won’t last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {5}</Quest_ItemStash.letterText>
+  <Quest_ItemStash.letterLabel>Item stash quest</Quest_ItemStash.letterLabel>
 
-	<QuestItemStash.label>oportunidade de esconderijo de itens</QuestItemStash.label>
 
-	<QuestItemStash.letterlabel>Oportunidade de esconderijo de itens</QuestItemStash.letterlabel>
+  <!-- Used as a utility incident def for the core-requesting faction option -->
 
-	<QuestItemStash.lettertext>{0}, {1} de {2}, nos informou sobre uma coleção de itens valiosos não muito longe de nós. A coleção consiste em: \n\n {3} \n\nInfelizmente, isso não vai durar muito tempo. Outros pegarão os itens em {4} dias. \n\nCuidados - os objetos de valor tendem a atrair perigo. {5}</QuestItemStash.lettertext>
+  <Quest_ItemStashAICore.label>item stash quest (AI core)</Quest_ItemStashAICore.label>
+  <Quest_ItemStashAICore.letterText>{0}, {1} of {2}, has informed us of a collection of valuable items not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won’t last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {5}</Quest_ItemStashAICore.letterText>
+  <Quest_ItemStashAICore.letterLabel>Item stash quest</Quest_ItemStashAICore.letterLabel>
 
-	<QuestDownedRefugee.label>oportunidade de refugiado incapacitado</QuestDownedRefugee.label>
+  <Quest_DownedRefugee.label>incapacitated refugee quest</Quest_DownedRefugee.label>
+  <Quest_DownedRefugee.letterText>[PAWN_nameDef] contacts you and requests help. [PAWN_pronoun] is wounded and unable to move. Without your help, [PAWN_pronoun] will die in {0} days.\n\n[PAWN_nameDef] is a {1}-year-old {2}. [PAWN_pronoun] promises to join you if you rescue [PAWN_objective].\n\nIt may be dangerous there, so beware.</Quest_DownedRefugee.letterText>
+  <Quest_DownedRefugee.letterLabel>Incapacitated refugee quest</Quest_DownedRefugee.letterLabel>
 
-	<QuestDownedRefugee.letterlabel>Oportunidade de refugiado incapacitado</QuestDownedRefugee.letterlabel>
+  <Quest_PrisonerRescue.label>prisoner rescue quest</Quest_PrisonerRescue.label>
+  <Quest_PrisonerRescue.letterText>A prisoner being held by {0} has managed to steal a radio and call you!\n\n[PAWN_nameDef] is being held at a camp nearby under armed guard. Rescue [PAWN_objective], and [PAWN_pronoun] will join your colony. [PAWN_pronoun] is a {1}-year-old {2}.</Quest_PrisonerRescue.letterText>
+  <Quest_PrisonerRescue.letterLabel>Prisoner rescue quest</Quest_PrisonerRescue.letterLabel>
 
-	<QuestDownedRefugee.lettertext>{0} entra em contato com você no rádio e solicita ajuda. HECAP está ferido e incapaz de se mover. Sem a sua ajuda, a HE irá morrer dentro de {1} dias. \n\nPode ser perigoso, por isso tenha cuidado.</QuestDownedRefugee.lettertext>
+  <Quest_PeaceTalks.label>peace talks quest</Quest_PeaceTalks.label>
+  <Quest_PeaceTalks.letterText>[PAWN_nameDef], {0} of {1}, has sent us a message. [PAWN_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction, but beware - a poor negotiator can cause more harm than good and even anger them.\n\nThe offer will expire after {2} days.</Quest_PeaceTalks.letterText>
+  <Quest_PeaceTalks.letterLabel>Peace talks quest</Quest_PeaceTalks.letterLabel>
 
-	<QuestPrisonerWillingToJoin.label>oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.label>
 
-	<QuestPrisonerWillingToJoin.letterlabel>Oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.letterlabel>
+  <!-- Main quests -->
 
-	<QuestPrisonerWillingToJoin.lettertext>Um preso preso por {0} conseguiu roubar um rádio e ligar para você! \n\nNAME está sendo mantido em um acampamento próximo sob guarda armada. Resgate-o e ele se juntará à sua colônia. HECAP é um {1} e tem {2} anos de idade.</QuestPrisonerWillingToJoin.lettertext>
+  <Quest_JourneyOffer.label>escape ship quest</Quest_JourneyOffer.label>
 
-	<QuestPeaceTalks.label>oportunidade de negociações de paz</QuestPeaceTalks.label>
 
-	<QuestPeaceTalks.letterlabel>Oportunidade de negociações de paz</QuestPeaceTalks.letterlabel>
-
-	<QuestPeaceTalks.lettertext>NAME, {0} de {1}, nos enviou uma mensagem. O HECAP quer falar conosco em um local próximo. \n\nPode ser uma ótima oportunidade para melhorar as relações com sua facção, mas cuidado - um negociador ruim pode causar mais danos do que benefícios e até mesmo irritá-los. \n\nA oferta expira daqui a {2} dias.</QuestPeaceTalks.lettertext>
+  <!--<QuestBanditCamp.label>oportunidade de acampamento de bandidos</QuestBanditCamp.label>-->
+  <!--<QuestBanditCamp.letterText>{0}, {1} de {2}, nos enviou uma mensagem.\n\nAparentemente bandidos baseados em um acampamento próximo foram assaltando as caravanas deles. Eles nos pediram para destruí-los, o que significa eliminar todos os inimigos e torretas.\n\nSe tivermos sucesso, as relações deles melhorarão e eles nos enviarão esta recompensa:\n\n{3}</QuestBanditCamp.letterText>-->
+  <!--<QuestBanditCamp.letterLabel>oportunidade de acampamento de bandidos</QuestBanditCamp.letterLabel>-->
+  <!--<QuestItemStash.label>oportunidade de esconderijo de itens</QuestItemStash.label>-->
+  <!--<QuestItemStash.letterText>{0}, {1} de {2}, nos enviou uma mensagem.\n\nEles aprenderam que uma coleção de itens valiosos foram deixados para serem tomados não muito longe de nós. A coleção consiste emf:\n\n{3}\n\nInfelizmente, não irá durar muito - outros irão levar os itens em {4} dias se não o fizermos.\n\nObjetos de valor tendem a atrair perigo, então cuidado.\n\n{5}</QuestItemStash.letterText>-->
+  <!--<QuestItemStash.letterLabel>oportunidade de esconderijo de itens</QuestItemStash.letterLabel>-->
 
 </LanguageData>

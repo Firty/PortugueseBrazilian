@@ -1,78 +1,90 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ChunkSlagSteel.label>escória de aço</ChunkSlagSteel.label>
+  <!-- Misc chunks -->
 
-	<Sandstone.label>arenito</Sandstone.label>
+  <ChunkSlagSteel.label>pedaço de escória de aço</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel.</ChunkSlagSteel.description>
 
-	<Sandstone.description>Uma rocha sedimentar composta de partículas de areia comprimida juntas.</Sandstone.description>
 
-	<ChunkSandstone.label>pedaço de arenito</ChunkSandstone.label>
+  <!-- Sandstone -->
 
-	<BlocksSandstone.label>blocos de arenito</BlocksSandstone.label>
+  <Sandstone.label>arenito</Sandstone.label>
+  <Sandstone.description>Uma rocha sedimentar composta de partículas de areia comprimida juntas.</Sandstone.description>
 
-	<BlocksSandstone.description>Blocos de arenito sólido. O arenito é uma rocha relativamente macia e se sustenta facilmente.</BlocksSandstone.description>
+  <SmoothedSandstone.label>smoothed sandstone</SmoothedSandstone.label>
+  <SmoothedSandstone.description>A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface.</SmoothedSandstone.description>
 
-	<BlocksSandstone.stuffProps.stuffAdjective>arenito</BlocksSandstone.stuffProps.stuffAdjective>
+  <ChunkSandstone.label>pedaço de arenito</ChunkSandstone.label>
+  <ChunkSandstone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSandstone.description>
 
-	<Granite.label>granito</Granite.label>
+  <BlocksSandstone.label>blocos de arenito</BlocksSandstone.label>
+  <BlocksSandstone.description>Blocos de arenito sólido. O arenito é uma rocha relativamente macia e se sustenta facilmente.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>arenito</BlocksSandstone.stuffProps.stuffAdjective>
 
-	<Granite.description>Uma rocha ígnea muito dura.</Granite.description>
 
-	<ChunkGranite.label>pedaço de granito</ChunkGranite.label>
+  <!-- Granite -->
 
-	<BlocksGranite.label>blocos de granito</BlocksGranite.label>
+  <Granite.label>granito</Granite.label>
+  <Granite.description>Uma rocha ígnea muito dura.</Granite.description>
 
-	<BlocksGranite.description>Blocos de granito maciço. O granito é uma pedra muito dura.</BlocksGranite.description>
+  <SmoothedGranite.label>smoothed granite</SmoothedGranite.label>
+  <SmoothedGranite.description>A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles.</SmoothedGranite.description>
 
-	<BlocksGranite.stuffProps.stuffAdjective>granito</BlocksGranite.stuffProps.stuffAdjective>
+  <ChunkGranite.label>pedaço de granito</ChunkGranite.label>
+  <ChunkGranite.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkGranite.description>
 
-	<Limestone.label>calcário</Limestone.label>
+  <BlocksGranite.label>blocos de granito</BlocksGranite.label>
+  <BlocksGranite.description>Blocos de granito maciço. O granito é uma pedra muito dura.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>granito</BlocksGranite.stuffProps.stuffAdjective>
 
-	<Limestone.description>Uma rocha sedimentar formada a partir dos restos compactados de conchas antigas.</Limestone.description>
 
-	<ChunkLimestone.label>pedaço de calcário</ChunkLimestone.label>
+  <!-- Limestone -->
 
-	<BlocksLimestone.label>blocos de calcário</BlocksLimestone.label>
+  <Limestone.label>calcário</Limestone.label>
+  <Limestone.description>Uma rocha sedimentar formada a partir dos restos compactados de conchas antigas.</Limestone.description>
 
-	<BlocksLimestone.description>Blocos de calcário sólido.</BlocksLimestone.description>
+  <SmoothedLimestone.label>smoothed limestone</SmoothedLimestone.label>
+  <SmoothedLimestone.description>A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within.</SmoothedLimestone.description>
 
-	<BlocksLimestone.stuffProps.stuffAdjective>calcário</BlocksLimestone.stuffProps.stuffAdjective>
+  <ChunkLimestone.label>pedaço de calcário</ChunkLimestone.label>
+  <ChunkLimestone.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkLimestone.description>
 
-	<Slate.label>ardósia</Slate.label>
+  <BlocksLimestone.label>blocos de calcário</BlocksLimestone.label>
+  <BlocksLimestone.description>Blocos de calcário sólido.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>calcário</BlocksLimestone.stuffProps.stuffAdjective>
 
-	<Slate.description>Uma rocha metamórfica de cor escura. Tem camadas finas e são emblemáticas da clivagem xistosa.</Slate.description>
 
-	<ChunkSlate.label>pedaço de ardósia</ChunkSlate.label>
+  <!-- Slate -->
 
-	<BlocksSlate.label>blocos de ardósia</BlocksSlate.label>
+  <Slate.label>ardósia</Slate.label>
+  <Slate.description>Uma rocha metamórfica de cor escura. Tem camadas finas e são emblemáticas da clivagem xistosa.</Slate.description>
 
-	<BlocksSlate.description>Blocos de ardósia sólida. Uma rocha maçante que se descasca facilmente.</BlocksSlate.description>
+  <SmoothedSlate.label>smoothed slate</SmoothedSlate.label>
+  <SmoothedSlate.description>A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface.</SmoothedSlate.description>
 
-	<BlocksSlate.stuffProps.stuffAdjective>ardósia</BlocksSlate.stuffProps.stuffAdjective>
+  <ChunkSlate.label>pedaço de ardósia</ChunkSlate.label>
+  <ChunkSlate.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkSlate.description>
 
-	<Marble.label>mármore</Marble.label>
+  <BlocksSlate.label>blocos de ardósia</BlocksSlate.label>
+  <BlocksSlate.description>Blocos de ardósia sólida. Uma rocha maçante que se descasca facilmente.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>ardósia</BlocksSlate.stuffProps.stuffAdjective>
 
-	<Marble.description>Uma rocha metamórfica macia.</Marble.description>
 
-	<ChunkMarble.label>pedaço de mármore</ChunkMarble.label>
+  <!-- Marble -->
 
-	<BlocksMarble.label>blocos de mármore</BlocksMarble.label>
+  <Marble.label>mármore</Marble.label>
+  <Marble.description>Uma rocha metamórfica macia.</Marble.description>
 
-	<BlocksMarble.description>Blocos de mármore sólido. O mármore é uma pedra macia e bonita, conhecido por ser fácil de se esculpir.</BlocksMarble.description>
+  <SmoothedMarble.label>smoothed marble</SmoothedMarble.label>
+  <SmoothedMarble.description>A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light.</SmoothedMarble.description>
 
-	<BlocksMarble.stuffProps.stuffAdjective>mármore</BlocksMarble.stuffProps.stuffAdjective>
+  <ChunkMarble.label>pedaço de mármore</ChunkMarble.label>
+  <ChunkMarble.description>A chunk of rock. Can be cut into usable stone blocks.</ChunkMarble.description>
 
-	<ChunkSandstone.description>Um pedaço de rocha. É possível cortar blocos de pedra utilizáveis.</ChunkSandstone.description>
+  <BlocksMarble.label>blocos de mármore</BlocksMarble.label>
+  <BlocksMarble.description>Blocos de mármore sólido. O mármore é uma pedra macia e bonita, conhecido por ser fácil de se esculpir.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>mármore</BlocksMarble.stuffProps.stuffAdjective>
 
-	<ChunkLimestone.description>Um pedaço de rocha. É possível cortar blocos de pedra utilizáveis.</ChunkLimestone.description>
-
-	<ChunkGranite.description>Um pedaço de rocha. É possível cortar blocos de pedra utilizáveis.</ChunkGranite.description>
-
-	<ChunkMarble.description>Um pedaço de rocha. É possível cortar blocos de pedra utilizáveis.</ChunkMarble.description>
-
-	<ChunkSlate.description>Um pedaço de rocha. É possível cortar blocos de pedra utilizáveis.</ChunkSlate.description>
-
-	<ChunkSlagSteel.description>Um pedaço de escória de aço. Não é muito útil em sua forma atual, mas é possível fundir o aço.</ChunkSlagSteel.description>
 
 </LanguageData>

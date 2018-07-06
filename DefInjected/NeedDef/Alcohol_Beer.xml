@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alcohol addiction -->
+
+  <Chemical_Alcohol.label>álcool</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>Por ter desenvolvido uma dependência por álcool, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de retirada.</Chemical_Alcohol.description>
+
+
+</LanguageData>

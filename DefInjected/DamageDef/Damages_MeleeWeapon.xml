@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cut.label>corte</Cut.label>
+  <Cut.deathMessage>{0} foi cortado(a) até a morte.</Cut.deathMessage>
+
+  <Crush.label>esmagamento</Crush.label>
+  <Crush.deathMessage>{0} foi esmagado(a) até a morte.</Crush.deathMessage>
+
+  <Blunt.label>contusão</Blunt.label>
+  <Blunt.deathMessage>{0} foi espancado(a) até a morte.</Blunt.deathMessage>
+
+
+  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+
+  <Poke.label>contusão</Poke.label>
+  <Poke.deathMessage>{0} foi espancado(a) até a morte.</Poke.deathMessage>
+
+  <Stab.label>punhalada</Stab.label>
+  <Stab.deathMessage>{0} foi apunhalado(a) até a morte.</Stab.deathMessage>
+
+  <Scratch.label>arranhão</Scratch.label>
+  <Scratch.deathMessage>{0} foi rasgado(a) até a morte.</Scratch.deathMessage>
+
+  <Bite.label>mordida</Bite.label>
+  <Bite.deathMessage>{0} foi mordido(a) até a morte.</Bite.deathMessage>
+
+  <ToxicBite.label>mordida tóxica</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} foi mordido(a) até a morte.</ToxicBite.deathMessage>
+
+
+</LanguageData>

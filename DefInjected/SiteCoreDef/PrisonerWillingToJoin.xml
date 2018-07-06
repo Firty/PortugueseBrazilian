@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PrisonerWillingToJoin.label>acampamento com prisioneiros</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.label>campo de prisioneiro</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>Um prisioneiro detido por uma facção inimiga. Resgate-o e ele irá se juntar a sua colônia.</PrisonerWillingToJoin.description>
 
-	<PrisonerWillingToJoin.description>Um prisioneiro sendo mantido por uma facção inimiga. Resgate ele e ele vai se juntar a sua colônia.</PrisonerWillingToJoin.description>
 
 </LanguageData>

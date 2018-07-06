@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -8,17 +8,17 @@
 
   <!-- Power -->
   <CommandTogglePowerLabel>Alternar energia</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Alternar energia.</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>Alterna energia.</CommandTogglePowerDesc>
 
   <CommandDesignateTogglePowerLabel>Ligar energia</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Liga e desliga a energia deste objeto. Um colono virá em breve para virar o interruptor.</CommandDesignateTogglePowerDesc>
 
   <CommandTryReconnectLabel>Reconectar</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Tenta conectar a uma rede elétrica diferente dentro do meu raio de conexão. Isso é útil se está conectado a uma rede sem energia, mas há uma rede alimentada nas proximidades.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>Tenta conectar a uma rede de energia diferente dentro do meu raio de conexão. Isto é útil se está conectado a uma rede sem energia, mas há uma rede alimentada nas proximidades.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Local de reunião</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Ativo - os colonos irão se reunir em torno deste objeto.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inativos - os colonos não irão se reunir em torno deste objeto.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescActive>Ativo - colonos irão se reunir em torno deste objeto.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Inativos - colonos não irão se reunir em torno deste objeto.</CommandGatherSpotToggleDescInactive>
 
 
   <!-- Drafting -->
@@ -27,8 +27,8 @@
   <CommandToggleDraftDesc>Alista para o modo de combate\n\npessoas alistadas recebem ordens e lutam. Eles não irão trabalhar, comer ou dormir.</CommandToggleDraftDesc>
   <IsIncapped>{0} não pode andar.</IsIncapped>
 
-  <CommandAllowFiringLabel>Permitir disparo</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Alternar a permissão de disparo.\n\nQuando desativado, este personagem não irá disparar automaticamente em alvos á distância. Não afeta o combate corpo a corpo.</CommandAllowFiringDesc>
+  <CommandFireAtWillLabel>Disparo à vontade</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Alternar o disparo à vontade.\n\nQuando desabilitado, este personagem não irá disparar automaticamente em alvos à distância. Não afeta o combate corpo a corpo.</CommandFireAtWillDesc>
 
   <CommandClearPrioritizedWork>Cancelar trabalho priorizado</CommandClearPrioritizedWork>
   <CommandClearPrioritizedWorkDesc>Cancela qualquer trabalho priorizados que você atribuiu. O personagem irá voltar às suas atividades habituais auto-dirigidas.</CommandClearPrioritizedWorkDesc>
@@ -44,15 +44,16 @@
   <CommandGraveAssignColonistLabel>Definir colono</CommandGraveAssignColonistLabel>
   <CommandGraveAssignColonistDesc>Define este túmulo para ser possuído por um colono específico.</CommandGraveAssignColonistDesc>
   <BuildingAssign>Definir</BuildingAssign>
+  <BuildingReassign>Reassign</BuildingReassign>
   <BuildingUnassign>Indefinir</BuildingUnassign>
   <CommandBedSetForPrisonersLabel>Definir para prisioneiros</CommandBedSetForPrisonersLabel>
   <CommandBedSetForPrisonersDesc>Define camas desta sala para uso de prisioneiros.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Não é possível definir camas ao ar livre para prisioneiros.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>Somente camas em espaços fechados podem ser definidas para prisioneiros.</CommandBedSetForPrisonersFailOutdoors>
   <CommandBedSetAsMedicalLabel>Definir como médica</CommandBedSetAsMedicalLabel>
   <CommandBedSetAsMedicalDesc>Define esta cama para uso médico.</CommandBedSetAsMedicalDesc>
-  <TurningOnPrisonerBedWarning>Ligar o modo prisioneiro afeta toda a sala (porque os prisioneiros e os colonos não podem dormir no mesmo quarto).\n\nEstas pessoas irão perder a propriedade de suas camas:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Desligar o modo prisioneiro afeta toda a sala (porque os prisioneiros e os colonos não podem dormir no mesmo quarto).\n\nEstas pessoas irão perder a propriedade de suas camas:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Você tem certeza de que deseja fazer isso?</AreYouSure>
+  <TurningOnPrisonerBedWarning>Ligar o modo prisioneiro afeta toda a sala (uma vez que prisioneiros e colonos não podem dormir no mesmo cômodo).\n\nEstas pessoas irão perder a propriedade de suas camas:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Desligar o modo prisioneiro afeta toda a sala (uma vez que prisioneiros e colonos não podem dormir no mesmo cômodo).\n\nEstas pessoas irão perder a propriedade de suas camas:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Você tem certeza de que deseja fazer isto?</AreYouSure>
 
   <CommandDetonateLabel>Detonar</CommandDetonateLabel>
   <CommandDetonateDesc>Começa a contagem regressiva para a detonação.</CommandDetonateDesc>
@@ -65,7 +66,7 @@
   <CommandHideZoneDesc>Esconde/reexibe esta zona.</CommandHideZoneDesc>
 
   <CommandDeleteZoneLabel>Excluir</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Deleta esta zona.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Exclui esta zona.</CommandDeleteZoneDesc>
 
   <CommandCopyZoneSettingsLabel>Copiar configuração</CommandCopyZoneSettingsLabel>
   <CommandCopyZoneSettingsDesc>Copia as configurações desta zona para a área de transferência para colá-las em outra zona.</CommandCopyZoneSettingsDesc>
@@ -82,20 +83,19 @@
   <CommandStopForceAttack>Parar ataque forçado</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Para um ataque forçado e permite que a torre atire quando desejar.</CommandStopForceAttackDesc>
   <CommandStopAttackFailNotForceAttacking>O ataque atual não é forçado.</CommandStopAttackFailNotForceAttacking>
-  <CommandExtractShell>Estrair projétil</CommandExtractShell>
-  <CommandExtractShellDesc>Descarrega o projétil atual para poder ser substituído por um diferente.</CommandExtractShellDesc>
-  <CommandExtractShellFailNoShell>Sem munição.</CommandExtractShellFailNoShell>
-  <MessageTargetBeyondMaximumRange>Alvo fora do alcance máximo.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Alvo abaixo alcance mínimo.</MessageTargetBelowMinimumRange>
-  <MessageTurretWontFireBecauseHoldFire>Aviso: O morteiro não vai disparar porque está definido como "segurar fogo".</MessageTurretWontFireBecauseHoldFire>
+  <CommandExtractShell>Extract shell</CommandExtractShell>
+  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
+  <MessageTargetBeyondMaximumRange>Alvo além do alcance máximo.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Alvo abaixo do alcance mínimo.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Warning: The mortar won't fire because it's set to "Hold fire".</MessageTurretWontFireBecauseHoldFire>
 
   <!-- Ship computer core -->
   <CommandShipLaunch>Lançar nave</CommandShipLaunch>
   <CommandShipLaunchDesc>Inicia a sequência de lançamento da nave com a configuração atual.</CommandShipLaunchDesc>
   <CommandShipLaunchReport>Mostrar relatório de lançamento</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Mostrar um relatório de prontidão sobre a capacidade de lançamento da nave.</CommandShipLaunchReportDesc>
-  <CommandShipStartup>Iniciar nave</CommandShipStartup>
-  <CommandShipStartupDesc>Inicia os componentes da nave.</CommandShipStartupDesc>
+  <CommandShipLaunchReportDesc>Mostra um relatório de prontidão sobre a capacidade de lançamento da nave.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Start ship</CommandShipStartup>
+  <CommandShipStartupDesc>Wake up hibernating ship components.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <CommandPodEject>Ejetar adormecido</CommandPodEject>
@@ -104,9 +104,9 @@
 
   <!-- Door -->
   <CommandToggleDoorForbid>Passagem proibida</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>Quando proibido, colonos e aliados não irão passar pela porta. Isto não afeta a interação dos inimigos ou animais com a porta.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Quando uma porta está proibida, colonos e aliados não passarão por ela. Isto não afeta como os inimigos ou animais interagem com a porta.</CommandToggleDoorForbidDesc>
   <CommandToggleDoorHoldOpen>Manter aberta</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>Quando ativo, os seus colonos não fecharão a porta depois de passarem por ela.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Quando ativo, seus colonos não fecharão a porta depois de passarem por ela.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <CommandResetTemp>Restaurar</CommandResetTemp>
@@ -116,33 +116,33 @@
 
   <!-- Install/reinstall -->
   <CommandInstall>Instalar</CommandInstall>
-  <CommandInstallDesc>Este item está embalado para o seu armazenamento e transporte. Utilize este comando para instalar este item em uma localização final.</CommandInstallDesc>
+  <CommandInstallDesc>Este item está embalado para armazenamento e transporte. Utilize este comando para instalar este item em uma localização final.</CommandInstallDesc>
   <CommandReinstall>Reinstalar em...</CommandReinstall>
   <CommandReinstallDesc>Define este item para ser desinstalado e instalado em outro lugar.</CommandReinstallDesc>
 
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Cria um estoque em torno deste local exatamente correspondente ao alcance máximo da baliza de comércio.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Cria um estoque em torno deste local exatamente correspondente ao raio máximo da baliza de comércio.</CommandMakeBeaconStockpileDesc>
   <CommandMakeBeaconStockpileLabel>Criar estoque</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Cria uma zona agrícola em torno deste local exatamente correspondente ao alcance máximo da luz da lâmpada.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Criar zona agrícola</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneDesc>Cria uma zona agrícola em torno deste local exatamente correspondente ao raio máximo da luz da lâmpada.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Criar zona de cultivo</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <CommandAutoRearm>Rearmar automaticamente</CommandAutoRearm>
-  <CommandAutoRearmDesc>Quando ativado, esta armadilha será definida automaticamente para ser rearmada quando ela é usada.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>Quando ativado, esta armadilha será definida automaticamente para ser rearmada quando usada.</CommandAutoRearmDesc>
 
   <!-- Animal control -->
   <CommandReleaseAnimalsLabel>Soltar animais</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>Quando ativado, animais treinados são enviados para atacar alvos distantes. Enquanto estiver desativado, eles permanecem próximo ao mestre.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>Enquanto isto está ligado, animais dominados são enviados para atacar alvos distantes. Enquanto estiver desligado, eles permanecem próximos e guardam o mestre.</CommandReleaseAnimalsDesc>
 
   <!-- Squad attack -->
   <CommandSquadAttack>Atacar</CommandSquadAttack>
   <CommandSquadAttackDesc>Envia colonos selecionados para atacar um alvo específico.</CommandSquadAttackDesc>
 
   <!-- Melee attack -->
-  <CommandMeleeAttack>Ataque corpo a corpo</CommandMeleeAttack>
-  <CommandMeleeAttackDesc>Ordenar os colonos selecionados a usarem suas armas para bater em um alvo.</CommandMeleeAttackDesc>
+  <CommandMeleeAttack>Melee attack</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Order selected colonists to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <CommandHoldFire>Segurar fogo</CommandHoldFire>
@@ -151,7 +151,7 @@
   <!-- Select plant to grow -->
   <CommandSelectPlantToGrowMulti>Selecione a planta para cultivar</CommandSelectPlantToGrowMulti>
   <CommandSelectPlantToGrow>Plantar: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determina qual planta deverá ser plantada aqui.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>Determina qual planta deverá ser cultivada aqui.</CommandSelectPlantToGrowDesc>
 
   <!-- Build copy -->
   <CommandBuildCopy>Construir cópia</CommandBuildCopy>
@@ -159,7 +159,7 @@
 
   <!-- Form caravan -->
   <CommandFormCaravan>Formar caravana</CommandFormCaravan>
-  <CommandFormCaravanDesc>Formar um grupo de colonos capazes de viajar para novas áreas. Os colonos reunirão todos os suprimentos e animais que os acompanham, deixam sua área atual, e aguardam mais ordens.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>Forma um grupo de colonos capazes de viajar para novas áreas. Os colonos reunirão todos os suprimentos e animais que os acompanham, deixam sua área atual, e aguardam mais ordens.</CommandFormCaravanDesc>
 
   <!-- Reform caravan -->
   <CommandReformCaravan>Reformar caravana</CommandReformCaravan>
@@ -172,12 +172,12 @@
 
   <!-- Merge caravan -->
   <CommandMergeCaravans>Unir</CommandMergeCaravans>
-  <CommandMergeCaravansDesc>Une as caravanas selecionadas.</CommandMergeCaravansDesc>
-  <CommandMergeCaravansFailCaravansNotSelected>Selecione todas as caravanas que devem ser mescladas. As caravanas devem estar perto umas das outras.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansDesc>Une caravanas selecionadas.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Select all caravans which should be merged. The caravans must be close to each other.</CommandMergeCaravansFailCaravansNotSelected>
 
   <!-- Settle -->
   <CommandSettle>Colonizar</CommandSettle>
-  <CommandSettleDesc>Coloniza esta área. Seus colonos irão entrar nesta área e você será capaz de começar a construir uma nova casa.</CommandSettleDesc>
+  <CommandSettleDesc>Se estabelece nesta área. Seus colonos irão entrar nesta área e você será capaz de começar a construir uma nova casa.</CommandSettleDesc>
   <CommandSettleFailAlreadyHaveBase>Sua facção só pode ter uma base.</CommandSettleFailAlreadyHaveBase>
   <CommandSettleFailReachedMaximumNumberOfBases>Alcançou o número máximo de colônias.</CommandSettleFailReachedMaximumNumberOfBases>
   <CommandSettleFailNoColonists>Não há ninguém lá para reivindicar a área.</CommandSettleFailNoColonists>
@@ -185,12 +185,20 @@
 
   <!-- Abandon home -->
   <CommandAbandonHome>Abandonar</CommandAbandonHome>
-  <CommandAbandonHomeDesc>Abandona esta área. A área ficará inacessível e você não será capaz de voltar aqui mais uma vez. Depois de abandonar a sua casa, você será capaz de encomendar uma de suas caravanas para se estabelecer em uma nova área.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Abandona esta área. A área ficará inacessível e você não será capaz de voltar aqui mais uma vez. Depois de abandonar sua casa, você será capaz de encomendar uma de suas caravanas para se estabelecer em uma nova área.</CommandAbandonHomeDesc>
   <CommandAbandonHomeFailAllColonistsThere>Todos os seus colonos estão lá.</CommandAbandonHomeFailAllColonistsThere>
 
   <!-- Cancel forming caravan -->
   <CommandCancelFormingCaravan>Cancelar formação de caravana</CommandCancelFormingCaravan>
-  <CommandCancelFormingCaravanDesc>Terminar o processo de formação de caravana.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Termina o processo de formação de caravana.</CommandCancelFormingCaravanDesc>
+
+  <!-- Remove from caravan -->
+  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+
+  <!-- Add to caravan -->
+  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
 
   <!-- Show map -->
   <CommandShowMap>Ampliar zoom</CommandShowMap>
@@ -201,9 +209,13 @@
   <CommandTradeDesc>Negocia com esta facção.</CommandTradeDesc>
   <CommandTradeFailNoNegotiator>Não há nenhum negociador consciente, não quebrado.</CommandTradeFailNoNegotiator>
 
-    <!-- Fulfill request -->
-  <CommandFulfillTradeOffer>Completar oferta comercial</CommandFulfillTradeOffer>
-  <CommandFulfillTradeOfferDesc>Cumprir o pedido de bens e reivindicar sua recompensa.</CommandFulfillTradeOfferDesc>
+  <!-- Offer gifts -->
+  <CommandOfferGifts>Offer gifts</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Offer gifts to this faction.</CommandOfferGiftsDesc>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Cumprir oferta comercial</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Cumprir o pedido de liquidação de bens e reivindicar sua recompensa.</CommandFulfillTradeOfferDesc>
   <CommandFulfillTradeOfferFailInsufficient>Sua caravana deve ter {0} para cumprir esta oferta comercial.</CommandFulfillTradeOfferFailInsufficient>
   <CommandFulfillTradeOfferConfirm>Oferecer {0} por {1}?</CommandFulfillTradeOfferConfirm>
 
@@ -246,11 +258,23 @@
   <CommandSelectNextTransporterDesc>Selecione a próxima cápsula de transporte neste grupo de lançamento.</CommandSelectNextTransporterDesc>
 
   <!-- Vent -->
-  <CommandDesignateOpenCloseVentLabel>Designar aberto/fechado</CommandDesignateOpenCloseVentLabel>
-  <CommandDesignateOpenCloseVentDesc>Designe este respiradouro para ser aberto ou fechado. Um colonizador virá em breve para realizar a tarefa.</CommandDesignateOpenCloseVentDesc>
-  
+  <CommandDesignateOpenCloseVentLabel>Designar abrir/fechar</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Designa esta saída de ventilação para ser aberta ou fechada. Um colono virá em breve para executar a tarefa.</CommandDesignateOpenCloseVentDesc>
+
   <!-- Remove waypoint -->
   <CommandRemoveWaypointLabel>Remover</CommandRemoveWaypointLabel>
-  <CommandRemoveWaypointDesc>Remover este waypoint.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>Remove este ponto de rota.</CommandRemoveWaypointDesc>
+
+  <!-- Pause caravan -->
+  <CommandPauseCaravan>Pause</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>Pause the caravan movement. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}</CommandToggleCaravanPauseDesc>
+
+  <!-- Show sellable items -->
+  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+
+  <!-- Attack settlement -->
+  <CommandAttackSettlement>Attack</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
 
 </LanguageData>

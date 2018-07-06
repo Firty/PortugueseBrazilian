@@ -1,40 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Caravan.label>caravana</Caravan.label>
+  <Caravan.label>caravana</Caravan.label>
+  <Caravan.description>Um grupo de pessoas viajantes.</Caravan.description>
 
-	<Caravan.description>Um grupo de pessoas viajantes.</Caravan.description>
+  <FactionBase.label>base de facção</FactionBase.label>
+  <FactionBase.description>Uma base de uma das facções.</FactionBase.description>
 
-	<FactionBase.label>base de facção</FactionBase.label>
+  <AbandonedBase.label>abandoned base</AbandonedBase.label>
+  <AbandonedBase.description>An abandoned base.</AbandonedBase.description>
 
-	<FactionBase.description>Uma base de uma das facções.</FactionBase.description>
+  <DestroyedFactionBase.label>base de facção destruída</DestroyedFactionBase.label>
+  <DestroyedFactionBase.description>Uma base de facção destruída.</DestroyedFactionBase.description>
 
-	<AbandonedFactionBase.label>base de facção abandonada</AbandonedFactionBase.label>
+  <EscapeShip.label>landed ship</EscapeShip.label>
+  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
 
-	<AbandonedFactionBase.description>Uma base abandonada de uma das facções.</AbandonedFactionBase.description>
+  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
 
-	<DestroyedFactionBase.label>base de facção destruída</DestroyedFactionBase.label>
+  <TravelingTransportPods.label>cápsulas de transporte</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Cápsulas de transporte em voo.</TravelingTransportPods.description>
 
-	<DestroyedFactionBase.description>Uma base de facção destruída.</DestroyedFactionBase.description>
+  <RoutePlannerWaypoint.label>ponto de rota</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Um ponto de rota temporário.</RoutePlannerWaypoint.description>
 
-	<JourneyDestination.label>destino de viagem</JourneyDestination.label>
+  <PeaceTalks.label>peace talks</PeaceTalks.label>
+  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
 
-	<JourneyDestination.description>A localização de uma nave escondida que pode ajudá-lo a escapar do planeta.</JourneyDestination.description>
 
-	<AttackedCaravan.label>caravana atacada</AttackedCaravan.label>
-
-	<AttackedCaravan.description>Uma caravana sob ataque.</AttackedCaravan.description>
-
-	<TravelingTransportPods.label>cápsulas de transporte</TravelingTransportPods.label>
-
-	<TravelingTransportPods.description>Cápsulas de transporte em voo.</TravelingTransportPods.description>
-
-	<RoutePlannerWaypoint.label>local temporario</RoutePlannerWaypoint.label>
-
-	<RoutePlannerWaypoint.description>Um local temporario.</RoutePlannerWaypoint.description>
-
-	<PeaceTalks.label>tratado de paz</PeaceTalks.label>
-
-	<PeaceTalks.description>Um local designado para tratados de paz.</PeaceTalks.description>
+  <!--<AbandonedFactionBase.label>base abandonada de facção</AbandonedFactionBase.label>-->
+  <!--<AbandonedFactionBase.description>Uma base abandonada de uma das facções.</AbandonedFactionBase.description>-->
+  <!--<JourneyDestination.label>destino de viagem</JourneyDestination.label>-->
+  <!--<JourneyDestination.description>A localização de uma nave escondida que pode ajudá-lo a escapar do planeta.</JourneyDestination.description>-->
+  <!--<AttackedCaravan.label>caravana atacada</AttackedCaravan.label>-->
+  <!--<AttackedCaravan.description>Uma caravana sob ataque.</AttackedCaravan.description>-->
 
 </LanguageData>

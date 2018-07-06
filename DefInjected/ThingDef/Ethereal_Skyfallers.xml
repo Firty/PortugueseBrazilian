@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropPodIncoming.label>cápsula de descida (chegando)</DropPodIncoming.label>
+  <ExplosiveDropPodIncoming.label>drop pod (incoming)</ExplosiveDropPodIncoming.label>
+  <DropPodLeaving.label>cápsula de descida (partindo)</DropPodLeaving.label>
+  <ShipChunkIncoming.label>ship chunk (incoming)</ShipChunkIncoming.label>
+  <CrashedShipPartIncoming.label>crashed ship part (incoming)</CrashedShipPartIncoming.label>
+  <MeteoriteIncoming.label>meteorite (incoming)</MeteoriteIncoming.label>
+
+
+</LanguageData>

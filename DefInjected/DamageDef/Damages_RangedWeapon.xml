@@ -1,12 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ArrowHighVelocity.label>flecha</ArrowHighVelocity.label>
+  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
 
-	<ArrowHighVelocity.deathmessage>{0} foi morto a flechadas.</ArrowHighVelocity.deathmessage>
+  <RangedStab.label>punhalada</RangedStab.label>
+  <RangedStab.deathMessage>{0} foi apunhalado(a) até a morte.</RangedStab.deathMessage>
 
-	<RangedStab.label>facada</RangedStab.label>
+  <Bullet.label>bala</Bullet.label>
+  <Bullet.deathMessage>{0} foi morto(a) com um tiro.</Bullet.deathMessage>
 
-	<RangedStab.deathmessage>{0} foi esfaqueado até a morte.</RangedStab.deathmessage>
+  <Arrow.label>flecha</Arrow.label>
+  <Arrow.deathMessage>{0} foi morto(a) com uma flechada.</Arrow.deathMessage>
+
+  <ArrowHighVelocity.label>flecha</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>{0} foi morto(a) com uma flechada.</ArrowHighVelocity.deathMessage>
+
 
 </LanguageData>

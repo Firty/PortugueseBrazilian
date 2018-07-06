@@ -1,12 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<NoInteraction.label>sem interação</NoInteraction.label>
+  <NoInteraction.label>sem interação</NoInteraction.label>
+  <Chat.label>conversa amigável</Chat.label>
+  <AttemptRecruit.label>conversar e recrutar</AttemptRecruit.label>
+  <Release.label>soltar</Release.label>
+  <Execution.label>executar</Execution.label>
 
-	<Chat.label>conversa amigavel</Chat.label>
-
-	<AttemptRecruit.label>tentar recrutar</AttemptRecruit.label>
-
-	<Execution.label>executar</Execution.label>
 
 </LanguageData>

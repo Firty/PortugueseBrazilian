@@ -1,24 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MeleeDPS.label>DPS de ataque corpo a corpo</MeleeDPS.label>
+  <!-- Shooting -->
 
-	<MeleeDPS.description>Dano médio por segundo em combate corpo a corpo.</MeleeDPS.description>
+  <MeleeDPS.label>DPS de ataque corpo a corpo</MeleeDPS.label>
+  <MeleeDPS.description>Dano médio por segundo em combate corpo a corpo. Esta estatística ignora defesas do alvo como esquivando e armadura.</MeleeDPS.description>
 
-	<ShootingAccuracy.label>precisão de tiro</ShootingAccuracy.label>
+  <MeleeHitChance.label>chance de acerto corpo a corpo</MeleeHitChance.label>
+  <MeleeHitChance.description>Chance de atingir um alvo no corpo a corpo. O alvo ainda pode esquivar-se mesmo se nós batemos.</MeleeHitChance.description>
 
-	<ShootingAccuracy.description>Base de chance por metro quadrado da distância do tiro.</ShootingAccuracy.description>
+  <MeleeDodgeChance.label>chance de esquiva corpo a corpo</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Chance de desviar de um ataque corpo a corpo que teria de outra forma atingido. Os personagens não esquivarão enquanto apontando ou disparando uma arma de longo alcance.</MeleeDodgeChance.description>
 
-	<AimingDelayFactor.label>tempo de pontaria</AimingDelayFactor.label>
+  <ShootingAccuracy.label>precisão de tiro</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Base de chance por metro quadrado da distância do tiro.</ShootingAccuracy.description>
 
-	<AimingDelayFactor.description>Quanto tempo leva para atacar depois de mirar.</AimingDelayFactor.description>
+  <AimingDelayFactor.label>tempo de pontaria</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Quanto tempo leva para atirar depois de mirar.</AimingDelayFactor.description>
 
-	<MeleeHitChance.label>chance de acerto corpo a corpo</MeleeHitChance.label>
-
-	<MeleeHitChance.description>Chance de acerto no alvo em combate corpo a corpo.</MeleeHitChance.description>
-
-	<MeleeDodgeChance.label>chance de esquiva</MeleeDodgeChance.label>
-
-	<MeleeDodgeChance.description>Chance de evitar um ataque corpo-a-corpo. Personagens não se esquivam enquanto apontam ou disparam uma arma de longo alcance.</MeleeDodgeChance.description>
 
 </LanguageData>

@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
   <TabBills>Tarefas</TabBills>
-  <TabGrowing>Plantação</TabGrowing>
+  <TabGrowing>Cultivo</TabGrowing>
   <TabCharacter>Caráter</TabCharacter>
   <TabTraining>Treino</TabTraining>
   <TabPrisoner>Prisioneiro</TabPrisoner>
   <TabGuest>Convidado</TabGuest>
   <TabGear>Equipam.</TabGear>
   <TabNeeds>Necessid.</TabNeeds>
-  <TabStorage>Estoque</TabStorage>
+  <TabStorage>Armazém</TabStorage>
   <TabShells>Shells</TabShells>
   <TabHealth>Saúde</TabHealth>
   <TabRace>Raça</TabRace>
@@ -19,23 +19,32 @@
   <TabRecords>Recordes</TabRecords>
   <TabArt>Arte</TabArt>
   <TabSocial>Social</TabSocial>
-  <TabCombat>Combat</TabCombat>
+  <TabLog>Log</TabLog>
+  <TabFormingCaravan>Caravan</TabFormingCaravan>
 
-  
+
   <!-- Bills tab  -->
   <AddBill>Adicionar tarefa</AddBill>
-  <RecipeRequiresSkills>A receita {0} requer as habilidades abaixo. Nenhum dos seus colonos têm estas habilidades, de modo que ninguém irá fazer esta tarefa.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>A receita {0} requer as habilidades abaixo. Nenhum dos seus colonos têm estas habilidades, por isso ninguém irá fazer esta tarefa.</RecipeRequiresSkills>
   <MinimumSkill>Habilidade mínima</MinimumSkill>
   <SuspendedCaps>SUSPENSO</SuspendedCaps>
   <BoundWorkerIs>Trabalhador: {0}</BoundWorkerIs>
   <PlantVerb>Plano</PlantVerb>
+  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
+  <ReorderBillUpTip>Move up</ReorderBillUpTip>
+  <ReorderBillDownTip>Move down</ReorderBillDownTip>
+  <DeleteBillTip>Delete</DeleteBillTip>
+  <CopyBillTip>Copy to the clipboard</CopyBillTip>
+  <SuspendBillTip>Suspend</SuspendBillTip>
+  <PasteBillTip>Paste</PasteBillTip>
+  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
 
 
   <!-- Guest/prisoner tab -->
   <RecruitmentDifficulty>Dificuldade de recrutamento</RecruitmentDifficulty>
   <GetsFood>Obter comida</GetsFood>
-  <DoctorsCare>Atendimento médico</DoctorsCare>
-  <GetsMedicine>Obter medicina</GetsMedicine>
+  <DoctorsCare>Cuidados médicos</DoctorsCare>
+  <GetsMedicine>Obter medicamento</GetsMedicine>
   <ShouldTryToRecruit>Tentar recrutar</ShouldTryToRecruit>
   <ConsideredGuilty>Considerado culpado (expira em {0})</ConsideredGuilty>
 
@@ -44,8 +53,8 @@
   <MoveSpeed>Velocidade de movimento</MoveSpeed>
   <Efficiency>Eficiência</Efficiency>
   <PartEfficiency>Eficiência parcial</PartEfficiency>
-  <BodyPartEfficiency>Eficiência da parte do corpo</BodyPartEfficiency>
-  <MissingBodyPart>Removido</MissingBodyPart>
+  <BodyPartEfficiency>Eficiência de parte do corpo</BodyPartEfficiency>
+  <MissingBodyPart>Sumido</MissingBodyPart>
   <DestroyedBodyPart>Destruído</DestroyedBodyPart>
   <ShatteredBodyPart>Despedaçado</ShatteredBodyPart>
   <RemovedBodyPart>Removido</RemovedBodyPart>
@@ -53,7 +62,7 @@
   <InPain>Com dor</InPain>
   <PainLevel>Dor</PainLevel>
   <Injured>Ferido</Injured>
-  <NoInjuries>(sem ferimentos)</NoInjuries>
+  <NoHealthConditions>sem condições de saúde</NoHealthConditions>
   <WholeBody>Corpo inteiro</WholeBody>
   <DataProcessing>Process. de dados</DataProcessing>
   <Communication>Comunicação</Communication>
@@ -66,7 +75,7 @@
   <MedicalOperationsMechanoidsShort>Modificações ({0})</MedicalOperationsMechanoidsShort>
   <MedicalOperations>Operações médicas</MedicalOperations>
   <Amputate>Amputar</Amputate>
-  <Harvest>Colher</Harvest>
+  <HarvestOrgan>harvest</HarvestOrgan>
   <RemoveOrgan>Remover</RemoveOrgan>
   <MemoryLower>memória</MemoryLower>
   <SocialInteractionsLower>interações sociais</SocialInteractionsLower>
@@ -74,20 +83,20 @@
   <Tiredness>Cansaço</Tiredness>
   <PainFactor>Dor</PainFactor>
   <PreventsInfection>Previne infecção</PreventsInfection>
-  <SelfTend>Auto-atendimento</SelfTend>
-  <SelfTendTip>{0} com autonomia habilitada, tenderá automaticamente a se encontrar no local em {1} a eficiência normal.</SelfTendTip>
+  <SelfTend>auto-tratamento</SelfTend>
+  <SelfTendTip>{0} com o auto-tratamento ativado irão automaticamente tratar a si mesmos no local a {1} da eficiência normal.</SelfTendTip>
 
-  
+
   <!-- Medical - Body and activities condition -->
   <None>Nada</None>
   <VeryPoor>Muito pobre</VeryPoor>
   <Poor>Pobre</Poor>
-  <Weakened>Fraco</Weakened>
+  <Weakened>Debilitado</Weakened>
   <GoodCondition>OK</GoodCondition>
   <Enhanced>Melhorado</Enhanced>
-  <SeriouslyImpaired>Estragado</SeriouslyImpaired>
+  <SeriouslyImpaired>Seriamente prejudicado</SeriouslyImpaired>
   <Impaired>Debilitado</Impaired>
-  <SlightlyImpaired>Prejudicado</SlightlyImpaired>
+  <SlightlyImpaired>Ligeiramente prejudicado</SlightlyImpaired>
   <NoPain>Nenhuma</NoPain>
   <LittlePain>Pouca</LittlePain>
   <MediumPain>Média</MediumPain>
@@ -95,8 +104,8 @@
   <ExtremePain>Extrema</ExtremePain>
 
 
-  <!-- Training tab-->
-  <TrainableIntelligence>Inteligência de treinamento</TrainableIntelligence>
+  <!-- Training tab -->
+  <Trainability>Trainability</Trainability>
   <CannotTrainNotSmartEnough>Requer inteligência treinável {0}.</CannotTrainNotSmartEnough>
   <CannotTrainTooSmall>{0} é muito pequeno(a) para treinar isto.</CannotTrainTooSmall>
 
@@ -105,21 +114,56 @@
   <!-- Social tab -->
   <NoRelationships>(sem relacionamentos)</NoRelationships>
   <Kidnapped>Sequestrado</Kidnapped>
-  <Missing>Faltando</Missing>
+  <Missing>Perdido</Missing>
   <Slave>Escravo</Slave>
-  <FactionLeader>Líder da facção</FactionLeader>
+  <FactionLeader>Líder de facção</FactionLeader>
   <OpinionOf>Opinião de {0}</OpinionOf>
   <SomeonesOpinionOfMe>Opinião de {0} sobre mim</SomeonesOpinionOfMe>
   <IAmDead>Estou morto</IAmDead>
   <IAmPsychopath>Eu sou um psicopata</IAmPsychopath>
 
   <!-- Gear tab -->
-  <AverageArmor>Média de armadura</AverageArmor>
+  <OverallArmor>Overall armor</OverallArmor>
   <MassCarried>Peso carregado: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Faixa de temperatura confortável</ComfyTemperatureRange>
-  <ArmorBlunt>Pancada</ArmorBlunt>
-  <ArmorSharp>Corte</ArmorSharp>
+  <ArmorBlunt>Contundente</ArmorBlunt>
+  <ArmorSharp>Afiado</ArmorSharp>
   <ArmorHeat>Calor</ArmorHeat>
-  <ArmorElectric>Elétrico</ArmorElectric>
+
+  <!-- Log tab -->
+  <ShowAll>Show all</ShowAll>
+  <ShowCombat>Show combat</ShowCombat>
+  <ShowSocial>Show social</ShowSocial>
+  <NoRecentEntries>no recent entries</NoRecentEntries>
+  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_Leaving>Leaving</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving_Pause>Leaving (waiting)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
+  <CaravanMembers>Members</CaravanMembers>
+  <CaravanAnimals>Animals</CaravanAnimals>
+  <ItemsToLoad>Items to load</ItemsToLoad>
+  <LoadedItems>Loaded items</LoadedItems>
+  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
+  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
+
+  <!--<PrisonerNoInteraction>Sem interação</PrisonerNoInteraction>-->
+  <!--<PrisonerFriendlyChat>Conversa amigável</PrisonerFriendlyChat>-->
+  <!--<PrisonerAttemptRecruit>Conversar e recrutar</PrisonerAttemptRecruit>-->
+  <!--<PrisonerRelease>Soltar</PrisonerRelease>-->
+  <!--<PrisonerExecution>Executar</PrisonerExecution>-->
+  <!--<NoInjuries>(sem ferimentos)</NoInjuries>-->
+  <!--<Harvest>Coletar</Harvest>-->
+  <!-- Training tab-->
+  <!--<TrainableIntelligence>Inteligência de treinamento</TrainableIntelligence>-->
+  <!--<AverageArmor>Média de armadura</AverageArmor>-->
+  <!--<ArmorElectric>Elétrico</ArmorElectric>-->
 
 </LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bow_Short.label>arco curto</Bow_Short.label>
+  <Bow_Short.description>Um arco curto e simples, feito com habilidade, mas usado apenas da tecnologia mais primitiva.</Bow_Short.description>
+
+  <Arrow_Short.label>flecha de arco curto</Arrow_Short.label>
+
+  <Pila.label>dardo</Pila.label>
+  <Pila.description>Um conjunto de dardos, lanças de arremesso não reutilizáveis.</Pila.description>
+  <Pila.tools.0.label>shaft</Pila.tools.0.label>
+  <Pila.tools.1.label>point</Pila.tools.1.label>
+
+  <Pilum_Thrown.label>dardo (jogado)</Pilum_Thrown.label>
+
+  <Bow_Recurve.label>recurve bow</Bow_Recurve.label>
+  <Bow_Recurve.description>A recurve bow. Its construction behaves like a tuned spring, storing energy more efficiently and delivering a faster shot.</Bow_Recurve.description>
+
+  <Arrow_Recurve.label>recurve bow arrow</Arrow_Recurve.label>
+
+  <Bow_Great.label>arco grande</Bow_Great.label>
+  <Bow_Great.description>Um grande arco poderoso. Dispara uma flecha pesada a longas distâncias.</Bow_Great.description>
+
+  <Arrow_Great.label>flecha de arco grande</Arrow_Great.label>
+
+
+</LanguageData>

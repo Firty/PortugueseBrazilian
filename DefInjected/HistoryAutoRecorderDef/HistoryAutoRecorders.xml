@@ -1,28 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<WealthTotal.label>riqueza (total)</WealthTotal.label>
+  <Wealth_Total.label>riqueza (total)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Quantidade</Wealth_Total.graphLabelY>
 
-	<WealthItems.label>riqueza (itens)</WealthItems.label>
+  <Wealth_Items.label>riqueza (itens)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Quantidade</Wealth_Items.graphLabelY>
 
-	<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>
+  <Wealth_Buildings.label>riqueza (estruturas)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Quantidade</Wealth_Buildings.graphLabelY>
 
-	<FreeColonists.label>colonos livres</FreeColonists.label>
+  <Wealth_TameAnimals.label>riqueza (animais)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.graphLabelY>Quantidade</Wealth_TameAnimals.graphLabelY>
 
-	<Prisoners.label>prisioneiros</Prisoners.label>
+  <FreeColonists.label>colonos livres</FreeColonists.label>
+  <FreeColonists.graphLabelY>Colonos</FreeColonists.graphLabelY>
 
-	<ColonistMood.label>humor</ColonistMood.label>
+  <Prisoners.label>prisioneiros</Prisoners.label>
+  <Prisoners.graphLabelY>Prisioneiros</Prisoners.graphLabelY>
 
-	<WealthTotal.graphlabely>Montante</WealthTotal.graphlabely>
+  <ColonistMood.label>humor</ColonistMood.label>
+  <ColonistMood.graphLabelY>Porcentagem</ColonistMood.graphLabelY>
 
-	<WealthItems.graphlabely>Montante</WealthItems.graphlabely>
 
-	<WealthBuildings.graphlabely>Montante</WealthBuildings.graphlabely>
-
-	<FreeColonists.graphlabely>Colônos</FreeColonists.graphlabely>
-
-	<Prisoners.graphlabely>Prisioneiros</Prisoners.graphlabely>
-
-	<ColonistMood.graphlabely>Por cento</ColonistMood.graphlabely>
+  <!--<WealthTotal.label>riqueza (total)</WealthTotal.label>-->
+  <!--<WealthTotal.graphLabelY>Quantidade</WealthTotal.graphLabelY>-->
+  <!--<WealthItems.label>riqueza (itens)</WealthItems.label>-->
+  <!--<WealthItems.graphLabelY>Quantidade</WealthItems.graphLabelY>-->
+  <!--<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>-->
+  <!--<WealthBuildings.graphLabelY>Quantidade</WealthBuildings.graphLabelY>-->
 
 </LanguageData>

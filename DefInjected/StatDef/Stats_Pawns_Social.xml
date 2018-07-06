@@ -1,28 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<RecruitPrisonerChance.label>chance de recrutar prisioneiro</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.label>chance de recrutar prisioneiro</RecruitPrisonerChance.label>
+  <RecruitPrisonerChance.description>Quanto de chance esta pessoa tem para recrutar um prisioneiro.</RecruitPrisonerChance.description>
 
-	<RecruitPrisonerChance.description>Quanto de chance esta pessoa tem para recrutar um prisioneiro.</RecruitPrisonerChance.description>
+  <TameAnimalChance.label>chance de domesticar animal</TameAnimalChance.label>
+  <TameAnimalChance.description>Quanto de chance esta pessoa tem para domesticar um animal.</TameAnimalChance.description>
 
-	<TameAnimalChance.label>chance de domesticar animal</TameAnimalChance.label>
+  <TrainAnimalChance.label>chance de treinamento de animal</TrainAnimalChance.label>
+  <TrainAnimalChance.description>Quanto de chance esta pessoa tem para fazer progresso treinando um animal em uma determinada tentativa. A chance real para uma determinada tentativa também dependerá da selvageria do animal, se está com vínculo com o treinador, e assim por diante.</TrainAnimalChance.description>
 
-	<TameAnimalChance.description>Quanto de chance esta pessoa tem para domesticar um animal.</TameAnimalChance.description>
+  <SocialImpact.label>impacto social</SocialImpact.label>
+  <SocialImpact.description>Quando esta pessoa interage socialmente, isto é o quanto que a outra pessoa é afetada.</SocialImpact.description>
 
-	<TrainAnimalChance.label>chance de treinamento de animal</TrainAnimalChance.label>
+  <DiplomacyPower.label>poder diplomático</DiplomacyPower.label>
+  <DiplomacyPower.description>Quão efetiva é essa pessoa como um negociador. Afeta o impacto nas relações das facções quando esta pessoa dá presentes a outra facção. Isso também afeta o resultado das negociações de paz com outras facções.</DiplomacyPower.description>
 
-	<TrainAnimalChance.description>Quanto de chance esta pessoa tem para fazer progresso treinando um animal em uma determinada tentativa. A chance real para uma determinada tentativa também dependerá da selvageria do animal, se está com vínculo com o treinador, e assim por diante.</TrainAnimalChance.description>
+  <TradePriceImprovement.label>melhoria dos preços do comércio</TradePriceImprovement.label>
+  <TradePriceImprovement.description>Quando esta pessoa negocia preços, os preços de comprar e vender são melhorados por esta porcentagem.</TradePriceImprovement.description>
 
-	<SocialImpact.label>impacto social</SocialImpact.label>
 
-	<SocialImpact.description>Quando esta pessoa interage socialmente, isto é o quanto que a outra pessoa é afetada.</SocialImpact.description>
-
-	<GiftImpact.label>impacto de presente diplomático</GiftImpact.label>
-
-	<GiftImpact.description>Quando esta pessoa dá presentes para outra facção, este multiplicador é aplicado ao seu impacto sobre as relações da facção.</GiftImpact.description>
-
-	<TradePriceImprovement.label>melhoria dos preços do comércio</TradePriceImprovement.label>
-
-	<TradePriceImprovement.description>Quando esta pessoa negocia preços, os preços de comprar e vender são melhorados por esta porcentagem.</TradePriceImprovement.description>
+  <!--<GiftImpact.label>poder diplomático</GiftImpact.label>-->
+  <!--<GiftImpact.description>Quão efetiva é essa pessoa como um negociador. Afeta o impacto nas relações das facções quando esta pessoa dá presentes a outra facção. Isso também afeta o resultado das negociações de paz com outras facções.</GiftImpact.description>-->
 
 </LanguageData>

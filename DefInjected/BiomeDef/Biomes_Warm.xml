@@ -1,8 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<TropicalSwamp.label>pântano tropical</TropicalSwamp.label>
+  <TropicalRainforest.label>floresta tropical</TropicalRainforest.label>
+  <TropicalRainforest.description>Uma selva espessa e úmida. Apesar de sua beleza visual, este é um bioma muito perigoso. O supercrescimento sufocado, animais agressivos e a doença constante são o porque de alguns exploradores chamarem ela de "inferno verde".</TropicalRainforest.description>
 
-	<TropicalSwamp.description>Uma selva espessa com muito pântano e lama. Movimentos difíceis, pouco espaço para construir estruturas pesadas, animais agressivos e doenças constantes tornam a vida aqui um pesadelo.</TropicalSwamp.description>
+  <TropicalSwamp.label>pântano tropical</TropicalSwamp.label>
+  <TropicalSwamp.description>Uma selva espessa com muitos pântanos e lama. Movimentação difícil, pouco espaço para construir construções pesadas, animais agressivos e doenças constantes fazem da vida aqui um pesadelo.</TropicalSwamp.description>
+
 
 </LanguageData>

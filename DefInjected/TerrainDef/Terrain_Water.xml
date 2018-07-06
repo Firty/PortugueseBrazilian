@@ -1,16 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<WaterDeep.label>água profunda</WaterDeep.label>
+  <!-- Deep -->
 
-	<WaterShallow.label>água rasa</WaterShallow.label>
+  <WaterDeep.label>água profunda</WaterDeep.label>
+  <WaterDeep.tools.0.label>water</WaterDeep.tools.0.label>
 
-	<WaterOceanDeep.label>Oceano profundo</WaterOceanDeep.label>
+  <WaterOceanDeep.label>água profunda do oceano</WaterOceanDeep.label>
+  <WaterOceanDeep.tools.0.label>water</WaterOceanDeep.tools.0.label>
 
-	<WaterMovingDeep.label>rio profundo</WaterMovingDeep.label>
 
-	<WaterOceanShallow.label>oceano raso</WaterOceanShallow.label>
+  <!-- Chest-deep -->
 
-	<WaterMovingShallow.label>rio raso</WaterMovingShallow.label>
+  <WaterMovingChestDeep.label>chest-deep moving water</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.tools.0.label>water</WaterMovingChestDeep.tools.0.label>
+
+
+  <!-- Shallow -->
+
+  <WaterShallow.label>água rasa</WaterShallow.label>
+  <WaterShallow.tools.0.label>water</WaterShallow.tools.0.label>
+
+  <WaterOceanShallow.label>água rasa do oceano</WaterOceanShallow.label>
+  <WaterOceanShallow.tools.0.label>water</WaterOceanShallow.tools.0.label>
+
+  <WaterMovingShallow.label>água rasa em movimento</WaterMovingShallow.label>
+  <WaterMovingShallow.tools.0.label>water</WaterMovingShallow.tools.0.label>
+
+
+  <!--<WaterMovingDeep.label>Água profunda em movimento</WaterMovingDeep.label>-->
 
 </LanguageData>

@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Catatonic.label>catatônico</Catatonic.label>
+  <!-- Mental breaks: extreme -->
 
-	<RunWild.label>corrida selvagem</RunWild.label>
+  <Catatonic.label>catatonic</Catatonic.label>
+  <RunWild.label>run wild</RunWild.label>
+
 
 </LanguageData>

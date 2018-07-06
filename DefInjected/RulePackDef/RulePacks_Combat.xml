@@ -1,724 +1,578 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Combat_MeleeIncludes.rulepack.rulesstrings.0>logentry->[action], [result].</Combat_MeleeIncludes.rulepack.rulesstrings.0>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.1>logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulepack.rulesstrings.1>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.2>implement(implementOwnerType==weapon,p=2)->[initiator_possessive] [weapon_label]s [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.2>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.3>implement(implementOwnerType==weapon,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulepack.rulesstrings.3>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.4>implement(implementOwnerType==weapon,p=1)->um [weapon_label]s [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.4>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.5>implement(implementOwnerType==weapon,p=0.5)->um [weapon_label]</Combat_MeleeIncludes.rulepack.rulesstrings.5>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.6>implement(implementOwnerType==bodypart,p=2)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.6>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.7>implement(implementOwnerType==bodypart,p=1)->[initiator_possessive] [bodypart_adjective] [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.7>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.8>implement(implementOwnerType==hediff,p=2)->[initiator_possessive] [weapon_label]s [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.8>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.9>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [weapon_label]</Combat_MeleeIncludes.rulepack.rulesstrings.9>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.10>implement(implementOwnerType==hediff,p=1)->[initiator_possessive] [tool_label]</Combat_MeleeIncludes.rulepack.rulesstrings.10>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.11>bodypart_adjective->dificil</Combat_MeleeIncludes.rulepack.rulesstrings.11>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.12>bodypart_adjective->forte</Combat_MeleeIncludes.rulepack.rulesstrings.12>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.13>bodypart_adjective->poderoso</Combat_MeleeIncludes.rulepack.rulesstrings.13>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.14>bodypart_adjective->vigoroso</Combat_MeleeIncludes.rulepack.rulesstrings.14>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.15>bodypart_adjective->poderoso</Combat_MeleeIncludes.rulepack.rulesstrings.15>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.16>bodypart_adjective->áspero</Combat_MeleeIncludes.rulepack.rulesstrings.16>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.17>bodypart_adjective->robusto</Combat_MeleeIncludes.rulepack.rulesstrings.17>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.18>bodypart_adjective->firme</Combat_MeleeIncludes.rulepack.rulesstrings.18>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.19>bodypart_adjective->solido</Combat_MeleeIncludes.rulepack.rulesstrings.19>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.20>bodypart_adjective->resistente</Combat_MeleeIncludes.rulepack.rulesstrings.20>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.21>bodypart_adjective(initiator_flesh==True)->calejado</Combat_MeleeIncludes.rulepack.rulesstrings.21>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.22>bodypart_adjective->firme</Combat_MeleeIncludes.rulepack.rulesstrings.22>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_MeleeIncludes.rulepack.rulesstrings.23>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] e [recipient_part1_label]</Combat_MeleeIncludes.rulepack.rulesstrings.24>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], e [recipient_part2_label]</Combat_MeleeIncludes.rulepack.rulesstrings.25>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], e [recipient_part3_label]</Combat_MeleeIncludes.rulepack.rulesstrings.26>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.27>damaged_present->ferindo</Combat_MeleeIncludes.rulepack.rulesstrings.27>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.28>damaged_present->prejudicando</Combat_MeleeIncludes.rulepack.rulesstrings.28>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.29>destroyed(p=0.5)->destruido</Combat_MeleeIncludes.rulepack.rulesstrings.29>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.30>destroyed(p=0.5)->demolido</Combat_MeleeIncludes.rulepack.rulesstrings.30>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.31>destroyed(p=0.5)->arruinado</Combat_MeleeIncludes.rulepack.rulesstrings.31>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.32>destroyed(p=0.5)->devastado</Combat_MeleeIncludes.rulepack.rulesstrings.32>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.33>result(p=0.5)->[damaged_present] [recipient_possessive] [targetlist]</Combat_MeleeIncludes.rulepack.rulesstrings.33>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.34>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] [flavortextadverb]</Combat_MeleeIncludes.rulepack.rulesstrings.34>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.35>result(p=10000)->[damaged_present] [recipient_possessive] [targetlist] [flavortextsituation]</Combat_MeleeIncludes.rulepack.rulesstrings.35>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.36>result(p=0.2)->[damaged_present] [recipient_possessive] [targetlist] e [flavortextconsequence]</Combat_MeleeIncludes.rulepack.rulesstrings.36>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.37>flavortextadverb->dolorosamente</Combat_MeleeIncludes.rulepack.rulesstrings.37>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.38>flavortextadverb->brutalmente</Combat_MeleeIncludes.rulepack.rulesstrings.38>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.39>flavortextadverb->horrivelmente</Combat_MeleeIncludes.rulepack.rulesstrings.39>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.40>flavortextadverb->agonizantemente</Combat_MeleeIncludes.rulepack.rulesstrings.40>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.41>flavortextadverb->ferozmente</Combat_MeleeIncludes.rulepack.rulesstrings.41>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.42>flavortextadverb->impiedosamente</Combat_MeleeIncludes.rulepack.rulesstrings.42>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.43>flavortextadverb->selvagemente</Combat_MeleeIncludes.rulepack.rulesstrings.43>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.44>flavortextadverb->viciosamente</Combat_MeleeIncludes.rulepack.rulesstrings.44>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.45>flavortextadverb->impiedosamente</Combat_MeleeIncludes.rulepack.rulesstrings.45>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.46>flavortextadverb->sem piedade</Combat_MeleeIncludes.rulepack.rulesstrings.46>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.47>flavortextsituation(recipient_flesh!=Mechanoid)->e jorrou sangue</Combat_MeleeIncludes.rulepack.rulesstrings.47>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.48>flavortextsituation(recipient_flesh==Mechanoid)->e voou sucata</Combat_MeleeIncludes.rulepack.rulesstrings.48>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.49>flavortextsituation->sem piedade</Combat_MeleeIncludes.rulepack.rulesstrings.49>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.50>flavortextsituation->enquanto usava um visual vazio</Combat_MeleeIncludes.rulepack.rulesstrings.50>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.51>flavortextsituation(initiator_flesh==Normal)->enquanto usava um olhar selvagem</Combat_MeleeIncludes.rulepack.rulesstrings.51>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.52>flavortextsituation(initiator_flesh==Normal)->enquanto vestia um [badassadjective] olhava</Combat_MeleeIncludes.rulepack.rulesstrings.52>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.53>flavortextsituation(initiator_flesh==Normal)->enquanto fazia careta</Combat_MeleeIncludes.rulepack.rulesstrings.53>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.54>flavortextsituation(initiator_flesh==Normal)->enquanto ria</Combat_MeleeIncludes.rulepack.rulesstrings.54>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.55>flavortextsituation(initiator_flesh==Normal)->enquanto sorria</Combat_MeleeIncludes.rulepack.rulesstrings.55>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.56>flavortextconsequence(recipient_flesh!=Mechanoid)->deixeo uma ferida nojenta</Combat_MeleeIncludes.rulepack.rulesstrings.56>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.57>flavortextconsequence->deixeo uma ferida horrível</Combat_MeleeIncludes.rulepack.rulesstrings.57>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.58>flavortextconsequence(recipient_flesh!=Mechanoid)->fazendo [recipient_objective] [wince] [painevent]</Combat_MeleeIncludes.rulepack.rulesstrings.58>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.59>flavortextconsequence(p=0.2)->jogeo [recipient_objective] desequilibrado</Combat_MeleeIncludes.rulepack.rulesstrings.59>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.60>wince(recipient_flesh==Normal)->estremecer</Combat_MeleeIncludes.rulepack.rulesstrings.60>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.61>wince(recipient_flesh==Normal)->careta</Combat_MeleeIncludes.rulepack.rulesstrings.61>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.62>wince(recipient_flesh==Normal)->encolher</Combat_MeleeIncludes.rulepack.rulesstrings.62>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.63>wince(recipient_flesh==Normal)->gemido</Combat_MeleeIncludes.rulepack.rulesstrings.63>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.64>wince(recipient_flesh!=Mechanoid)->grito</Combat_MeleeIncludes.rulepack.rulesstrings.64>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.65>wince(recipient_flesh!=Mechanoid)->gritar</Combat_MeleeIncludes.rulepack.rulesstrings.65>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.66>wince->recuo</Combat_MeleeIncludes.rulepack.rulesstrings.66>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.67>wince->tropeçar</Combat_MeleeIncludes.rulepack.rulesstrings.67>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.68>painstate->em</Combat_MeleeIncludes.rulepack.rulesstrings.68>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.69>painstate->com</Combat_MeleeIncludes.rulepack.rulesstrings.69>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.70>painstate->de</Combat_MeleeIncludes.rulepack.rulesstrings.70>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.71>painevent(recipient_flesh!=Mechanoid)->[painstate] dor</Combat_MeleeIncludes.rulepack.rulesstrings.71>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.72>painevent(recipient_flesh!=Mechanoid)->[painstate] agonia</Combat_MeleeIncludes.rulepack.rulesstrings.72>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.73>painevent(recipient_flesh==Normal)->com miséria</Combat_MeleeIncludes.rulepack.rulesstrings.73>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.74>painevent->da lesão</Combat_MeleeIncludes.rulepack.rulesstrings.74>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.75>painevent->de dor</Combat_MeleeIncludes.rulepack.rulesstrings.75>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.76>mortarshell->cartucho</Combat_MeleeIncludes.rulepack.rulesstrings.76>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.77>mortarshell->tiro</Combat_MeleeIncludes.rulepack.rulesstrings.77>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.78>mortarshell->projétil</Combat_MeleeIncludes.rulepack.rulesstrings.78>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.79>mortarshell->explosivo</Combat_MeleeIncludes.rulepack.rulesstrings.79>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.80>mortarshell->bomba</Combat_MeleeIncludes.rulepack.rulesstrings.80>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.81>mortarshell(p=0.3)->cartucho balistico</Combat_MeleeIncludes.rulepack.rulesstrings.81>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.82>mortarshell(p=0.3)->tiro balistico</Combat_MeleeIncludes.rulepack.rulesstrings.82>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.83>mortarshell(p=0.3)->projétil balistico</Combat_MeleeIncludes.rulepack.rulesstrings.83>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.84>to->para</Combat_MeleeIncludes.rulepack.rulesstrings.84>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.85>to->para dentro</Combat_MeleeIncludes.rulepack.rulesstrings.85>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.86>initiator_definite->[initiator_labelDefinite]</Combat_MeleeIncludes.rulepack.rulesstrings.86>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.87>initiator_definite->[initiator_nameShortDef]</Combat_MeleeIncludes.rulepack.rulesstrings.87>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.88>recipient_definite->[recipient_labelDefinite]</Combat_MeleeIncludes.rulepack.rulesstrings.88>
-
-	<Combat_MeleeIncludes.rulepack.rulesstrings.89>recipient_definite->[recipient_nameShortDef]</Combat_MeleeIncludes.rulepack.rulesstrings.89>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundIncludes.rulepack.rulesstrings.0>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] e [recipient_part_destroyed1_label]</Combat_WoundIncludes.rulepack.rulesstrings.1>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], e [recipient_part_destroyed2_label]</Combat_WoundIncludes.rulepack.rulesstrings.2>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], e [recipient_part_destroyed3_label]</Combat_WoundIncludes.rulepack.rulesstrings.3>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundIncludes.rulepack.rulesstrings.4>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] e [recipient_part_damaged1_label]</Combat_WoundIncludes.rulepack.rulesstrings.5>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], e [recipient_part_damaged2_label]</Combat_WoundIncludes.rulepack.rulesstrings.6>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], e [recipient_part_damaged3_label]</Combat_WoundIncludes.rulepack.rulesstrings.7>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.8>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.8>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.9>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.9>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.10>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.10>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.11>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.11>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.12>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.12>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.13>expertly->escorregadio</Combat_WoundIncludes.rulepack.rulesstrings.13>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.14>expertly->profissionalmente</Combat_WoundIncludes.rulepack.rulesstrings.14>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.15>expertly->Apropriadamente</Combat_WoundIncludes.rulepack.rulesstrings.15>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.16>expertly->habilmente</Combat_WoundIncludes.rulepack.rulesstrings.16>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.17>expertly->inteligentemente</Combat_WoundIncludes.rulepack.rulesstrings.17>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.18>expertly->magistralmente</Combat_WoundIncludes.rulepack.rulesstrings.18>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.19>expertly->artisticamente</Combat_WoundIncludes.rulepack.rulesstrings.19>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.20>expertly->com habilidade</Combat_WoundIncludes.rulepack.rulesstrings.20>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.21>expertly->com experiência impressionante</Combat_WoundIncludes.rulepack.rulesstrings.21>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.22>expertly->com um toque</Combat_WoundIncludes.rulepack.rulesstrings.22>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.23>expertly->com cuidado</Combat_WoundIncludes.rulepack.rulesstrings.23>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.24>expertly->com precisão</Combat_WoundIncludes.rulepack.rulesstrings.24>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.25>expertly->com proficiência</Combat_WoundIncludes.rulepack.rulesstrings.25>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.26>expertly->com força</Combat_WoundIncludes.rulepack.rulesstrings.26>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.27>expertly->com destreza</Combat_WoundIncludes.rulepack.rulesstrings.27>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.28>expertly->com maestria</Combat_WoundIncludes.rulepack.rulesstrings.28>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.29>expertly->com arte</Combat_WoundIncludes.rulepack.rulesstrings.29>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.30>expertly->com profissionalismo</Combat_WoundIncludes.rulepack.rulesstrings.30>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.31>expertly->como um virtuoso</Combat_WoundIncludes.rulepack.rulesstrings.31>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.32>expertly->como um especialista</Combat_WoundIncludes.rulepack.rulesstrings.32>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.33>expertly->como um mestre</Combat_WoundIncludes.rulepack.rulesstrings.33>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.34>expertly->como um artista</Combat_WoundIncludes.rulepack.rulesstrings.34>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.35>expertly->como um profissional</Combat_WoundIncludes.rulepack.rulesstrings.35>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.36>expert->especialista</Combat_WoundIncludes.rulepack.rulesstrings.36>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.37>expert->adepto</Combat_WoundIncludes.rulepack.rulesstrings.37>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.38>expert->hábil</Combat_WoundIncludes.rulepack.rulesstrings.38>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.39>expert->hábil</Combat_WoundIncludes.rulepack.rulesstrings.39>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.40>expert->hábil</Combat_WoundIncludes.rulepack.rulesstrings.40>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.41>expert->liso</Combat_WoundIncludes.rulepack.rulesstrings.41>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.42>expert->profissional</Combat_WoundIncludes.rulepack.rulesstrings.42>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.43>expert->apto</Combat_WoundIncludes.rulepack.rulesstrings.43>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.44>expert->destro</Combat_WoundIncludes.rulepack.rulesstrings.44>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.45>expert->esperto</Combat_WoundIncludes.rulepack.rulesstrings.45>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.46>expert->magistral</Combat_WoundIncludes.rulepack.rulesstrings.46>
-
-	<Combat_WoundIncludes.rulepack.rulesstrings.47>expert->artístico</Combat_WoundIncludes.rulepack.rulesstrings.47>
-
-	<Combat_Hit.rulepack.rulesstrings.0>logentry(p=0.3)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite].</Combat_Hit.rulepack.rulesstrings.0>
-
-	<Combat_Hit.rulepack.rulesstrings.1>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite] [flavortextadverb].</Combat_Hit.rulepack.rulesstrings.1>
-
-	<Combat_Hit.rulepack.rulesstrings.2>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] d[recipient_definite] [flavortextsituation].</Combat_Hit.rulepack.rulesstrings.2>
-
-	<Combat_Hit.rulepack.rulesstrings.3>logentry(p=0.1)->[initiator_definite] [damaged_past] o(a) [recipient_part0_label] de [recipient_definite], [flavortextconsequence].</Combat_Hit.rulepack.rulesstrings.3>
-
-	<Combat_Hit.rulepack.rulesstrings.4>logentry(p=0.4)->[initiator_definite], wielding [initiator_possessive] [weapon_label] [expertly], [flavortextadverb] [damaged_past] [recipient_definite] no [recipient_part0_label].</Combat_Hit.rulepack.rulesstrings.4>
-
-	<Combat_Hit.rulepack.rulesstrings.5>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]s [destroyed_targets].</Combat_Hit.rulepack.rulesstrings.5>
-
-	<Combat_Hit.rulepack.rulesstrings.6>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]s [destroyed_targets] [destroyed_suffix].</Combat_Hit.rulepack.rulesstrings.6>
-
-	<Combat_Hit.rulepack.rulesstrings.7>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]s [destroyed_targets] [expertly].</Combat_Hit.rulepack.rulesstrings.7>
-
-	<Combat_Hit.rulepack.rulesstrings.8>logentry(p=0.3)->[initiator_definite] [destroyed_past] [recipient_definite]s [destroyed_targets] com [implement].</Combat_Hit.rulepack.rulesstrings.8>
-
-	<Combat_Hit.rulepack.rulesstrings.9>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [recipient_possessive] [destroyed_targets]</Combat_Hit.rulepack.rulesstrings.9>
-
-	<Combat_Hit.rulepack.rulesstrings.10>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulepack.rulesstrings.10>
-
-	<Combat_Hit.rulepack.rulesstrings.11>result(p=1)->[destroyed_present] [recipient_possessive] [destroyed_targets] e [damaged_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulepack.rulesstrings.11>
-
-	<Combat_Hit.rulepack.rulesstrings.12>action(p=0.3)->[initiator_definite] acertou [recipient_definite] com um [damaged_inf] com a [implement]</Combat_Hit.rulepack.rulesstrings.12>
-
-	<Combat_Hit.rulepack.rulesstrings.13>action(p=0.3)->[initiator_definite] usava [implement] para [damaged_inf] [recipient_definite]</Combat_Hit.rulepack.rulesstrings.13>
-
-	<Combat_Hit.rulepack.rulesstrings.14>action->[initiator_definite] [damaged_past] [recipient_definite] com [implement]</Combat_Hit.rulepack.rulesstrings.14>
-
-	<Combat_Hit.rulepack.rulesstrings.15>action(p=0.6)->[initiator_definite] [damaged_past] [recipient_definite]</Combat_Hit.rulepack.rulesstrings.15>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.0>action->[initiator_definite] [tried] [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.0>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.1>action->[initiator_definite] [tried] para [damaged_inf] [recipient_definite] com [implement]</Combat_FailIncludes.rulepack.rulesstrings.1>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.2>action->[initiator_definite] [tried] para use [implement] para [damaged_inf] [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.2>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.3>action->[initiator_definite] swung [initiator_possessive] [weapon_label] at [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.3>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.4>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite] com [implement]</Combat_FailIncludes.rulepack.rulesstrings.4>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.5>action(p=0.3)->[initiator_definite] [genericattackverb] [towardsat] [recipient_definite]</Combat_FailIncludes.rulepack.rulesstrings.5>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.6>action(p=0.3)->[initiator_definite] [genericattackverb] com [implement]</Combat_FailIncludes.rulepack.rulesstrings.6>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.7>towardsat->em direção</Combat_FailIncludes.rulepack.rulesstrings.7>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.8>towardsat->a</Combat_FailIncludes.rulepack.rulesstrings.8>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.9>genericattackverb->balançado</Combat_FailIncludes.rulepack.rulesstrings.9>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.10>genericattackverb->agitado</Combat_FailIncludes.rulepack.rulesstrings.10>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.11>genericattackverb->bêbado</Combat_FailIncludes.rulepack.rulesstrings.11>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.12>tried->tentou</Combat_FailIncludes.rulepack.rulesstrings.12>
-
-	<Combat_FailIncludes.rulepack.rulesstrings.13>tried->tentou</Combat_FailIncludes.rulepack.rulesstrings.13>
-
-	<Combat_Miss.rulepack.rulesstrings.0>logentry(p=0.2)->[recipient_definite] evitado [initiator_definite]s [weapon_label] [damaged_inf].</Combat_Miss.rulepack.rulesstrings.0>
-
-	<Combat_Miss.rulepack.rulesstrings.1>logentry(p=0.2)->[initiator_definite] perdido [recipient_definite] com um [damaged_inf] a partir de [implement].</Combat_Miss.rulepack.rulesstrings.1>
-
-	<Combat_Miss.rulepack.rulesstrings.2>logentry(p=0.2)->[initiator_definite] [failtype] enquanto tentava [damaged_inf] [recipient_definite] com [implement].</Combat_Miss.rulepack.rulesstrings.2>
-
-	<Combat_Miss.rulepack.rulesstrings.3>logentry(p=0.2)->[initiator_definite] [failtype] enquanto tentava [damaged_inf] [recipient_definite].</Combat_Miss.rulepack.rulesstrings.3>
-
-	<Combat_Miss.rulepack.rulesstrings.4>logentry(p=0.2)->[initiator_definite] [failtype].</Combat_Miss.rulepack.rulesstrings.4>
-
-	<Combat_Miss.rulepack.rulesstrings.5>failtype->tropeçou</Combat_Miss.rulepack.rulesstrings.5>
-
-	<Combat_Miss.rulepack.rulesstrings.6>failtype->tropeçou</Combat_Miss.rulepack.rulesstrings.6>
-
-	<Combat_Miss.rulepack.rulesstrings.7>failtype->agitado</Combat_Miss.rulepack.rulesstrings.7>
-
-	<Combat_Miss.rulepack.rulesstrings.8>failtype->tropeçado</Combat_Miss.rulepack.rulesstrings.8>
-
-	<Combat_Miss.rulepack.rulesstrings.9>failtype->perdido</Combat_Miss.rulepack.rulesstrings.9>
-
-	<Combat_Miss.rulepack.rulesstrings.10>result->mas errou</Combat_Miss.rulepack.rulesstrings.10>
-
-	<Combat_Miss.rulepack.rulesstrings.11>result->mas acertou apenas o vento</Combat_Miss.rulepack.rulesstrings.11>
-
-	<Combat_Miss.rulepack.rulesstrings.12>result->mas o golpe passou longe</Combat_Miss.rulepack.rulesstrings.12>
-
-	<Combat_Miss.rulepack.rulesstrings.13>result->mas tropeçou no último segundo</Combat_Miss.rulepack.rulesstrings.13>
-
-	<Combat_Miss.rulepack.rulesstrings.14>result(initiator_flesh!=Mechanoid)->mas hesitou no último segundo</Combat_Miss.rulepack.rulesstrings.14>
-
-	<Combat_Dodge.rulepack.rulesstrings.0>logentry(p=0.2)->[recipient_definite] esquivado [initiator_definite]s [damaged_inf] a partir de [implement].</Combat_Dodge.rulepack.rulesstrings.0>
-
-	<Combat_Dodge.rulepack.rulesstrings.1>logentry(p=0.2)->[recipient_definite] esquivado [initiator_definite]s [damaged_inf].</Combat_Dodge.rulepack.rulesstrings.1>
-
-	<Combat_Dodge.rulepack.rulesstrings.2>result->mas [recipient_definite] saltou para fora do caminho</Combat_Dodge.rulepack.rulesstrings.2>
-
-	<Combat_Dodge.rulepack.rulesstrings.3>result->mas foi enganado por [recipient_definite]s finta</Combat_Dodge.rulepack.rulesstrings.3>
-
-	<Combat_Dodge.rulepack.rulesstrings.4>result->mas o ataque foi inteligentemente evitado</Combat_Dodge.rulepack.rulesstrings.4>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulepack.rulesstrings.0>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.1>initiator_definite->[initiator_nameShortDef]</Combat_RangedIncludes.rulepack.rulesstrings.1>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.2>recipient_definite->[recipient_labelDefinite]</Combat_RangedIncludes.rulepack.rulesstrings.2>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.3>recipient_definite->[recipient_nameShortDef]</Combat_RangedIncludes.rulepack.rulesstrings.3>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.4>originalTarget_definite->[originalTarget_labelDefinite]</Combat_RangedIncludes.rulepack.rulesstrings.4>
-
-	<Combat_RangedIncludes.rulepack.rulesstrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulepack.rulesstrings.5>
-
-	<Combat_RangedFire.rulepack.rulesstrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] com [initiator_possessive] [weapon_label].</Combat_RangedFire.rulepack.rulesstrings.0>
-
-	<Combat_RangedFire.rulepack.rulesstrings.1>logentry->[initiator_definite] [shot] [initiator_possessive] [weapon_label] em [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.1>
-
-	<Combat_RangedFire.rulepack.rulesstrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.2>
-
-	<Combat_RangedFire.rulepack.rulesstrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] em [recipient_definite].</Combat_RangedFire.rulepack.rulesstrings.3>
-
-	<Combat_RangedFire.rulepack.rulesstrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulepack.rulesstrings.4>
-
-	<Combat_RangedFire.rulepack.rulesstrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] [initiator_possessive] [weapon_label].</Combat_RangedFire.rulepack.rulesstrings.5>
-
-	<Combat_RangedFire.rulepack.rulesstrings.6>shot_a->[shotadverb] [shotverb] uma</Combat_RangedFire.rulepack.rulesstrings.6>
-
-	<Combat_RangedFire.rulepack.rulesstrings.7>shot_a(p=2)->[shotverb] uma</Combat_RangedFire.rulepack.rulesstrings.7>
-
-	<Combat_RangedFire.rulepack.rulesstrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulepack.rulesstrings.8>
-
-	<Combat_RangedFire.rulepack.rulesstrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulepack.rulesstrings.9>
-
-	<Combat_RangedFire.rulepack.rulesstrings.10>shotat->atirou [aburst] em</Combat_RangedFire.rulepack.rulesstrings.10>
-
-	<Combat_RangedFire.rulepack.rulesstrings.11>shotat->[shotadverb] atirou [aburst] em</Combat_RangedFire.rulepack.rulesstrings.11>
-
-	<Combat_RangedFire.rulepack.rulesstrings.12>shotat(p=0.5)->tentou atirar [aburst] em</Combat_RangedFire.rulepack.rulesstrings.12>
-
-	<Combat_RangedFire.rulepack.rulesstrings.13>shotat(p=0.3)->disparou em</Combat_RangedFire.rulepack.rulesstrings.13>
-
-	<Combat_RangedFire.rulepack.rulesstrings.14>shotat(p=0.2)->levou uma [shotadjective] tiro em</Combat_RangedFire.rulepack.rulesstrings.14>
-
-	<Combat_RangedFire.rulepack.rulesstrings.15>shotat->disparou em</Combat_RangedFire.rulepack.rulesstrings.15>
-
-	<Combat_RangedFire.rulepack.rulesstrings.16>shotat->disparou [aburst] [shotadverb] em</Combat_RangedFire.rulepack.rulesstrings.16>
-
-	<Combat_RangedFire.rulepack.rulesstrings.17>shotat(p=0.5)->aponta e dispara [aburst] em</Combat_RangedFire.rulepack.rulesstrings.17>
-
-	<Combat_RangedFire.rulepack.rulesstrings.18>shotat(p=0.3)->abriu fogo em</Combat_RangedFire.rulepack.rulesstrings.18>
-
-	<Combat_RangedFire.rulepack.rulesstrings.19>aburst-></Combat_RangedFire.rulepack.rulesstrings.19>
-
-	<Combat_RangedFire.rulepack.rulesstrings.20>aburst(burst==True,p=3)->a estourar</Combat_RangedFire.rulepack.rulesstrings.20>
-
-	<Combat_RangedFire.rulepack.rulesstrings.21>burst-></Combat_RangedFire.rulepack.rulesstrings.21>
-
-	<Combat_RangedFire.rulepack.rulesstrings.22>burst(burst==True,p=3)->estourar</Combat_RangedFire.rulepack.rulesstrings.22>
-
-	<Combat_RangedFire.rulepack.rulesstrings.23>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.23>
-
-	<Combat_RangedFire.rulepack.rulesstrings.24>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.24>
-
-	<Combat_RangedFire.rulepack.rulesstrings.25>shotverb->disparou</Combat_RangedFire.rulepack.rulesstrings.25>
-
-	<Combat_RangedFire.rulepack.rulesstrings.26>shotadverb->cuidadosamente</Combat_RangedFire.rulepack.rulesstrings.26>
-
-	<Combat_RangedFire.rulepack.rulesstrings.27>shotadverb->rapidamente</Combat_RangedFire.rulepack.rulesstrings.27>
-
-	<Combat_RangedFire.rulepack.rulesstrings.28>shotadverb->precisamente</Combat_RangedFire.rulepack.rulesstrings.28>
-
-	<Combat_RangedFire.rulepack.rulesstrings.29>shotadverb->deliberadamente</Combat_RangedFire.rulepack.rulesstrings.29>
-
-	<Combat_RangedFire.rulepack.rulesstrings.30>shotadverb(initiator_flesh!=Mechanoid)->cautelosamente</Combat_RangedFire.rulepack.rulesstrings.30>
-
-	<Combat_RangedFire.rulepack.rulesstrings.31>shotadverb->precisamente</Combat_RangedFire.rulepack.rulesstrings.31>
-
-	<Combat_RangedFire.rulepack.rulesstrings.32>shotadverb(initiator_flesh!=Mechanoid)->com cautela</Combat_RangedFire.rulepack.rulesstrings.32>
-
-	<Combat_RangedFire.rulepack.rulesstrings.33>shotadjective->cuidado</Combat_RangedFire.rulepack.rulesstrings.33>
-
-	<Combat_RangedFire.rulepack.rulesstrings.34>shotadjective->rápido</Combat_RangedFire.rulepack.rulesstrings.34>
-
-	<Combat_RangedFire.rulepack.rulesstrings.35>shotadjective->deliberado</Combat_RangedFire.rulepack.rulesstrings.35>
-
-	<Combat_RangedFire.rulepack.rulesstrings.36>shotadjective->preciso</Combat_RangedFire.rulepack.rulesstrings.36>
-
-	<Combat_RangedFire.rulepack.rulesstrings.37>shotadjective(initiator_flesh!=Mechanoid)->desconfiado</Combat_RangedFire.rulepack.rulesstrings.37>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.0>logentry->[initiator_definite]s [weapon_projectile_label] [destroyed_past] [recipient_definite]s [destroyed_targets].</Combat_RangedDamage.rulepack.rulesstrings.0>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.1>logentry->[initiator_definite]s [weapon_projectile_label] [destroyed_past] [recipient_definite]s [destroyed_targets] [to] [destroyed_suffix].</Combat_RangedDamage.rulepack.rulesstrings.1>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.2>logentry->[initiator_definite]s [weapon_projectile_label] [destroyed_past] [recipient_definite]s [destroyed_targets] [expertly].</Combat_RangedDamage.rulepack.rulesstrings.2>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.3>logentry(p=2)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite] e [destroyed_past] [recipient_definite]s [destroyed_targets].</Combat_RangedDamage.rulepack.rulesstrings.3>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.4>logentry(p=2)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]s [destroyed_targets].</Combat_RangedDamage.rulepack.rulesstrings.4>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.5>logentry->[recipient_definite]s [destroyed_targets] estava [destroyed_past] de [initiator_definite]s [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.5>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.6>logentry->[recipient_definite]s [destroyed_targets] estava [destroyed_past] de [initiator_definite]s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.6>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.7>logentry->[recipient_definite]s [destroyed_targets] estava [destroyed_past] para dentro [destroyed_suffix] de [initiator_definite]s [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.7>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.8>logentry(recipient_partDestroyed_count==0)->[initiator_definite]s [weapon_projectile_label] [damaged_past] [recipient_definite]s [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.8>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.9>logentry(recipient_partDestroyed_count==0)->[initiator_definite]s [weapon_projectile_label] [damaged_past] [recipient_definite]s [damaged_targets] [expertly].</Combat_RangedDamage.rulepack.rulesstrings.9>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite] e [damaged_past] [recipient_definite]s [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.10>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite], [damaged_present] [recipient_definite]s [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.11>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.12>logentry(recipient_partDestroyed_count==0)->[recipient_definite]s [damaged_targets] estava [damagedverb_past] de [initiator_definite]s [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.12>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.13>logentry(recipient_partDestroyed_count==0)->[recipient_definite]s [damaged_targets] estava [damagedverb_past] de [initiator_definite]s [expert] [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.13>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.14>logentry(p=3)->[initiator_definite]s [weapon_projectile_label] [destroyed_past] [recipient_definite]s [destroyed_targets] e [damaged_past] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.14>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.15>logentry(p=6)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [recipient_definite]s [destroyed_targets] e [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulepack.rulesstrings.15>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.16>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com uma [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.16>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.17>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com uma [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.17>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] e acertar [recipient_definite] com um [weapon_projectile_label].</Combat_RangedDamage.rulepack.rulesstrings.18>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.19>logentry(p=0.4)->[initiator_definite]s [weapon_projectile_label] [missed] [originalTarget_definite] e acertar [recipient_definite].</Combat_RangedDamage.rulepack.rulesstrings.19>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.20>logentry(p=0.2)->[initiator_definite] acertar [recipient_definite] com um [weapon_projectile_label] destinado a [originalTarget_definite].</Combat_RangedDamage.rulepack.rulesstrings.20>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.21>weapon_projectile_label(p=0.05)->tiro</Combat_RangedDamage.rulepack.rulesstrings.21>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.22>destroyed_past->despedaçado</Combat_RangedDamage.rulepack.rulesstrings.22>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.23>destroyed_past->esmagou</Combat_RangedDamage.rulepack.rulesstrings.23>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.24>destroyed_past->obliterado</Combat_RangedDamage.rulepack.rulesstrings.24>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.25>destroyed_past->iniquilado</Combat_RangedDamage.rulepack.rulesstrings.25>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.26>destroyed_past->perfurado</Combat_RangedDamage.rulepack.rulesstrings.26>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.27>destroyed_past->perfurado</Combat_RangedDamage.rulepack.rulesstrings.27>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.28>destroyed_past->perfurado</Combat_RangedDamage.rulepack.rulesstrings.28>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.29>destroyed_present->estilhaçando</Combat_RangedDamage.rulepack.rulesstrings.29>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.30>destroyed_present->esmagando</Combat_RangedDamage.rulepack.rulesstrings.30>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.31>destroyed_present->obliterando</Combat_RangedDamage.rulepack.rulesstrings.31>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.32>destroyed_present->aniquilando</Combat_RangedDamage.rulepack.rulesstrings.32>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.33>destroyed_present->penetrando</Combat_RangedDamage.rulepack.rulesstrings.33>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.34>destroyed_present->perfurando</Combat_RangedDamage.rulepack.rulesstrings.34>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.35>destroyed_present->perfurando</Combat_RangedDamage.rulepack.rulesstrings.35>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.36>destroyed_suffix->peças</Combat_RangedDamage.rulepack.rulesstrings.36>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.37>destroyed_suffix->pedaços</Combat_RangedDamage.rulepack.rulesstrings.37>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.38>destroyed_suffix->uma névoa fina</Combat_RangedDamage.rulepack.rulesstrings.38>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.39>destroyed_suffix->fragmentos</Combat_RangedDamage.rulepack.rulesstrings.39>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.40>destroyed_suffix(p=0.5)->uma bagunça holey</Combat_RangedDamage.rulepack.rulesstrings.40>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.41>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->carne moída</Combat_RangedDamage.rulepack.rulesstrings.41>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.42>damaged_past->feriu</Combat_RangedDamage.rulepack.rulesstrings.42>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.43>damaged_past->feriu</Combat_RangedDamage.rulepack.rulesstrings.43>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.44>damaged_past->perfurou</Combat_RangedDamage.rulepack.rulesstrings.44>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.45>damaged_past->danificou</Combat_RangedDamage.rulepack.rulesstrings.45>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.46>damaged_past->disparou</Combat_RangedDamage.rulepack.rulesstrings.46>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.47>damaged_present->ferindo</Combat_RangedDamage.rulepack.rulesstrings.47>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.48>damaged_present->ferindo</Combat_RangedDamage.rulepack.rulesstrings.48>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.49>damaged_present->perfurando</Combat_RangedDamage.rulepack.rulesstrings.49>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.50>damaged_present->danificando</Combat_RangedDamage.rulepack.rulesstrings.50>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.51>damaged_present->atirando</Combat_RangedDamage.rulepack.rulesstrings.51>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.52>damaged_suffix->de uma forma feia</Combat_RangedDamage.rulepack.rulesstrings.52>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.53>damaged_suffix(recipient_flesh!=Mechanoid)->com sangue visível</Combat_RangedDamage.rulepack.rulesstrings.53>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.54>damaged_suffix(recipient_flesh!=Mechanoid)->com a carne visível</Combat_RangedDamage.rulepack.rulesstrings.54>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.55>to->para</Combat_RangedDamage.rulepack.rulesstrings.55>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.56>to->para dentro</Combat_RangedDamage.rulepack.rulesstrings.56>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.57>missed->perdido</Combat_RangedDamage.rulepack.rulesstrings.57>
-
-	<Combat_RangedDamage.rulepack.rulesstrings.58>missed->estreitamente perdida</Combat_RangedDamage.rulepack.rulesstrings.58>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.0>logentry->O tiro de [initiator_definite] [missed].</Combat_RangedMiss.rulepack.rulesstrings.0>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.1>logentry->[initiator_definite] errou [originalTarget_definite].</Combat_RangedMiss.rulepack.rulesstrings.1>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.2>logentry->[originalTarget_definite] [avoidance], a [weapon_projectile_label] de [initiator_definite] passou [missing].</Combat_RangedMiss.rulepack.rulesstrings.2>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.3>missed(p=4)->se perdeu</Combat_RangedMiss.rulepack.rulesstrings.3>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.4>missed(p=2)->passou bem perto</Combat_RangedMiss.rulepack.rulesstrings.4>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.5>missed(p=2)->passou bem longe</Combat_RangedMiss.rulepack.rulesstrings.5>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.6>missed->passou longe</Combat_RangedMiss.rulepack.rulesstrings.6>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.7>missed->voou pelo ar</Combat_RangedMiss.rulepack.rulesstrings.7>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.8>missed->voou alto pelo ar</Combat_RangedMiss.rulepack.rulesstrings.8>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.9>missed->cravado no chão</Combat_RangedMiss.rulepack.rulesstrings.9>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.10>missed->foi no rumo de [originalTarget_definite] mas errou</Combat_RangedMiss.rulepack.rulesstrings.10>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.11>missed->bateu no chão e de perdeu</Combat_RangedMiss.rulepack.rulesstrings.11>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.12>missed->cavou um buraco no chão</Combat_RangedMiss.rulepack.rulesstrings.12>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.13>missed(p=0.2)->passou a milímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.13>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.14>missed->passou a centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.14>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.15>missed->passou a um metro de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.15>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.16>missed->foi soprado fora do curso</Combat_RangedMiss.rulepack.rulesstrings.16>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.17>missing->se perdeu</Combat_RangedMiss.rulepack.rulesstrings.17>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.18>missing->faltando por uma pequena margem</Combat_RangedMiss.rulepack.rulesstrings.18>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.19>missing->ausente por uma larga margem</Combat_RangedMiss.rulepack.rulesstrings.19>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.20>missing->indo bem</Combat_RangedMiss.rulepack.rulesstrings.20>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.21>missing->voando pelo ar</Combat_RangedMiss.rulepack.rulesstrings.21>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.22>missing->voando alto no ar</Combat_RangedMiss.rulepack.rulesstrings.22>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.23>missing->cavando no chão</Combat_RangedMiss.rulepack.rulesstrings.23>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.24>missing->raspando o chão e se perdeu</Combat_RangedMiss.rulepack.rulesstrings.24>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.25>missing->cavando um torrão do chão</Combat_RangedMiss.rulepack.rulesstrings.25>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.26>missing(p=0.2)->passando milímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.26>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.27>missing->passando a centímetros de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.27>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.28>missing->passando um metro de [originalTarget_definite]</Combat_RangedMiss.rulepack.rulesstrings.28>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.29>missing->soprando fora do curso</Combat_RangedMiss.rulepack.rulesstrings.29>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.30>avoidance(originalTarget_mobile==True)->empurrou de lado no último segundo</Combat_RangedMiss.rulepack.rulesstrings.30>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.31>avoidance(originalTarget_mobile==True)->tropeçou ao tentar escapar</Combat_RangedMiss.rulepack.rulesstrings.31>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.32>avoidance(originalTarget_mobile==True)->se jogou ao chão</Combat_RangedMiss.rulepack.rulesstrings.32>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.33>avoidance(originalTarget_mobile==True,p=0.3)->se escondeu atrás do pedaço de pedra mais próximo</Combat_RangedMiss.rulepack.rulesstrings.33>
-
-	<Combat_RangedMiss.rulepack.rulesstrings.34>avoidance(originalTarget_mobile==True,p=0.3)->saltou atrás do próximo pedaço de capa</Combat_RangedMiss.rulepack.rulesstrings.34>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.0>prefix->O [blast] [fromof] [initiator_definite]s [weapon_projectile_label]</Combat_ExplosionImpact.rulepack.rulesstrings.0>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.1>prefix->O [blast] [fromof] [initiator_definite]s [weapon_label]</Combat_ExplosionImpact.rulepack.rulesstrings.1>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.2>prefix->O [blast] [fromof] [initiator_definite]s [mortarshell]</Combat_ExplosionImpact.rulepack.rulesstrings.2>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.3>prefix->O [blast] [fromof] [initiator_definite]s [weapon_projectile_label]</Combat_ExplosionImpact.rulepack.rulesstrings.3>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.4>prefix->O [blast] [fromof] [initiator_definite]s [weapon_label]</Combat_ExplosionImpact.rulepack.rulesstrings.4>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.5>prefix->O [blast] [fromof] [initiator_definite]s [mortarshell]</Combat_ExplosionImpact.rulepack.rulesstrings.5>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.6>prefix->[initiator_definite]s [blast]</Combat_ExplosionImpact.rulepack.rulesstrings.6>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.7>prefix->[initiator_definite]s [weapon_projectile_label] [blast]</Combat_ExplosionImpact.rulepack.rulesstrings.7>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.8>prefix->[initiator_definite]s [mortarshell] [blast]</Combat_ExplosionImpact.rulepack.rulesstrings.8>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.9>prefix->[initiator_definite]s [weapon_label] [blast]</Combat_ExplosionImpact.rulepack.rulesstrings.9>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.10>prefix->[initiator_definite]s [weapon_projectile_label]</Combat_ExplosionImpact.rulepack.rulesstrings.10>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.11>prefix->[initiator_definite]s [mortarshell]</Combat_ExplosionImpact.rulepack.rulesstrings.11>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.12>prefix->[initiator_definite]s [weapon_label]</Combat_ExplosionImpact.rulepack.rulesstrings.12>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulepack.rulesstrings.13>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.14>logentry->[prefix] [destroyed_past] [recipient_definite]s [destroyed_targets].</Combat_ExplosionImpact.rulepack.rulesstrings.14>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.15>logentry->[prefix] [destroyed_past] [recipient_definite]s [destroyed_targets] [flavortextadverb].</Combat_ExplosionImpact.rulepack.rulesstrings.15>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.16>logentry->[prefix] [flavortextadverb] [destroyed_past] [recipient_definite]s [destroyed_targets].</Combat_ExplosionImpact.rulepack.rulesstrings.16>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.17>logentry->[prefix] [destroyed_past] [recipient_definite]s [destroyed_targets] e [damaged_past] [recipient_possessive] [damaged_targets].</Combat_ExplosionImpact.rulepack.rulesstrings.17>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]s [damaged_targets].</Combat_ExplosionImpact.rulepack.rulesstrings.18>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [recipient_definite]s [damaged_targets] [flavortextadverb].</Combat_ExplosionImpact.rulepack.rulesstrings.19>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite]s [damaged_targets].</Combat_ExplosionImpact.rulepack.rulesstrings.20>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.21>logentry->[recipient_definite] estava [damaged_past] de [initiator_definite].</Combat_ExplosionImpact.rulepack.rulesstrings.21>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.22>logentry->[recipient_definite] estava [damaged_past] [flavortextadverb] de [initiator_definite].</Combat_ExplosionImpact.rulepack.rulesstrings.22>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.23>logentry->[recipient_definite] estava [damaged_past].</Combat_ExplosionImpact.rulepack.rulesstrings.23>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.24>logentry(p=0.001)->[recipient_definite] foi pego em uma explosão.</Combat_ExplosionImpact.rulepack.rulesstrings.24>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.25>logentry(p=0.001)->[recipient_definite] foi atingido por uma explosão.</Combat_ExplosionImpact.rulepack.rulesstrings.25>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.26>blast->explosão</Combat_ExplosionImpact.rulepack.rulesstrings.26>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.27>blast->golpe</Combat_ExplosionImpact.rulepack.rulesstrings.27>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.28>blast->onda de choque</Combat_ExplosionImpact.rulepack.rulesstrings.28>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.29>blast->detonação</Combat_ExplosionImpact.rulepack.rulesstrings.29>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.30>blast->discarga</Combat_ExplosionImpact.rulepack.rulesstrings.30>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.31>blast->impacto</Combat_ExplosionImpact.rulepack.rulesstrings.31>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.32>fromof->a partir de</Combat_ExplosionImpact.rulepack.rulesstrings.32>
-
-	<Combat_ExplosionImpact.rulepack.rulesstrings.33>fromof->de</Combat_ExplosionImpact.rulepack.rulesstrings.33>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.0>r_logentry->[action], [result].</Combat_MeleeIncludes.rulePack.rulesStrings.0>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.1>r_logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==bodypart,p=1)->[INITIATOR_possessive] [adjective_bodypart] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.11>adjective_bodypart->hard</Combat_MeleeIncludes.rulePack.rulesStrings.11>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.12>adjective_bodypart->strong</Combat_MeleeIncludes.rulePack.rulesStrings.12>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.13>adjective_bodypart->powerful</Combat_MeleeIncludes.rulePack.rulesStrings.13>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.14>adjective_bodypart->forceful</Combat_MeleeIncludes.rulePack.rulesStrings.14>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.15>adjective_bodypart->mighty</Combat_MeleeIncludes.rulePack.rulesStrings.15>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.16>adjective_bodypart->rugged</Combat_MeleeIncludes.rulePack.rulesStrings.16>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.17>adjective_bodypart->stout</Combat_MeleeIncludes.rulePack.rulesStrings.17>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.18>adjective_bodypart->sturdy</Combat_MeleeIncludes.rulePack.rulesStrings.18>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.19>adjective_bodypart->solid</Combat_MeleeIncludes.rulePack.rulesStrings.19>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.20>adjective_bodypart->tough</Combat_MeleeIncludes.rulePack.rulesStrings.20>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.21>adjective_bodypart(initiator_flesh==True)->calloused</Combat_MeleeIncludes.rulePack.rulesStrings.21>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.22>adjective_bodypart->firm</Combat_MeleeIncludes.rulePack.rulesStrings.22>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[RECIPIENT_part0_label]</Combat_MeleeIncludes.rulePack.rulesStrings.23>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[RECIPIENT_part0_label] and [RECIPIENT_part1_label]</Combat_MeleeIncludes.rulePack.rulesStrings.24>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[RECIPIENT_part0_label], [RECIPIENT_part1_label], and [RECIPIENT_part2_label]</Combat_MeleeIncludes.rulePack.rulesStrings.25>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.26>targetlist->[RECIPIENT_part0_label], [RECIPIENT_part1_label], [RECIPIENT_part2_label], and [RECIPIENT_part3_label]</Combat_MeleeIncludes.rulePack.rulesStrings.26>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.27>damaged_present(deflected!=True)->wounding</Combat_MeleeIncludes.rulePack.rulesStrings.27>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.28>damaged_present(deflected!=True)->injuring</Combat_MeleeIncludes.rulePack.rulesStrings.28>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.29>destroyed(p=0.5)->destroyed</Combat_MeleeIncludes.rulePack.rulesStrings.29>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.30>destroyed(p=0.5)->demolished</Combat_MeleeIncludes.rulePack.rulesStrings.30>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.31>destroyed(p=0.5)->ruined</Combat_MeleeIncludes.rulePack.rulesStrings.31>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.32>destroyed(p=0.5)->wrecked</Combat_MeleeIncludes.rulePack.rulesStrings.32>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.33>wince(recipient_flesh==Normal)->wince</Combat_MeleeIncludes.rulePack.rulesStrings.33>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.34>wince(recipient_flesh==Normal)->grimace</Combat_MeleeIncludes.rulePack.rulesStrings.34>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.35>wince(recipient_flesh==Normal)->cringe</Combat_MeleeIncludes.rulePack.rulesStrings.35>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.36>wince(recipient_flesh==Normal)->groan</Combat_MeleeIncludes.rulePack.rulesStrings.36>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.37>wince(recipient_flesh!=Mechanoid)->scream</Combat_MeleeIncludes.rulePack.rulesStrings.37>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.38>wince(recipient_flesh!=Mechanoid)->shout</Combat_MeleeIncludes.rulePack.rulesStrings.38>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.39>wince->recoil</Combat_MeleeIncludes.rulePack.rulesStrings.39>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.40>wince->stumble</Combat_MeleeIncludes.rulePack.rulesStrings.40>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.41>painstate->in</Combat_MeleeIncludes.rulePack.rulesStrings.41>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.42>painstate->with</Combat_MeleeIncludes.rulePack.rulesStrings.42>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.43>painstate->from the</Combat_MeleeIncludes.rulePack.rulesStrings.43>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.44>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</Combat_MeleeIncludes.rulePack.rulesStrings.44>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.45>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</Combat_MeleeIncludes.rulePack.rulesStrings.45>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.46>painevent(recipient_flesh==Normal)->with misery</Combat_MeleeIncludes.rulePack.rulesStrings.46>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.47>painevent->from the injury</Combat_MeleeIncludes.rulePack.rulesStrings.47>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.48>painevent->from the wound</Combat_MeleeIncludes.rulePack.rulesStrings.48>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.49>to->to</Combat_MeleeIncludes.rulePack.rulesStrings.49>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.50>to->into</Combat_MeleeIncludes.rulePack.rulesStrings.50>
+
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.0>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.1>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_situation]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.2>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.3>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>adverb_flavortext->painfully</Combat_MeleeDamageIncludes.rulePack.rulesStrings.4>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>adverb_flavortext->brutally</Combat_MeleeDamageIncludes.rulePack.rulesStrings.5>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>adverb_flavortext->horribly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.6>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>adverb_flavortext->agonizingly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.7>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>adverb_flavortext->fiercely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.8>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>adverb_flavortext->ruthlessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.9>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>adverb_flavortext->savagely</Combat_MeleeDamageIncludes.rulePack.rulesStrings.10>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.11>adverb_flavortext->viciously</Combat_MeleeDamageIncludes.rulePack.rulesStrings.11>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.12>adverb_flavortext->mercilessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.12>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.13>adverb_flavortext->heartlessly</Combat_MeleeDamageIncludes.rulePack.rulesStrings.13>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.14>flavortext_situation(recipient_flesh!=Mechanoid)->in an explosion of gore</Combat_MeleeDamageIncludes.rulePack.rulesStrings.14>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.15>flavortext_situation(recipient_flesh==Mechanoid)->in an explosion of scrap</Combat_MeleeDamageIncludes.rulePack.rulesStrings.15>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.16>flavortext_situation->without emotion</Combat_MeleeDamageIncludes.rulePack.rulesStrings.16>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.17>flavortext_situation(p=0.4)->while wearing a blank look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.17>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.18>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a savage look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.18>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.19>flavortext_situation(p=0.2,initiator_flesh==Normal)->while wearing a [AdjectiveBadass] look</Combat_MeleeDamageIncludes.rulePack.rulesStrings.19>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.20>flavortext_situation(p=0.2,initiator_flesh==Normal)->while grimacing</Combat_MeleeDamageIncludes.rulePack.rulesStrings.20>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.21>flavortext_situation(p=0.2,initiator_flesh==Normal)->while laughing</Combat_MeleeDamageIncludes.rulePack.rulesStrings.21>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.22>flavortext_situation(p=0.2,initiator_flesh==Normal)->while smirking</Combat_MeleeDamageIncludes.rulePack.rulesStrings.22>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.23>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.23>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.24>flavortext_consequence->leaving a horrific wound</Combat_MeleeDamageIncludes.rulePack.rulesStrings.24>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.25>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</Combat_MeleeDamageIncludes.rulePack.rulesStrings.25>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings.26>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</Combat_MeleeDamageIncludes.rulePack.rulesStrings.26>
+
+  <Combat_WoundIncludes.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[RECIPIENT_part_destroyed0_label]</Combat_WoundIncludes.rulePack.rulesStrings.0>
+  <Combat_WoundIncludes.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[RECIPIENT_part_destroyed0_label] and [RECIPIENT_part_destroyed1_label]</Combat_WoundIncludes.rulePack.rulesStrings.1>
+  <Combat_WoundIncludes.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[RECIPIENT_part_destroyed0_label], [RECIPIENT_part_destroyed1_label], and [RECIPIENT_part_destroyed2_label]</Combat_WoundIncludes.rulePack.rulesStrings.2>
+  <Combat_WoundIncludes.rulePack.rulesStrings.3>destroyed_targets->[RECIPIENT_part_destroyed0_label], [RECIPIENT_part_destroyed1_label], [RECIPIENT_part_destroyed2_label], and [RECIPIENT_part_destroyed3_label]</Combat_WoundIncludes.rulePack.rulesStrings.3>
+  <Combat_WoundIncludes.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[RECIPIENT_part_damaged0_label]</Combat_WoundIncludes.rulePack.rulesStrings.4>
+  <Combat_WoundIncludes.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[RECIPIENT_part_damaged0_label] and [RECIPIENT_part_damaged1_label]</Combat_WoundIncludes.rulePack.rulesStrings.5>
+  <Combat_WoundIncludes.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[RECIPIENT_part_damaged0_label], [RECIPIENT_part_damaged1_label], and [RECIPIENT_part_damaged2_label]</Combat_WoundIncludes.rulePack.rulesStrings.6>
+  <Combat_WoundIncludes.rulePack.rulesStrings.7>damaged_targets->[RECIPIENT_part_damaged0_label], [RECIPIENT_part_damaged1_label], [RECIPIENT_part_damaged2_label], and [RECIPIENT_part_damaged3_label]</Combat_WoundIncludes.rulePack.rulesStrings.7>
+  <Combat_WoundIncludes.rulePack.rulesStrings.8>expertly->expertly</Combat_WoundIncludes.rulePack.rulesStrings.8>
+  <Combat_WoundIncludes.rulePack.rulesStrings.9>expertly->adeptly</Combat_WoundIncludes.rulePack.rulesStrings.9>
+  <Combat_WoundIncludes.rulePack.rulesStrings.10>expertly->adroitly</Combat_WoundIncludes.rulePack.rulesStrings.10>
+  <Combat_WoundIncludes.rulePack.rulesStrings.11>expertly->deftly</Combat_WoundIncludes.rulePack.rulesStrings.11>
+  <Combat_WoundIncludes.rulePack.rulesStrings.12>expertly->skillfully</Combat_WoundIncludes.rulePack.rulesStrings.12>
+  <Combat_WoundIncludes.rulePack.rulesStrings.13>expertly->slickly</Combat_WoundIncludes.rulePack.rulesStrings.13>
+  <Combat_WoundIncludes.rulePack.rulesStrings.14>expertly->professionally</Combat_WoundIncludes.rulePack.rulesStrings.14>
+  <Combat_WoundIncludes.rulePack.rulesStrings.15>expertly->aptly</Combat_WoundIncludes.rulePack.rulesStrings.15>
+  <Combat_WoundIncludes.rulePack.rulesStrings.16>expertly->dexterously</Combat_WoundIncludes.rulePack.rulesStrings.16>
+  <Combat_WoundIncludes.rulePack.rulesStrings.17>expertly->cleverly</Combat_WoundIncludes.rulePack.rulesStrings.17>
+  <Combat_WoundIncludes.rulePack.rulesStrings.18>expertly->masterfully</Combat_WoundIncludes.rulePack.rulesStrings.18>
+  <Combat_WoundIncludes.rulePack.rulesStrings.19>expertly->artistically</Combat_WoundIncludes.rulePack.rulesStrings.19>
+  <Combat_WoundIncludes.rulePack.rulesStrings.20>expertly->with skill</Combat_WoundIncludes.rulePack.rulesStrings.20>
+  <Combat_WoundIncludes.rulePack.rulesStrings.21>expertly->with impressive experience</Combat_WoundIncludes.rulePack.rulesStrings.21>
+  <Combat_WoundIncludes.rulePack.rulesStrings.22>expertly->with flair</Combat_WoundIncludes.rulePack.rulesStrings.22>
+  <Combat_WoundIncludes.rulePack.rulesStrings.23>expertly->with care</Combat_WoundIncludes.rulePack.rulesStrings.23>
+  <Combat_WoundIncludes.rulePack.rulesStrings.24>expertly->with precision</Combat_WoundIncludes.rulePack.rulesStrings.24>
+  <Combat_WoundIncludes.rulePack.rulesStrings.25>expertly->with proficiency</Combat_WoundIncludes.rulePack.rulesStrings.25>
+  <Combat_WoundIncludes.rulePack.rulesStrings.26>expertly->with strength</Combat_WoundIncludes.rulePack.rulesStrings.26>
+  <Combat_WoundIncludes.rulePack.rulesStrings.27>expertly->with dexterity</Combat_WoundIncludes.rulePack.rulesStrings.27>
+  <Combat_WoundIncludes.rulePack.rulesStrings.28>expertly->with mastery</Combat_WoundIncludes.rulePack.rulesStrings.28>
+  <Combat_WoundIncludes.rulePack.rulesStrings.29>expertly->with artistry</Combat_WoundIncludes.rulePack.rulesStrings.29>
+  <Combat_WoundIncludes.rulePack.rulesStrings.30>expertly->with professionalism</Combat_WoundIncludes.rulePack.rulesStrings.30>
+  <Combat_WoundIncludes.rulePack.rulesStrings.31>expertly->like a virtuoso</Combat_WoundIncludes.rulePack.rulesStrings.31>
+  <Combat_WoundIncludes.rulePack.rulesStrings.32>expertly->like an expert</Combat_WoundIncludes.rulePack.rulesStrings.32>
+  <Combat_WoundIncludes.rulePack.rulesStrings.33>expertly->like a master</Combat_WoundIncludes.rulePack.rulesStrings.33>
+  <Combat_WoundIncludes.rulePack.rulesStrings.34>expertly->like an artist</Combat_WoundIncludes.rulePack.rulesStrings.34>
+  <Combat_WoundIncludes.rulePack.rulesStrings.35>expertly->like a pro</Combat_WoundIncludes.rulePack.rulesStrings.35>
+  <Combat_WoundIncludes.rulePack.rulesStrings.36>expert->expert</Combat_WoundIncludes.rulePack.rulesStrings.36>
+  <Combat_WoundIncludes.rulePack.rulesStrings.37>expert->adept</Combat_WoundIncludes.rulePack.rulesStrings.37>
+  <Combat_WoundIncludes.rulePack.rulesStrings.38>expert->adroit</Combat_WoundIncludes.rulePack.rulesStrings.38>
+  <Combat_WoundIncludes.rulePack.rulesStrings.39>expert->deft</Combat_WoundIncludes.rulePack.rulesStrings.39>
+  <Combat_WoundIncludes.rulePack.rulesStrings.40>expert->skillful</Combat_WoundIncludes.rulePack.rulesStrings.40>
+  <Combat_WoundIncludes.rulePack.rulesStrings.41>expert->slick</Combat_WoundIncludes.rulePack.rulesStrings.41>
+  <Combat_WoundIncludes.rulePack.rulesStrings.42>expert->professional</Combat_WoundIncludes.rulePack.rulesStrings.42>
+  <Combat_WoundIncludes.rulePack.rulesStrings.43>expert->apt</Combat_WoundIncludes.rulePack.rulesStrings.43>
+  <Combat_WoundIncludes.rulePack.rulesStrings.44>expert->dexterous</Combat_WoundIncludes.rulePack.rulesStrings.44>
+  <Combat_WoundIncludes.rulePack.rulesStrings.45>expert->clever</Combat_WoundIncludes.rulePack.rulesStrings.45>
+  <Combat_WoundIncludes.rulePack.rulesStrings.46>expert->masterful</Combat_WoundIncludes.rulePack.rulesStrings.46>
+  <Combat_WoundIncludes.rulePack.rulesStrings.47>expert->artistic</Combat_WoundIncludes.rulePack.rulesStrings.47>
+
+  <Combat_DeflectIncludes.rulePack.rulesStrings.0>scraped_present->glancing</Combat_DeflectIncludes.rulePack.rulesStrings.0>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.1>scraped_present->bouncing</Combat_DeflectIncludes.rulePack.rulesStrings.1>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.2>scraped_present->grazing</Combat_DeflectIncludes.rulePack.rulesStrings.2>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.3>scraped_present->caroming</Combat_DeflectIncludes.rulePack.rulesStrings.3>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.4>scraped_present->skipping</Combat_DeflectIncludes.rulePack.rulesStrings.4>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.5>scraped_present->skating</Combat_DeflectIncludes.rulePack.rulesStrings.5>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.6>scraped_past->glanced</Combat_DeflectIncludes.rulePack.rulesStrings.6>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.7>scraped_past->bounced</Combat_DeflectIncludes.rulePack.rulesStrings.7>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.8>scraped_past->grazed</Combat_DeflectIncludes.rulePack.rulesStrings.8>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.9>scraped_past->caromed</Combat_DeflectIncludes.rulePack.rulesStrings.9>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.10>scraped_past->skipped</Combat_DeflectIncludes.rulePack.rulesStrings.10>
+  <Combat_DeflectIncludes.rulePack.rulesStrings.11>scraped_past->skated</Combat_DeflectIncludes.rulePack.rulesStrings.11>
+
+  <Combat_Hit.rulePack.rulesStrings.0>logentry(p=0.3)->[initiator_nameShortDef] [maneuver_past] [recipient_nameShortDef] no(a) [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.0>
+  <Combat_Hit.rulePack.rulesStrings.1>logentry(p=0.1)->[initiator_nameShortDef] [maneuver_past] [recipient_nameShortDef] no(a) [recipient_part0_label] [flavortextadverb].</Combat_Hit.rulePack.rulesStrings.1>
+  <Combat_Hit.rulePack.rulesStrings.2>logentry(p=0.1)->[initiator_nameShortDef] [maneuver_past] [recipient_nameShortDef] no(a) [recipient_part0_label] [flavortextsituation].</Combat_Hit.rulePack.rulesStrings.2>
+  <Combat_Hit.rulePack.rulesStrings.3>logentry(p=0.1)->[initiator_nameShortDef] [maneuver_past] [recipient_nameShortDef] no(a) [recipient_part0_label], [flavortextconsequence].</Combat_Hit.rulePack.rulesStrings.3>
+  <Combat_Hit.rulePack.rulesStrings.4>logentry(p=0.4)->[initiator_nameShortDef], empunhando seu(sua) [weapon_label] [expertly], [flavortextadverb] [maneuver_past] [recipient_nameShortDef] no(a) [recipient_part0_label].</Combat_Hit.rulePack.rulesStrings.4>
+  <Combat_Hit.rulePack.rulesStrings.5>logentry(p=0.3)->[initiator_nameShortDef] [destroyed_past] [destroyed_targets] de [recipient_nameShortDef].</Combat_Hit.rulePack.rulesStrings.5>
+  <Combat_Hit.rulePack.rulesStrings.6>logentry(p=0.3)->[initiator_nameShortDef] [destroyed_past] [destroyed_targets] de [recipient_nameShortDef] [destroyed_suffix].</Combat_Hit.rulePack.rulesStrings.6>
+  <Combat_Hit.rulePack.rulesStrings.7>logentry(p=0.3)->[initiator_nameShortDef] [destroyed_past] [destroyed_targets] de [recipient_nameShortDef] [expertly].</Combat_Hit.rulePack.rulesStrings.7>
+  <Combat_Hit.rulePack.rulesStrings.8>logentry(p=0.3)->[initiator_nameShortDef] [destroyed_past] [destroyed_targets] de [recipient_nameShortDef] com [implement].</Combat_Hit.rulePack.rulesStrings.8>
+  <Combat_Hit.rulePack.rulesStrings.9>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [recipient_possessive] [destroyed_targets]</Combat_Hit.rulePack.rulesStrings.9>
+  <Combat_Hit.rulePack.rulesStrings.10>result(p=1,recipient_part_destroyed_count==0)->[maneuverresult_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.10>
+  <Combat_Hit.rulePack.rulesStrings.11>result(p=1)->[destroyed_present] [recipient_possessive] [destroyed_targets] e [maneuverresult_present] [recipient_possessive] [damaged_targets]</Combat_Hit.rulePack.rulesStrings.11>
+  <Combat_Hit.rulePack.rulesStrings.12>action(p=0.3)->[initiator_nameShortDef] acertou [recipient_nameShortDef] com um(a) [maneuver_inf] de [implement]</Combat_Hit.rulePack.rulesStrings.12>
+  <Combat_Hit.rulePack.rulesStrings.13>action(p=0.3)->[initiator_nameShortDef] usou [implement] para [maneuver_inf] [recipient_nameShortDef]</Combat_Hit.rulePack.rulesStrings.13>
+  <Combat_Hit.rulePack.rulesStrings.14>action->[initiator_nameShortDef] [maneuver_past] [recipient_nameShortDef] com [implement]</Combat_Hit.rulePack.rulesStrings.14>
+  <Combat_Hit.rulePack.rulesStrings.15>action->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] with [implement]</Combat_Hit.rulePack.rulesStrings.15>
+  <Combat_Hit.rulePack.rulesStrings.16>action(p=0.6)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</Combat_Hit.rulePack.rulesStrings.16>
+
+  <Combat_Deflect.rulePack.rulesStrings.0>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.0>
+  <Combat_Deflect.rulePack.rulesStrings.1>r_logentry(p=0.3)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [RECIPIENT_part0_label] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.1>
+  <Combat_Deflect.rulePack.rulesStrings.2>r_logentry(p=0.3)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [damaged_inf] from [implement] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.2>
+  <Combat_Deflect.rulePack.rulesStrings.3>r_logentry(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.3>
+  <Combat_Deflect.rulePack.rulesStrings.4>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] with [implement] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.4>
+  <Combat_Deflect.rulePack.rulesStrings.5>r_logentry(p=0.6)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] [deflected_result].</Combat_Deflect.rulePack.rulesStrings.5>
+  <Combat_Deflect.rulePack.rulesStrings.6>at-></Combat_Deflect.rulePack.rulesStrings.6>
+  <Combat_Deflect.rulePack.rulesStrings.7>at->at</Combat_Deflect.rulePack.rulesStrings.7>
+  <Combat_Deflect.rulePack.rulesStrings.8>deflected_result-> [adverb_deflected]</Combat_Deflect.rulePack.rulesStrings.8>
+  <Combat_Deflect.rulePack.rulesStrings.9>deflected_result->, [deflected_consequence]</Combat_Deflect.rulePack.rulesStrings.9>
+  <Combat_Deflect.rulePack.rulesStrings.10>adverb_deflected_opt(p=4)-></Combat_Deflect.rulePack.rulesStrings.10>
+  <Combat_Deflect.rulePack.rulesStrings.11>adverb_deflected_opt->[adverb_deflected]</Combat_Deflect.rulePack.rulesStrings.11>
+  <Combat_Deflect.rulePack.rulesStrings.12>adverb_deflected->harmlessly</Combat_Deflect.rulePack.rulesStrings.12>
+  <Combat_Deflect.rulePack.rulesStrings.13>adverb_deflected->uselessly</Combat_Deflect.rulePack.rulesStrings.13>
+  <Combat_Deflect.rulePack.rulesStrings.14>deflected_consequence->but the [TOOL_label] [scraped_past] off [adverb_deflected_opt]</Combat_Deflect.rulePack.rulesStrings.14>
+  <Combat_Deflect.rulePack.rulesStrings.15>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</Combat_Deflect.rulePack.rulesStrings.15>
+  <Combat_Deflect.rulePack.rulesStrings.16>scraped_present->scraping</Combat_Deflect.rulePack.rulesStrings.16>
+  <Combat_Deflect.rulePack.rulesStrings.17>scraped_present->sliding</Combat_Deflect.rulePack.rulesStrings.17>
+  <Combat_Deflect.rulePack.rulesStrings.18>scraped_past->scraped</Combat_Deflect.rulePack.rulesStrings.18>
+  <Combat_Deflect.rulePack.rulesStrings.19>scraped_past->slid</Combat_Deflect.rulePack.rulesStrings.19>
+
+  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[initiator_nameShortDef] [tried] para [maneuver_inf] [recipient_nameShortDef]</Combat_FailIncludes.rulePack.rulesStrings.0>
+  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[initiator_nameShortDef] [tried] para [maneuver_inf] [recipient_nameShortDef] with [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
+  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[initiator_nameShortDef] [tried] para usar [implement] para [maneuver_inf] [recipient_nameShortDef]</Combat_FailIncludes.rulePack.rulesStrings.2>
+  <Combat_FailIncludes.rulePack.rulesStrings.3>action->[initiator_nameShortDef] balançado [initiator_possessive] [weapon_label] em [recipient_nameShortDef]</Combat_FailIncludes.rulePack.rulesStrings.3>
+  <Combat_FailIncludes.rulePack.rulesStrings.4>action(p=0.3)->[initiator_nameShortDef] [genericattackverb] [towardsat] [recipient_nameShortDef] com [implement]</Combat_FailIncludes.rulePack.rulesStrings.4>
+  <Combat_FailIncludes.rulePack.rulesStrings.5>action(p=0.3)->[initiator_nameShortDef] [genericattackverb] [towardsat] [recipient_nameShortDef]</Combat_FailIncludes.rulePack.rulesStrings.5>
+  <Combat_FailIncludes.rulePack.rulesStrings.6>action(p=0.3)->[initiator_nameShortDef] [genericattackverb] com [implement]</Combat_FailIncludes.rulePack.rulesStrings.6>
+  <Combat_FailIncludes.rulePack.rulesStrings.7>towardsat->em direção</Combat_FailIncludes.rulePack.rulesStrings.7>
+  <Combat_FailIncludes.rulePack.rulesStrings.8>towardsat->em</Combat_FailIncludes.rulePack.rulesStrings.8>
+  <Combat_FailIncludes.rulePack.rulesStrings.9>genericattackverb->fustigando</Combat_FailIncludes.rulePack.rulesStrings.9>
+  <Combat_FailIncludes.rulePack.rulesStrings.10>genericattackverb->flagelando</Combat_FailIncludes.rulePack.rulesStrings.10>
+  <Combat_FailIncludes.rulePack.rulesStrings.11>genericattackverb->açoitando</Combat_FailIncludes.rulePack.rulesStrings.11>
+  <Combat_FailIncludes.rulePack.rulesStrings.12>tried->tentou</Combat_FailIncludes.rulePack.rulesStrings.12>
+  <Combat_FailIncludes.rulePack.rulesStrings.13>tried->intentou</Combat_FailIncludes.rulePack.rulesStrings.13>
+
+  <Combat_Miss.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_nameShortDef] evitando [weapon_label] de [initiator_nameShortDef]  [maneuver_inf].</Combat_Miss.rulePack.rulesStrings.0>
+  <Combat_Miss.rulePack.rulesStrings.1>logentry(p=0.2)->[initiator_nameShortDef] missed [recipient_nameShortDef] com um(a) [maneuver_inf] de [implement].</Combat_Miss.rulePack.rulesStrings.1>
+  <Combat_Miss.rulePack.rulesStrings.2>logentry(p=0.2)->[initiator_nameShortDef] [failtype] enquanto tentava [maneuver_inf] [recipient_nameShortDef] com [implement].</Combat_Miss.rulePack.rulesStrings.2>
+  <Combat_Miss.rulePack.rulesStrings.3>logentry(p=0.2)->[initiator_nameShortDef] [failtype] enquanto tentava [maneuver_inf] [recipient_nameShortDef].</Combat_Miss.rulePack.rulesStrings.3>
+  <Combat_Miss.rulePack.rulesStrings.4>logentry(p=0.2)->[initiator_nameShortDef] [failtype].</Combat_Miss.rulePack.rulesStrings.4>
+  <Combat_Miss.rulePack.rulesStrings.5>failtype->tropeçou</Combat_Miss.rulePack.rulesStrings.5>
+  <Combat_Miss.rulePack.rulesStrings.6>failtype->trambecou</Combat_Miss.rulePack.rulesStrings.6>
+  <Combat_Miss.rulePack.rulesStrings.7>failtype->cambaleou</Combat_Miss.rulePack.rulesStrings.7>
+  <Combat_Miss.rulePack.rulesStrings.8>failtype->debateu</Combat_Miss.rulePack.rulesStrings.8>
+  <Combat_Miss.rulePack.rulesStrings.9>failtype->errou</Combat_Miss.rulePack.rulesStrings.9>
+  <Combat_Miss.rulePack.rulesStrings.10>result->mas errou</Combat_Miss.rulePack.rulesStrings.10>
+  <Combat_Miss.rulePack.rulesStrings.11>result->mas atingiu apenas o ar</Combat_Miss.rulePack.rulesStrings.11>
+  <Combat_Miss.rulePack.rulesStrings.12>result->mas o balanço passou longe</Combat_Miss.rulePack.rulesStrings.12>
+  <Combat_Miss.rulePack.rulesStrings.13>result->mas tropeçou no último segundo</Combat_Miss.rulePack.rulesStrings.13>
+  <Combat_Miss.rulePack.rulesStrings.14>result->mas hesitou no último segundo</Combat_Miss.rulePack.rulesStrings.14>
+
+  <Combat_Dodge.rulePack.rulesStrings.0>logentry(p=0.2)->[recipient_nameShortDef] esquivou [maneuver_inf] de [initiator_nameShortDef] de [implement].</Combat_Dodge.rulePack.rulesStrings.0>
+  <Combat_Dodge.rulePack.rulesStrings.1>logentry(p=0.2)->[recipient_nameShortDef] esquivou [maneuver_inf] de [initiator_nameShortDef].</Combat_Dodge.rulePack.rulesStrings.1>
+  <Combat_Dodge.rulePack.rulesStrings.2>result->mas [recipient_nameShortDef] saltou para fora do caminho</Combat_Dodge.rulePack.rulesStrings.2>
+  <Combat_Dodge.rulePack.rulesStrings.3>result->mas foi enganado(a) pela estratégia de [recipient_nameShortDef]</Combat_Dodge.rulePack.rulesStrings.3>
+  <Combat_Dodge.rulePack.rulesStrings.4>result->mas o ataque foi habilmente evitado</Combat_Dodge.rulePack.rulesStrings.4>
+
+  <Combat_RangedFire.rulePack.rulesStrings.0>logentry->[initiator_definite] [shotat] [recipient_definite] com seu(sua) [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.0>
+  <Combat_RangedFire.rulePack.rulesStrings.1>logentry->[initiator_definite] [shot] seu(sua) [weapon_label] em [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.1>
+  <Combat_RangedFire.rulePack.rulesStrings.2>logentry->[initiator_definite] [shotat] [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.2>
+  <Combat_RangedFire.rulePack.rulesStrings.3>logentry->[initiator_definite] [shot_a] [weapon_projectile_label] [burst] em [recipient_definite].</Combat_RangedFire.rulePack.rulesStrings.3>
+  <Combat_RangedFire.rulePack.rulesStrings.4>logentry(recipient_missing==True)->[initiator_definite] [shot_a] [weapon_projectile_label].</Combat_RangedFire.rulePack.rulesStrings.4>
+  <Combat_RangedFire.rulePack.rulesStrings.5>logentry(recipient_missing==True)->[initiator_definite] [shot] seu(sua) [weapon_label].</Combat_RangedFire.rulePack.rulesStrings.5>
+  <Combat_RangedFire.rulePack.rulesStrings.6>shot_a->[shotadverb] [shotverb] um(a)</Combat_RangedFire.rulePack.rulesStrings.6>
+  <Combat_RangedFire.rulePack.rulesStrings.7>shot_a(p=2)->[shotverb] um(a)</Combat_RangedFire.rulePack.rulesStrings.7>
+  <Combat_RangedFire.rulePack.rulesStrings.8>shot(p=2)->[shotverb]</Combat_RangedFire.rulePack.rulesStrings.8>
+  <Combat_RangedFire.rulePack.rulesStrings.9>shot->[shotadverb] [shotverb]</Combat_RangedFire.rulePack.rulesStrings.9>
+  <Combat_RangedFire.rulePack.rulesStrings.10>shotat->atirar [aburst] em</Combat_RangedFire.rulePack.rulesStrings.10>
+  <Combat_RangedFire.rulePack.rulesStrings.11>shotat->[shotadverb] atirar [aburst] em</Combat_RangedFire.rulePack.rulesStrings.11>
+  <Combat_RangedFire.rulePack.rulesStrings.12>shotat(p=0.5)->tentou atirar [aburst] em</Combat_RangedFire.rulePack.rulesStrings.12>
+  <Combat_RangedFire.rulePack.rulesStrings.13>shotat(p=0.3)->tomou um tiro em</Combat_RangedFire.rulePack.rulesStrings.13>
+  <Combat_RangedFire.rulePack.rulesStrings.14>shotat(p=0.2)->tomou um(a) [shotadjective] tiro em</Combat_RangedFire.rulePack.rulesStrings.14>
+  <Combat_RangedFire.rulePack.rulesStrings.15>shotat->disparou [aburst] em</Combat_RangedFire.rulePack.rulesStrings.15>
+  <Combat_RangedFire.rulePack.rulesStrings.16>shotat->disparou [aburst] [shotadverb] em</Combat_RangedFire.rulePack.rulesStrings.16>
+  <Combat_RangedFire.rulePack.rulesStrings.17>shotat(p=0.5)->apontou e disparou [aburst] em</Combat_RangedFire.rulePack.rulesStrings.17>
+  <Combat_RangedFire.rulePack.rulesStrings.18>shotat(p=0.3)->abriu fogo em</Combat_RangedFire.rulePack.rulesStrings.18>
+  <Combat_RangedFire.rulePack.rulesStrings.19>aburst-></Combat_RangedFire.rulePack.rulesStrings.19>
+  <Combat_RangedFire.rulePack.rulesStrings.20>aburst(burst==True,p=3)->uma rajada</Combat_RangedFire.rulePack.rulesStrings.20>
+  <Combat_RangedFire.rulePack.rulesStrings.21>burst-></Combat_RangedFire.rulePack.rulesStrings.21>
+  <Combat_RangedFire.rulePack.rulesStrings.22>burst(burst==True,p=3)->rajada</Combat_RangedFire.rulePack.rulesStrings.22>
+  <Combat_RangedFire.rulePack.rulesStrings.23>shotverb->atirou</Combat_RangedFire.rulePack.rulesStrings.23>
+  <Combat_RangedFire.rulePack.rulesStrings.24>shotverb->disparou</Combat_RangedFire.rulePack.rulesStrings.24>
+  <Combat_RangedFire.rulePack.rulesStrings.25>shotverb->descarregou</Combat_RangedFire.rulePack.rulesStrings.25>
+  <Combat_RangedFire.rulePack.rulesStrings.26>shotadverb->cautelosamente</Combat_RangedFire.rulePack.rulesStrings.26>
+  <Combat_RangedFire.rulePack.rulesStrings.27>shotadverb->rapidamente</Combat_RangedFire.rulePack.rulesStrings.27>
+  <Combat_RangedFire.rulePack.rulesStrings.28>shotadverb->precisamente</Combat_RangedFire.rulePack.rulesStrings.28>
+  <Combat_RangedFire.rulePack.rulesStrings.29>shotadverb->deliberadamente</Combat_RangedFire.rulePack.rulesStrings.29>
+  <Combat_RangedFire.rulePack.rulesStrings.30>shotadverb->cuidadosamente</Combat_RangedFire.rulePack.rulesStrings.30>
+  <Combat_RangedFire.rulePack.rulesStrings.31>shotadverb->precisamente</Combat_RangedFire.rulePack.rulesStrings.31>
+  <Combat_RangedFire.rulePack.rulesStrings.32>shotadverb->cautelosamente</Combat_RangedFire.rulePack.rulesStrings.32>
+  <Combat_RangedFire.rulePack.rulesStrings.33>shotadjective->cuidadoso</Combat_RangedFire.rulePack.rulesStrings.33>
+  <Combat_RangedFire.rulePack.rulesStrings.34>shotadjective->rápido</Combat_RangedFire.rulePack.rulesStrings.34>
+  <Combat_RangedFire.rulePack.rulesStrings.35>shotadjective->deliberado</Combat_RangedFire.rulePack.rulesStrings.35>
+  <Combat_RangedFire.rulePack.rulesStrings.36>shotadjective->preciso</Combat_RangedFire.rulePack.rulesStrings.36>
+  <Combat_RangedFire.rulePack.rulesStrings.37>shotadjective->cauteloso</Combat_RangedFire.rulePack.rulesStrings.37>
+
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</Combat_RangedFire_Thrown.rulePack.rulesStrings.0>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.1>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</Combat_RangedFire_Thrown.rulePack.rulesStrings.1>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.2>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label].</Combat_RangedFire_Thrown.rulePack.rulesStrings.2>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.3>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label].</Combat_RangedFire_Thrown.rulePack.rulesStrings.3>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.4>threw_a->[adverb_threw] [verb_threw] a</Combat_RangedFire_Thrown.rulePack.rulesStrings.4>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.5>threw_a(p=2)->[verb_threw] a</Combat_RangedFire_Thrown.rulePack.rulesStrings.5>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.6>threw(p=2)->[verb_threw]</Combat_RangedFire_Thrown.rulePack.rulesStrings.6>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.7>threw->[adverb_threw] [verb_threw]</Combat_RangedFire_Thrown.rulePack.rulesStrings.7>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.8>verb_threw->threw</Combat_RangedFire_Thrown.rulePack.rulesStrings.8>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.9>verb_threw->flung</Combat_RangedFire_Thrown.rulePack.rulesStrings.9>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.10>verb_threw->launched</Combat_RangedFire_Thrown.rulePack.rulesStrings.10>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.11>adverb_threw->carefully</Combat_RangedFire_Thrown.rulePack.rulesStrings.11>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.12>adverb_threw->quickly</Combat_RangedFire_Thrown.rulePack.rulesStrings.12>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.13>adverb_threw->precisely</Combat_RangedFire_Thrown.rulePack.rulesStrings.13>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.14>adverb_threw->deliberately</Combat_RangedFire_Thrown.rulePack.rulesStrings.14>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.15>adverb_threw(initiator_flesh!=Mechanoid)->gingerly</Combat_RangedFire_Thrown.rulePack.rulesStrings.15>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.16>adverb_threw->precisely</Combat_RangedFire_Thrown.rulePack.rulesStrings.16>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.17>adverb_threw(initiator_flesh!=Mechanoid)->warily</Combat_RangedFire_Thrown.rulePack.rulesStrings.17>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.18>adjective_threw->careful</Combat_RangedFire_Thrown.rulePack.rulesStrings.18>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.19>adjective_threw->quick</Combat_RangedFire_Thrown.rulePack.rulesStrings.19>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.20>adjective_threw->deliberate</Combat_RangedFire_Thrown.rulePack.rulesStrings.20>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.21>adjective_threw->precise</Combat_RangedFire_Thrown.rulePack.rulesStrings.21>
+  <Combat_RangedFire_Thrown.rulePack.rulesStrings.22>adjective_threw(initiator_flesh!=Mechanoid)->wary</Combat_RangedFire_Thrown.rulePack.rulesStrings.22>
+
+  <Combat_RangedDamage.rulePack.rulesStrings.0>logentry->[weapon_projectile_label] de [initiator_definite] [destroyed_past] [destroyed_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.0>
+  <Combat_RangedDamage.rulePack.rulesStrings.1>logentry->[weapon_projectile_label] de [initiator_definite] [destroyed_past] [destroyed_targets] de [recipient_definite] [to] [destroyed_suffix].</Combat_RangedDamage.rulePack.rulesStrings.1>
+  <Combat_RangedDamage.rulePack.rulesStrings.2>logentry->[weapon_projectile_label] de [initiator_definite] [destroyed_past] [destroyed_targets] de [recipient_definite] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.2>
+  <Combat_RangedDamage.rulePack.rulesStrings.3>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite] e [destroyed_past] [destroyed_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.3>
+  <Combat_RangedDamage.rulePack.rulesStrings.4>logentry(p=2)->[initiator_definite]'s [weapon_projectile_label] [missed] [originalTarget_definite], [destroyed_present] [destroyed_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.4>
+  <Combat_RangedDamage.rulePack.rulesStrings.5>logentry->[destroyed_targets] de [recipient_definite] foi [destroyed_past] por [weapon_projectile_label] de [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.5>
+  <Combat_RangedDamage.rulePack.rulesStrings.6>logentry->[destroyed_targets] de [recipient_definite] foi [destroyed_past] por [expert] de [initiator_definite][weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.6>
+  <Combat_RangedDamage.rulePack.rulesStrings.7>logentry->[destroyed_targets] de [recipient_definite] foi [destroyed_past] em [destroyed_suffix] por [initiator_definite]'s [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.7>
+  <Combat_RangedDamage.rulePack.rulesStrings.8>logentry(recipient_partDestroyed_count==0)->[weapon_projectile_label] de [initiator_definite] [damaged_past] [damaged_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.8>
+  <Combat_RangedDamage.rulePack.rulesStrings.9>logentry(recipient_partDestroyed_count==0)->[weapon_projectile_label] de [initiator_definite] [damaged_past] [damaged_targets] de [recipient_definite] [expertly].</Combat_RangedDamage.rulePack.rulesStrings.9>
+  <Combat_RangedDamage.rulePack.rulesStrings.10>logentry(recipient_partDestroyed_count==0,p=2)->[weapon_projectile_label] de [initiator_definite] [missed] [originalTarget_definite] e [damaged_past] [damaged_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.10>
+  <Combat_RangedDamage.rulePack.rulesStrings.11>logentry(recipient_partDestroyed_count==0,p=2)->[weapon_projectile_label] de [initiator_definite] [missed] [originalTarget_definite], [damaged_present] [damaged_targets] de [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.11>
+  <Combat_RangedDamage.rulePack.rulesStrings.12>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] foi [damagedverb_past] por [weapon_projectile_label] de [initiator_definite].</Combat_RangedDamage.rulePack.rulesStrings.12>
+  <Combat_RangedDamage.rulePack.rulesStrings.13>logentry(recipient_partDestroyed_count==0)->[recipient_definite]'s [damaged_targets] foi [damagedverb_past] por [expert] de [initiator_definite] [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.13>
+  <Combat_RangedDamage.rulePack.rulesStrings.14>logentry(p=3)->[weapon_projectile_label] de [initiator_definite] [destroyed_past] [destroyed_targets] de [recipient_definite] e [damaged_past] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.14>
+  <Combat_RangedDamage.rulePack.rulesStrings.15>logentry(p=6)->[weapon_projectile_label] de [initiator_definite] [missed] [originalTarget_definite], [destroyed_present] [destroyed_targets] de [recipient_definite] e [damaged_present] [recipient_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
+  <Combat_RangedDamage.rulePack.rulesStrings.16>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com um(a) [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
+  <Combat_RangedDamage.rulePack.rulesStrings.17>logentry(p=0.2)->[weapon_projectile_label] de [initiator_definite] acertou [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
+  <Combat_RangedDamage.rulePack.rulesStrings.18>logentry(p=0.4)->[initiator_definite] [missed] [originalTarget_definite] e acertou [recipient_definite] com um(a) [weapon_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
+  <Combat_RangedDamage.rulePack.rulesStrings.19>logentry(p=0.4)->[weapon_projectile_label] de [initiator_definite] [missed] [originalTarget_definite] e acertou [recipient_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
+  <Combat_RangedDamage.rulePack.rulesStrings.20>logentry(p=0.2)->[initiator_definite] acertou [recipient_definite] com um(a) [weapon_projectile_label] destinado a [originalTarget_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
+  <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->tiro</Combat_RangedDamage.rulePack.rulesStrings.21>
+  <Combat_RangedDamage.rulePack.rulesStrings.22>destroyed_past->despedaçado(a)</Combat_RangedDamage.rulePack.rulesStrings.22>
+  <Combat_RangedDamage.rulePack.rulesStrings.23>destroyed_past->esmagado(a)</Combat_RangedDamage.rulePack.rulesStrings.23>
+  <Combat_RangedDamage.rulePack.rulesStrings.24>destroyed_past->obliterado(a)</Combat_RangedDamage.rulePack.rulesStrings.24>
+  <Combat_RangedDamage.rulePack.rulesStrings.25>destroyed_past->aniquilado(a)</Combat_RangedDamage.rulePack.rulesStrings.25>
+  <Combat_RangedDamage.rulePack.rulesStrings.26>destroyed_past->furado(a)</Combat_RangedDamage.rulePack.rulesStrings.26>
+  <Combat_RangedDamage.rulePack.rulesStrings.27>destroyed_past->perfurado(a)</Combat_RangedDamage.rulePack.rulesStrings.27>
+  <Combat_RangedDamage.rulePack.rulesStrings.28>destroyed_past->puncionado(a)</Combat_RangedDamage.rulePack.rulesStrings.28>
+  <Combat_RangedDamage.rulePack.rulesStrings.29>destroyed_present->despedaçado</Combat_RangedDamage.rulePack.rulesStrings.29>
+  <Combat_RangedDamage.rulePack.rulesStrings.30>destroyed_present->esmagando</Combat_RangedDamage.rulePack.rulesStrings.30>
+  <Combat_RangedDamage.rulePack.rulesStrings.31>destroyed_present->obliterando</Combat_RangedDamage.rulePack.rulesStrings.31>
+  <Combat_RangedDamage.rulePack.rulesStrings.32>destroyed_present->aniquilando</Combat_RangedDamage.rulePack.rulesStrings.32>
+  <Combat_RangedDamage.rulePack.rulesStrings.33>destroyed_present->furando</Combat_RangedDamage.rulePack.rulesStrings.33>
+  <Combat_RangedDamage.rulePack.rulesStrings.34>destroyed_present->perfurando</Combat_RangedDamage.rulePack.rulesStrings.34>
+  <Combat_RangedDamage.rulePack.rulesStrings.35>destroyed_present->puncionando</Combat_RangedDamage.rulePack.rulesStrings.35>
+  <Combat_RangedDamage.rulePack.rulesStrings.36>destroyed_suffix->pedaços</Combat_RangedDamage.rulePack.rulesStrings.36>
+  <Combat_RangedDamage.rulePack.rulesStrings.37>destroyed_suffix->cacos</Combat_RangedDamage.rulePack.rulesStrings.37>
+  <Combat_RangedDamage.rulePack.rulesStrings.38>destroyed_suffix->uma névoa fina</Combat_RangedDamage.rulePack.rulesStrings.38>
+  <Combat_RangedDamage.rulePack.rulesStrings.39>destroyed_suffix->fragmentos</Combat_RangedDamage.rulePack.rulesStrings.39>
+  <Combat_RangedDamage.rulePack.rulesStrings.40>destroyed_suffix(p=0.5)->uma bagunça cheia de buracos</Combat_RangedDamage.rulePack.rulesStrings.40>
+  <Combat_RangedDamage.rulePack.rulesStrings.41>destroyed_suffix(p=0.2)->carne moída</Combat_RangedDamage.rulePack.rulesStrings.41>
+  <Combat_RangedDamage.rulePack.rulesStrings.42>damaged_past->ferido(a)</Combat_RangedDamage.rulePack.rulesStrings.42>
+  <Combat_RangedDamage.rulePack.rulesStrings.43>damaged_past->machucado(a)</Combat_RangedDamage.rulePack.rulesStrings.43>
+  <Combat_RangedDamage.rulePack.rulesStrings.44>damaged_past->perfurado(a)</Combat_RangedDamage.rulePack.rulesStrings.44>
+  <Combat_RangedDamage.rulePack.rulesStrings.45>damaged_past->danificado(a)</Combat_RangedDamage.rulePack.rulesStrings.45>
+  <Combat_RangedDamage.rulePack.rulesStrings.46>damaged_past->tiro</Combat_RangedDamage.rulePack.rulesStrings.46>
+  <Combat_RangedDamage.rulePack.rulesStrings.47>damaged_present->ferindo</Combat_RangedDamage.rulePack.rulesStrings.47>
+  <Combat_RangedDamage.rulePack.rulesStrings.48>damaged_present->machucando</Combat_RangedDamage.rulePack.rulesStrings.48>
+  <Combat_RangedDamage.rulePack.rulesStrings.49>damaged_present->perfurando</Combat_RangedDamage.rulePack.rulesStrings.49>
+  <Combat_RangedDamage.rulePack.rulesStrings.50>damaged_present->danificando</Combat_RangedDamage.rulePack.rulesStrings.50>
+  <Combat_RangedDamage.rulePack.rulesStrings.51>damaged_present->atirando</Combat_RangedDamage.rulePack.rulesStrings.51>
+  <Combat_RangedDamage.rulePack.rulesStrings.52>damaged_suffix->de uma forma feia</Combat_RangedDamage.rulePack.rulesStrings.52>
+  <Combat_RangedDamage.rulePack.rulesStrings.53>damaged_suffix->com sangue visível</Combat_RangedDamage.rulePack.rulesStrings.53>
+  <Combat_RangedDamage.rulePack.rulesStrings.54>damaged_suffix->com a carne visível</Combat_RangedDamage.rulePack.rulesStrings.54>
+  <Combat_RangedDamage.rulePack.rulesStrings.55>to->para</Combat_RangedDamage.rulePack.rulesStrings.55>
+  <Combat_RangedDamage.rulePack.rulesStrings.56>to->em</Combat_RangedDamage.rulePack.rulesStrings.56>
+  <Combat_RangedDamage.rulePack.rulesStrings.57>missed->errando</Combat_RangedDamage.rulePack.rulesStrings.57>
+  <Combat_RangedDamage.rulePack.rulesStrings.58>missed->errando por pouco</Combat_RangedDamage.rulePack.rulesStrings.58>
+
+  <Combat_RangedDeflect.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.0>
+  <Combat_RangedDeflect.rulePack.rulesStrings.1>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.1>
+  <Combat_RangedDeflect.rulePack.rulesStrings.2>r_logentry->[RECIPIENT_definite][damaged_target_possessive_opt] was [damaged_past] by [INITIATOR_definite]'s [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.2>
+  <Combat_RangedDeflect.rulePack.rulesStrings.3>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.3>
+  <Combat_RangedDeflect.rulePack.rulesStrings.4>r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.4>
+  <Combat_RangedDeflect.rulePack.rulesStrings.5>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.5>
+  <Combat_RangedDeflect.rulePack.rulesStrings.6>r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.6>
+  <Combat_RangedDeflect.rulePack.rulesStrings.7>r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite][damaged_target_possessive_opt] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite] [deflected_result].</Combat_RangedDeflect.rulePack.rulesStrings.7>
+  <Combat_RangedDeflect.rulePack.rulesStrings.8>weapon_projectile_label(p=0.05)->shot</Combat_RangedDeflect.rulePack.rulesStrings.8>
+  <Combat_RangedDeflect.rulePack.rulesStrings.9>damaged_target_possessive_opt-></Combat_RangedDeflect.rulePack.rulesStrings.9>
+  <Combat_RangedDeflect.rulePack.rulesStrings.10>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->'s [RECIPIENT_part_damaged0_label]</Combat_RangedDeflect.rulePack.rulesStrings.10>
+  <Combat_RangedDeflect.rulePack.rulesStrings.11>deflected_result-> [adverb_deflected]</Combat_RangedDeflect.rulePack.rulesStrings.11>
+  <Combat_RangedDeflect.rulePack.rulesStrings.12>deflected_result->, [deflected_consequence]</Combat_RangedDeflect.rulePack.rulesStrings.12>
+  <Combat_RangedDeflect.rulePack.rulesStrings.13>adverb_deflected_opt(p=4)-></Combat_RangedDeflect.rulePack.rulesStrings.13>
+  <Combat_RangedDeflect.rulePack.rulesStrings.14>adverb_deflected_opt->[adverb_deflected]</Combat_RangedDeflect.rulePack.rulesStrings.14>
+  <Combat_RangedDeflect.rulePack.rulesStrings.15>adverb_deflected->harmlessly</Combat_RangedDeflect.rulePack.rulesStrings.15>
+  <Combat_RangedDeflect.rulePack.rulesStrings.16>adverb_deflected->uselessly</Combat_RangedDeflect.rulePack.rulesStrings.16>
+  <Combat_RangedDeflect.rulePack.rulesStrings.17>deflected_consequence->but it [scraped_past] off [adverb_deflected_opt]</Combat_RangedDeflect.rulePack.rulesStrings.17>
+  <Combat_RangedDeflect.rulePack.rulesStrings.18>deflected_consequence->[scraped_present] off [RECIPIENT_possessive] armor [adverb_deflected_opt]</Combat_RangedDeflect.rulePack.rulesStrings.18>
+  <Combat_RangedDeflect.rulePack.rulesStrings.19>scraped_past->ricocheted</Combat_RangedDeflect.rulePack.rulesStrings.19>
+  <Combat_RangedDeflect.rulePack.rulesStrings.20>scraped_present->ricocheting</Combat_RangedDeflect.rulePack.rulesStrings.20>
+  <Combat_RangedDeflect.rulePack.rulesStrings.21>missed->missed</Combat_RangedDeflect.rulePack.rulesStrings.21>
+  <Combat_RangedDeflect.rulePack.rulesStrings.22>missed->narrowly missed</Combat_RangedDeflect.rulePack.rulesStrings.22>
+
+  <Combat_RangedMiss.rulePack.rulesStrings.0>logentry->[weapon_projectile_label] de [initiator_definite] [missed].</Combat_RangedMiss.rulePack.rulesStrings.0>
+  <Combat_RangedMiss.rulePack.rulesStrings.1>logentry->[initiator_definite] perdeu [originalTarget_definite].</Combat_RangedMiss.rulePack.rulesStrings.1>
+  <Combat_RangedMiss.rulePack.rulesStrings.2>logentry->[originalTarget_definite] [avoidance], [weapon_projectile_label] de [initiator_definite] [missing].</Combat_RangedMiss.rulePack.rulesStrings.2>
+  <Combat_RangedMiss.rulePack.rulesStrings.3>missed(p=4)->errando</Combat_RangedMiss.rulePack.rulesStrings.3>
+  <Combat_RangedMiss.rulePack.rulesStrings.4>missed(p=2)->errando por uma pequena margem</Combat_RangedMiss.rulePack.rulesStrings.4>
+  <Combat_RangedMiss.rulePack.rulesStrings.5>missed(p=2)->errando por uma ampla margem</Combat_RangedMiss.rulePack.rulesStrings.5>
+  <Combat_RangedMiss.rulePack.rulesStrings.6>missed->indo amplo(a)</Combat_RangedMiss.rulePack.rulesStrings.6>
+  <Combat_RangedMiss.rulePack.rulesStrings.7>missed->voando no ar</Combat_RangedMiss.rulePack.rulesStrings.7>
+  <Combat_RangedMiss.rulePack.rulesStrings.8>missed->voando alto no ar</Combat_RangedMiss.rulePack.rulesStrings.8>
+  <Combat_RangedMiss.rulePack.rulesStrings.9>missed->cavando no chão</Combat_RangedMiss.rulePack.rulesStrings.9>
+  <Combat_RangedMiss.rulePack.rulesStrings.10>missed->ricochetando o cover de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.10>
+  <Combat_RangedMiss.rulePack.rulesStrings.11>missed->pulando no chão e se perdendo</Combat_RangedMiss.rulePack.rulesStrings.11>
+  <Combat_RangedMiss.rulePack.rulesStrings.12>missed->cavando um buraco no chão</Combat_RangedMiss.rulePack.rulesStrings.12>
+  <Combat_RangedMiss.rulePack.rulesStrings.13>missed(p=0.2)->passados dentro de milímetros de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.13>
+  <Combat_RangedMiss.rulePack.rulesStrings.14>missed->passando dentro de centimetros de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.14>
+  <Combat_RangedMiss.rulePack.rulesStrings.15>missed->passando dentro de um metro de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.15>
+  <Combat_RangedMiss.rulePack.rulesStrings.16>missed->estava soprando claro</Combat_RangedMiss.rulePack.rulesStrings.16>
+  <Combat_RangedMiss.rulePack.rulesStrings.17>missing->errando</Combat_RangedMiss.rulePack.rulesStrings.17>
+  <Combat_RangedMiss.rulePack.rulesStrings.18>missing->errando por uma pequena margem</Combat_RangedMiss.rulePack.rulesStrings.18>
+  <Combat_RangedMiss.rulePack.rulesStrings.19>missing->errando por uma ampla margem</Combat_RangedMiss.rulePack.rulesStrings.19>
+  <Combat_RangedMiss.rulePack.rulesStrings.20>missing->indo amplo(a)</Combat_RangedMiss.rulePack.rulesStrings.20>
+  <Combat_RangedMiss.rulePack.rulesStrings.21>missing->voando no ar</Combat_RangedMiss.rulePack.rulesStrings.21>
+  <Combat_RangedMiss.rulePack.rulesStrings.22>missing->voando alto no ar</Combat_RangedMiss.rulePack.rulesStrings.22>
+  <Combat_RangedMiss.rulePack.rulesStrings.23>missing->cavando no chão</Combat_RangedMiss.rulePack.rulesStrings.23>
+  <Combat_RangedMiss.rulePack.rulesStrings.24>missing->saltando no chão e se perdendo</Combat_RangedMiss.rulePack.rulesStrings.24>
+  <Combat_RangedMiss.rulePack.rulesStrings.25>missing->cavando um buraco no chão</Combat_RangedMiss.rulePack.rulesStrings.25>
+  <Combat_RangedMiss.rulePack.rulesStrings.26>missing(p=0.2)->passando dentro de milímetros de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.26>
+  <Combat_RangedMiss.rulePack.rulesStrings.27>missing->passando dentro de centimetros de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.27>
+  <Combat_RangedMiss.rulePack.rulesStrings.28>missing->passando dentro de um metro de [originalTarget_definite]</Combat_RangedMiss.rulePack.rulesStrings.28>
+  <Combat_RangedMiss.rulePack.rulesStrings.29>missing->soprando claro</Combat_RangedMiss.rulePack.rulesStrings.29>
+  <Combat_RangedMiss.rulePack.rulesStrings.30>avoidance->se afastastando no último segundo</Combat_RangedMiss.rulePack.rulesStrings.30>
+  <Combat_RangedMiss.rulePack.rulesStrings.31>avoidance->tropeçando em uma tentativa de escapar</Combat_RangedMiss.rulePack.rulesStrings.31>
+  <Combat_RangedMiss.rulePack.rulesStrings.32>avoidance->atirando a si mesmo(a) no chão</Combat_RangedMiss.rulePack.rulesStrings.32>
+  <Combat_RangedMiss.rulePack.rulesStrings.33>avoidance(p=0.3)->se abaixando atrás do pedaço de cobertura mais próximo</Combat_RangedMiss.rulePack.rulesStrings.33>
+
+  <Combat_ExplosionImpact.rulePack.rulesStrings.0>prefix->O(a) [blast] [fromof][weapon_projectile_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.0>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.1>prefix->O(a) [blast] [fromof][weapon_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.1>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.2>prefix->O(a) [blast] [fromof] [mortarshell] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.2>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.3>prefix->O(a) [blast] [fromof] [weapon_projectile_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.3>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.4>prefix->O(a) [blast] [fromof] [weapon_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.4>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.5>prefix->O(a) [blast] [fromof] [mortarshell] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.5>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.6>prefix->[blast] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.6>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.7>prefix->[weapon_projectile_label] de [initiator_definite] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.7>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.8>prefix->[mortarshell] de [initiator_definite] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.8>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.9>prefix-> [weapon_label] de [initiator_definite] [blast]</Combat_ExplosionImpact.rulePack.rulesStrings.9>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.10>prefix->[weapon_projectile_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.10>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.11>prefix->[mortarshell] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.11>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.12>prefix->[weapon_label] de [initiator_definite]</Combat_ExplosionImpact.rulePack.rulesStrings.12>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.13>logentry->[prefix] [injured] [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.13>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.14>logentry->[prefix] [destroyed] [destroyed_targets] de [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.14>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.15>logentry->[prefix] [destroyed] [destroyed_targets] de [recipient_definite] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.15>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.16>logentry->[prefix] [flavortextadverb] [destroyed] [destroyed_targets] de [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.16>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.17>logentry->[prefix] [destroyed] [destroyed_targets] de [recipient_definite] e [damaged_past] [recipient_possessive] [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.17>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.18>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] de [recipient_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.18>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.19>logentry(recipient_part_destroyed_count==0)->[prefix] [damaged_past] [damaged_targets] de [recipient_definite] [flavortextadverb].</Combat_ExplosionImpact.rulePack.rulesStrings.19>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.20>logentry(recipient_part_destroyed_count==0)->[prefix] [flavortextadverb] [damaged_past] [recipient_definite]'s [damaged_targets].</Combat_ExplosionImpact.rulePack.rulesStrings.20>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.21>logentry->[recipient_definite] foi [damaged_past] por [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.21>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.22>logentry->[recipient_definite] foi [damaged_past] [flavortextadverb] por [initiator_definite].</Combat_ExplosionImpact.rulePack.rulesStrings.22>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.23>logentry->[recipient_definite] foi [damaged_past].</Combat_ExplosionImpact.rulePack.rulesStrings.23>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.24>blast->explosão</Combat_ExplosionImpact.rulePack.rulesStrings.24>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.25>blast->estrondo</Combat_ExplosionImpact.rulePack.rulesStrings.25>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.26>blast->onda de choque</Combat_ExplosionImpact.rulePack.rulesStrings.26>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.27>blast->detonação</Combat_ExplosionImpact.rulePack.rulesStrings.27>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.28>blast->discarga</Combat_ExplosionImpact.rulePack.rulesStrings.28>
+  <Combat_ExplosionImpact.rulePack.rulesStrings.29>blast->impacto</Combat_ExplosionImpact.rulePack.rulesStrings.29>
+
+
+  <!--<Combat_General.rulePack.rulesStrings.0>logentry->[action], [result].</Combat_General.rulePack.rulesStrings.0>-->
+  <!--<Combat_General.rulePack.rulesStrings.1>logentry(p=0.2)->[action].</Combat_General.rulePack.rulesStrings.1>-->
+  <!--<Combat_General.rulePack.rulesStrings.2>implement(implementOwnerType==weapon,p=2)->seu(sua) [tool_label] de [weapon_label]</Combat_General.rulePack.rulesStrings.2>-->
+  <!--<Combat_General.rulePack.rulesStrings.3>implement(implementOwnerType==weapon,p=1)->seu(sua) [weapon_label]</Combat_General.rulePack.rulesStrings.3>-->
+  <!--<Combat_General.rulePack.rulesStrings.4>implement(implementOwnerType==weapon,p=1)->um(a) [tool_label] de [weapon_label]</Combat_General.rulePack.rulesStrings.4>-->
+  <!--<Combat_General.rulePack.rulesStrings.5>implement(implementOwnerType==weapon,p=0.5)->um(a) [weapon_label]</Combat_General.rulePack.rulesStrings.5>-->
+  <!--<Combat_General.rulePack.rulesStrings.6>implement(implementOwnerType==bodypart,p=2)->seu(sua) [tool_label]</Combat_General.rulePack.rulesStrings.6>-->
+  <!--<Combat_General.rulePack.rulesStrings.7>implement(implementOwnerType==bodypart,p=1)->seu(sua) [bodypart_adjective] [tool_label]</Combat_General.rulePack.rulesStrings.7>-->
+  <!--<Combat_General.rulePack.rulesStrings.8>implement(implementOwnerType==hediff,p=2)->seu(sua) [tool_label] de [weapon_label]</Combat_General.rulePack.rulesStrings.8>-->
+  <!--<Combat_General.rulePack.rulesStrings.9>implement(implementOwnerType==hediff,p=1)->seu(sua) [weapon_label]</Combat_General.rulePack.rulesStrings.9>-->
+  <!--<Combat_General.rulePack.rulesStrings.10>implement(implementOwnerType==hediff,p=1)->seu(sua) [tool_label]</Combat_General.rulePack.rulesStrings.10>-->
+  <!--<Combat_General.rulePack.rulesStrings.11>bodypart_adjective->rígido</Combat_General.rulePack.rulesStrings.11>-->
+  <!--<Combat_General.rulePack.rulesStrings.12>bodypart_adjective->forte</Combat_General.rulePack.rulesStrings.12>-->
+  <!--<Combat_General.rulePack.rulesStrings.13>bodypart_adjective->poderoso</Combat_General.rulePack.rulesStrings.13>-->
+  <!--<Combat_General.rulePack.rulesStrings.14>bodypart_adjective->contundente</Combat_General.rulePack.rulesStrings.14>-->
+  <!--<Combat_General.rulePack.rulesStrings.15>bodypart_adjective->potente</Combat_General.rulePack.rulesStrings.15>-->
+  <!--<Combat_General.rulePack.rulesStrings.16>bodypart_adjective->áspero</Combat_General.rulePack.rulesStrings.16>-->
+  <!--<Combat_General.rulePack.rulesStrings.17>bodypart_adjective->robusto</Combat_General.rulePack.rulesStrings.17>-->
+  <!--<Combat_General.rulePack.rulesStrings.18>bodypart_adjective->resistente</Combat_General.rulePack.rulesStrings.18>-->
+  <!--<Combat_General.rulePack.rulesStrings.19>bodypart_adjective->sólido</Combat_General.rulePack.rulesStrings.19>-->
+  <!--<Combat_General.rulePack.rulesStrings.20>bodypart_adjective->duro</Combat_General.rulePack.rulesStrings.20>-->
+  <!--<Combat_General.rulePack.rulesStrings.21>bodypart_adjective->calejado</Combat_General.rulePack.rulesStrings.21>-->
+  <!--<Combat_General.rulePack.rulesStrings.22>bodypart_adjective->firme</Combat_General.rulePack.rulesStrings.22>-->
+  <!--<Combat_General.rulePack.rulesStrings.23>targetlist(recipient_part_count==1)->[recipient_part0_label]</Combat_General.rulePack.rulesStrings.23>-->
+  <!--<Combat_General.rulePack.rulesStrings.24>targetlist(recipient_part_count==2)->[recipient_part0_label] e [recipient_part1_label]</Combat_General.rulePack.rulesStrings.24>-->
+  <!--<Combat_General.rulePack.rulesStrings.25>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], e [recipient_part2_label]</Combat_General.rulePack.rulesStrings.25>-->
+  <!--<Combat_General.rulePack.rulesStrings.26>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], e [recipient_part3_label]</Combat_General.rulePack.rulesStrings.26>-->
+  <!--<Combat_General.rulePack.rulesStrings.27>maneuverresult_present->ferindo</Combat_General.rulePack.rulesStrings.27>-->
+  <!--<Combat_General.rulePack.rulesStrings.28>maneuverresult_present->machucando</Combat_General.rulePack.rulesStrings.28>-->
+  <!--<Combat_General.rulePack.rulesStrings.29>destroyed(p=0.5)->destruído</Combat_General.rulePack.rulesStrings.29>-->
+  <!--<Combat_General.rulePack.rulesStrings.30>destroyed(p=0.5)->demolido</Combat_General.rulePack.rulesStrings.30>-->
+  <!--<Combat_General.rulePack.rulesStrings.31>destroyed(p=0.5)->arruinado</Combat_General.rulePack.rulesStrings.31>-->
+  <!--<Combat_General.rulePack.rulesStrings.32>destroyed(p=0.5)->devastado</Combat_General.rulePack.rulesStrings.32>-->
+  <!--<Combat_General.rulePack.rulesStrings.33>result(p=0.5)->[maneuverresult_present] [recipient_possessive] [targetlist]</Combat_General.rulePack.rulesStrings.33>-->
+  <!--<Combat_General.rulePack.rulesStrings.34>result(p=0.2)->[maneuverresult_present] [recipient_possessive] [targetlist] [flavortextadverb]</Combat_General.rulePack.rulesStrings.34>-->
+  <!--<Combat_General.rulePack.rulesStrings.35>result(p=0.2)->[maneuverresult_present] [recipient_possessive] [targetlist] [flavortextsituation]</Combat_General.rulePack.rulesStrings.35>-->
+  <!--<Combat_General.rulePack.rulesStrings.36>result(p=0.2)->[maneuverresult_present] [recipient_possessive] [targetlist] e [flavortextconsequence]</Combat_General.rulePack.rulesStrings.36>-->
+  <!--<Combat_General.rulePack.rulesStrings.37>flavortextadverb->dolorosamente</Combat_General.rulePack.rulesStrings.37>-->
+  <!--<Combat_General.rulePack.rulesStrings.38>flavortextadverb->brutalmente</Combat_General.rulePack.rulesStrings.38>-->
+  <!--<Combat_General.rulePack.rulesStrings.39>flavortextadverb->horrivelmente</Combat_General.rulePack.rulesStrings.39>-->
+  <!--<Combat_General.rulePack.rulesStrings.40>flavortextadverb->agonizantemente</Combat_General.rulePack.rulesStrings.40>-->
+  <!--<Combat_General.rulePack.rulesStrings.41>flavortextadverb->ferozmente</Combat_General.rulePack.rulesStrings.41>-->
+  <!--<Combat_General.rulePack.rulesStrings.42>flavortextadverb->implacavelmente</Combat_General.rulePack.rulesStrings.42>-->
+  <!--<Combat_General.rulePack.rulesStrings.43>flavortextadverb->salvajemente</Combat_General.rulePack.rulesStrings.43>-->
+  <!--<Combat_General.rulePack.rulesStrings.44>flavortextadverb->viciosamente</Combat_General.rulePack.rulesStrings.44>-->
+  <!--<Combat_General.rulePack.rulesStrings.45>flavortextadverb->impiedosamente</Combat_General.rulePack.rulesStrings.45>-->
+  <!--<Combat_General.rulePack.rulesStrings.46>flavortextadverb->sem coração</Combat_General.rulePack.rulesStrings.46>-->
+  <!--<Combat_General.rulePack.rulesStrings.47>flavortextsituation->em uma explosão de dilaceração</Combat_General.rulePack.rulesStrings.47>-->
+  <!--<Combat_General.rulePack.rulesStrings.48>flavortextsituation->deixando uma ferida repugnante</Combat_General.rulePack.rulesStrings.48>-->
+  <!--<Combat_General.rulePack.rulesStrings.49>flavortextsituation->sem emoção</Combat_General.rulePack.rulesStrings.49>-->
+  <!--<Combat_General.rulePack.rulesStrings.50>flavortextsituation->enquanto estava com um olhar vazio</Combat_General.rulePack.rulesStrings.50>-->
+  <!--<Combat_General.rulePack.rulesStrings.51>flavortextsituation->enquanto estava com um olhar selvagem</Combat_General.rulePack.rulesStrings.51>-->
+  <!--<Combat_General.rulePack.rulesStrings.52>flavortextsituation->enquanto estava com uma aparência de [badassadjective]</Combat_General.rulePack.rulesStrings.52>-->
+  <!--<Combat_General.rulePack.rulesStrings.53>flavortextsituation->enquanto faz caretas</Combat_General.rulePack.rulesStrings.53>-->
+  <!--<Combat_General.rulePack.rulesStrings.54>flavortextsituation->enquanto rir</Combat_General.rulePack.rulesStrings.54>-->
+  <!--<Combat_General.rulePack.rulesStrings.55>flavortextsituation->enquanto sorria</Combat_General.rulePack.rulesStrings.55>-->
+  <!--<Combat_General.rulePack.rulesStrings.56>flavortextconsequence->fazendo [recipient_objective] [wince] [painevent]</Combat_General.rulePack.rulesStrings.56>-->
+  <!--<Combat_General.rulePack.rulesStrings.57>flavortextconsequence(p=0.2)->atirando [recipient_objective] fora de equilíbrio</Combat_General.rulePack.rulesStrings.57>-->
+  <!--<Combat_General.rulePack.rulesStrings.58>wince->estremecimento</Combat_General.rulePack.rulesStrings.58>-->
+  <!--<Combat_General.rulePack.rulesStrings.59>wince->careta</Combat_General.rulePack.rulesStrings.59>-->
+  <!--<Combat_General.rulePack.rulesStrings.60>wince->encolhido</Combat_General.rulePack.rulesStrings.60>-->
+  <!--<Combat_General.rulePack.rulesStrings.61>wince->gemido</Combat_General.rulePack.rulesStrings.61>-->
+  <!--<Combat_General.rulePack.rulesStrings.62>wince->grito</Combat_General.rulePack.rulesStrings.62>-->
+  <!--<Combat_General.rulePack.rulesStrings.63>wince->gemido</Combat_General.rulePack.rulesStrings.63>-->
+  <!--<Combat_General.rulePack.rulesStrings.64>wince->recuo</Combat_General.rulePack.rulesStrings.64>-->
+  <!--<Combat_General.rulePack.rulesStrings.65>wince->tropeço</Combat_General.rulePack.rulesStrings.65>-->
+  <!--<Combat_General.rulePack.rulesStrings.66>painstate->em</Combat_General.rulePack.rulesStrings.66>-->
+  <!--<Combat_General.rulePack.rulesStrings.67>painstate->com</Combat_General.rulePack.rulesStrings.67>-->
+  <!--<Combat_General.rulePack.rulesStrings.68>painstate->de</Combat_General.rulePack.rulesStrings.68>-->
+  <!--<Combat_General.rulePack.rulesStrings.69>painevent->[painstate] dor</Combat_General.rulePack.rulesStrings.69>-->
+  <!--<Combat_General.rulePack.rulesStrings.70>painevent->[painstate] agonia</Combat_General.rulePack.rulesStrings.70>-->
+  <!--<Combat_General.rulePack.rulesStrings.71>painevent->com miséria</Combat_General.rulePack.rulesStrings.71>-->
+  <!--<Combat_General.rulePack.rulesStrings.72>painevent->do ferimento</Combat_General.rulePack.rulesStrings.72>-->
+  <!--<Combat_General.rulePack.rulesStrings.73>painevent->do machucado</Combat_General.rulePack.rulesStrings.73>-->
+  <!--<Combat_General.rulePack.rulesStrings.74>mortarshell->munição</Combat_General.rulePack.rulesStrings.74>-->
+  <!--<Combat_General.rulePack.rulesStrings.75>mortarshell->tiro</Combat_General.rulePack.rulesStrings.75>-->
+  <!--<Combat_General.rulePack.rulesStrings.76>mortarshell->projétil</Combat_General.rulePack.rulesStrings.76>-->
+  <!--<Combat_General.rulePack.rulesStrings.77>mortarshell->explosivo</Combat_General.rulePack.rulesStrings.77>-->
+  <!--<Combat_General.rulePack.rulesStrings.78>mortarshell->bomba</Combat_General.rulePack.rulesStrings.78>-->
+  <!--<Combat_General.rulePack.rulesStrings.79>mortarshell(p=0.3)->munição balística</Combat_General.rulePack.rulesStrings.79>-->
+  <!--<Combat_General.rulePack.rulesStrings.80>mortarshell(p=0.3)->tiro balístico</Combat_General.rulePack.rulesStrings.80>-->
+  <!--<Combat_General.rulePack.rulesStrings.81>mortarshell(p=0.3)->projétil balístico</Combat_General.rulePack.rulesStrings.81>-->
+  <!--<Combat_General.rulePack.rulesStrings.82>to->para</Combat_General.rulePack.rulesStrings.82>-->
+  <!--<Combat_General.rulePack.rulesStrings.83>to->em</Combat_General.rulePack.rulesStrings.83>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.0>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</Combat_WoundInclude.rulePack.rulesStrings.0>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.1>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] e [recipient_part_destroyed1_label]</Combat_WoundInclude.rulePack.rulesStrings.1>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.2>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], e [recipient_part_destroyed2_label]</Combat_WoundInclude.rulePack.rulesStrings.2>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.3>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], e [recipient_part_destroyed3_label]</Combat_WoundInclude.rulePack.rulesStrings.3>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.4>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</Combat_WoundInclude.rulePack.rulesStrings.4>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.5>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] e [recipient_part_damaged1_label]</Combat_WoundInclude.rulePack.rulesStrings.5>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.6>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], e [recipient_part_damaged2_label]</Combat_WoundInclude.rulePack.rulesStrings.6>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.7>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], e [recipient_part_damaged3_label]</Combat_WoundInclude.rulePack.rulesStrings.7>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.8>expertly->expertamente</Combat_WoundInclude.rulePack.rulesStrings.8>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.9>expertly->adeptamente</Combat_WoundInclude.rulePack.rulesStrings.9>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.10>expertly->astutamente</Combat_WoundInclude.rulePack.rulesStrings.10>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.11>expertly->destramente</Combat_WoundInclude.rulePack.rulesStrings.11>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.12>expertly->habilmente</Combat_WoundInclude.rulePack.rulesStrings.12>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.13>expertly->espertamente</Combat_WoundInclude.rulePack.rulesStrings.13>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.14>expertly->profissionalmente</Combat_WoundInclude.rulePack.rulesStrings.14>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.15>expertly->apropriadamente</Combat_WoundInclude.rulePack.rulesStrings.15>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.16>expertly->destrezadamente</Combat_WoundInclude.rulePack.rulesStrings.16>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.17>expertly->inteligentemente</Combat_WoundInclude.rulePack.rulesStrings.17>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.18>expertly->magistralmente</Combat_WoundInclude.rulePack.rulesStrings.18>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.19>expertly->artisticamente</Combat_WoundInclude.rulePack.rulesStrings.19>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.20>expertly->com habilidade</Combat_WoundInclude.rulePack.rulesStrings.20>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.21>expertly->com experiência impressionante</Combat_WoundInclude.rulePack.rulesStrings.21>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.22>expertly->com gosto</Combat_WoundInclude.rulePack.rulesStrings.22>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.23>expertly->com cuidado</Combat_WoundInclude.rulePack.rulesStrings.23>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.24>expertly->com precisão</Combat_WoundInclude.rulePack.rulesStrings.24>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.25>expertly->com proficiência</Combat_WoundInclude.rulePack.rulesStrings.25>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.26>expertly->com força</Combat_WoundInclude.rulePack.rulesStrings.26>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.27>expertly->com destreza</Combat_WoundInclude.rulePack.rulesStrings.27>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.28>expertly->com maestria</Combat_WoundInclude.rulePack.rulesStrings.28>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.29>expertly->com arte</Combat_WoundInclude.rulePack.rulesStrings.29>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.30>expertly->com profissionalismo</Combat_WoundInclude.rulePack.rulesStrings.30>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.31>expertly->como um virtuoso</Combat_WoundInclude.rulePack.rulesStrings.31>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.32>expertly->como um experto</Combat_WoundInclude.rulePack.rulesStrings.32>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.33>expertly->como um mestre</Combat_WoundInclude.rulePack.rulesStrings.33>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.34>expertly->como um artista</Combat_WoundInclude.rulePack.rulesStrings.34>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.35>expertly->como um profissional</Combat_WoundInclude.rulePack.rulesStrings.35>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.36>expert->experto</Combat_WoundInclude.rulePack.rulesStrings.36>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.37>expert->adepto</Combat_WoundInclude.rulePack.rulesStrings.37>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.38>expert->astuto</Combat_WoundInclude.rulePack.rulesStrings.38>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.39>expert->destro</Combat_WoundInclude.rulePack.rulesStrings.39>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.40>expert->hábil</Combat_WoundInclude.rulePack.rulesStrings.40>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.41>expert->habilidoso</Combat_WoundInclude.rulePack.rulesStrings.41>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.42>expert->profissional</Combat_WoundInclude.rulePack.rulesStrings.42>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.43>expert->apto</Combat_WoundInclude.rulePack.rulesStrings.43>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.44>expert->destro</Combat_WoundInclude.rulePack.rulesStrings.44>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.45>expert->esperto</Combat_WoundInclude.rulePack.rulesStrings.45>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.46>expert->magistral</Combat_WoundInclude.rulePack.rulesStrings.46>-->
+  <!--<Combat_WoundInclude.rulePack.rulesStrings.47>expert->artístico</Combat_WoundInclude.rulePack.rulesStrings.47>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.0>initiator_definite->[initiator_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.0>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.1>initiator_definite->[initiator_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.1>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.2>recipient_definite->[recipient_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.2>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.3>recipient_definite->[recipient_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.3>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.4>originalTarget_definite->[originalTarget_labelDefinite]</Combat_RangedIncludes.rulePack.rulesStrings.4>-->
+  <!--<Combat_RangedIncludes.rulePack.rulesStrings.5>originalTarget_definite->[originalTarget_nameShortDef]</Combat_RangedIncludes.rulePack.rulesStrings.5>-->
+  <!--<Combat_RangedMiss.rulePack.rulesStrings.34>avoidance(p=0.3)->saltando atrás do pedaço de cobertura mais próximo</Combat_RangedMiss.rulePack.rulesStrings.34>-->
+  <!--<Combat_ExplosionImpact.rulePack.rulesStrings.30>fromof->de</Combat_ExplosionImpact.rulePack.rulesStrings.30>-->
+  <!--<Combat_ExplosionImpact.rulePack.rulesStrings.31>fromof->de</Combat_ExplosionImpact.rulePack.rulesStrings.31>-->
 
 </LanguageData>

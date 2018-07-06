@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Install natural parts -->
+
+  <InstallNaturalKidney.label>implantar rim</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>implanta rim.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>implantando rim.</InstallNaturalKidney.jobString>
+
+  <InstallNaturalLiver.label>implantar fígado</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>implanta fígado.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>Implantando fígado.</InstallNaturalLiver.jobString>
+
+  <InstallNaturalLung.label>implantar pulmão</InstallNaturalLung.label>
+  <InstallNaturalLung.description>Implanta pulmão.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>Implantando pulmão.</InstallNaturalLung.jobString>
+
+  <InstallNaturalHeart.label>implantar coração</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>implanta coração.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>Implantando coração.</InstallNaturalHeart.jobString>
+
+
+  <!-- Install artificial parts -->
+
+  <InstallPegLeg.label>implantar perna de pau</InstallPegLeg.label>
+  <InstallPegLeg.description>Implanta perna de pau.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>Implantando perna de pau.</InstallPegLeg.jobString>
+
+  <InstallWoodenFoot.label>install wooden foot</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>Install a wooden foot.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>Installing wooden foot.</InstallWoodenFoot.jobString>
+
+  <InstallDenture.label>implantar dentadura</InstallDenture.label>
+  <InstallDenture.description>Implanta dentadura.</InstallDenture.description>
+  <InstallDenture.jobString>Implantando dentadura.</InstallDenture.jobString>
+
+  <InstallSimpleProstheticLeg.label>implantar perna protética simples</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Implanta perna protética simples.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Implantando perna protética simples.</InstallSimpleProstheticLeg.jobString>
+
+  <InstallSimpleProstheticArm.label>implantar braço protético simples</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Implanta braço protético simples.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Implantando braço protético simples.</InstallSimpleProstheticArm.jobString>
+
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
+
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
+
+  <InstallBionicArm.label>implantar braço biônico</InstallBionicArm.label>
+  <InstallBionicArm.description>Implanta braço biônico.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Implantando braço biônico.</InstallBionicArm.jobString>
+
+  <InstallBionicLeg.label>implantar perna biônica</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Implanta perna biônica.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Implantando perna biônica.</InstallBionicLeg.jobString>
+
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
+
+  <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
+
+  <InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
+
+  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
+
+  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+
+  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+
+  <InstallPowerClaw.label>implantar garra potente</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Implanta garra potente</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Implantando garra potente.</InstallPowerClaw.jobString>
+
+  <InstallBionicEye.label>implantar olho biônico</InstallBionicEye.label>
+  <InstallBionicEye.description>Implanta olho biônico.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Implantando olho biônico.</InstallBionicEye.jobString>
+
+  <InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
+  <InstallArchotechEye.description>Install an archotech eye.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+
+  <InstallJoywire.label>implantar arame da alegria</InstallJoywire.label>
+  <InstallJoywire.description>Implanta arame da alegria.</InstallJoywire.description>
+  <InstallJoywire.jobString>Implantando arame da alegria.</InstallJoywire.jobString>
+
+  <InstallPainstopper.label>implantar para-dor</InstallPainstopper.label>
+  <InstallPainstopper.description>Implanta para-dor.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Implantando para-dor.</InstallPainstopper.jobString>
+
+
+</LanguageData>

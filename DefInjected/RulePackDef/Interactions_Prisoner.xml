@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] aceitou e se juntou á comunidade de [initiator_nameShortDef].</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] rejeitou a oferta.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+
+
+</LanguageData>

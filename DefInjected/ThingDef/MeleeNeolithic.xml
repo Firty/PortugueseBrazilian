@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Club.label>porrete</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>A mais antiga arma humana - uma vara moldada, pesada em uma extremidade, para bater nos inimigos até a morte. Primitivo, mas eficaz.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.0.label>handle</MeleeWeapon_Club.tools.0.label>
+  <MeleeWeapon_Club.tools.1.label>head</MeleeWeapon_Club.tools.1.label>
+
+  <MeleeWeapon_Knife.label>faca</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>Uma das ferramentas mais antigas da humanidade, a faca é tanto uma ferramenta diária como uma arma mortal.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.0.label>handle</MeleeWeapon_Knife.tools.0.label>
+  <MeleeWeapon_Knife.tools.1.label>blade</MeleeWeapon_Knife.tools.1.label>
+  <MeleeWeapon_Knife.tools.2.label>point</MeleeWeapon_Knife.tools.2.label>
+
+  <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.0.label>handle</MeleeWeapon_Ikwa.tools.0.label>
+  <MeleeWeapon_Ikwa.tools.1.label>head</MeleeWeapon_Ikwa.tools.1.label>
+  <MeleeWeapon_Ikwa.tools.2.label>edge</MeleeWeapon_Ikwa.tools.2.label>
+
+  <MeleeWeapon_Spear.label>lança</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>Uma arma de cabo com uma ponta afiada para apunhalar adversários em combate corpo a corpo.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.0.label>shaft</MeleeWeapon_Spear.tools.0.label>
+  <MeleeWeapon_Spear.tools.1.label>point</MeleeWeapon_Spear.tools.1.label>
+
+
+</LanguageData>

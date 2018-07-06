@@ -1,20 +1,52 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MercenaryGunner.label>mercenário artilheiro</MercenaryGunner.label>
-    
-    <MercenarySniper.label>mercenário franco-atirador</MercenarySniper.label>
-    
-    <GrenadierDestructive.label>granadeiro</GrenadierDestructive.label>
-    
-    <GrenadierEMP.label>granadeiro PEM</GrenadierEMP.label>
-    
-    <MercenarySlasher.label>mercenário esfaqueador</MercenarySlasher.label>
-    
-    <MercenaryHeavy.label>mercenário pesado</MercenaryHeavy.label>
-    
-    <PirateBoss.label>chefe</PirateBoss.label>
-    
-    <MercenaryElite.label>mercenário de elite</MercenaryElite.label>
-    
+
+  <!-- Low merc tier - grenadiers -->
+
+  <Grenadier_Destructive.label>grenadier</Grenadier_Destructive.label>
+  <Grenadier_Destructive.labelPlural>grenadiers</Grenadier_Destructive.labelPlural>
+
+  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
+  <Grenadier_EMP.labelPlural>EMP grenadiers</Grenadier_EMP.labelPlural>
+
+
+  <!-- Mid merc tier - gunner, slasher, sniper, heavy -->
+
+  <Mercenary_Gunner.label>mercenary gunner</Mercenary_Gunner.label>
+  <Mercenary_Gunner.labelPlural>mercenary gunners</Mercenary_Gunner.labelPlural>
+
+  <Mercenary_Sniper.label>mercenary sniper</Mercenary_Sniper.label>
+  <Mercenary_Sniper.labelPlural>mercenary snipers</Mercenary_Sniper.labelPlural>
+
+  <Mercenary_Slasher.label>mercenary slasher</Mercenary_Slasher.label>
+  <Mercenary_Slasher.labelPlural>mercenary slashers</Mercenary_Slasher.labelPlural>
+
+  <Mercenary_Heavy.label>heavy mercenary</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>heavy mercenaries</Mercenary_Heavy.labelPlural>
+
+
+  <!-- Elite tier - merc elite, pirate boss -->
+
+  <PirateBoss.label>chefe</PirateBoss.label>
+  <PirateBoss.labelPlural>chefes</PirateBoss.labelPlural>
+
+  <Mercenary_Elite.label>elite mercenary</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>elite mercenaries</Mercenary_Elite.labelPlural>
+
+
+  <!--<GrenadierDestructive.label>granadeiro</GrenadierDestructive.label>-->
+  <!--<GrenadierDestructive.labelPlural>granadeiros</GrenadierDestructive.labelPlural>-->
+  <!--<GrenadierEMP.label>granadeiro PEM</GrenadierEMP.label>-->
+  <!--<GrenadierEMP.labelPlural>granadeiros PEM</GrenadierEMP.labelPlural>-->
+  <!--<MercenaryGunner.label>mercenário artilheiro</MercenaryGunner.label>-->
+  <!--<MercenaryGunner.labelPlural>mercenários artilheiros</MercenaryGunner.labelPlural>-->
+  <!--<MercenarySniper.label>mercenário franco-atirador</MercenarySniper.label>-->
+  <!--<MercenarySniper.labelPlural>mercenários franco-atiradores</MercenarySniper.labelPlural>-->
+  <!--<MercenarySlasher.label>mercenário esfaqueador</MercenarySlasher.label>-->
+  <!--<MercenarySlasher.labelPlural>mercenários esfaqueadores</MercenarySlasher.labelPlural>-->
+  <!--<MercenaryHeavy.label>mercenário pesado</MercenaryHeavy.label>-->
+  <!--<MercenaryHeavy.labelPlural>mercenários pesados</MercenaryHeavy.labelPlural>-->
+  <!--<MercenaryElite.label>mercenário de elite</MercenaryElite.label>-->
+  <!--<MercenaryElite.labelPlural>mercenários de elite</MercenaryElite.labelPlural>-->
+
 </LanguageData>

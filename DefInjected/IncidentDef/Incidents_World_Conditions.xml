@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.letterText>Uma das luas do planeta orbitou em frente ao sol. Um eclipse começou.</Eclipse.letterText>
+  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
+
+  <SolarFlare.label>erupção solar</SolarFlare.label>
+  <SolarFlare.letterText>Uma erupção solar começou.\n\nA intensa radiação irá desligar todos os aparelhos elétricos.\n\nEla deve passar em cerca de um dia.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Erupção solar</SolarFlare.letterLabel>
+
+  <Aurora.label>aurora</Aurora.label>
+  <Aurora.letterText>Uma bonita aurora está iluminando o céu.\n\nAs cores ondulantes irão aumentar o humor de qualquer um no exterior que vê-los, e fará a noite mais brilhante.</Aurora.letterText>
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+
+
+</LanguageData>

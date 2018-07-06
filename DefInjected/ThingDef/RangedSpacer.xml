@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_ChargeRifle.label>fuzil de carga</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>Fuzil de tiro carregado de energia/projétil.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.0.label>stock</Gun_ChargeRifle.tools.0.label>
+  <Gun_ChargeRifle.tools.1.label>barrel</Gun_ChargeRifle.tools.1.label>
+
+  <Bullet_ChargeRifle.label>tiro de carga</Bullet_ChargeRifle.label>
+
+  <Gun_ChargeLance.label>lança de carga</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>Disparador de carga de assistência de tiro e mira. Dispara um único tiro em alta velocidade.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.0.label>barrel</Gun_ChargeLance.tools.0.label>
+
+  <Bullet_ChargeLance.label>tiro de lança de carga</Bullet_ChargeLance.label>
+
+
+</LanguageData>

@@ -1,14 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Master.label>mestre</Master.label>
+  <Master.label>mestre</Master.label>
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  <AllowedArea.label>área permitida</AllowedArea.label>
+  <AllowedAreaWide.label>área permitida</AllowedAreaWide.label>
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  <Outfit.label>roupas atuais</Outfit.label>
+  <DrugPolicy.label>política de drogas</DrugPolicy.label>
 
-	<Outfit.label>vestimenta atual</Outfit.label>
-
-	<DrugPolicy.label>política de drogas</DrugPolicy.label>
-
-	<AllowedArea.label>área permitida</AllowedArea.label>
-
-	<AllowedAreaWide.label>área permitida</AllowedAreaWide.label>
 
 </LanguageData>
