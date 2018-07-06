@@ -433,7 +433,7 @@
 
   <!-- Cryptosleep casket -->
   <CasketContains>Contém</CasketContains>
-  <CasketWarning>Atenção!\n\nNAME é seu último colono independente! Se você deixar [PAWN_pronoun] entrar neste sarcófago de cripto-sono, você pode não ser capaz de continuar a jogar. Você tem certeza de que deseja continuar?</CasketWarning>
+  <CasketWarning>Atenção!\n\n[PAWN_nameDef] é seu último colono independente! Se você deixar [PAWN_pronoun] entrar neste sarcófago de cripto-sono, você pode não ser capaz de continuar a jogar. Você tem certeza de que deseja continuar?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Não é possível iniciar.</ShipReportCannotLaunch>

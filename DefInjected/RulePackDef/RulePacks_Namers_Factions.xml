@@ -9,13 +9,13 @@
 
   <!-- Outlander -->
 
-  <NamerFactionOutlander.rulePack.rulesStrings.0>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.0>
-  <NamerFactionOutlander.rulePack.rulesStrings.1>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.1>
-  <NamerFactionOutlander.rulePack.rulesStrings.2>name->[subname]</NamerFactionOutlander.rulePack.rulesStrings.2>
-  <NamerFactionOutlander.rulePack.rulesStrings.3>name->[politicalunion] [subname]</NamerFactionOutlander.rulePack.rulesStrings.3>
-  <NamerFactionOutlander.rulePack.rulesStrings.4>name->[politicalunion] [politicaladjective] [subname]</NamerFactionOutlander.rulePack.rulesStrings.4>
-  <NamerFactionOutlander.rulePack.rulesStrings.5>name->[politicalunion] de [subname]</NamerFactionOutlander.rulePack.rulesStrings.5>
-  <NamerFactionOutlander.rulePack.rulesStrings.6>name->[politicalunion] [politicaladjective] de [subname]</NamerFactionOutlander.rulePack.rulesStrings.6>
+  <NamerFactionOutlander.rulePack.rulesStrings.0>r_name(p=3)->[nearnameinitial]</NamerFactionOutlander.rulePack.rulesStrings.0>
+  <NamerFactionOutlander.rulePack.rulesStrings.1>r_name->[nearnameinitial] [political_union_outlander]</NamerFactionOutlander.rulePack.rulesStrings.1>
+  <NamerFactionOutlander.rulePack.rulesStrings.2>r_name->[nearnameinitial] [political_adjective] [political_union_outlander]</NamerFactionOutlander.rulePack.rulesStrings.2>
+  <NamerFactionOutlander.rulePack.rulesStrings.3>r_name->[political_union_outlander] of [nearnameinitial]</NamerFactionOutlander.rulePack.rulesStrings.3>
+  <NamerFactionOutlander.rulePack.rulesStrings.4>r_name->[political_adjective] [political_union_outlander] of [nearnameinitial]</NamerFactionOutlander.rulePack.rulesStrings.4>
+  <NamerFactionOutlander.rulePack.rulesStrings.5>nearnameinitial(p=3)->[PlaceOutlander]</NamerFactionOutlander.rulePack.rulesStrings.5>
+  <NamerFactionOutlander.rulePack.rulesStrings.6>nearnameinitial->[Direction] [PlaceOutlander]</NamerFactionOutlander.rulePack.rulesStrings.6>
 
   <NamerSettlementOutlander.rulePack.rulesStrings.0>r_name(p=12)->[townname_wordgen]</NamerSettlementOutlander.rulePack.rulesStrings.0>
   <NamerSettlementOutlander.rulePack.rulesStrings.1>r_name(p=6)->[townname_fixed]</NamerSettlementOutlander.rulePack.rulesStrings.1>
@@ -71,12 +71,12 @@
 
   <!-- Tribe -->
 
-  <NamerFactionTribal.rulePack.rulesStrings.0>name->[politicalunion] [tribalworld]</NamerFactionTribal.rulePack.rulesStrings.0>
-  <NamerFactionTribal.rulePack.rulesStrings.1>name->Os [tribalworld] [politicalunion]</NamerFactionTribal.rulePack.rulesStrings.1>
-  <NamerFactionTribal.rulePack.rulesStrings.2>name->Os [politicalunion] [terrainfeature] [color]</NamerFactionTribal.rulePack.rulesStrings.2>
-  <NamerFactionTribal.rulePack.rulesStrings.3>name->[politicalunion] de [tribalword]</NamerFactionTribal.rulePack.rulesStrings.3>
-  <NamerFactionTribal.rulePack.rulesStrings.4>name->Os [animal] [color] [tribalword]</NamerFactionTribal.rulePack.rulesStrings.4>
-  <NamerFactionTribal.rulePack.rulesStrings.5>name->Os [tribalword] de [terrainfeature]</NamerFactionTribal.rulePack.rulesStrings.5>
+  <NamerFactionTribal.rulePack.rulesStrings.0>r_name->[tribalworld] [political_union_tribal]</NamerFactionTribal.rulePack.rulesStrings.0>
+  <NamerFactionTribal.rulePack.rulesStrings.1>r_name->The [tribalworld] [political_union_tribal]</NamerFactionTribal.rulePack.rulesStrings.1>
+  <NamerFactionTribal.rulePack.rulesStrings.2>r_name->The [Color] [TerrainFeature] [political_union_tribal]</NamerFactionTribal.rulePack.rulesStrings.2>
+  <NamerFactionTribal.rulePack.rulesStrings.3>r_name->[political_union_tribal] of [WordTribal]</NamerFactionTribal.rulePack.rulesStrings.3>
+  <NamerFactionTribal.rulePack.rulesStrings.4>r_name->The [Color] [Animal] [WordTribal]</NamerFactionTribal.rulePack.rulesStrings.4>
+  <NamerFactionTribal.rulePack.rulesStrings.5>r_name->The [WordTribal] of the [TerrainFeature]</NamerFactionTribal.rulePack.rulesStrings.5>
 
   <NamerSettlementTribal.rulePack.rulesStrings.0>r_name(p=2)->[WordTribal]</NamerSettlementTribal.rulePack.rulesStrings.0>
   <NamerSettlementTribal.rulePack.rulesStrings.1>r_name->[Color] [WordTribal]</NamerSettlementTribal.rulePack.rulesStrings.1>
@@ -86,24 +86,24 @@
 
   <!-- Pirate -->
 
-  <NamerFactionPirate.rulePack.rulesStrings.0>name->Os [badassanimal]s</NamerFactionPirate.rulePack.rulesStrings.0>
-  <NamerFactionPirate.rulePack.rulesStrings.1>name->Os homens [badassanimal]s</NamerFactionPirate.rulePack.rulesStrings.1>
-  <NamerFactionPirate.rulePack.rulesStrings.2>name->Os [badassanimal]s de [badassconcept]s</NamerFactionPirate.rulePack.rulesStrings.2>
-  <NamerFactionPirate.rulePack.rulesStrings.3>name->Os [badassperson]s de [badassconcept]s</NamerFactionPirate.rulePack.rulesStrings.3>
-  <NamerFactionPirate.rulePack.rulesStrings.4>name->Os [badassperson]s</NamerFactionPirate.rulePack.rulesStrings.4>
-  <NamerFactionPirate.rulePack.rulesStrings.5>name->Os homens [weapon]</NamerFactionPirate.rulePack.rulesStrings.5>
-  <NamerFactionPirate.rulePack.rulesStrings.6>name->Os [weapon]s</NamerFactionPirate.rulePack.rulesStrings.6>
-  <NamerFactionPirate.rulePack.rulesStrings.7>name->Os [badassanimal]s [weapon]s</NamerFactionPirate.rulePack.rulesStrings.7>
-  <NamerFactionPirate.rulePack.rulesStrings.8>name->Os [weapon]s [badasscolor]s</NamerFactionPirate.rulePack.rulesStrings.8>
-  <NamerFactionPirate.rulePack.rulesStrings.9>name->Os [badassanimal] [badasscolor]</NamerFactionPirate.rulePack.rulesStrings.9>
-  <NamerFactionPirate.rulePack.rulesStrings.10>name->Os [badassperson] [badasscolor]</NamerFactionPirate.rulePack.rulesStrings.10>
-  <NamerFactionPirate.rulePack.rulesStrings.11>name->Os [badassperson] [groupname]</NamerFactionPirate.rulePack.rulesStrings.11>
-  <NamerFactionPirate.rulePack.rulesStrings.12>name->Os [badassadjective] [groupname]</NamerFactionPirate.rulePack.rulesStrings.12>
-  <NamerFactionPirate.rulePack.rulesStrings.13>name->Os [badassanimal]s [badassadjective]s</NamerFactionPirate.rulePack.rulesStrings.13>
-  <NamerFactionPirate.rulePack.rulesStrings.14>name->Os [badassperson]s [badassadjective]s</NamerFactionPirate.rulePack.rulesStrings.14>
-  <NamerFactionPirate.rulePack.rulesStrings.15>name->[groupname] [weapon]</NamerFactionPirate.rulePack.rulesStrings.15>
-  <NamerFactionPirate.rulePack.rulesStrings.16>name->[groupname] [badassconcept]</NamerFactionPirate.rulePack.rulesStrings.16>
-  <NamerFactionPirate.rulePack.rulesStrings.17>name->[groupname][badassconcept]</NamerFactionPirate.rulePack.rulesStrings.17>
+  <NamerFactionPirate.rulePack.rulesStrings.0>r_name->The [AnimalBadass]s</NamerFactionPirate.rulePack.rulesStrings.0>
+  <NamerFactionPirate.rulePack.rulesStrings.1>r_name->The [AnimalBadass] Men</NamerFactionPirate.rulePack.rulesStrings.1>
+  <NamerFactionPirate.rulePack.rulesStrings.2>r_name->The [AnimalBadass]s of [ConceptBadass]</NamerFactionPirate.rulePack.rulesStrings.2>
+  <NamerFactionPirate.rulePack.rulesStrings.3>r_name->The [PersonBadass]s of [ConceptBadass]</NamerFactionPirate.rulePack.rulesStrings.3>
+  <NamerFactionPirate.rulePack.rulesStrings.4>r_name->The [PersonBadass]s</NamerFactionPirate.rulePack.rulesStrings.4>
+  <NamerFactionPirate.rulePack.rulesStrings.5>r_name->The [Enemy]s</NamerFactionPirate.rulePack.rulesStrings.5>
+  <NamerFactionPirate.rulePack.rulesStrings.6>r_name->The [Weapon] Men</NamerFactionPirate.rulePack.rulesStrings.6>
+  <NamerFactionPirate.rulePack.rulesStrings.7>r_name->The [Weapon]s</NamerFactionPirate.rulePack.rulesStrings.7>
+  <NamerFactionPirate.rulePack.rulesStrings.8>r_name->The [Weapon] [AnimalBadass]s</NamerFactionPirate.rulePack.rulesStrings.8>
+  <NamerFactionPirate.rulePack.rulesStrings.9>r_name->The [Weapon] [Enemy]s</NamerFactionPirate.rulePack.rulesStrings.9>
+  <NamerFactionPirate.rulePack.rulesStrings.10>r_name->The [ColorBadass] [Weapon]s</NamerFactionPirate.rulePack.rulesStrings.10>
+  <NamerFactionPirate.rulePack.rulesStrings.11>r_name->The [ColorBadass] [AnimalBadass]s</NamerFactionPirate.rulePack.rulesStrings.11>
+  <NamerFactionPirate.rulePack.rulesStrings.12>r_name->The [ColorBadass] [PersonBadass]s</NamerFactionPirate.rulePack.rulesStrings.12>
+  <NamerFactionPirate.rulePack.rulesStrings.13>r_name->The [ColorBadass] [Enemy]s</NamerFactionPirate.rulePack.rulesStrings.13>
+  <NamerFactionPirate.rulePack.rulesStrings.14>r_name->The [PersonBadass] [groupname]</NamerFactionPirate.rulePack.rulesStrings.14>
+  <NamerFactionPirate.rulePack.rulesStrings.15>r_name->The [Enemy] [Enemy]s</NamerFactionPirate.rulePack.rulesStrings.15>
+  <NamerFactionPirate.rulePack.rulesStrings.16>r_name->The [AdjectiveBadass] [groupname]</NamerFactionPirate.rulePack.rulesStrings.16>
+  <NamerFactionPirate.rulePack.rulesStrings.17>r_name->The [AdjectiveBadass] [AnimalBadass]s</NamerFactionPirate.rulePack.rulesStrings.17>
   <NamerFactionPirate.rulePack.rulesStrings.18>r_name->The [AdjectiveBadass] [Enemy]s</NamerFactionPirate.rulePack.rulesStrings.18>
   <NamerFactionPirate.rulePack.rulesStrings.19>r_name->The [AdjectiveBadass] [PersonBadass]s</NamerFactionPirate.rulePack.rulesStrings.19>
   <NamerFactionPirate.rulePack.rulesStrings.20>r_name->The [PersonAlly]s of [ConceptBadass]</NamerFactionPirate.rulePack.rulesStrings.20>

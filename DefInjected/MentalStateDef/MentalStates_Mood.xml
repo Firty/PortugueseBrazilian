@@ -25,7 +25,7 @@
   <Jailbreaker.baseInspectLine>Estado mental: induzindo fuga da prisão</Jailbreaker.baseInspectLine>
 
   <Slaughterer.label>abate</Slaughterer.label>
-  <Slaughterer.beginLetter>{0} teve um colapso mental e irá descontar raiva dHE em seus animais.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>{0} teve um colapso mental e irá descontar raiva d[PAWN_pronoun] em seus animais.</Slaughterer.beginLetter>
   <Slaughterer.beginLetterLabel>abate</Slaughterer.beginLetterLabel>
   <Slaughterer.recoveryMessage>{0} is no longer slaughtering random animals.</Slaughterer.recoveryMessage>
   <Slaughterer.baseInspectLine>Estado mental: Abate</Slaughterer.baseInspectLine>

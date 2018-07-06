@@ -100,6 +100,7 @@
   <LetterLabelAffair>Caso</LetterLabelAffair>
   <LetterAffair>{0}, casado(a) com {1}, começou um caso com {2}.</LetterAffair>
   <LetterLabelNewLovers>Novos amantes</LetterLabelNewLovers>
+  <LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
   <LetterNoLongerLovers>{0} e {1} não estão mais em um relacionamento.</LetterNoLongerLovers>
   <LetterLabelBreakup>Rompimento</LetterLabelBreakup>
   <LetterLabelAcceptedProposal>Casamento em andamento!</LetterLabelAcceptedProposal>
@@ -130,7 +131,7 @@
 
   <!-- Newly addicted -->
   <LetterLabelNewlyAddicted>Dependência em {0}</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{0} desenvolveu uma dependência em {1}.\n\nHECAP tem agora uma necessidade por {1}, visível em sua aba de Necessidades. [PAWN_pronoun] consumirá automaticamente a droga para preencher a sua necessidade. Se [PAWN_pronoun] ficar sem qualquer {1}, [PAWN_pronoun] irá entrar em retirada.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{0} desenvolveu uma dependência em {1}.\n\n[PAWN_pronoun] tem agora uma necessidade por {1}, visível em sua aba de Necessidades. [PAWN_pronoun] consumirá automaticamente a droga para preencher a sua necessidade. Se [PAWN_pronoun] ficar sem qualquer {1}, [PAWN_pronoun] irá entrar em retirada.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <LetterLabelDrugBinge>Compulsão por {0}</LetterLabelDrugBinge>

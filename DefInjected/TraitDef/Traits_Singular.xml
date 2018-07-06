@@ -29,7 +29,7 @@
   <Masochist.degreeDatas.0.description>Para [PAWN_nameDef], há algo emocionante em se machucar. [PAWN_pronoun] não sabe porque. A dor está ligada a [PAWN_pronoun] de forma diferente.</Masochist.degreeDatas.0.description>
 
   <NightOwl.degreeDatas.0.label>coruja da noite</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] gosta de estar acordado(a) durante a noite, e dormir durante o dia.\n\nHECAP recebe um bônus de humor se acordado(a) à noite (23h-6h) e perde humor se acordado(a) durante o dia (11h-18h).</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>[PAWN_nameDef] gosta de estar acordado(a) durante a noite, e dormir durante o dia.\n\n[PAWN_pronoun] recebe um bônus de humor se acordado(a) à noite (23h-6h) e perde humor se acordado(a) durante o dia (11h-18h).</NightOwl.degreeDatas.0.description>
 
   <Greedy.degreeDatas.0.label>ganancioso</Greedy.degreeDatas.0.label>
   <Greedy.degreeDatas.0.description>[PAWN_nameDef] precisa realmente de um quarto impressionante. [PAWN_pronoun] recebe uma perda de humor se [PAWN_pronoun] não conseguir o que [PAWN_pronoun] quer.</Greedy.degreeDatas.0.description>

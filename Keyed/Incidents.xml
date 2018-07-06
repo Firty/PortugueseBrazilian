@@ -38,9 +38,9 @@
   <GroupTravelersPassing>Um grupo de viajantes de {0} está passando por perto.</GroupTravelersPassing>
 
   <LetterLabelSingleVisitorArrives>Visitante</LetterLabelSingleVisitorArrives>
-  <SingleVisitorArrives>Um(a) {0} de {1} está visitando a colônia.\n\nHECAP se chama {2}.{3}{4}</SingleVisitorArrives>
-  <SingleVisitorArrivesTraderInfo>\n\nHECAP parece ter alguns itens para o comércio.</SingleVisitorArrivesTraderInfo>
-  <SingleVisitorArrivesLeaderInfo>\n\nHECAP é o líder da facção.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrives>Um(a) {0} de {1} está visitando a colônia.\n\n[PAWN_pronoun] se chama {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] parece ter alguns itens para o comércio.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] é o líder da facção.</SingleVisitorArrivesLeaderInfo>
   <LetterLabelGroupVisitorsArrive>Visitantes</LetterLabelGroupVisitorsArrive>
   <GroupVisitorsArrive>Um grupo de {0} está visitando a colônia.{1}{2}</GroupVisitorsArrive>
   <GroupVisitorsArriveTraderInfo>\n\nEles parecem ter alguns itens para o comércio.</GroupVisitorsArriveTraderInfo>
@@ -82,7 +82,7 @@
 
   <!-- Refugee chased -->
   <RefugeeChasedTitle>Refugiado perseguido em {0}</RefugeeChasedTitle>
-  <RefugeeChasedInitial>Um(a) {1} chamado(a) {0} te chama por perto. [PAWN_pronoun] está sendo perseguido(a) pelos {2} de {3}!\n\nHECAP implora por segurança e se oferece para se juntar a colônia. Biologicamente [PAWN_pronoun] tem {4} anos de idade.\n\nEsteja avisado - se você aceitar, você terá que lutar contra os {2} que estão atrás d[PAWN_pronoun].</RefugeeChasedInitial>
+  <RefugeeChasedInitial>Um(a) {1} chamado(a) {0} te chama por perto. [PAWN_pronoun] está sendo perseguido(a) pelos {2} de {3}!\n\n[PAWN_pronoun] implora por segurança e se oferece para se juntar a colônia. Biologicamente [PAWN_pronoun] tem {4} anos de idade.\n\nEsteja avisado - se você aceitar, você terá que lutar contra os {2} que estão atrás d[PAWN_pronoun].</RefugeeChasedInitial>
   <RefugeeChasedInitial_Accept>Oferecer segurança</RefugeeChasedInitial_Accept>
   <RefugeeChasedInitial_Reject>Ignorar a mensagem</RefugeeChasedInitial_Reject>
   <RefugeeChasedRejected>{0} grita em pânico pelo pequeno alto-falante antes de você cortar a transmissão.</RefugeeChasedRejected>

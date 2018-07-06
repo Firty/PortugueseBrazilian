@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DamageEvent_Include.rulePack.rulesStrings.0>logentry->[damageSource] [recipient_nameShortDef], [destroying] [recipient_possessive] [destroyed_targets].</DamageEvent_Include.rulePack.rulesStrings.0>
-  <DamageEvent_Include.rulePack.rulesStrings.1>logentry->[damageSource] [recipient_nameShortDef], [destroying] [recipient_possessive] [destroyed_targets] e [damaging] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.1>
-  <DamageEvent_Include.rulePack.rulesStrings.2>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaging] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
-  <DamageEvent_Include.rulePack.rulesStrings.3>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</DamageEvent_Include.rulePack.rulesStrings.3>
+  <DamageEvent_Include.rulePack.rulesStrings.0>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</DamageEvent_Include.rulePack.rulesStrings.0>
+  <DamageEvent_Include.rulePack.rulesStrings.1>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.1>
+  <DamageEvent_Include.rulePack.rulesStrings.2>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</DamageEvent_Include.rulePack.rulesStrings.2>
+  <DamageEvent_Include.rulePack.rulesStrings.3>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</DamageEvent_Include.rulePack.rulesStrings.3>
 
-  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damageSource->o(a) [roof] [collapsed] em</DamageEvent_Ceiling.rulePack.rulesStrings.0>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.0>damage_source->o(a) [roof] [collapsed] em</DamageEvent_Ceiling.rulePack.rulesStrings.0>
   <DamageEvent_Ceiling.rulePack.rulesStrings.1>roof->telhado</DamageEvent_Ceiling.rulePack.rulesStrings.1>
   <DamageEvent_Ceiling.rulePack.rulesStrings.2>roof->cobertura</DamageEvent_Ceiling.rulePack.rulesStrings.2>
   <DamageEvent_Ceiling.rulePack.rulesStrings.3>roof->teto</DamageEvent_Ceiling.rulePack.rulesStrings.3>
   <DamageEvent_Ceiling.rulePack.rulesStrings.4>collapsed->desabou</DamageEvent_Ceiling.rulePack.rulesStrings.4>
   <DamageEvent_Ceiling.rulePack.rulesStrings.5>collapsed->caiu</DamageEvent_Ceiling.rulePack.rulesStrings.5>
   <DamageEvent_Ceiling.rulePack.rulesStrings.6>collapsed->cedeu</DamageEvent_Ceiling.rulePack.rulesStrings.6>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.7>damaging->estilhaçou</DamageEvent_Ceiling.rulePack.rulesStrings.7>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.8>damaging->golpeou</DamageEvent_Ceiling.rulePack.rulesStrings.8>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.9>damaging->espancou</DamageEvent_Ceiling.rulePack.rulesStrings.9>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.10>damaging->contusionou</DamageEvent_Ceiling.rulePack.rulesStrings.10>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.11>damaging->dilacerou</DamageEvent_Ceiling.rulePack.rulesStrings.11>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.12>destroying->despedaçou</DamageEvent_Ceiling.rulePack.rulesStrings.12>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.13>destroying->esmagou</DamageEvent_Ceiling.rulePack.rulesStrings.13>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.14>destroying->obliterou</DamageEvent_Ceiling.rulePack.rulesStrings.14>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.15>destroying->aniquilou</DamageEvent_Ceiling.rulePack.rulesStrings.15>
-  <DamageEvent_Ceiling.rulePack.rulesStrings.16>destroying->quebrou</DamageEvent_Ceiling.rulePack.rulesStrings.16>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.7>damaged_present->estilhaçou</DamageEvent_Ceiling.rulePack.rulesStrings.7>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.8>damaged_present->golpeou</DamageEvent_Ceiling.rulePack.rulesStrings.8>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.9>damaged_present->espancou</DamageEvent_Ceiling.rulePack.rulesStrings.9>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.10>damaged_present->contusionou</DamageEvent_Ceiling.rulePack.rulesStrings.10>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.11>damaged_present->dilacerou</DamageEvent_Ceiling.rulePack.rulesStrings.11>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.12>destroyed_present->despedaçou</DamageEvent_Ceiling.rulePack.rulesStrings.12>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.13>destroyed_present->esmagou</DamageEvent_Ceiling.rulePack.rulesStrings.13>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.14>destroyed_present->obliterou</DamageEvent_Ceiling.rulePack.rulesStrings.14>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.15>destroyed_present->aniquilou</DamageEvent_Ceiling.rulePack.rulesStrings.15>
+  <DamageEvent_Ceiling.rulePack.rulesStrings.16>destroyed_present->quebrou</DamageEvent_Ceiling.rulePack.rulesStrings.16>
 
-  <DamageEvent_Fire.rulePack.rulesStrings.0>damageSource->[fire] queimado</DamageEvent_Fire.rulePack.rulesStrings.0>
+  <DamageEvent_Fire.rulePack.rulesStrings.0>damage_source->[fire] queimado</DamageEvent_Fire.rulePack.rulesStrings.0>
   <DamageEvent_Fire.rulePack.rulesStrings.1>fire(p=3)->fogo</DamageEvent_Fire.rulePack.rulesStrings.1>
   <DamageEvent_Fire.rulePack.rulesStrings.2>fire(p=3)->um fogo</DamageEvent_Fire.rulePack.rulesStrings.2>
   <DamageEvent_Fire.rulePack.rulesStrings.3>fire(p=3)->o fogo</DamageEvent_Fire.rulePack.rulesStrings.3>
   <DamageEvent_Fire.rulePack.rulesStrings.4>fire->calor</DamageEvent_Fire.rulePack.rulesStrings.4>
   <DamageEvent_Fire.rulePack.rulesStrings.5>fire->uma conflagração</DamageEvent_Fire.rulePack.rulesStrings.5>
   <DamageEvent_Fire.rulePack.rulesStrings.6>fire->um inferno</DamageEvent_Fire.rulePack.rulesStrings.6>
-  <DamageEvent_Fire.rulePack.rulesStrings.7>damaging->escaldante</DamageEvent_Fire.rulePack.rulesStrings.7>
-  <DamageEvent_Fire.rulePack.rulesStrings.8>damaging->grelhante</DamageEvent_Fire.rulePack.rulesStrings.8>
-  <DamageEvent_Fire.rulePack.rulesStrings.9>damaging->abrasador</DamageEvent_Fire.rulePack.rulesStrings.9>
-  <DamageEvent_Fire.rulePack.rulesStrings.10>damaging->chamuscante</DamageEvent_Fire.rulePack.rulesStrings.10>
-  <DamageEvent_Fire.rulePack.rulesStrings.11>destroying->carbonizador</DamageEvent_Fire.rulePack.rulesStrings.11>
-  <DamageEvent_Fire.rulePack.rulesStrings.12>destroying->assador</DamageEvent_Fire.rulePack.rulesStrings.12>
-  <DamageEvent_Fire.rulePack.rulesStrings.13>destroying->cozinhador</DamageEvent_Fire.rulePack.rulesStrings.13>
-  <DamageEvent_Fire.rulePack.rulesStrings.14>destroying->cremador</DamageEvent_Fire.rulePack.rulesStrings.14>
+  <DamageEvent_Fire.rulePack.rulesStrings.7>damaged_present->escaldante</DamageEvent_Fire.rulePack.rulesStrings.7>
+  <DamageEvent_Fire.rulePack.rulesStrings.8>damaged_present->grelhante</DamageEvent_Fire.rulePack.rulesStrings.8>
+  <DamageEvent_Fire.rulePack.rulesStrings.9>damaged_present->abrasador</DamageEvent_Fire.rulePack.rulesStrings.9>
+  <DamageEvent_Fire.rulePack.rulesStrings.10>damaged_present->chamuscante</DamageEvent_Fire.rulePack.rulesStrings.10>
+  <DamageEvent_Fire.rulePack.rulesStrings.11>destroyed_present->carbonizador</DamageEvent_Fire.rulePack.rulesStrings.11>
+  <DamageEvent_Fire.rulePack.rulesStrings.12>destroyed_present->assador</DamageEvent_Fire.rulePack.rulesStrings.12>
+  <DamageEvent_Fire.rulePack.rulesStrings.13>destroyed_present->cozinhador</DamageEvent_Fire.rulePack.rulesStrings.13>
+  <DamageEvent_Fire.rulePack.rulesStrings.14>destroyed_present->cremador</DamageEvent_Fire.rulePack.rulesStrings.14>
 
   <DamageEvent_PowerBeam.rulePack.rulesStrings.0>damage_source->The [sky] opened up on</DamageEvent_PowerBeam.rulePack.rulesStrings.0>
   <DamageEvent_PowerBeam.rulePack.rulesStrings.1>damage_source->A beam of incredible [power] [damaged_past]</DamageEvent_PowerBeam.rulePack.rulesStrings.1>

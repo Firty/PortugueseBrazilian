@@ -73,66 +73,66 @@
   <WorldFeatureNamerCommon.rulePack.rulesStrings.69>story_result->facade</WorldFeatureNamerCommon.rulePack.rulesStrings.69>
   <WorldFeatureNamerCommon.rulePack.rulesStrings.70>story_result->fraud</WorldFeatureNamerCommon.rulePack.rulesStrings.70>
 
-  <NamerMountainRange.rulePack.rulesStrings.0>standardname(p=0.2)->monte [prefix]</NamerMountainRange.rulePack.rulesStrings.0>
-  <NamerMountainRange.rulePack.rulesStrings.1>suffix(p=5)->montanhas</NamerMountainRange.rulePack.rulesStrings.1>
-  <NamerMountainRange.rulePack.rulesStrings.2>suffix(p=2)->extensão</NamerMountainRange.rulePack.rulesStrings.2>
-  <NamerMountainRange.rulePack.rulesStrings.3>suffix->picos</NamerMountainRange.rulePack.rulesStrings.3>
-  <NamerMountainRange.rulePack.rulesStrings.4>suffix->colinas</NamerMountainRange.rulePack.rulesStrings.4>
-  <NamerMountainRange.rulePack.rulesStrings.5>suffix->penhascos</NamerMountainRange.rulePack.rulesStrings.5>
+  <NamerMountainRange.rulePack.rulesStrings.0>standardname(p=0.2)->monte [narrative_name]</NamerMountainRange.rulePack.rulesStrings.0>
+  <NamerMountainRange.rulePack.rulesStrings.1>terrain_word(p=5)->montanhas</NamerMountainRange.rulePack.rulesStrings.1>
+  <NamerMountainRange.rulePack.rulesStrings.2>terrain_word(p=2)->extensão</NamerMountainRange.rulePack.rulesStrings.2>
+  <NamerMountainRange.rulePack.rulesStrings.3>terrain_word->picos</NamerMountainRange.rulePack.rulesStrings.3>
+  <NamerMountainRange.rulePack.rulesStrings.4>terrain_word->colinas</NamerMountainRange.rulePack.rulesStrings.4>
+  <NamerMountainRange.rulePack.rulesStrings.5>terrain_word->penhascos</NamerMountainRange.rulePack.rulesStrings.5>
 
-  <NamerArchipelago.rulePack.rulesStrings.0>standardname(p=0.2)->ilhas pequenas [prefix]</NamerArchipelago.rulePack.rulesStrings.0>
-  <NamerArchipelago.rulePack.rulesStrings.1>suffix(p=4)->ilhas</NamerArchipelago.rulePack.rulesStrings.1>
-  <NamerArchipelago.rulePack.rulesStrings.2>suffix(p=3)->ilhas pequenas</NamerArchipelago.rulePack.rulesStrings.2>
-  <NamerArchipelago.rulePack.rulesStrings.3>suffix(p=3)->arquipélago</NamerArchipelago.rulePack.rulesStrings.3>
-  <NamerArchipelago.rulePack.rulesStrings.4>suffix->recife</NamerArchipelago.rulePack.rulesStrings.4>
-  <NamerArchipelago.rulePack.rulesStrings.5>suffix->atol</NamerArchipelago.rulePack.rulesStrings.5>
-  <NamerArchipelago.rulePack.rulesStrings.6>suffix->rochas</NamerArchipelago.rulePack.rulesStrings.6>
-  <NamerArchipelago.rulePack.rulesStrings.7>suffix->terras</NamerArchipelago.rulePack.rulesStrings.7>
-  <NamerArchipelago.rulePack.rulesStrings.8>terrain_word->points</NamerArchipelago.rulePack.rulesStrings.8>
-  <NamerArchipelago.rulePack.rulesStrings.9>terrain_word->chain</NamerArchipelago.rulePack.rulesStrings.9>
+  <NamerArchipelago.rulePack.rulesStrings.0>standardname(p=0.2)->ilhas pequenas [narrative_name]</NamerArchipelago.rulePack.rulesStrings.0>
+  <NamerArchipelago.rulePack.rulesStrings.1>terrain_word(p=4)->ilhas</NamerArchipelago.rulePack.rulesStrings.1>
+  <NamerArchipelago.rulePack.rulesStrings.2>terrain_word(p=3)->ilhas pequenas</NamerArchipelago.rulePack.rulesStrings.2>
+  <NamerArchipelago.rulePack.rulesStrings.3>terrain_word(p=3)->arquipélago</NamerArchipelago.rulePack.rulesStrings.3>
+  <NamerArchipelago.rulePack.rulesStrings.4>terrain_word->recife</NamerArchipelago.rulePack.rulesStrings.4>
+  <NamerArchipelago.rulePack.rulesStrings.5>terrain_word->atol</NamerArchipelago.rulePack.rulesStrings.5>
+  <NamerArchipelago.rulePack.rulesStrings.6>terrain_word->rochas</NamerArchipelago.rulePack.rulesStrings.6>
+  <NamerArchipelago.rulePack.rulesStrings.7>terrain_word->terras</NamerArchipelago.rulePack.rulesStrings.7>
+  <NamerArchipelago.rulePack.rulesStrings.8>terrain_word->picos</NamerArchipelago.rulePack.rulesStrings.8>
+  <NamerArchipelago.rulePack.rulesStrings.9>terrain_word->cordilheira</NamerArchipelago.rulePack.rulesStrings.9>
 
-  <NamerIsland.rulePack.rulesStrings.0>mainname(p=0.2)->isle [prefix]</NamerIsland.rulePack.rulesStrings.0>
-  <NamerIsland.rulePack.rulesStrings.1>suffix(p=4)->ilha</NamerIsland.rulePack.rulesStrings.1>
-  <NamerIsland.rulePack.rulesStrings.2>suffix(p=2)->ilha pequena</NamerIsland.rulePack.rulesStrings.2>
-  <NamerIsland.rulePack.rulesStrings.3>suffix->recife</NamerIsland.rulePack.rulesStrings.3>
-  <NamerIsland.rulePack.rulesStrings.4>suffix->rocha</NamerIsland.rulePack.rulesStrings.4>
-  <NamerIsland.rulePack.rulesStrings.5>suffix->ponto</NamerIsland.rulePack.rulesStrings.5>
-  <NamerIsland.rulePack.rulesStrings.6>terrain_word->islet</NamerIsland.rulePack.rulesStrings.6>
-  <NamerIsland.rulePack.rulesStrings.7>terrain_word->point</NamerIsland.rulePack.rulesStrings.7>
+  <NamerIsland.rulePack.rulesStrings.0>standardname(p=0.2)->ilhas pequenas [narrative_name]</NamerIsland.rulePack.rulesStrings.0>
+  <NamerIsland.rulePack.rulesStrings.1>terrain_word(p=4)->ilhas</NamerIsland.rulePack.rulesStrings.1>
+  <NamerIsland.rulePack.rulesStrings.2>terrain_word(p=2)->ilhas pequenas</NamerIsland.rulePack.rulesStrings.2>
+  <NamerIsland.rulePack.rulesStrings.3>terrain_word->recife</NamerIsland.rulePack.rulesStrings.3>
+  <NamerIsland.rulePack.rulesStrings.4>terrain_word->atol</NamerIsland.rulePack.rulesStrings.4>
+  <NamerIsland.rulePack.rulesStrings.5>terrain_word->rochas</NamerIsland.rulePack.rulesStrings.5>
+  <NamerIsland.rulePack.rulesStrings.6>terrain_word->ilhota</NamerIsland.rulePack.rulesStrings.6>
+  <NamerIsland.rulePack.rulesStrings.7>terrain_word->pico</NamerIsland.rulePack.rulesStrings.7>
 
-  <NamerPeninsula.rulePack.rulesStrings.0>standardname(p=0.2)->point [prefix]</NamerPeninsula.rulePack.rulesStrings.0>
-  <NamerPeninsula.rulePack.rulesStrings.1>standardname(p=0.2)->cabo [prefix]</NamerPeninsula.rulePack.rulesStrings.1>
-  <NamerPeninsula.rulePack.rulesStrings.2>suffix(p=8)->península</NamerPeninsula.rulePack.rulesStrings.2>
-  <NamerPeninsula.rulePack.rulesStrings.3>suffix(p=2)->ponto</NamerPeninsula.rulePack.rulesStrings.3>
-  <NamerPeninsula.rulePack.rulesStrings.4>suffix->cabo</NamerPeninsula.rulePack.rulesStrings.4>
-  <NamerPeninsula.rulePack.rulesStrings.5>suffix->promontório</NamerPeninsula.rulePack.rulesStrings.5>
-  <NamerPeninsula.rulePack.rulesStrings.6>suffix->chifre</NamerPeninsula.rulePack.rulesStrings.6>
+  <NamerPeninsula.rulePack.rulesStrings.0>standardname(p=0.2)->pico [narrative_name]</NamerPeninsula.rulePack.rulesStrings.0>
+  <NamerPeninsula.rulePack.rulesStrings.1>standardname(p=0.2)->cabo [narrative_name]</NamerPeninsula.rulePack.rulesStrings.1>
+  <NamerPeninsula.rulePack.rulesStrings.2>terrain_word(p=5)->península</NamerPeninsula.rulePack.rulesStrings.2>
+  <NamerPeninsula.rulePack.rulesStrings.3>terrain_word(p=2)->pico</NamerPeninsula.rulePack.rulesStrings.3>
+  <NamerPeninsula.rulePack.rulesStrings.4>terrain_word->cabo</NamerPeninsula.rulePack.rulesStrings.4>
+  <NamerPeninsula.rulePack.rulesStrings.5>terrain_word->promontório</NamerPeninsula.rulePack.rulesStrings.5>
+  <NamerPeninsula.rulePack.rulesStrings.6>terrain_word->braço</NamerPeninsula.rulePack.rulesStrings.6>
 
-  <NamerBay.rulePack.rulesStrings.0>standardname(p=0.2)->golfo de [prefix]</NamerBay.rulePack.rulesStrings.0>
-  <NamerBay.rulePack.rulesStrings.1>suffix(p=6)->baía</NamerBay.rulePack.rulesStrings.1>
-  <NamerBay.rulePack.rulesStrings.2>suffix->angra</NamerBay.rulePack.rulesStrings.2>
-  <NamerBay.rulePack.rulesStrings.3>suffix->golfo</NamerBay.rulePack.rulesStrings.3>
-  <NamerBay.rulePack.rulesStrings.4>suffix->ancoragem</NamerBay.rulePack.rulesStrings.4>
-  <NamerBay.rulePack.rulesStrings.5>suffix->enseada</NamerBay.rulePack.rulesStrings.5>
+  <NamerBay.rulePack.rulesStrings.0>standardname(p=0.2)->golfo de [narrative_name]</NamerBay.rulePack.rulesStrings.0>
+  <NamerBay.rulePack.rulesStrings.1>terrain_word(p=6)->baía</NamerBay.rulePack.rulesStrings.1>
+  <NamerBay.rulePack.rulesStrings.2>terrain_word->angra</NamerBay.rulePack.rulesStrings.2>
+  <NamerBay.rulePack.rulesStrings.3>terrain_word->golfo</NamerBay.rulePack.rulesStrings.3>
+  <NamerBay.rulePack.rulesStrings.4>terrain_word->ancoradouro</NamerBay.rulePack.rulesStrings.4>
+  <NamerBay.rulePack.rulesStrings.5>terrain_word->enseada</NamerBay.rulePack.rulesStrings.5>
 
-  <NamerLake.rulePack.rulesStrings.0>standardname->lago [prefix]</NamerLake.rulePack.rulesStrings.0>
-  <NamerLake.rulePack.rulesStrings.1>suffix(p=2)->lago</NamerLake.rulePack.rulesStrings.1>
-  <NamerLake.rulePack.rulesStrings.2>suffix->mar</NamerLake.rulePack.rulesStrings.2>
-  <NamerLake.rulePack.rulesStrings.3>terrain_word->pond</NamerLake.rulePack.rulesStrings.3>
-  <NamerLake.rulePack.rulesStrings.4>terrain_word->basin</NamerLake.rulePack.rulesStrings.4>
-  <NamerLake.rulePack.rulesStrings.5>terrain_word->reservoir</NamerLake.rulePack.rulesStrings.5>
-  <NamerLake.rulePack.rulesStrings.6>terrain_word(p=0.3)->puddle</NamerLake.rulePack.rulesStrings.6>
-  <NamerLake.rulePack.rulesStrings.7>terrain_word(p=0.3)->lagoon</NamerLake.rulePack.rulesStrings.7>
-  <NamerLake.rulePack.rulesStrings.8>terrain_word(p=0.3)->loch</NamerLake.rulePack.rulesStrings.8>
+  <NamerLake.rulePack.rulesStrings.0>standardname->lago [narrative_name]</NamerLake.rulePack.rulesStrings.0>
+  <NamerLake.rulePack.rulesStrings.1>terrain_word(p=6)->lago</NamerLake.rulePack.rulesStrings.1>
+  <NamerLake.rulePack.rulesStrings.2>terrain_word->mar</NamerLake.rulePack.rulesStrings.2>
+  <NamerLake.rulePack.rulesStrings.3>terrain_word->lagoa</NamerLake.rulePack.rulesStrings.3>
+  <NamerLake.rulePack.rulesStrings.4>terrain_word->bacia</NamerLake.rulePack.rulesStrings.4>
+  <NamerLake.rulePack.rulesStrings.5>terrain_word->reservatório</NamerLake.rulePack.rulesStrings.5>
+  <NamerLake.rulePack.rulesStrings.6>terrain_word(p=0.3)->lamaçal</NamerLake.rulePack.rulesStrings.6>
+  <NamerLake.rulePack.rulesStrings.7>terrain_word(p=0.3)->laguna</NamerLake.rulePack.rulesStrings.7>
+  <NamerLake.rulePack.rulesStrings.8>terrain_word(p=0.3)->lago</NamerLake.rulePack.rulesStrings.8>
 
-  <NamerSea.rulePack.rulesStrings.0>standardname(p=0.1)->lago [prefix]</NamerSea.rulePack.rulesStrings.0>
-  <NamerSea.rulePack.rulesStrings.1>suffix(p=6)->mar</NamerSea.rulePack.rulesStrings.1>
-  <NamerSea.rulePack.rulesStrings.2>suffix->oceano</NamerSea.rulePack.rulesStrings.2>
-  <NamerSea.rulePack.rulesStrings.3>suffix->lago</NamerSea.rulePack.rulesStrings.3>
+  <NamerSea.rulePack.rulesStrings.0>standardname(p=0.1)->lake [narrative_name]</NamerSea.rulePack.rulesStrings.0>
+  <NamerSea.rulePack.rulesStrings.1>terrain_word(p=6)->mar</NamerSea.rulePack.rulesStrings.1>
+  <NamerSea.rulePack.rulesStrings.2>terrain_word->oceano</NamerSea.rulePack.rulesStrings.2>
+  <NamerSea.rulePack.rulesStrings.3>terrain_word->lake</NamerSea.rulePack.rulesStrings.3>
 
-  <NamerOcean.rulePack.rulesStrings.0>standardname(p=0.1)->profundo [prefix]</NamerOcean.rulePack.rulesStrings.0>
-  <NamerOcean.rulePack.rulesStrings.1>suffix(p=6)->oceano</NamerOcean.rulePack.rulesStrings.1>
-  <NamerOcean.rulePack.rulesStrings.2>suffix->extensão</NamerOcean.rulePack.rulesStrings.2>
+  <NamerOcean.rulePack.rulesStrings.0>standardname(p=0.4)->[ocean_adjective] [narrative_name]</NamerOcean.rulePack.rulesStrings.0>
+  <NamerOcean.rulePack.rulesStrings.1>ocean_adjective->blue</NamerOcean.rulePack.rulesStrings.1>
+  <NamerOcean.rulePack.rulesStrings.2>ocean_adjective->white</NamerOcean.rulePack.rulesStrings.2>
   <NamerOcean.rulePack.rulesStrings.3>ocean_adjective->gray</NamerOcean.rulePack.rulesStrings.3>
   <NamerOcean.rulePack.rulesStrings.4>ocean_adjective->clear</NamerOcean.rulePack.rulesStrings.4>
   <NamerOcean.rulePack.rulesStrings.5>ocean_adjective->windy</NamerOcean.rulePack.rulesStrings.5>
@@ -148,13 +148,13 @@
   <NamerOcean.rulePack.rulesStrings.15>terrain_word(p=3)->sea</NamerOcean.rulePack.rulesStrings.15>
   <NamerOcean.rulePack.rulesStrings.16>terrain_word->expanse</NamerOcean.rulePack.rulesStrings.16>
 
-  <NamerDesert.rulePack.rulesStrings.0>suffix(p=6)->deserto</NamerDesert.rulePack.rulesStrings.0>
-  <NamerDesert.rulePack.rulesStrings.1>suffix->planalto</NamerDesert.rulePack.rulesStrings.1>
-  <NamerDesert.rulePack.rulesStrings.2>suffix->planície</NamerDesert.rulePack.rulesStrings.2>
-  <NamerDesert.rulePack.rulesStrings.3>suffix->bacia</NamerDesert.rulePack.rulesStrings.3>
-  <NamerDesert.rulePack.rulesStrings.4>suffix->terra desolada</NamerDesert.rulePack.rulesStrings.4>
-  <NamerDesert.rulePack.rulesStrings.5>suffix->terra desertifica</NamerDesert.rulePack.rulesStrings.5>
-  <NamerDesert.rulePack.rulesStrings.6>suffix->terras estéreis</NamerDesert.rulePack.rulesStrings.6>
+  <NamerDesert.rulePack.rulesStrings.0>standardname(p=0.4)->[desert_adjective] [narrative_name]</NamerDesert.rulePack.rulesStrings.0>
+  <NamerDesert.rulePack.rulesStrings.1>desert_adjective->flat</NamerDesert.rulePack.rulesStrings.1>
+  <NamerDesert.rulePack.rulesStrings.2>desert_adjective->white</NamerDesert.rulePack.rulesStrings.2>
+  <NamerDesert.rulePack.rulesStrings.3>desert_adjective->endless</NamerDesert.rulePack.rulesStrings.3>
+  <NamerDesert.rulePack.rulesStrings.4>desert_adjective->heartless</NamerDesert.rulePack.rulesStrings.4>
+  <NamerDesert.rulePack.rulesStrings.5>desert_adjective->parched</NamerDesert.rulePack.rulesStrings.5>
+  <NamerDesert.rulePack.rulesStrings.6>desert_adjective->dry</NamerDesert.rulePack.rulesStrings.6>
   <NamerDesert.rulePack.rulesStrings.7>desert_adjective->long</NamerDesert.rulePack.rulesStrings.7>
   <NamerDesert.rulePack.rulesStrings.8>desert_adjective->sunburned</NamerDesert.rulePack.rulesStrings.8>
   <NamerDesert.rulePack.rulesStrings.9>desert_adjective->sunny</NamerDesert.rulePack.rulesStrings.9>
@@ -171,14 +171,14 @@
   <NamerDesert.rulePack.rulesStrings.20>terrain_word->wasteland</NamerDesert.rulePack.rulesStrings.20>
   <NamerDesert.rulePack.rulesStrings.21>terrain_word->barrens</NamerDesert.rulePack.rulesStrings.21>
 
-  <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->brejo [prefix]</NamerSwamp.rulePack.rulesStrings.0>
-  <NamerSwamp.rulePack.rulesStrings.1>suffix(p=6)->pântano</NamerSwamp.rulePack.rulesStrings.1>
-  <NamerSwamp.rulePack.rulesStrings.2>suffix->bacia</NamerSwamp.rulePack.rulesStrings.2>
-  <NamerSwamp.rulePack.rulesStrings.3>suffix->zona húmida</NamerSwamp.rulePack.rulesStrings.3>
-  <NamerSwamp.rulePack.rulesStrings.4>suffix->banhado</NamerSwamp.rulePack.rulesStrings.4>
-  <NamerSwamp.rulePack.rulesStrings.5>suffix->charco</NamerSwamp.rulePack.rulesStrings.5>
-  <NamerSwamp.rulePack.rulesStrings.6>suffix->pantanal</NamerSwamp.rulePack.rulesStrings.6>
-  <NamerSwamp.rulePack.rulesStrings.7>suffix->brejo</NamerSwamp.rulePack.rulesStrings.7>
+  <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->fen [narrative_name]</NamerSwamp.rulePack.rulesStrings.0>
+  <NamerSwamp.rulePack.rulesStrings.1>standardname(p=0.3)->[swamp_adjective] [narrative_name]</NamerSwamp.rulePack.rulesStrings.1>
+  <NamerSwamp.rulePack.rulesStrings.2>swamp_adjective->wet</NamerSwamp.rulePack.rulesStrings.2>
+  <NamerSwamp.rulePack.rulesStrings.3>swamp_adjective->steamy</NamerSwamp.rulePack.rulesStrings.3>
+  <NamerSwamp.rulePack.rulesStrings.4>swamp_adjective->choking</NamerSwamp.rulePack.rulesStrings.4>
+  <NamerSwamp.rulePack.rulesStrings.5>swamp_adjective->rotten</NamerSwamp.rulePack.rulesStrings.5>
+  <NamerSwamp.rulePack.rulesStrings.6>swamp_adjective->rotting</NamerSwamp.rulePack.rulesStrings.6>
+  <NamerSwamp.rulePack.rulesStrings.7>swamp_adjective->overgrown</NamerSwamp.rulePack.rulesStrings.7>
   <NamerSwamp.rulePack.rulesStrings.8>swamp_adjective->tangled</NamerSwamp.rulePack.rulesStrings.8>
   <NamerSwamp.rulePack.rulesStrings.9>swamp_adjective->viny</NamerSwamp.rulePack.rulesStrings.9>
   <NamerSwamp.rulePack.rulesStrings.10>swamp_adjective->thorny</NamerSwamp.rulePack.rulesStrings.10>
@@ -205,10 +205,10 @@
   <NamerTropicalRainforest.rulePack.rulesStrings.12>terrain_word->woodland</NamerTropicalRainforest.rulePack.rulesStrings.12>
   <NamerTropicalRainforest.rulePack.rulesStrings.13>terrain_word->tangle</NamerTropicalRainforest.rulePack.rulesStrings.13>
 
-  <NamerForest.rulePack.rulesStrings.0>suffix(p=6)->floresta</NamerForest.rulePack.rulesStrings.0>
-  <NamerForest.rulePack.rulesStrings.1>suffix->bosque</NamerForest.rulePack.rulesStrings.1>
-  <NamerForest.rulePack.rulesStrings.2>suffix->pantanal</NamerForest.rulePack.rulesStrings.2>
-  <NamerForest.rulePack.rulesStrings.3>suffix->taiga</NamerForest.rulePack.rulesStrings.3>
+  <NamerForest.rulePack.rulesStrings.0>terrain_word(p=6)->floresta</NamerForest.rulePack.rulesStrings.0>
+  <NamerForest.rulePack.rulesStrings.1>terrain_word->bosque</NamerForest.rulePack.rulesStrings.1>
+  <NamerForest.rulePack.rulesStrings.2>terrain_word->pantanal</NamerForest.rulePack.rulesStrings.2>
+  <NamerForest.rulePack.rulesStrings.3>terrain_word->taiga</NamerForest.rulePack.rulesStrings.3>
 
   <NamerBorealForest.rulePack.rulesStrings.0>terrain_word(p=6)->forest</NamerBorealForest.rulePack.rulesStrings.0>
   <NamerBorealForest.rulePack.rulesStrings.1>terrain_word(p=3)->taiga</NamerBorealForest.rulePack.rulesStrings.1>
@@ -218,16 +218,16 @@
   <NamerBorealForest.rulePack.rulesStrings.5>terrain_word->tangle</NamerBorealForest.rulePack.rulesStrings.5>
   <NamerBorealForest.rulePack.rulesStrings.6>terrain_word->thicket</NamerBorealForest.rulePack.rulesStrings.6>
 
-  <NamerAridShrubland.rulePack.rulesStrings.0>suffix(p=4)->área arbustiva</NamerAridShrubland.rulePack.rulesStrings.0>
-  <NamerAridShrubland.rulePack.rulesStrings.1>suffix(p=4)->matagal</NamerAridShrubland.rulePack.rulesStrings.1>
-  <NamerAridShrubland.rulePack.rulesStrings.2>suffix(p=2)->planalto</NamerAridShrubland.rulePack.rulesStrings.2>
-  <NamerAridShrubland.rulePack.rulesStrings.3>suffix(p=2)->mata</NamerAridShrubland.rulePack.rulesStrings.3>
-  <NamerAridShrubland.rulePack.rulesStrings.4>suffix->deserto</NamerAridShrubland.rulePack.rulesStrings.4>
-  <NamerAridShrubland.rulePack.rulesStrings.5>suffix->arbusto</NamerAridShrubland.rulePack.rulesStrings.5>
-  <NamerAridShrubland.rulePack.rulesStrings.6>suffix->moita</NamerAridShrubland.rulePack.rulesStrings.6>
-  <NamerAridShrubland.rulePack.rulesStrings.7>suffix->terras estéreis</NamerAridShrubland.rulePack.rulesStrings.7>
+  <NamerAridShrubland.rulePack.rulesStrings.0>terrain_word(p=4)->área arbustiva</NamerAridShrubland.rulePack.rulesStrings.0>
+  <NamerAridShrubland.rulePack.rulesStrings.1>terrain_word(p=4)->matagal</NamerAridShrubland.rulePack.rulesStrings.1>
+  <NamerAridShrubland.rulePack.rulesStrings.2>terrain_word(p=2)->planalto</NamerAridShrubland.rulePack.rulesStrings.2>
+  <NamerAridShrubland.rulePack.rulesStrings.3>terrain_word(p=2)->mata</NamerAridShrubland.rulePack.rulesStrings.3>
+  <NamerAridShrubland.rulePack.rulesStrings.4>terrain_word->deserto</NamerAridShrubland.rulePack.rulesStrings.4>
+  <NamerAridShrubland.rulePack.rulesStrings.5>terrain_word->arbusto</NamerAridShrubland.rulePack.rulesStrings.5>
+  <NamerAridShrubland.rulePack.rulesStrings.6>terrain_word->moita</NamerAridShrubland.rulePack.rulesStrings.6>
+  <NamerAridShrubland.rulePack.rulesStrings.7>terrain_word->terras estéreis</NamerAridShrubland.rulePack.rulesStrings.7>
 
-  <NamerIceSheet.rulePack.rulesStrings.0>suffix->camada</NamerIceSheet.rulePack.rulesStrings.0>
+  <NamerIceSheet.rulePack.rulesStrings.0>terrain_word->camada</NamerIceSheet.rulePack.rulesStrings.0>
   <NamerIceSheet.rulePack.rulesStrings.1>terrain_word->expanse</NamerIceSheet.rulePack.rulesStrings.1>
   <NamerIceSheet.rulePack.rulesStrings.2>terrain_word(p=0.5)->reach</NamerIceSheet.rulePack.rulesStrings.2>
   <NamerIceSheet.rulePack.rulesStrings.3>terrain_word(p=0.3)->field</NamerIceSheet.rulePack.rulesStrings.3>
@@ -236,18 +236,18 @@
   <NamerIceSheet.rulePack.rulesStrings.6>terrain_word(p=0.3)->stretch</NamerIceSheet.rulePack.rulesStrings.6>
   <NamerIceSheet.rulePack.rulesStrings.7>terrain_word(p=0.3)->tract</NamerIceSheet.rulePack.rulesStrings.7>
 
-  <NamerTundra.rulePack.rulesStrings.0>suffix(p=4)->planalto</NamerTundra.rulePack.rulesStrings.0>
-  <NamerTundra.rulePack.rulesStrings.1>suffix(p=4)->terras estéreis</NamerTundra.rulePack.rulesStrings.1>
-  <NamerTundra.rulePack.rulesStrings.2>suffix(p=2)->taiga</NamerTundra.rulePack.rulesStrings.2>
-  <NamerTundra.rulePack.rulesStrings.3>suffix->mata</NamerTundra.rulePack.rulesStrings.3>
-  <NamerTundra.rulePack.rulesStrings.4>suffix->área arbustiva</NamerTundra.rulePack.rulesStrings.4>
-  <NamerTundra.rulePack.rulesStrings.5>suffix->matagal</NamerTundra.rulePack.rulesStrings.5>
-  <NamerTundra.rulePack.rulesStrings.6>suffix->arbusto</NamerTundra.rulePack.rulesStrings.6>
-  <NamerTundra.rulePack.rulesStrings.7>suffix->moita</NamerTundra.rulePack.rulesStrings.7>
-  <NamerTundra.rulePack.rulesStrings.8>suffix->terras estéreis</NamerTundra.rulePack.rulesStrings.8>
-  <NamerTundra.rulePack.rulesStrings.9>suffix->extensão</NamerTundra.rulePack.rulesStrings.9>
-  <NamerTundra.rulePack.rulesStrings.10>suffix->pradaria</NamerTundra.rulePack.rulesStrings.10>
-  <NamerTundra.rulePack.rulesStrings.11>suffix->planície</NamerTundra.rulePack.rulesStrings.11>
+  <NamerTundra.rulePack.rulesStrings.0>terrain_word(p=4)->planalto</NamerTundra.rulePack.rulesStrings.0>
+  <NamerTundra.rulePack.rulesStrings.1>terrain_word(p=4)->terras estéreis</NamerTundra.rulePack.rulesStrings.1>
+  <NamerTundra.rulePack.rulesStrings.2>terrain_word(p=2)->taiga</NamerTundra.rulePack.rulesStrings.2>
+  <NamerTundra.rulePack.rulesStrings.3>terrain_word->mata</NamerTundra.rulePack.rulesStrings.3>
+  <NamerTundra.rulePack.rulesStrings.4>terrain_word->área arbustiva</NamerTundra.rulePack.rulesStrings.4>
+  <NamerTundra.rulePack.rulesStrings.5>terrain_word->matagal</NamerTundra.rulePack.rulesStrings.5>
+  <NamerTundra.rulePack.rulesStrings.6>terrain_word->arbusto</NamerTundra.rulePack.rulesStrings.6>
+  <NamerTundra.rulePack.rulesStrings.7>terrain_word->moita</NamerTundra.rulePack.rulesStrings.7>
+  <NamerTundra.rulePack.rulesStrings.8>terrain_word->terras estéreis</NamerTundra.rulePack.rulesStrings.8>
+  <NamerTundra.rulePack.rulesStrings.9>terrain_word->extensão</NamerTundra.rulePack.rulesStrings.9>
+  <NamerTundra.rulePack.rulesStrings.10>terrain_word->pradaria</NamerTundra.rulePack.rulesStrings.10>
+  <NamerTundra.rulePack.rulesStrings.11>terrain_word->planície</NamerTundra.rulePack.rulesStrings.11>
 
 
 </LanguageData>

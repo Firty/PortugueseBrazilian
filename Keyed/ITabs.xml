@@ -62,7 +62,7 @@
   <InPain>Com dor</InPain>
   <PainLevel>Dor</PainLevel>
   <Injured>Ferido</Injured>
-  <NoHealthConditions>sem condições de saúde</NoHealthConditions>
+  <NoInjuries>(sem ferimentos)</NoInjuries>
   <WholeBody>Corpo inteiro</WholeBody>
   <DataProcessing>Process. de dados</DataProcessing>
   <Communication>Comunicação</Communication>
@@ -154,12 +154,12 @@
   <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
   <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
 
+  <!--<NoHealthConditions>sem condições de saúde</NoHealthConditions>-->
   <!--<PrisonerNoInteraction>Sem interação</PrisonerNoInteraction>-->
   <!--<PrisonerFriendlyChat>Conversa amigável</PrisonerFriendlyChat>-->
   <!--<PrisonerAttemptRecruit>Conversar e recrutar</PrisonerAttemptRecruit>-->
   <!--<PrisonerRelease>Soltar</PrisonerRelease>-->
   <!--<PrisonerExecution>Executar</PrisonerExecution>-->
-  <!--<NoInjuries>(sem ferimentos)</NoInjuries>-->
   <!--<Harvest>Coletar</Harvest>-->
   <!-- Training tab-->
   <!--<TrainableIntelligence>Inteligência de treinamento</TrainableIntelligence>-->
