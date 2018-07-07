@@ -20,12 +20,12 @@
 
   <!-- Building interaction -->
 
-  <Play_Horseshoes.reportString>playing horseshoes.</Play_Horseshoes.reportString>
-  <Play_Hoopstone.reportString>playing hoopstone.</Play_Hoopstone.reportString>
-  <Play_GameOfUr.reportString>playing the game of Ur.</Play_GameOfUr.reportString>
-  <Play_Chess.reportString>playing chess.</Play_Chess.reportString>
-  <Play_Billiards.reportString>playing billiards.</Play_Billiards.reportString>
-  <Play_Poker.reportString>playing poker.</Play_Poker.reportString>
+  <Play_Horseshoes.reportString>jogando ferraduras.</Play_Horseshoes.reportString>
+  <Play_Hoopstone.reportString>jogando pedras.</Play_Hoopstone.reportString>
+  <Play_GameOfUr.reportString>jogando com tabuleiro de Ur.</Play_GameOfUr.reportString>
+  <Play_Chess.reportString>jogando xadrez.</Play_Chess.reportString>
+  <Play_Billiards.reportString>jogando bilhar.</Play_Billiards.reportString>
+  <Play_Poker.reportString>jogando poker.</Play_Poker.reportString>
   <WatchTelevision.reportString>assistindo televisão.</WatchTelevision.reportString>
   <UseTelescope.reportString>usando o telescópio.</UseTelescope.reportString>
 

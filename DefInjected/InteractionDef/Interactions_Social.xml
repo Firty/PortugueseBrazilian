@@ -4,7 +4,7 @@
   <!-- Random social interactions -->
 
   <Chitchat.label>bate papo</Chitchat.label>
-  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Teve uma boa conversa com [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
+  <Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [TalkTopicLight].</Chitchat.logRulesInitiator.rulesStrings.0>
   <Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameIndef].</Chitchat.logRulesInitiator.rulesStrings.1>
   <Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameIndef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameIndef].</Chitchat.logRulesInitiator.rulesStrings.2>
   <Chitchat.logRulesInitiator.rulesStrings.3>talkedabout(p=4)->chatted about</Chitchat.logRulesInitiator.rulesStrings.3>
@@ -21,7 +21,7 @@
   <Chitchat.logRulesInitiator.rulesStrings.14>commentedabout->told a joke about</Chitchat.logRulesInitiator.rulesStrings.14>
 
   <DeepTalk.label>conversa profunda</DeepTalk.label>
-  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Teve uma conversa profunda com [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] and [RECIPIENT_nameIndef] [talkedabout] [subject].</DeepTalk.logRulesInitiator.rulesStrings.0>
   <DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] [talkedabout] [subject] with [RECIPIENT_nameIndef].</DeepTalk.logRulesInitiator.rulesStrings.1>
   <DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->communicated thoughts about</DeepTalk.logRulesInitiator.rulesStrings.2>
   <DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->exchanged thoughts about</DeepTalk.logRulesInitiator.rulesStrings.3>
@@ -36,7 +36,7 @@
   <DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</DeepTalk.logRulesInitiator.rulesStrings.12>
 
   <Slight.label>desprezo</Slight.label>
-  <Slight.logRulesInitiator.rulesStrings.0>logentry->Desprezou [other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [madefunof] [target]'s [PersonalCharacteristic].</Slight.logRulesInitiator.rulesStrings.0>
   <Slight.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_nameIndef]</Slight.logRulesInitiator.rulesStrings.1>
   <Slight.logRulesInitiator.rulesStrings.2>target->[RECIPIENT_nameIndef]'s [PersonFamily]</Slight.logRulesInitiator.rulesStrings.2>
   <Slight.logRulesInitiator.rulesStrings.3>madefunof->made fun of</Slight.logRulesInitiator.rulesStrings.3>
@@ -53,7 +53,7 @@
   <Slight.logRulesInitiator.rulesStrings.14>madefunof->offered a backhanded compliment about</Slight.logRulesInitiator.rulesStrings.14>
 
   <Insult.label>insulto</Insult.label>
-  <Insult.logRulesInitiator.rulesStrings.0>logentry->Insultou [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameIndef] [insulted] [target]'s [PersonalCharacteristic].</Insult.logRulesInitiator.rulesStrings.0>
   <Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] compared [target] to a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.1>
   <Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] called [target] a [insultcomparison].</Insult.logRulesInitiator.rulesStrings.2>
   <Insult.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameIndef]</Insult.logRulesInitiator.rulesStrings.3>
@@ -71,8 +71,8 @@
   <Insult.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</Insult.logRulesInitiator.rulesStrings.15>
   <Insult.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</Insult.logRulesInitiator.rulesStrings.16>
 
-  <KindWords.label>palavras gentis</KindWords.label>
-  <KindWords.logRulesInitiator.rulesStrings.0>logentry->Disse palavras gentis para [other_nameShortIndef].</KindWords.logRulesInitiator.rulesStrings.0>
+  <KindWords.label>amabilidade</KindWords.label>
+  <KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [complimented] [RECIPIENT_nameIndef]'s [PersonalCharacteristic].</KindWords.logRulesInitiator.rulesStrings.0>
   <KindWords.logRulesInitiator.rulesStrings.1>complimented(p=3)->complimented</KindWords.logRulesInitiator.rulesStrings.1>
   <KindWords.logRulesInitiator.rulesStrings.2>complimented->praised</KindWords.logRulesInitiator.rulesStrings.2>
   <KindWords.logRulesInitiator.rulesStrings.3>complimented->commended</KindWords.logRulesInitiator.rulesStrings.3>

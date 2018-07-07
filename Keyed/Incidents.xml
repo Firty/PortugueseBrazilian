@@ -20,7 +20,6 @@
 
   <LetterLabelRefugeePodCrash>Cápsula de escape</LetterLabelRefugeePodCrash>
   <RefugeePodCrash>Você detectou uma cápsula de escape colidindo nas proximidades.\n\nSe alguém sobreviveu ao impacto, eles irão estar gravemente feridos.\n\nVocê pode resgatá-los e enviá-los no caminho deles. Ou capture-os para fins de recrutamento ou escravidão.</RefugeePodCrash>
-  <RefugeePodCrashFactionWarning>Nota: [PAWN_nameDef] é de [PAWN_factionName]. Ao capturar [PAWN_objective] irá irritá-los, enquanto resgatar e curar [PAWN_objective] melhorará as relações entre as facções.</RefugeePodCrashFactionWarning>
 
   <LetterLabelCargoPodCrash>Cápsulas de carga</LetterLabelCargoPodCrash>
   <CargoPodCrash>Você detectou um conjunto de cápsulas de carga colidindo nas proximidades.\n\nTalvez você encontre algo de útil nos destroços.</CargoPodCrash>
@@ -153,6 +152,7 @@
   <LetterSiteNoLongerHostileMulti>Because you are no longer hostile with {0}, the following sites are no longer available</LetterSiteNoLongerHostileMulti>
 
 
+  <!--<RefugeePodCrashFactionWarning>Nota: [PAWN_nameDef] é de [PAWN_factionName]. Ao capturar [PAWN_objective] irá irritá-los, enquanto resgatar e curar [PAWN_objective] melhorará as relações entre as facções.</RefugeePodCrashFactionWarning>-->
   <!--<CropBlight>Uma praga misteriosa devastou suas plantações.</CropBlight>-->
   <!--<EnemyRaidWalkIn>Um grupo de {0} de {1} chegou nas proximidades.</EnemyRaidWalkIn>-->
   <!--<EnemyRaidEdgeDrop>Um grupo de {0} de {1} chegou em cápsulas nas proximidades.</EnemyRaidEdgeDrop>-->

@@ -62,7 +62,7 @@
   <InPain>Com dor</InPain>
   <PainLevel>Dor</PainLevel>
   <Injured>Ferido</Injured>
-  <NoHealthConditions>no health conditions</NoHealthConditions>
+  <NoInjuries>(sem ferimentos)</NoInjuries>
   <WholeBody>Corpo inteiro</WholeBody>
   <DataProcessing>Process. de dados</DataProcessing>
   <Communication>Comunicação</Communication>
@@ -154,7 +154,6 @@
   <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
   <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
 
-  <!--<NoInjuries>(sem ferimentos)</NoInjuries>-->
   <!--<NoHealthConditions>sem condições de saúde</NoHealthConditions>-->
   <!--<PrisonerNoInteraction>Sem interação</PrisonerNoInteraction>-->
   <!--<PrisonerFriendlyChat>Conversa amigável</PrisonerFriendlyChat>-->

@@ -2,7 +2,7 @@
 <LanguageData>
 
   <BuildRapport.label>tentou conhecer</BuildRapport.label>
-  <BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Tentou construir relações com [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+  <BuildRapport.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [toldastoryabout] [subject] com [RECIPIENT_nameIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
   <BuildRapport.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] told [RECIPIENT_nameIndef] about [subject].</BuildRapport.logRulesInitiator.rulesStrings.1>
   <BuildRapport.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] described [subject] to [RECIPIENT_nameIndef].</BuildRapport.logRulesInitiator.rulesStrings.2>
   <BuildRapport.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameIndef] encouraged [RECIPIENT_nameIndef] to [talkabout] [subject].</BuildRapport.logRulesInitiator.rulesStrings.3>
@@ -38,13 +38,13 @@
   <BuildRapport.logRulesInitiator.rulesStrings.33>subject(p=8)->[TalkTopicLight]</BuildRapport.logRulesInitiator.rulesStrings.33>
 
   <RecruitAttempt.label>tentativa de recrutamento</RecruitAttempt.label>
-  <RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Tentou recrutar [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+  <RecruitAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] asked [RECIPIENT_nameIndef] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.0>
   <RecruitAttempt.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] promised [goodthing] to [RECIPIENT_nameIndef], and asked [RECIPIENT_objective] to join.</RecruitAttempt.logRulesInitiator.rulesStrings.1>
   <RecruitAttempt.logRulesInitiator.rulesStrings.2>goodthing(p=15)->[ConceptPositive]</RecruitAttempt.logRulesInitiator.rulesStrings.2>
   <RecruitAttempt.logRulesInitiator.rulesStrings.3>goodthing->free, fresh [Vegetable]s</RecruitAttempt.logRulesInitiator.rulesStrings.3>
 
   <SparkJailbreak.label>centelha de fuga da prisão</SparkJailbreak.label>
-  <SparkJailbreak.logRulesInitiator.rulesStrings.0>logentry->Induziu [other_nameShortIndef] a escapar.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
+  <SparkJailbreak.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] spoke about the joy of [freedom], and offered a means of escape.</SparkJailbreak.logRulesInitiator.rulesStrings.0>
   <SparkJailbreak.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</SparkJailbreak.logRulesInitiator.rulesStrings.1>
   <SparkJailbreak.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] demonstrated a means of escape to [RECIPIENT_nameIndef], and promised [freedom].</SparkJailbreak.logRulesInitiator.rulesStrings.2>
   <SparkJailbreak.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameIndef] told [RECIPIENT_nameIndef] that security is lax, and encouraged escape.</SparkJailbreak.logRulesInitiator.rulesStrings.3>

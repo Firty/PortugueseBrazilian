@@ -2,7 +2,7 @@
 <LanguageData>
 
   <RomanceAttempt.label>tentativa de romance</RomanceAttempt.label>
-  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Tentou seduzir [other_nameShortIndef] em um romance.</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] [wooed] [OTHER_nameIndef] by [wootactic].</RomanceAttempt.logRulesInitiator.rulesStrings.0>
   <RomanceAttempt.logRulesInitiator.rulesStrings.1>wooed->tried to flirt with</RomanceAttempt.logRulesInitiator.rulesStrings.1>
   <RomanceAttempt.logRulesInitiator.rulesStrings.2>wooed->flirted with</RomanceAttempt.logRulesInitiator.rulesStrings.2>
   <RomanceAttempt.logRulesInitiator.rulesStrings.3>wooed->tried to attract</RomanceAttempt.logRulesInitiator.rulesStrings.3>
@@ -64,12 +64,12 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings.59>romantic_noun(p=2)->[NaturalObject]</RomanceAttempt.logRulesInitiator.rulesStrings.59>
 
   <MarriageProposal.label>proposta de casamento</MarriageProposal.label>
-  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Propós casamento para [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] propós casamento para [OTHER_nameIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
   <MarriageProposal.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] proposed a lifelong commitment to [OTHER_nameIndef].</MarriageProposal.logRulesInitiator.rulesStrings.1>
   <MarriageProposal.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [OTHER_objective].</MarriageProposal.logRulesInitiator.rulesStrings.2>
 
   <Breakup.label>rompimento</Breakup.label>
-  <Breakup.logRulesInitiator.rulesStrings.0>logentry->Rompeu com [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for a break.</Breakup.logRulesInitiator.rulesStrings.0>
   <Breakup.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameIndef] asked [OTHER_nameIndef] for some space.</Breakup.logRulesInitiator.rulesStrings.1>
   <Breakup.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it's not working out.</Breakup.logRulesInitiator.rulesStrings.2>
   <Breakup.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameIndef] told [OTHER_nameIndef] that it would be best to see other people.</Breakup.logRulesInitiator.rulesStrings.3>

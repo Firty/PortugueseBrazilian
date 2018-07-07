@@ -181,8 +181,6 @@ Note que se os autores de mods atualizarem seus mods para uma nova versão do jo
   <Range>Alcance</Range>
   <StoppingPower>Stopping power</StoppingPower>
   <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
-  <DirectHitChance>Chance de acerto direto</DirectHitChance>
-  <MissRadius>Raio de erro</MissRadius>
   <GrowsWild>Crescimento selvagem</GrowsWild>
   <Harvestable>Colhível</Harvestable>
   <LimitedLifespan>Tempo de vida limitado</LimitedLifespan>
@@ -444,6 +442,8 @@ Note que se os autores de mods atualizarem seus mods para uma nova versão do jo
   <!-- Settle near a faction base -->
   <ConfirmSettleNearFactionBase>Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways?</ConfirmSettleNearFactionBase>
 
+  <!--<DirectHitChance>Chance de acerto direto</DirectHitChance>-->
+  <!--<MissRadius>Raio de erro</MissRadius>-->
   <!--<DoXTimes>Fazer X vezes</DoXTimes>-->
   <!--<DoUntilYouHaveX>Fazer até ter X</DoUntilYouHaveX>-->
   <!--<DoForever>Fazer sempre</DoForever>-->
