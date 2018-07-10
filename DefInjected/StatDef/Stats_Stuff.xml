@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StuffPower_Armor_Sharp.label>Armadura - Afiado</StuffPower_Armor_Sharp.label>
-  <StuffPower_Armor_Sharp.description>Armadura contra danos afiados como balas, facadas e mordidas de animais.</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.label>Armadura - Cortante</StuffPower_Armor_Sharp.label>
+  <StuffPower_Armor_Sharp.description>Armadura contra danos cortantes como balas, facadas e mordidas de animais.</StuffPower_Armor_Sharp.description>
 
   <StuffPower_Armor_Blunt.label>Armadura - Contundente</StuffPower_Armor_Blunt.label>
   <StuffPower_Armor_Blunt.description>Aramdura contra danos contundentes como impactos de porretes, quedas de rochas e explosões.</StuffPower_Armor_Blunt.description>

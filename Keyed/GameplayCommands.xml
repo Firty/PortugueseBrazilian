@@ -24,7 +24,7 @@
   <!-- Drafting -->
   <CommandDraftLabel>Alistar</CommandDraftLabel>
   <CommandUndraftLabel>Desalistar</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Alista para o modo de combate\n\npessoas alistadas recebem ordens e lutam. Eles não irão trabalhar, comer ou dormir.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Alista para o modo de combate\n\nPessoas alistadas recebem ordens e lutam. Elas não irão trabalhar, comer ou dormir.</CommandToggleDraftDesc>
   <IsIncapped>{0} não pode andar.</IsIncapped>
 
   <CommandFireAtWillLabel>Disparo à vontade</CommandFireAtWillLabel>

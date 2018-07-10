@@ -5,8 +5,8 @@
   <StuffEffectMultiplierInsulation_Heat.label>Insulation - Heat - Material effect multiplier</StuffEffectMultiplierInsulation_Heat.label>
   <StuffEffectMultiplierArmor.label>Armor - Material effect multiplier</StuffEffectMultiplierArmor.label>
 
-  <ArmorRating_Sharp.label>Resistência - Afiado</ArmorRating_Sharp.label>
-  <ArmorRating_Sharp.description>Resistência contra danos afiados como balas, golpes de faca, e mordidas de animais.</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.label>Resistência - Cortante</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.description>Resistência contra danos cortantes como balas, golpes de faca, e mordidas de animais.</ArmorRating_Sharp.description>
 
   <ArmorRating_Blunt.label>Resistência - Contundente</ArmorRating_Blunt.label>
   <ArmorRating_Blunt.description>Resistência contra dano contundente como ataques de porrete, queda de rochas, e explosões.</ArmorRating_Blunt.description>

@@ -13,8 +13,8 @@
   <MeleeWeapon_CooldownMultiplier.label>recarga corpo a corpo</MeleeWeapon_CooldownMultiplier.label>
   <MeleeWeapon_CooldownMultiplier.description>Multiplicador no atraso de ataque para itens feitos deste material.</MeleeWeapon_CooldownMultiplier.description>
 
-  <SharpDamageMultiplier.label>dano afiado</SharpDamageMultiplier.label>
-  <SharpDamageMultiplier.description>Multiplicador sobre danos com ataques afiados como corte ou esfaqueamento para itens feitos deste material.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.label>dano cortante</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.description>Multiplicador sobre danos com ataques cortantes como corte ou esfaqueamento para itens feitos deste material.</SharpDamageMultiplier.description>
 
   <BluntDamageMultiplier.label>dano contundente</BluntDamageMultiplier.label>
   <BluntDamageMultiplier.description>Multiplicador sobre danos com ataques contundentes para itens feitos deste material.</BluntDamageMultiplier.description>

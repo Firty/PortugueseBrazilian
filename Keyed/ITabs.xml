@@ -127,7 +127,7 @@
   <MassCarried>Peso carregado: {0} / {1} kg</MassCarried>
   <ComfyTemperatureRange>Faixa de temperatura confortável</ComfyTemperatureRange>
   <ArmorBlunt>Contundente</ArmorBlunt>
-  <ArmorSharp>Afiado</ArmorSharp>
+  <ArmorSharp>Cortante</ArmorSharp>
   <ArmorHeat>Calor</ArmorHeat>
 
   <!-- Log tab -->
