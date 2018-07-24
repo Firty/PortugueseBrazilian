@@ -1,16 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<InfiniteChemreactor.label>combustivel infinito</InfiniteChemreactor.label>
-
-	<InfiniteChemreactor.description>Lentamente gera combustivel por uma série de reações químicas, usando átomos extraídos do ar.</InfiniteChemreactor.description>
-
-	<PsychicEmanator.label>emanador psíquico</PsychicEmanator.label>
-
-	<PsychicEmanator.description>Um dispositivo antigo que projeta um calmante psíquico em torno de si. Isso melhora o humor de qualquer pessoa por perto. Funciona através das paredes.</PsychicEmanator.description>
-
-	<VanometricPowerCell.label>célula de potência vanométrica</VanometricPowerCell.label>
-
-	<VanometricPowerCell.description>Gera energia para sempre, sem usar combustível. Essa tecnologia é desenvolvida por IAs de alto nível e está além da maioria das sociedades do mundo. Ninguém sabe exatamente como isso funciona, os estudiosos acreditam que de alguma forma extrai energia diretamente das flutuações na espuma quântica.</VanometricPowerCell.description>
-
+  
+  <!-- EN: infinite chemreactor -->
+  <InfiniteChemreactor.label>TODO</InfiniteChemreactor.label>
+  <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
+  <InfiniteChemreactor.description>TODO</InfiniteChemreactor.description>
+  
+  <!-- EN: psychic emanator -->
+  <PsychicEmanator.label>TODO</PsychicEmanator.label>
+  <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
+  <PsychicEmanator.description>TODO</PsychicEmanator.description>
+  
+  <!-- EN: vanometric power cell -->
+  <VanometricPowerCell.label>TODO</VanometricPowerCell.label>
+  <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotech AIs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
+  <VanometricPowerCell.description>TODO</VanometricPowerCell.description>
+  
 </LanguageData>

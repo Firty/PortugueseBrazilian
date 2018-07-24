@@ -1,8 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<TemperateSwamp.label>pântano temperado</TemperateSwamp.label>
-
-	<TemperateSwamp.description>A vegetação extremamente densa e o terreno pantanoso dificultam muito a movimentação por aqui e a construção de grandes estruturas. Muitas espécies de animais vivem nesta área.</TemperateSwamp.description>
-
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>floresta temperada</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Florestas de árvores de folhas caduca intercalados com clareiras férteis. Muitas espécies de animais se movem nas árvores e nas planícies. Por causa da neve, é lento viajar no inverno.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>TODO</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>TODO</TemperateSwamp.description>
+  
 </LanguageData>

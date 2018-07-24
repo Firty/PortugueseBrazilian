@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Mote_SmokeFlake.label>Mote</Mote_SmokeFlake.label>
-
-	<Mote_SmokeJoint.label>Mote</Mote_SmokeJoint.label>
-
+  
+  <!-- EN: Mote -->
+  <Mote_SmokeFlake.label>TODO</Mote_SmokeFlake.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SmokeJoint.label>TODO</Mote_SmokeJoint.label>
+  
 </LanguageData>

@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<ItemStash.label>estoque de itens</ItemStash.label>
-
-	<ItemStash.description>Um estoque de itens valiosos.</ItemStash.description>
-
+  
+  <!-- EN: item stash -->
+  <ItemStash.label>TODO</ItemStash.label>
+  <!-- EN: A stash of valuable items. -->
+  <ItemStash.description>TODO</ItemStash.description>
+  
 </LanguageData>

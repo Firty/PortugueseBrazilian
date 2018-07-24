@@ -1,44 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Apparel_CowboyHat.label>chapéu de caubói</Apparel_CowboyHat.label>
-
-	<Apparel_CowboyHat.description>Elegante e robusto, isto protege do sol e a chuva afora - e dá a qualquer um que usá-lo um pouco de charme extra. É a parte mais importante do vestuário ocidental tradicional.</Apparel_CowboyHat.description>
-
-	<Apparel_Tuque.label>touca</Apparel_Tuque.label>
-
-	<Apparel_Tuque.description>Uma touca grossa e macia. Ótima para se manter quente no inverno.</Apparel_Tuque.description>
-
-	<Apparel_MilitaryHelmet.label>capacete militar</Apparel_MilitaryHelmet.label>
-
-	<Apparel_MilitaryHelmet.description>Com aparência antiga, pesado, mas eficaz. Protege contra projéteis de baixa velocidade, estilhaços, queda de detritos, e cortes na cabeça.</Apparel_MilitaryHelmet.description>
-
-	<Apparel_PowerArmorHelmet.label>capacete de armadura energizada</Apparel_PowerArmorHelmet.label>
-
-	<Apparel_PowerArmorHelmet.description>Uma parte do conjunto da armadura energizada, usado principalmente pela infantaria pesada.</Apparel_PowerArmorHelmet.description>
-
-	<Apparel_KevlarHelmet.label>capacete balístico</Apparel_KevlarHelmet.label>
-
-	<Apparel_KevlarHelmet.description>Um capacete leve de combate.</Apparel_KevlarHelmet.description>
-
-	<Apparel_PsychicFoilHelmet.label>capacete psíquico folheado</Apparel_PsychicFoilHelmet.label>
-
-	<Apparel_PsychicFoilHelmet.description>Um capacete fino contendo folhas de absorção psíquica. Reduz o impacto de eventos psíquicos.</Apparel_PsychicFoilHelmet.description>
-
-	<Apparel_WarMask.label>máscara de guerra</Apparel_WarMask.label>
-
-	<Apparel_WarMask.description>Uma máscara de guerra artisticamente aterrorizante. Esconde o rosto do usuário e torna-o mais confiante.</Apparel_WarMask.description>
-
-	<Apparel_TribalHeaddress.label>cocar tribal</Apparel_TribalHeaddress.label>
-
-	<Apparel_TribalHeaddress.description>Traje tradicional elegante, muitas vezes com significado religioso. Melhora o impacto social.</Apparel_TribalHeaddress.description>
-
-	<Apparel_BowlerHat.label>chapeu coco</Apparel_BowlerHat.label>
-
-	<Apparel_BowlerHat.description>Um chapéu de boa aparência que projeta um estilo um pouco urbano e amante do dinheiro. Melhora o impacto social.</Apparel_BowlerHat.description>
-
-	<Apparel_WarVeil.label>véu de guerra</Apparel_WarVeil.label>
-
-	<Apparel_WarVeil.description>Um véu de guerra, feito de tecido reforçado, rasgado para parecer danificado em combate. Alguns acreditam que isso funciona como um talismã de coragem.</Apparel_WarVeil.description>
-
+  
+  <!-- UNUSED -->
+  <Apparel_KevlarHelmet.label>capacete balístico</Apparel_KevlarHelmet.label>
+  <Apparel_KevlarHelmet.description>Um capacete leve de combate.</Apparel_KevlarHelmet.description>
+  
+  <!-- UNUSED -->
+  <Apparel_MilitaryHelmet.label>capacete militar</Apparel_MilitaryHelmet.label>
+  <Apparel_MilitaryHelmet.description>Com aparência antiga, pesado, mas eficaz. Protege contra projéteis de baixa velocidade, estilhaços, queda de detritos, e cortes na cabeça.</Apparel_MilitaryHelmet.description>
+  
 </LanguageData>

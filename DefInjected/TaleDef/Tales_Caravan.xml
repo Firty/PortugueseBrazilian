@@ -1,200 +1,127 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<CaravanFormed.label>caravan formed</CaravanFormed.label>
-
-	<CaravanFormed.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] departing for adventure</CaravanFormed.rulepack.rulesstrings.0>
-
-	<CaravanFormed.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] forming a caravan</CaravanFormed.rulepack.rulesstrings.1>
-
-	<CaravanFormed.rulepack.rulesstrings.2>image->[pawn_nameFull] striding forward purposefully [circumstance_group]</CaravanFormed.rulepack.rulesstrings.2>
-
-	<CaravanFormed.rulepack.rulesstrings.3>image->[pawn_nameFull] looking towards the horizon [circumstance_group]</CaravanFormed.rulepack.rulesstrings.3>
-
-	<CaravanFormed.rulepack.rulesstrings.4>image->[pawn_nameFull] packing supplies for a journey [circumstance_group]</CaravanFormed.rulepack.rulesstrings.4>
-
-	<CaravanFormed.rulepack.rulesstrings.5>image->[pawn_nameFull] planning a journey [circumstance_group]</CaravanFormed.rulepack.rulesstrings.5>
-
-	<CaravanFormed.rulepack.rulesstrings.6>circumstance_phrase->and equipped for a fight</CaravanFormed.rulepack.rulesstrings.6>
-
-	<CaravanFormed.rulepack.rulesstrings.7>circumstance_phrase->and equipped for survival</CaravanFormed.rulepack.rulesstrings.7>
-
-	<CaravanFormed.rulepack.rulesstrings.8>circumstance_phrase->and equipped for exploration</CaravanFormed.rulepack.rulesstrings.8>
-
-	<CaravanFormed.rulepack.rulesstrings.9>circumstance_phrase->with an eager look in [pawn_possessive] eyes</CaravanFormed.rulepack.rulesstrings.9>
-
-	<CaravanFormed.rulepack.rulesstrings.10>circumstance_phrase->with a [adjective] look in [pawn_possessive] eyes</CaravanFormed.rulepack.rulesstrings.10>
-
-	<CaravanFormed.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] [ally]s watch the preparations.</CaravanFormed.rulepack.rulesstrings.11>
-
-	<CaravanFormed.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] [ally]s help with the preparations.</CaravanFormed.rulepack.rulesstrings.12>
-
-	<CaravanFormed.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [enemy]s shrink away from the scene.</CaravanFormed.rulepack.rulesstrings.13>
-
-	<CaravanFormed.rulepack.rulesstrings.14>desc_sentence->A [terrainfeature] is visible in the distance.</CaravanFormed.rulepack.rulesstrings.14>
-
-	<CaravanFormed.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] [outlander]s watch from a distance.</CaravanFormed.rulepack.rulesstrings.15>
-
-	<CaravanFormed.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] [animal]s wander peacefully.</CaravanFormed.rulepack.rulesstrings.16>
-
-	<CaravanFled.label>caravan fled</CaravanFled.label>
-
-	<CaravanFled.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] fleeing for [pawn_possessive] life</CaravanFled.rulepack.rulesstrings.0>
-
-	<CaravanFled.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] escaping danger</CaravanFled.rulepack.rulesstrings.1>
-
-	<CaravanFled.rulepack.rulesstrings.2>tale_noun->[pawn_nameShortDef] narrowly escaping danger</CaravanFled.rulepack.rulesstrings.2>
-
-	<CaravanFled.rulepack.rulesstrings.3>tale_noun->[pawn_nameShortDef] chased away by enemies</CaravanFled.rulepack.rulesstrings.3>
-
-	<CaravanFled.rulepack.rulesstrings.4>image->[pawn_nameFull] running frantically [circumstance_group]</CaravanFled.rulepack.rulesstrings.4>
-
-	<CaravanFled.rulepack.rulesstrings.5>image->[pawn_nameFull] sprinting [circumstance_group]</CaravanFled.rulepack.rulesstrings.5>
-
-	<CaravanFled.rulepack.rulesstrings.6>image->[pawn_nameFull] tucked behind a [terrainfeature], hiding [circumstance_group]</CaravanFled.rulepack.rulesstrings.6>
-
-	<CaravanFled.rulepack.rulesstrings.7>image->[pawn_nameFull] putting up a fighting retreat [circumstance_group]</CaravanFled.rulepack.rulesstrings.7>
-
-	<CaravanFled.rulepack.rulesstrings.8>image->[pawn_nameFull] casually strolling away [circumstance_group]</CaravanFled.rulepack.rulesstrings.8>
-
-	<CaravanFled.rulepack.rulesstrings.9>circumstance_phrase->as [quantity_adjphrase] [enemy]s chase</CaravanFled.rulepack.rulesstrings.9>
-
-	<CaravanFled.rulepack.rulesstrings.10>circumstance_phrase->while [quantity_adjphrase] [enemy]s search</CaravanFled.rulepack.rulesstrings.10>
-
-	<CaravanFled.rulepack.rulesstrings.11>circumstance_phrase->from [quantity_adjphrase] [enemy]s</CaravanFled.rulepack.rulesstrings.11>
-
-	<CaravanFled.rulepack.rulesstrings.12>circumstance_phrase->from [quantity_adjphrase] enemy [animal]s</CaravanFled.rulepack.rulesstrings.12>
-
-	<CaravanFled.rulepack.rulesstrings.13>circumstance_phrase->from a [huge] [enemy]</CaravanFled.rulepack.rulesstrings.13>
-
-	<CaravanFled.rulepack.rulesstrings.14>desc_sentence->[pawn_nameShortDef]'s pursuers are brandishing [weapon]s.</CaravanFled.rulepack.rulesstrings.14>
-
-	<CaravanFled.rulepack.rulesstrings.15>desc_sentence->[pawn_nameShortDef]'s pursuers are wreathed in [color] smoke.</CaravanFled.rulepack.rulesstrings.15>
-
-	<CaravanFled.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef]'s pursuers wear [angstyadjective] expressions.</CaravanFled.rulepack.rulesstrings.16>
-
-	<CaravanFled.rulepack.rulesstrings.17>desc_sentence->[pawn_nameShortDef]'s pursuers are brandishing [weapon]s.</CaravanFled.rulepack.rulesstrings.17>
-
-	<CaravanFled.rulepack.rulesstrings.18>desc_sentence->[pawn_nameShortDef] is sweating.</CaravanFled.rulepack.rulesstrings.18>
-
-	<CaravanFled.rulepack.rulesstrings.19>desc_sentence->[pawn_nameShortDef] is gasping for breath.</CaravanFled.rulepack.rulesstrings.19>
-
-	<CaravanAmbushDefeated.label>caravan ambush defeated</CaravanAmbushDefeated.label>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.0>tale_noun->a successful defense of [pawn_nameShortDef]'s caravan</CaravanAmbushDefeated.rulepack.rulesstrings.0>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.1>tale_noun->[pawn_nameShortDef] fighting off an ambush</CaravanAmbushDefeated.rulepack.rulesstrings.1>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.2>image->[pawn_nameFull] organizing resistance while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.2>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.3>image->[pawn_nameFull] wielding a [weapon] defensively while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.3>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.4>image->[pawn_nameFull] retaliating with [pawn_possessive] [weapon] while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.4>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.5>image->[pawn_nameFull] standing as tall as a building while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.5>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.6>image->[pawn_nameFull] wearing a [badassadjective] expression while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.6>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.7>image->[pawn_nameFull] wearing a [angstyadjective] expression while [circumstance_group]</CaravanAmbushDefeated.rulepack.rulesstrings.7>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.8>circumstance_phrase->bracing against the advancing horde</CaravanAmbushDefeated.rulepack.rulesstrings.8>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.9>circumstance_phrase->circling the wagons</CaravanAmbushDefeated.rulepack.rulesstrings.9>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.10>circumstance_phrase->roaring in victory</CaravanAmbushDefeated.rulepack.rulesstrings.10>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.11>circumstance_phrase->brandishing [weapon]s</CaravanAmbushDefeated.rulepack.rulesstrings.11>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.12>circumstance_phrase->covered in [gore]</CaravanAmbushDefeated.rulepack.rulesstrings.12>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.13>desc_sentence->[quantity_adjphrase] [enemy]s advance, brandishing [weapon]s.</CaravanAmbushDefeated.rulepack.rulesstrings.13>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.14>desc_sentence->A huge [enemy] advances, brandishing a [weapon].</CaravanAmbushDefeated.rulepack.rulesstrings.14>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] [enemy]s advance with a [badassadjective] look in their eyes.</CaravanAmbushDefeated.rulepack.rulesstrings.15>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] [enemy]s advance with a [angstyadjective] look in their eyes.</CaravanAmbushDefeated.rulepack.rulesstrings.16>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.17>desc_sentence->[quantity_adjphrase] [animal]s advance with glowing [color] eyes.</CaravanAmbushDefeated.rulepack.rulesstrings.17>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.18>desc_sentence->[quantity_adjphrase] [animal]s advance, covered in [gore].</CaravanAmbushDefeated.rulepack.rulesstrings.18>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.19>desc_sentence->The ground is coated in [gore].</CaravanAmbushDefeated.rulepack.rulesstrings.19>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.20>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</CaravanAmbushDefeated.rulepack.rulesstrings.20>
-
-	<CaravanAmbushDefeated.rulepack.rulesstrings.21>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</CaravanAmbushDefeated.rulepack.rulesstrings.21>
-
-	<CaravanRemoteMining.label>caravan remote mining</CaravanRemoteMining.label>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef] mining a rich vein of [material_label] in a foreign land</CaravanRemoteMining.rulepack.rulesstrings.0>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.1>image->[pawn_nameFull] working a [material_label] wall with mining tools, [circumstance_group]</CaravanRemoteMining.rulepack.rulesstrings.1>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.2>image->[pawn_nameFull] holding up a chunk of [material_label], [circumstance_group]</CaravanRemoteMining.rulepack.rulesstrings.2>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.3>image->[pawn_nameFull] resting against a wall of [material_label], [circumstance_group]</CaravanRemoteMining.rulepack.rulesstrings.3>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.4>image->[pawn_nameFull] coordinating an excavation team against a rich vein of [material_label], [circumstance_group]</CaravanRemoteMining.rulepack.rulesstrings.4>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.5>image->[pawn_nameFull] carefully inspecting a rich vein of [material_label], [circumstance_group]</CaravanRemoteMining.rulepack.rulesstrings.5>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.6>circumstance_phrase->sweating heavily</CaravanRemoteMining.rulepack.rulesstrings.6>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.7>circumstance_phrase->wearing a [friendlyadjective] expression</CaravanRemoteMining.rulepack.rulesstrings.7>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.8>circumstance_phrase->smiling proudly</CaravanRemoteMining.rulepack.rulesstrings.8>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.9>circumstance_phrase->a satisfied expression on [pawn_possessive] face</CaravanRemoteMining.rulepack.rulesstrings.9>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.10>circumstance_phrase->looking around warily for danger</CaravanRemoteMining.rulepack.rulesstrings.10>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] [ally]s assist.</CaravanRemoteMining.rulepack.rulesstrings.11>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.12>desc_sentence->[quantity_adjphrase] [animal]s wander the area.</CaravanRemoteMining.rulepack.rulesstrings.12>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.13>desc_sentence->There is a makeshift shelter in the background.</CaravanRemoteMining.rulepack.rulesstrings.13>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.14>desc_sentence->[quantity_adjphrase] further veins are visible in the distance.</CaravanRemoteMining.rulepack.rulesstrings.14>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.15>desc_sentence->A [terrainfeature] is visible in the distance.</CaravanRemoteMining.rulepack.rulesstrings.15>
-
-	<CaravanRemoteMining.rulepack.rulesstrings.16>desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.</CaravanRemoteMining.rulepack.rulesstrings.16>
-
-	<CaravanAssaultSuccessful.label>caravan assault successful</CaravanAssaultSuccessful.label>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.0>tale_noun->[pawn_nameShortDef]'s caravan defeating an enemy stronghold</CaravanAssaultSuccessful.rulepack.rulesstrings.0>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.1>image->[pawn_nameFull] running towards a [enemy], [circumstance_group]</CaravanAssaultSuccessful.rulepack.rulesstrings.1>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.2>image->[pawn_nameFull] wielding a [weapon], [circumstance_group]</CaravanAssaultSuccessful.rulepack.rulesstrings.2>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.3>image->[pawn_nameFull] swinging a [weapon], [circumstance_group]</CaravanAssaultSuccessful.rulepack.rulesstrings.3>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.4>image->[pawn_nameFull] standing as tall as a building, [circumstance_group]</CaravanAssaultSuccessful.rulepack.rulesstrings.4>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.5>circumstance_phrase->wearing a [badassadjective] look in [pawn_possessive] eyes</CaravanAssaultSuccessful.rulepack.rulesstrings.5>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.6>circumstance_phrase->wearing a [angstyadjective] look in [pawn_possessive] eyes</CaravanAssaultSuccessful.rulepack.rulesstrings.6>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.7>circumstance_phrase->roaring in victory</CaravanAssaultSuccessful.rulepack.rulesstrings.7>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.8>circumstance_phrase->covered in [gore]</CaravanAssaultSuccessful.rulepack.rulesstrings.8>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.9>desc_sentence->[quantity_adjphrase] [enemy]s cower from the assault.</CaravanAssaultSuccessful.rulepack.rulesstrings.9>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.10>desc_sentence->[quantity_adjphrase] [enemy]s flee the area.</CaravanAssaultSuccessful.rulepack.rulesstrings.10>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.11>desc_sentence->[quantity_adjphrase] [enemy]s are visibly wounded.</CaravanAssaultSuccessful.rulepack.rulesstrings.11>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.12>desc_sentence->A [community] burns in the distance.</CaravanAssaultSuccessful.rulepack.rulesstrings.12>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.13>desc_sentence->A [community] smokes in the distance.</CaravanAssaultSuccessful.rulepack.rulesstrings.13>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.14>desc_sentence->The ground is coated in [gore].</CaravanAssaultSuccessful.rulepack.rulesstrings.14>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.15>desc_sentence->[quantity_adjphrase] [outlander]s flee the area.</CaravanAssaultSuccessful.rulepack.rulesstrings.15>
-
-	<CaravanAssaultSuccessful.rulepack.rulesstrings.16>desc_sentence->[quantity_adjphrase] [animal]s flee the area.</CaravanAssaultSuccessful.rulepack.rulesstrings.16>
-
+  
+  <!-- EN: caravan ambush defeated -->
+  <CaravanAmbushDefeated.label>TODO</CaravanAmbushDefeated.label>
+  <!-- EN:
+    <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
+    <li>image->[PAWN_nameFull] organizing resistance while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group]</li>
+    <li>circumstance_phrase->bracing against the advancing horde</li>
+    <li>circumstance_phrase->circling the wagons</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->brandishing [Weapon]s</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s.</li>
+    <li>desc_sentence->A huge [Enemy] advances, brandishing a [Weapon].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore].</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAmbushDefeated.rulePack.rulesStrings>TODO</CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <!-- EN: caravan assault successful -->
+  <CaravanAssaultSuccessful.label>TODO</CaravanAssaultSuccessful.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
+    <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]</li>
+    <li>circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->roaring in victory</li>
+    <li>circumstance_phrase->covered in [Gore]</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded.</li>
+    <li>desc_sentence->A [Community] burns in the distance.</li>
+    <li>desc_sentence->A [Community] smokes in the distance.</li>
+    <li>desc_sentence->The ground is coated in [Gore].</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+  -->
+  <CaravanAssaultSuccessful.rulePack.rulesStrings>TODO</CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <!-- EN: caravan fled -->
+  <CaravanFled.label>TODO</CaravanFled.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger</li>
+    <li>tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies</li>
+    <li>image->[PAWN_nameFull] running frantically [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] sprinting [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] casually strolling away [circumstance_group]</li>
+    <li>circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase</li>
+    <li>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</li>
+    <li>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</li>
+    <li>circumstance_phrase->from a [huge] [Enemy]</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweating.</li>
+    <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
+  -->
+  <CaravanFled.rulePack.rulesStrings>TODO</CaravanFled.rulePack.rulesStrings>
+  
+  <!-- EN: caravan formed -->
+  <CaravanFormed.label>TODO</CaravanFormed.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
+    <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
+    <li>image->[PAWN_nameFull] striding forward purposefully [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] looking towards the horizon [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] packing supplies for a journey [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] planning a journey [circumstance_group]</li>
+    <li>circumstance_phrase->and equipped for a fight</li>
+    <li>circumstance_phrase->and equipped for survival</li>
+    <li>circumstance_phrase->and equipped for exploration</li>
+    <li>circumstance_phrase->with an eager look in [PAWN_possessive] eyes</li>
+    <li>circumstance_phrase->with a [AdjectiveAny] look in [PAWN_possessive] eyes</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s watch the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s help with the preparations.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]s shrink away from the scene.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s watch from a distance.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
+  -->
+  <CaravanFormed.rulePack.rulesStrings>TODO</CaravanFormed.rulePack.rulesStrings>
+  
+  <!-- EN: caravan remote mining -->
+  <CaravanRemoteMining.label>TODO</CaravanRemoteMining.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
+    <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</li>
+    <li>circumstance_phrase->sweating heavily</li>
+    <li>circumstance_phrase->wearing a [AdjectiveFriendly] expression</li>
+    <li>circumstance_phrase->smiling proudly</li>
+    <li>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</li>
+    <li>circumstance_phrase->looking around warily for danger</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]s assist.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</li>
+    <li>desc_sentence->There is a makeshift shelter in the background.</li>
+    <li>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</li>
+    <li>desc_sentence->A [TerrainFeature] is visible in the distance.</li>
+    <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
+  -->
+  <CaravanRemoteMining.rulePack.rulesStrings>TODO</CaravanRemoteMining.rulePack.rulesStrings>
+  
 </LanguageData>

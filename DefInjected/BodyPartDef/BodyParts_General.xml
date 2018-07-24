@@ -1,36 +1,67 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    
-    <Head.label>cabeça</Head.label>
-    
-    <Skull.label>crânio</Skull.label>
-    
-    <Brain.label>cérebro</Brain.label>
-    
-    <LeftEye.label>olho esquerdo</LeftEye.label>
-    
-    <RightEye.label>olho direito</RightEye.label>
-    
-    <LeftEar.label>orelha esquerda</LeftEar.label>
-    
-    <RightEar.label>orelha direita</RightEar.label>
-    
-    <Nose.label>nariz</Nose.label>
-    
-    <Jaw.label>maxilar</Jaw.label>
-    
-    <Neck.label>pescoço</Neck.label>
-    
-    <Rib.label>costela</Rib.label>
-    
-    <Spine.label>espinha</Spine.label>
-    
-    <LeftLeg.label>perna esquerda</LeftLeg.label>
-    
-    <LeftFoot.label>pé esquerdo</LeftFoot.label>
-    
-    <RightLeg.label>perna direita</RightLeg.label>
-    
-    <RightFoot.label>pé direito</RightFoot.label>
-    
+  
+  <!-- EN: brain -->
+  <Brain.label>cérebro</Brain.label>
+  
+  <!-- EN: ear -->
+  <Ear.label>TODO</Ear.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>TODO</Eye.label>
+  
+  <!-- EN: foot -->
+  <Foot.label>TODO</Foot.label>
+  
+  <!-- EN: head -->
+  <Head.label>cabeça</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>maxilar</Jaw.label>
+  
+  <!-- UNUSED -->
+  <LeftEar.label>orelha esquerda</LeftEar.label>
+  
+  <!-- UNUSED -->
+  <LeftEye.label>olho esquerdo</LeftEye.label>
+  
+  <!-- UNUSED -->
+  <LeftFoot.label>pé esquerdo</LeftFoot.label>
+  
+  <!-- UNUSED -->
+  <LeftLeg.label>perna esquerda</LeftLeg.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>TODO</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>pescoço</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>nariz</Nose.label>
+  
+  <!-- UNUSED -->
+  <Rib.label>costela</Rib.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>TODO</Ribcage.label>
+  
+  <!-- UNUSED -->
+  <RightEar.label>orelha direita</RightEar.label>
+  
+  <!-- UNUSED -->
+  <RightEye.label>olho direito</RightEye.label>
+  
+  <!-- UNUSED -->
+  <RightFoot.label>pé direito</RightFoot.label>
+  
+  <!-- UNUSED -->
+  <RightLeg.label>perna direita</RightLeg.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>crânio</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>espinha</Spine.label>
+  
 </LanguageData>
