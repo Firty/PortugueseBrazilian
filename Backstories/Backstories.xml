@@ -3,11 +3,11 @@
   
   <AbandonedChild47>
     <!-- EN: abandoned child -->
-    <title>TODO</title>
+    <title>Criança abandonada</title>
     <!-- EN: abandoned -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Abandonado</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] foi uma criança engraçada e inteligente. Um dia, [PAWN_pronoun] se afastou de pais genéticos e acabou se perdendo em um armazém de minério supostamente abandonado. Devido à tecnologia de clonagem, os pais de [PAWN_possessive] decidiram que ao invés de gastarem tempo procurando [PAWN_objective] era melhor clonar um filho melhor.</desc>
   </AbandonedChild47>
   
   <AbandonedChild60>
@@ -21,11 +21,11 @@
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
-    <title>TODO</title>
+    <title>órfão abandonado</title>
     <!-- EN: orphan -->
-    <titleShort>TODO</titleShort>
+    <titleShort>órfão</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>TODO</desc>
+    <desc>Abandonado ao nascer, o jovem [PAWN_nameDef] iniciou [PAWN_possessive] a vida em um orfanato. \n\nUm patife e um canalha, [PAWN_pronoun] tornou-se um encrenqueiro inteligente.</desc>
   </AbandonedOrphan61>
   
   <Abductee43>
@@ -39,11 +39,11 @@
   
   <Abductee80>
     <!-- EN: abductee -->
-    <title>TODO</title>
+    <title>Abduzido</title>
     <!-- EN: abductee -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Abduzido</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand his genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for his captors and eventually escaped. -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] foi sequestrado por xeno-humanos quando [PAWN_pronoun] ainda era um bebê. Eles experimentaram em [PAWN_objective] para entender sua estrutura genética. \n\nComo [PAWN_pronoun] cresceu, [PAWN_nameDef] ficou um pouco grande demais para seus captores e eventualmente escapou.</desc>
   </Abductee80>
   
   <AcademyStudent80>
@@ -102,11 +102,11 @@
   
   <Adventurer19>
     <!-- EN: adventurer -->
-    <title>TODO</title>
+    <title>Aventureiro</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>Aventureiro</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>TODO</desc>
+    <desc>A sede de aventura de [PAWN_nameDef] levou [PAWN_objective] a muitos planetas. [PAWN_pronoun] visitou os mais brilhantes mundos de purpurina e os mais obscuros planetas tóxicos devastados pela guerra em [PAWN_possessive] para encontrar novidades e excitação. \n\n[PAWN_pronoun] trabalhou o mínimo possível, muitas vezes contornando limites éticos para ganhar dinheiro rapidamente. Entre todos os trabalhos, [PAWN_pronoun] odiava cozinhar.</desc>
   </Adventurer19>
   
   <AdventuringChild56>
@@ -120,20 +120,20 @@
   
   <AdventurousWeirdo83>
     <!-- EN: adventurous weirdo -->
-    <title>TODO</title>
+    <title>aventureiro esquisito</title>
     <!-- EN: weirdo -->
-    <titleShort>TODO</titleShort>
+    <titleShort>esquisito</titleShort>
     <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated his life to his twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-    <desc>TODO</desc>
+    <desc>Um indivíduo criativo mas estranho, [PAWN_nameDef] dedicou a sua vida às suas paixões do mundo medieval e a alta tecnologia. \n\n[PAWN_pronoun] ficou fascinado pela ideia de se tornar um 'skyknight' com uma armadura cintilante e uma espada gigante.</desc>
   </AdventurousWeirdo83>
   
   <AdventurousYouth79>
     <!-- EN: adventurous youth -->
-    <title>TODO</title>
+    <title>aventureiro jovem</title>
     <!-- EN: adventurer -->
-    <titleShort>TODO</titleShort>
+    <titleShort>aventureiro</titleShort>
     <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring his teenage years, [PAWN_nameDef] made numerous enemies -->
-    <desc>TODO</desc>
+    <desc>[PAWN_nameDef] explorou todo o patrimônio da família [PAWN_possessive], descobrindo pequenas maravilhas naturais escondidas nas catacumbas, rios e cavernas próximos. \n\nDurante a adolescência, [PAWN_nameDef] fez inúmeros inimigos</desc>
   </AdventurousYouth79>
   
   <AerospaceEngineer44>
