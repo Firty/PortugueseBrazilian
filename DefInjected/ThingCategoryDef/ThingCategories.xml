@@ -7,9 +7,6 @@
   <!-- EN: apparel -->
   <Apparel.label>vestuário</Apparel.label>
   
-  <!-- UNUSED -->
-  <Art.label>arte</Art.label>
-  
   <!-- EN: artifacts -->
   <Artifacts.label>artefatos</Artifacts.label>
   
@@ -87,9 +84,6 @@
   
   <!-- EN: foods -->
   <Foods.label>comida</Foods.label>
-  
-  <!-- UNUSED -->
-  <Furniture.label>mobília</Furniture.label>
   
   <!-- EN: grenades -->
   <Grenades.label>granadas</Grenades.label>

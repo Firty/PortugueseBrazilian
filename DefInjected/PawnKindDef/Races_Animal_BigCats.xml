@@ -16,9 +16,6 @@
   <Lynx.lifeStages.1.label>lince jovem</Lynx.lifeStages.1.label>
   <Lynx.lifeStages.2.label>lince</Lynx.lifeStages.2.label>
   
-  <!-- UNUSED -->
-  <Lynx.lifeStages.lynx_kitten.label>lince filhote</Lynx.lifeStages.lynx_kitten.label>
-  
   <!-- EN: panther -->
   <Panther.label>pantera</Panther.label>
   <Panther.lifeStages.0.label>pantera filhote</Panther.lifeStages.0.label>

@@ -381,11 +381,4 @@
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Gerando mapa para novo encontro</GeneratingMapForNewEncounter>
 
-  <!-- UNUSED -->
-  <AvgSummerTemp>Temperatura do verão</AvgSummerTemp>
-  <AvgWinterTemp>Temperatura do inverno</AvgWinterTemp>
-  <MovementTimeNow>Tempo de movimento atual</MovementTimeNow>
-  <MovementTimeSummer>Tempo de movimento no verão</MovementTimeSummer>
-  <MovementTimeWinter>Tempo de movimento no inverno</MovementTimeWinter>
-
 </LanguageData>

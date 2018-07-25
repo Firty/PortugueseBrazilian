@@ -70,11 +70,6 @@
     <li>logentry->Insultou [other_nameShortIndef].</li>
   </Insult.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Insult.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi insultado por [other_nameShortIndef].</li>
-  </Insult.logRulesRecipient.rulesStrings>
-  
   <!-- EN: kind words -->
   <KindWords.label>palavras gentis</KindWords.label>
   <!-- EN:
@@ -96,11 +91,6 @@
   <KindWords.logRulesInitiator.rulesStrings>
     <li>logentry->Disse palavras gentis para [other_nameShortIndef].</li>
   </KindWords.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <KindWords.logRulesRecipient.rulesStrings>
-    <li>logentry->Teve palavras gentis dadas por [other_nameShortIndef].</li>
-  </KindWords.logRulesRecipient.rulesStrings>
   
   <!-- EN: slight -->
   <Slight.label>desprezo</Slight.label>
@@ -124,10 +114,5 @@
   <Slight.logRulesInitiator.rulesStrings>
     <li>logentry->Desprezou [other_nameShortIndef].</li>
   </Slight.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Slight.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi desprezado por [other_nameShortIndef].</li>
-  </Slight.logRulesRecipient.rulesStrings>
   
 </LanguageData>

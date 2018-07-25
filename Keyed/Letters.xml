@@ -376,25 +376,4 @@
   <!-- EN: {0} is hunting {1} for food! -->
   <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
 
-  <!-- UNUSED -->
-  <RelationsBrokenDown>As relações com {0} foram rompidas. Eles agora são hostis a você.</RelationsBrokenDown>
-  <RelationsWarmed>As relações com {0} foram melhoradas. Eles agora não são mais hostis.</RelationsWarmed>
-  <RelationsBrokenCapture>Por você ter capturado {0}, {1} agora é seu inimigo.</RelationsBrokenCapture>
-  <ColonyGoodwill>Boa vontade da colônia</ColonyGoodwill>
-  <MentalBreakReason>A última gota foi: {0}.</MentalBreakReason>
-  <LetterRelatedPawnsTradingWithFactionBase>The faction base is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithFactionBase>
-  <LetterNewLovers>{0} e {1} se uniram e agora são amantes.</LetterNewLovers>
-  <LetterLabelRelationsChangeGood>Boa vontade</LetterLabelRelationsChangeGood>
-  <LetterLabelRelationsChangeBad>Má vontade</LetterLabelRelationsChangeBad>
-  <LetterLabelBondedAnimalDied>Morte de mascote</LetterLabelBondedAnimalDied>
-  <LetterBondedAnimalDied>{0}, que era mascote de {1} morreu. Isto irá afetar o humor de {1}.</LetterBondedAnimalDied>
-  <LetterNamedBondedAnimalDied>{0} que se chamava {1} e era mascote de {2} morreu. Isto irá afetar o humor de {2}.</LetterNamedBondedAnimalDied>
-  <LetterBondedAnimalDiedMulti>{0} morreu. Isto irá afetar o humor das seguintes pessoas:\n\n{1}</LetterBondedAnimalDiedMulti>
-  <LetterNamedBondedAnimalDiedMulti>{0} que se chamava {1} morreu. Isto irá afetar o humor das seguintes pessoas:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
-  <LetterLabelFormedCaravan>Caravana pronta</LetterLabelFormedCaravan>
-  <LetterFormedCaravan>Sua caravana se formou e aguarda ordens no mapa do mundo.</LetterFormedCaravan>
-  <LetterCaravanEnteredEnemyBaseBecameHostile>{0} chegou em {1} E está pronto para começar o ataque.\n\nPor causa da sua abordagem hostil, {2} agora é hostil a você.</LetterCaravanEnteredEnemyBaseBecameHostile>
-  <LetterLabelPawnsLostDueToMapCountdown>Deixado para trás</LetterLabelPawnsLostDueToMapCountdown>
-  <LetterPawnsLostDueToMapCountdown>Alguns de seus animais ou prisioneiros foram deixados para trás na região selvagem:\n\n{0}</LetterPawnsLostDueToMapCountdown>
-
 </LanguageData>

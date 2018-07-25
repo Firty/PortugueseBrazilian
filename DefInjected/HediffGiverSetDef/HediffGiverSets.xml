@@ -6,8 +6,4 @@
   <!-- EN: Trauma savant -->
   <Human.hediffGivers.TraumaSavant.letterLabel>TODO</Human.hediffGivers.TraumaSavant.letterLabel>
   
-  <!-- UNUSED -->
-  <OrganicStandard.hediffGivers.4.letterLabel>Traumatismo craniano</OrganicStandard.hediffGivers.4.letterLabel>
-  <OrganicStandard.hediffGivers.4.letter>O cérebro danificado de [PAWN_nameDef] fez [PAWN_pronoun] deselvolver abilidades estranhas pós-traumaticas.</OrganicStandard.hediffGivers.4.letter>
-  
 </LanguageData>

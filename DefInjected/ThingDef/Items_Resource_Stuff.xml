@@ -1,16 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <AlpacaWool.label>lã de alpaca</AlpacaWool.label>
-  <AlpacaWool.description>A lã notavelmente macia de uma alpaca. É muito quente.</AlpacaWool.description>
-  <AlpacaWool.stuffProps.stuffAdjective>lã de alpaca</AlpacaWool.stuffProps.stuffAdjective>
-  
-  <!-- UNUSED -->
-  <CamelHair.label>pêlo de camelo</CamelHair.label>
-  <CamelHair.description>Roupas de pêlo de camelo são normalmente usadas por viajantes do deserto para protegê-los do calor. Ela oferece excelente isolamento devido às suas propriedades termostáticas.</CamelHair.description>
-  <CamelHair.stuffProps.stuffAdjective>pêlo de camelo</CamelHair.stuffProps.stuffAdjective>
-  
   <!-- EN: cloth -->
   <Cloth.label>pano</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
@@ -41,16 +31,6 @@
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
   <Jade.description>Uma pedra verde e dura. Devido a sua beleza e raridade, o jade é frequentemente usado para enfeites e decorações. A sua dureza e densidade também o torna um bom material para armas contundentes.</Jade.description>
   <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
-  
-  <!-- UNUSED -->
-  <MegaslothWool.label>lã de megapreguiça</MegaslothWool.label>
-  <MegaslothWool.description>Embora um tanto grosso, fibras longas de lã megapreguiça torná-o muito forte. É muito quente.</MegaslothWool.description>
-  <MegaslothWool.stuffProps.stuffAdjective>lã de megapreguiça</MegaslothWool.stuffProps.stuffAdjective>
-  
-  <!-- UNUSED -->
-  <MuffaloWool.label>lã de múfalo</MuffaloWool.label>
-  <MuffaloWool.description>Macio, leve e fornece isolamento muito bom. Roupas de lã pode manter o corpo quente, mesmo em condições extremas.</MuffaloWool.description>
-  <MuffaloWool.stuffProps.stuffAdjective>lã de múfalo</MuffaloWool.stuffProps.stuffAdjective>
   
   <!-- EN: plasteel -->
   <Plasteel.label>plastiaço</Plasteel.label>

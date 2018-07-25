@@ -7,9 +7,9 @@
   <Bomb.deathMessage>{0} morreu em uma explosão.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>TODO</BombSuper.label>
+  <BombSuper.label>bomba</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} morreu em uma explosão.</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>deterioração</Deterioration.label>
@@ -32,8 +32,8 @@
   <Rotting.deathMessage>{0} apodreceu.</Rotting.deathMessage>
   
   <!-- EN: smoke -->
-  <Smoke.label>TODO</Smoke.label>
+  <Smoke.label>fumaça</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} foi morto.</Smoke.deathMessage>
   
 </LanguageData>

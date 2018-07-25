@@ -370,15 +370,4 @@
   <!-- EN: Offer help -->
   <OfferHelp>TODO</OfferHelp>
   
-  <!-- UNUSED -->
-  <SociallyImproperLower>socialmente inadequado</SociallyImproperLower>
-  <PrisonerRoomLower>sala de prisioneiro</PrisonerRoomLower>
-  <MissingSkill>habilidade muito baixa</MissingSkill>
-  <NoEmptyGraveLower>nenhuma sepultura vazia configurada para armazenar</NoEmptyGraveLower>
-  <VisitFactionBase>Visitar {0}</VisitFactionBase>
-  <AttackFactionBase>Atacar {0}</AttackFactionBase>
-  <CannotPrioritizeIsNotA>Não pode priorizar ({0} não está atribuído como {1})</CannotPrioritizeIsNotA>
-  <VisitSite>Visitar {0}</VisitSite>
-  <AttackSite>Atacar {0}</AttackSite>
-
 </LanguageData>

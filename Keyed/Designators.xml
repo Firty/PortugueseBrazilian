@@ -223,15 +223,4 @@
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>TODO</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
 
-  <!-- UNUSED -->
-  <DesignatorSmoothFloor>Alisar piso</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Seleciona áreas de terrenos rochosos para serem alisadas.</DesignatorSmoothFloorDesc>
-  <DesignatorAreaBuildRoofClear>Remover área do teto</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Retira a área onde os colonos irão construir telhados. telhados existentes permanecerão, mas os colonos não irão construir mais.</DesignatorAreaBuildRoofClearDesc>
-  <DesignatorAreaNoRoofClear>Remover área sem teto</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Remove áreas que não permitem que telhados sejam gerados. Eles serão gerados e áreas com telhados continuaram a existir.</DesignatorAreaNoRoofClearDesc>
-  <DesignatorRearmTrap>Rearmar armadilha</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearma uma armadilha usada para que possa ser acionada novamente.</DesignatorRearmTrapDesc>
-  <TerrainBeingSmoothed>O terreno já está marcado para alisamento.</TerrainBeingSmoothed>
-
 </LanguageData>

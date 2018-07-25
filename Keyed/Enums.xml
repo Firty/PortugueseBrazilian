@@ -295,15 +295,4 @@
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
 
-  <!-- UNUSED -->
-  <QualityCategory_Shoddy>ruim</QualityCategory_Shoddy>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
-  <QualityCategoryShort_Shoddy>ruim</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Superior>supe</QualityCategoryShort_Superior>
-  <TrainableIntelligence_None>nada</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>simples</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>intermediário</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>avançado</TrainableIntelligence_Advanced>
-  <TechLevel_Transcendent>transcendente</TechLevel_Transcendent>
-
 </LanguageData>

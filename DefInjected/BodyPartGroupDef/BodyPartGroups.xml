@@ -16,32 +16,32 @@
   <!-- EN: front left claws -->
   <FrontLeftClaws.label>garras esquerda dianteira</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>garra</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
   <FrontLeftLeg.label>perna esquerda dianteira</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>perna</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
   <FrontLeftPaw.label>pata esquerda dianteira</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>pata</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
   <FrontRightClaws.label>garras direita dianteira</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>garra</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
   <FrontRightLeg.label>perna direita dianteira</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>perna</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
   <FrontRightPaw.label>pata direita dianteira</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>pata</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
   <FullHead.label>cabeça inteira</FullHead.label>
@@ -61,12 +61,12 @@
   <!-- EN: left blade -->
   <LeftBlade.label>lâmina esquerda</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>lâmina</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
   <LeftHand.label>punho esquerdo</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>punho</LeftHand.labelShort>
   
   <!-- EN: legs -->
   <Legs.label>pernas</Legs.label>
@@ -75,17 +75,17 @@
   <Mouth.label>boca</Mouth.label>
   
   <!-- EN: neck -->
-  <Neck.label>TODO</Neck.label>
+  <Neck.label>pescoço</Neck.label>
   
   <!-- EN: right blade -->
   <RightBlade.label>lâmina direita</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>lâmina</RightBlade.labelShort>
   
   <!-- EN: right fist -->
   <RightHand.label>punho direito</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>punho</RightHand.labelShort>
   
   <!-- EN: shoulders -->
   <Shoulders.label>ombros</Shoulders.label>
@@ -106,6 +106,6 @@
   <UpperHead.label>parte superior da cabeça</UpperHead.label>
   
   <!-- EN: waist -->
-  <Waist.label>TODO</Waist.label>
+  <Waist.label>cintura</Waist.label>
   
 </LanguageData>

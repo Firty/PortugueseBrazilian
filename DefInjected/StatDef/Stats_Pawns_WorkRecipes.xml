@@ -56,10 +56,6 @@
   <!-- EN: Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill. -->
   <SmithingSpeed.description>Velocidade com que esta pessoa forja ou cria armas, máquinas, munições e ferramentas.</SmithingSpeed.description>
   
-  <!-- UNUSED -->
-  <StonecuttingSpeed.label>velocidade de cantaria</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Velocidade com que esta pessoa corta pedra bruta em blocos.</StonecuttingSpeed.description>
-  
   <!-- EN: tailoring speed -->
   <TailoringSpeed.label>velocidade de costura</TailoringSpeed.label>
   <!-- EN: The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill. -->

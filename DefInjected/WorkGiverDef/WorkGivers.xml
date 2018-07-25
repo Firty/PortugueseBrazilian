@@ -15,11 +15,6 @@
   <!-- EN: build roof -->
   <BuildRoofs.verb>constrói telhado</BuildRoofs.verb>
   
-  <!-- UNUSED -->
-  <BuryCorpses.label>enterrar cadáveres</BuryCorpses.label>
-  <BuryCorpses.verb>enterrar</BuryCorpses.verb>
-  <BuryCorpses.gerund>enterrando</BuryCorpses.gerund>
-  
   <!-- EN: chat with prisoners -->
   <ChatWithPrisoner.label>conversar com prisioneiros</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
@@ -132,11 +127,6 @@
   <!-- EN: butcher -->
   <DoBillsButcherFlesh.verb>esquartejar</DoBillsButcherFlesh.verb>
   
-  <!-- UNUSED -->
-  <DoBillsComponentAssemblyBench.label>montar componentes</DoBillsComponentAssemblyBench.label>
-  <DoBillsComponentAssemblyBench.verb>produzir componentes</DoBillsComponentAssemblyBench.verb>
-  <DoBillsComponentAssemblyBench.gerund>produzindo componentes em</DoBillsComponentAssemblyBench.gerund>
-  
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>cozinhar refeições no fogão</DoBillsCook.label>
   <!-- EN: cooking at -->
@@ -206,11 +196,6 @@
   <DoBillsMedicalHumanOperation.gerund>operando em</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
   <DoBillsMedicalHumanOperation.verb>operar</DoBillsMedicalHumanOperation.verb>
-  
-  <!-- UNUSED -->
-  <DoBillsMedicalMechanoidOperation.label>operar em mechanoides</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>modificar</DoBillsMedicalMechanoidOperation.verb>
-  <DoBillsMedicalMechanoidOperation.gerund>modificando</DoBillsMedicalMechanoidOperation.gerund>
   
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>produzir drogas</DoBillsProduceDrugs.label>
@@ -436,16 +421,6 @@
   <!-- EN: open -->
   <Open.verb>abrir</Open.verb>
   
-  <!-- UNUSED -->
-  <PatientGoToBed.label>se recuperar na cama</PatientGoToBed.label>
-  <PatientGoToBed.verb>ficar em repouso em</PatientGoToBed.verb>
-  <PatientGoToBed.gerund>ficando em repouso em</PatientGoToBed.gerund>
-  
-  <!-- UNUSED -->
-  <PatientGoToBedEmergency.label>ir para a cama para tratamento de emergência</PatientGoToBedEmergency.label>
-  <PatientGoToBedEmergency.verb>receber tratamento em</PatientGoToBedEmergency.verb>
-  <PatientGoToBedEmergency.gerund>recebendo tratamendo em</PatientGoToBedEmergency.gerund>
-  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -473,11 +448,6 @@
   <PlantsCut.gerund>cortando</PlantsCut.gerund>
   <!-- EN: cut -->
   <PlantsCut.verb>cortar</PlantsCut.verb>
-  
-  <!-- UNUSED -->
-  <RearmTraps.label>rearmar armadilhas</RearmTraps.label>
-  <RearmTraps.verb>rearmar</RearmTraps.verb>
-  <RearmTraps.gerund>rearmando</RearmTraps.gerund>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>TODO</RearmTurrets.label>

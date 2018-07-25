@@ -8,21 +8,6 @@
   <!-- EN: mortar -->
   <Artillery_Mortar.verbs.Verb_Shoot.label>TODO</Artillery_Mortar.verbs.Verb_Shoot.label>
   
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarBomb.label>mortar (projeto)</Blueprint_Install_Turret_MortarBomb.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarEMP.label>morteiro PEM (projeto)</Blueprint_Install_Turret_MortarEMP.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_Turret_MortarIncendiary.label>morteiro incendiário (projeto)</Blueprint_Install_Turret_MortarIncendiary.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TurretGun.label>torreta improvisada (projeto)</Blueprint_Install_TurretGun.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_TurretGun.label>torreta improvisada (projeto)</Blueprint_TurretGun.label>
-  
   <!-- EN: autocannon shell -->
   <Bullet_AutocannonTurret.label>TODO</Bullet_AutocannonTurret.label>
   
@@ -31,9 +16,6 @@
   
   <!-- EN: sniper shell -->
   <Bullet_TurretSniper.label>TODO</Bullet_TurretSniper.label>
-  
-  <!-- UNUSED -->
-  <Frame_TurretGun.label>torreta improvisada (construção)</Frame_TurretGun.label>
   
   <!-- EN: autocannon -->
   <Gun_AutocannonTurret.label>TODO</Gun_AutocannonTurret.label>
@@ -86,22 +68,10 @@
   <!-- EN: A mortar shell connected to a trigger. When someone disturbs the trigger, the shell explodes. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_HighExplosive.description>Um projétil de artilharia conectado a um gatilho caseiro. Quando alguém pisa no gatilho, o projétil explode. O gatilho improvisado tem um atraso aleatório permitindo que um inimigo ágil consiga escapar.</TrapIED_HighExplosive.description>
   
-  <!-- UNUSED -->
-  <TrapIED_HighExplosive_Blueprint.label>armadilha AEI (projeto)</TrapIED_HighExplosive_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <TrapIED_HighExplosive_Frame.label>armadilha AEI (construção)</TrapIED_HighExplosive_Frame.label>
-  
   <!-- EN: IED incendiary trap -->
   <TrapIED_Incendiary.label>armadilha AEI incendiária</TrapIED_Incendiary.label>
   <!-- EN: Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Explosivos misturados em uma pasta incendiária com um gatilho químico suspenso. A química do gatilho é simples e fiável.</TrapIED_Incendiary.description>
-  
-  <!-- UNUSED -->
-  <TrapIED_Incendiary_Blueprint.label>armadilha AEI incendiária (projeto)</TrapIED_Incendiary_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <TrapIED_Incendiary_Frame.label>armadilha AEI incendiária (construção)</TrapIED_Incendiary_Frame.label>
   
   <!-- EN: autocannon turret -->
   <Turret_Autocannon.label>TODO</Turret_Autocannon.label>
@@ -129,12 +99,6 @@
   <Turret_Mortar.label>morteiro</Turret_Mortar.label>
   <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
   <Turret_Mortar.description>Um morteiro que lança projéteis explosivos. Deve ser usado manualmente. Explode quando danificado.</Turret_Mortar.description>
-  
-  <!-- UNUSED -->
-  <Turret_Mortar_Blueprint.label>morteiro (projeto)</Turret_Mortar_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Turret_Mortar_Frame.label>morteiro (construção)</Turret_Mortar_Frame.label>
   
   <!-- EN: sniper turret -->
   <Turret_Sniper.label>TODO</Turret_Sniper.label>

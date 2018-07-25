@@ -7,9 +7,9 @@
   <BorealForest.description>Florestas do norte de árvores coníferas. Apesar dos invernos rigorosos, florestas boreais sustentam uma população diversificada de pequenos e grandes animais. A neve extremamente lento viajar no inverno.</BorealForest.description>
   
   <!-- EN: cold bog -->
-  <ColdBog.label>TODO</ColdBog.label>
+  <ColdBog.label>pântano frio</ColdBog.label>
   <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
-  <ColdBog.description>TODO</ColdBog.description>
+  <ColdBog.description>Um pantanal cheio de árvores e trepadeiras. Grande parte da terra pantanosa aqui não pode suportar estruturas pesadas, a movimentação é lenta devido à vegetação asfixiante. A doença é endêmica nesse ecossistema denso e úmido.</ColdBog.description>
   
   <!-- EN: ice sheet -->
   <IceSheet.label>geleira</IceSheet.label>

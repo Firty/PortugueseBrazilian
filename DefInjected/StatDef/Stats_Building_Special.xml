@@ -11,10 +11,6 @@
   <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
   <DoorOpenSpeed.description>A velocidade de abertura da porta.</DoorOpenSpeed.description>
   
-  <!-- UNUSED -->
-  <EntertainmentStrengthFactor.label>fator de entretenimento</EntertainmentStrengthFactor.label>
-  <EntertainmentStrengthFactor.description>Quão efetivamente este item entretém as pessoas e lhes dão alegria.</EntertainmentStrengthFactor.description>
-  
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>fator de ganho de imunidade</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->

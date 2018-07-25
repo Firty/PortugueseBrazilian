@@ -7,7 +7,7 @@
   <!-- EN: Ancients -->
   <Ancients.fixedName>Espacial</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>antigo</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>espaciais</Ancients.pawnsPlural>
   
@@ -17,7 +17,7 @@
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>Espacial</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>antigo</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>spacers</AncientsHostile.pawnsPlural>
   
@@ -27,7 +27,7 @@
   <!-- EN: insects -->
   <Insect.fixedName>insetos</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>inseto</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>insetos</Insect.pawnsPlural>
   
@@ -37,7 +37,7 @@
   <!-- EN: a mechanoid hive -->
   <Mechanoid.fixedName>uma colmeia de mechanoides</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mechanoide</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>mechanoides</Mechanoid.pawnsPlural>
   

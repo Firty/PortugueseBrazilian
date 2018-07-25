@@ -452,9 +452,4 @@
   <!-- EN: Attack this settlement. -->
   <CommandAttackSettlementDesc>TODO</CommandAttackSettlementDesc>
 
-  <!-- UNUSED -->
-  <CommandAllowFiringLabel>Permitir disparo</CommandAllowFiringLabel>
-  <CommandAllowFiringDesc>Alternar a permissão de disparo.\n\nQuando desativado, este personagem não irá disparar automaticamente em alvos á distância. Não afeta o combate corpo a corpo.</CommandAllowFiringDesc>
-  <CommandSettleFailOtherWorldObjectsHere>Sua caravana deve ser o único objeto neste azulejo para colonizar a área.</CommandSettleFailOtherWorldObjectsHere>
-
 </LanguageData>

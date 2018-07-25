@@ -13,11 +13,6 @@
     <li>logentry->Rompeu com [other_nameShortIndef].</li>
   </Breakup.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Breakup.logRulesRecipient.rulesStrings>
-    <li>logentry->Teve o compromisso quebrado com [other_nameShortIndef].</li>
-  </Breakup.logRulesRecipient.rulesStrings>
-  
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>proposta de casamento</MarriageProposal.label>
   <!-- EN:
@@ -28,11 +23,6 @@
   <MarriageProposal.logRulesInitiator.rulesStrings>
     <li>logentry->Propós casamento para [other_nameShortIndef].</li>
   </MarriageProposal.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <MarriageProposal.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi proposto por [other_nameShortIndef].</li>
-  </MarriageProposal.logRulesRecipient.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>tentativa de romance</RomanceAttempt.label>
@@ -101,10 +91,5 @@
   <RomanceAttempt.logRulesInitiator.rulesStrings>
     <li>logentry->Tentou seduzir [other_nameShortIndef] em um romance.</li>
   </RomanceAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <RomanceAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi alvo da sedução de [other_nameShortIndef].</li>
-  </RomanceAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

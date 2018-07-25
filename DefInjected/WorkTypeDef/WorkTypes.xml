@@ -89,13 +89,6 @@
   <!-- EN: Extinguish -->
   <Firefighter.verb>Extinguir</Firefighter.verb>
   
-  <!-- UNUSED -->
-  <Flicker.labelShort>Controle</Flicker.labelShort>
-  <Flicker.description>Alterna interruptores. Por exemplo, quando você quiser alterar a eletricidade de uma torreta, um interruptor deve ser usado manualmente para alternar a eletricidade.</Flicker.description>
-  <Flicker.pawnLabel>Controlador</Flicker.pawnLabel>
-  <Flicker.gerundLabel>Alternando</Flicker.gerundLabel>
-  <Flicker.verb>Alternar</Flicker.verb>
-  
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Planta sementes e faz colheitas.</Growing.description>
   <!-- EN: growing -->
@@ -172,13 +165,6 @@
   <PatientBedRest.pawnLabel>Paciente</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
   <PatientBedRest.verb>Virar paciente</PatientBedRest.verb>
-  
-  <!-- UNUSED -->
-  <PatientEmergency.labelShort>Paciente</PatientEmergency.labelShort>
-  <PatientEmergency.description>Vai para uma cama médica para tratamento se você tiver uma condição de saúde que ameace a vida imediatamente.</PatientEmergency.description>
-  <PatientEmergency.pawnLabel>Paciente</PatientEmergency.pawnLabel>
-  <PatientEmergency.gerundLabel>Descansando</PatientEmergency.gerundLabel>
-  <PatientEmergency.verb>Virar paciente</PatientEmergency.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Corta árvores ou colhe plantas de colheita conforme designado.</PlantCutting.description>

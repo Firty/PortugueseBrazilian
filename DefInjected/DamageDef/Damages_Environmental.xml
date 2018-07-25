@@ -17,8 +17,8 @@
   <Frostbite.deathMessage>{0} morreu devido ao congelamento.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>TODO</TornadoScratch.label>
+  <TornadoScratch.label>arrastado</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} foi morto por um tornado.</TornadoScratch.deathMessage>
   
 </LanguageData>

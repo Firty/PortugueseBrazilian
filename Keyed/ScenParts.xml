@@ -63,7 +63,4 @@
   <!-- EN: Can never build -->
   <ScenPart_DisallowBuilding>Nunca poderá construir</ScenPart_DisallowBuilding>
 
-  <!-- UNUSED -->
-  <ScenPart_PermaMapCondition>Condição(ões) permanente(s) do mapa</ScenPart_PermaMapCondition>
-
 </LanguageData>

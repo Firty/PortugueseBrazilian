@@ -5,148 +5,76 @@
   <ArtificialBrain.label>cérebro artificial</ArtificialBrain.label>
   
   <!-- EN: blade -->
-  <Blade.label>TODO</Blade.label>
+  <Blade.label>lâmina</Blade.label>
   
   <!-- EN: fluid reprocessor -->
-  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  <FluidReprocessor.label>reprocessador de fluido</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>TODO</HearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftBlade.label>lâmina esquerda</LeftBlade.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalIndexFinger.label>dedo indicador esquerdo</LeftHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalMiddleFinger.label>dedo médio esquerdo</LeftHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalPinky.label>mindinho esquerdo</LeftHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalThumb.label>polegar esquerdo</LeftHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <LeftHearingSensor.label>sensor de audição esquerda</LeftHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalArm.label>braço esquerdo</LeftMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalFoot.label>pé esquerdo</LeftMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalHand.label>mão esquerda</LeftMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalLeg.label>perna esquerda</LeftMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalShoulder.label>ombro esquerdo</LeftMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <LeftSightSensor.label>sensor de visão esquerdo</LeftSightSensor.label>
+  <HearingSensor.label>sensor de som</HearingSensor.label>
   
   <!-- EN: arm -->
-  <MechanicalArm.label>TODO</MechanicalArm.label>
+  <MechanicalArm.label>braço</MechanicalArm.label>
   
   <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>quinto anel corporal</MechanicalCentipedeBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFifthRing.labelShort>TODO</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.labelShort>anel corporal</MechanicalCentipedeBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
   <MechanicalCentipedeBodyFirstRing.label>primeiro anel corporal</MechanicalCentipedeBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFirstRing.labelShort>TODO</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.labelShort>anel corporal</MechanicalCentipedeBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
   <MechanicalCentipedeBodyFourthRing.label>quarto anel corporal</MechanicalCentipedeBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFourthRing.labelShort>TODO</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.labelShort>anel corporal</MechanicalCentipedeBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
   <MechanicalCentipedeBodySecondRing.label>segundo anel corporal</MechanicalCentipedeBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySecondRing.labelShort>TODO</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.labelShort>anel corporal</MechanicalCentipedeBodySecondRing.labelShort>
   
   <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>sexto anel corporal</MechanicalCentipedeBodySixthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySixthRing.labelShort>TODO</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.labelShort>anel corporal</MechanicalCentipedeBodySixthRing.labelShort>
   
   <!-- EN: third body ring -->
   <MechanicalCentipedeBodyThirdRing.label>terceiro anel corporal</MechanicalCentipedeBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyThirdRing.labelShort>TODO</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.labelShort>anel corporal</MechanicalCentipedeBodyThirdRing.labelShort>
   
   <!-- EN: finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>dedo</MechanicalFinger.label>
   
   <!-- EN: foot -->
-  <MechanicalFoot.label>TODO</MechanicalFoot.label>
+  <MechanicalFoot.label>pé</MechanicalFoot.label>
   
   <!-- EN: hand -->
-  <MechanicalHand.label>TODO</MechanicalHand.label>
+  <MechanicalHand.label>mão</MechanicalHand.label>
   
   <!-- EN: head -->
   <MechanicalHead.label>cabeça</MechanicalHead.label>
   
   <!-- EN: leg -->
-  <MechanicalLeg.label>TODO</MechanicalLeg.label>
+  <MechanicalLeg.label>perna</MechanicalLeg.label>
   
   <!-- EN: neck -->
   <MechanicalNeck.label>pescoço</MechanicalNeck.label>
   
   <!-- EN: shoulder -->
-  <MechanicalShoulder.label>TODO</MechanicalShoulder.label>
+  <MechanicalShoulder.label>ombro</MechanicalShoulder.label>
   
   <!-- EN: thorax -->
   <MechanicalThorax.label>tórax</MechanicalThorax.label>
   
   <!-- EN: reactor -->
-  <Reactor.label>TODO</Reactor.label>
-  
-  <!-- UNUSED -->
-  <RightBlade.label>lãmina direita</RightBlade.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalIndexFinger.label>dedo indicador direito</RightHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalMiddleFinger.label>dedo médio direito</RightHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalPinky.label>mindinho direito</RightHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalThumb.label>polegar direito</RightHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <RightHearingSensor.label>sensor de audição direito</RightHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalArm.label>braço direito</RightMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalFoot.label>pé direito</RightMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalHand.label>mão direita</RightMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalLeg.label>perna direita</RightMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalShoulder.label>ombro direito</RightMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <RightSightSensor.label>sensor de visão direito</RightSightSensor.label>
+  <Reactor.label>reator</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>TODO</SightSensor.label>
+  <SightSensor.label>sensor visual</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
   <SmellSensor.label>sensor de olfato</SmellSensor.label>

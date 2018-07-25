@@ -15,9 +15,4 @@
   <!-- EN: Making pemmican. -->
   <Make_Pemmican.jobString>Fazendo carne-seca.</Make_Pemmican.jobString>
   
-  <!-- UNUSED -->
-  <Make_PemmicanCampfire.label>fazer carne-seca</Make_PemmicanCampfire.label>
-  <Make_PemmicanCampfire.description>Faz carne-seca, uma combinação preservada de carne e alimentos vegetais. Não tem um gosto incrível, mas dura um ano sem refrigeração.</Make_PemmicanCampfire.description>
-  <Make_PemmicanCampfire.jobString>Fazendo carne-seca.</Make_PemmicanCampfire.jobString>
-  
 </LanguageData>

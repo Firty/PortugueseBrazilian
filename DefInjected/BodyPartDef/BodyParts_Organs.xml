@@ -5,25 +5,13 @@
   <Heart.label>coração</Heart.label>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
-  
-  <!-- UNUSED -->
-  <LeftKidney.label>rim esquerdo</LeftKidney.label>
-  
-  <!-- UNUSED -->
-  <LeftLung.label>pulmão esquerdo</LeftLung.label>
+  <Kidney.label>rim</Kidney.label>
   
   <!-- EN: liver -->
   <Liver.label>fígado</Liver.label>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
-  
-  <!-- UNUSED -->
-  <RightKidney.label>rim direito</RightKidney.label>
-  
-  <!-- UNUSED -->
-  <RightLung.label>pulmão direito</RightLung.label>
+  <Lung.label>pulmão</Lung.label>
   
   <!-- EN: stomach -->
   <Stomach.label>estômago</Stomach.label>

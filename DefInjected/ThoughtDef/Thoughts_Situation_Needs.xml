@@ -144,12 +144,4 @@
   <!-- EN: This room is so expansive, I feel free. -->
   <NeedRoomSize.stages.spacious_interior.description>TODO</NeedRoomSize.stages.spacious_interior.description>
   
-  <!-- UNUSED -->
-  <NeedSpace.stages.0.label>ambiente apertado</NeedSpace.stages.0.label>
-  <NeedSpace.stages.0.description>Este lugar é realmente apertado. Eu sinto que não tenho espaço para respirar.</NeedSpace.stages.0.description>
-  <NeedSpace.stages.1.label>ambiente muito apertado</NeedSpace.stages.1.label>
-  <NeedSpace.stages.1.description>É claustrofóbico aqui. Não tenho para onde me mover. Eu me sinto como um rato em uma gaiola minúscula.</NeedSpace.stages.1.description>
-  <NeedSpace.stages.2.label>interior espaçoso</NeedSpace.stages.2.label>
-  <NeedSpace.stages.2.description>Este é um espaço interior muito aberto e confortável.</NeedSpace.stages.2.description>
-  
 </LanguageData>

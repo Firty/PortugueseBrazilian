@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>aurora</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>Uma aurora está iluminando o céu. A exibição de tirar o fôlego aumentará o humor de qualquer pessoa que a ver.</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>A aurora acabou</Aurora.endMessage>
   
   <!-- EN: climate cycle -->
   <ClimateCycle.label>ciclo climático</ClimateCycle.label>

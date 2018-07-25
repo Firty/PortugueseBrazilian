@@ -31,11 +31,6 @@
     <li>logentry->Se comunicou com [other_nameShortIndef], tentando construir um relacionamento.</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>logentry->Respondeu a comunicação amigável de [other_nameShortIndef].</li>
-  </AnimalChat.logRulesRecipient.rulesStrings>
-  
   <!-- EN: nuzzle -->
   <Nuzzle.label>acariciou</Nuzzle.label>
   <!-- EN:
@@ -68,11 +63,6 @@
     <li>logentry->Acariciou [other_nameShortIndef].</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi acariciado por [other_nameShortIndef].</li>
-  </Nuzzle.logRulesRecipient.rulesStrings>
-  
   <!-- EN: tame attempt -->
   <TameAttempt.label>tentativa de domesticação</TameAttempt.label>
   <!-- EN:
@@ -96,11 +86,6 @@
     <li>logentry->Tentou domesticar [other_nameShortIndef].</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
   
-  <!-- UNUSED -->
-  <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Assistiu [other_nameShortIndef] tentando me domesticar.</li>
-  </TameAttempt.logRulesRecipient.rulesStrings>
-  
   <!-- EN: train attempt -->
   <TrainAttempt.label>tentativa de treino</TrainAttempt.label>
   <!-- EN:
@@ -118,10 +103,5 @@
   <TrainAttempt.logRulesInitiator.rulesStrings>
     <li>logentry->Treinou [other_nameShortIndef].</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Foi treinado por [other_nameShortIndef].</li>
-  </TrainAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>

@@ -103,7 +103,4 @@
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>TODO</ResetAndRestart>
   
-  <!-- UNUSED -->
-  <MaxNumberOfPlayerHomes>Número máximo de colônias: {0}</MaxNumberOfPlayerHomes>
-
 </LanguageData>

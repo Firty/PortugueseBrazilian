@@ -6,9 +6,6 @@
   <!-- EN: withdrawal -->
   <WakeUpAddiction.stages.withdrawal.label>abstinência</WakeUpAddiction.stages.withdrawal.label>
   
-  <!-- UNUSED -->
-  <WakeUpAddiction.stages.withdrawal.label>abstinência</WakeUpAddiction.stages.withdrawal.label>
-  
   <!-- EN: high on wake-up -->
   <WakeUpHigh.label>viajando no despertar</WakeUpHigh.label>
   <!-- EN: a wake-up high -->
@@ -23,11 +20,6 @@
   <!-- EN: large -->
   <WakeUpTolerance.stages.large.label>grande</WakeUpTolerance.stages.large.label>
   <!-- EN: massive -->
-  <WakeUpTolerance.stages.massive.label>maciça</WakeUpTolerance.stages.massive.label>
-  
-  <!-- UNUSED -->
-  <WakeUpTolerance.stages.small-1.label>pequena</WakeUpTolerance.stages.small-1.label>
-  <WakeUpTolerance.stages.large.label>grande</WakeUpTolerance.stages.large.label>
   <WakeUpTolerance.stages.massive.label>maciça</WakeUpTolerance.stages.massive.label>
   
 </LanguageData>

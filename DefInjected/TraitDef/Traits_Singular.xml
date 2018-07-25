@@ -76,10 +76,6 @@
   <!-- EN: [PAWN_nameDef] needs a really impressive bedroom. [PAWN_pronoun] gets a mood loss if [PAWN_pronoun] doesn't get what [PAWN_pronoun] wants. -->
   <Greedy.degreeDatas.greedy.description>[PAWN_nameDef] precisa realmente de um quarto impressionante. [PAWN_pronoun] recebe uma perda de humor se [PAWN_pronoun] não conseguir o que quer.</Greedy.degreeDatas.greedy.description>
   
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>polegar verde</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] tem uma paixão pela jardinagem. [PAWN_pronoun] recebe um bônus de humor para todas as plantas que [PAWN_pronoun] cultivar.</GreenThumb.degreeDatas.0.description>
-  
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>ciumento</Jealous.degreeDatas.jealous.label>
   <!-- EN: For [PAWN_nameDef], it's degrading to have a less impressive bedroom than someone else. [PAWN_pronoun] gets a mood loss if any colonist has a more impressive bedroom. -->

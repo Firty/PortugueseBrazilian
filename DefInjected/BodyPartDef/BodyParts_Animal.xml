@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: jaw -->
-  <AnimalJaw.label>TODO</AnimalJaw.label>
+  <AnimalJaw.label>mandíbula</AnimalJaw.label>
   
   <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
+  <Antenna.label>antena</Antenna.label>
   
   <!-- EN: beak -->
   <Beak.label>bico</Beak.label>
@@ -14,72 +14,18 @@
   <Body.label>corpo</Body.label>
   
   <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
+  <Elytra.label>vagina</Elytra.label>
   
   <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
+  <FrontClaw.label>garra dianteira</FrontClaw.label>
   <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <FrontLeftHoof.label>casco dianteiro esquerdo</FrontLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftInsectLeg.label>perna esquerda dianteira</FrontLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLeg.label>perna esquerda dianteira</FrontLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFifthClaw.label>quinta garra da perna dianteira</FrontLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFirstClaw.label>primeira garra da perna dianteira</FrontLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegFourthClaw.label>quarta garra da perna dianteira</FrontLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegSecondClaw.label>segunda garra da perna dianteira</FrontLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftLegThirdClaw.label>terceira garra da perna dianteira</FrontLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontLeftPaw.label>pata esquerda dianteira</FrontLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightHoof.label>casco dianteiro direito</FrontRightHoof.label>
-  
-  <!-- UNUSED -->
-  <FrontRightInsectLeg.label>perna direita dianteira</FrontRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLeg.label>perna direita dianteira</FrontRightLeg.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFifthClaw.label>quinta garra da perna dianteira</FrontRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFirstClaw.label>primeira garra da perna dianteira</FrontRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegFourthClaw.label>quarta garra da perna dianteira</FrontRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegSecondClaw.label>segunda garra da perna dianteira</FrontRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightLegThirdClaw.label>terceira garra da perna dianteira</FrontRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <FrontRightPaw.label>pata direita dianteira</FrontRightPaw.label>
+  <FrontClaw.labelShort>garra</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
   <HeadClaw.label>garra cabeça</HeadClaw.label>
   
   <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
+  <Hoof.label>casco</Hoof.label>
   
   <!-- EN: horn -->
   <Horn.label>chifre</Horn.label>
@@ -94,7 +40,7 @@
   <InsectHeart.label>coração</InsectHeart.label>
   
   <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
+  <InsectLeg.label>perna</InsectLeg.label>
   
   <!-- EN: mouth -->
   <InsectMouth.label>boca</InsectMouth.label>
@@ -105,29 +51,8 @@
   <!-- EN: jowl -->
   <Jowl.label>mandíbula</Jowl.label>
   
-  <!-- UNUSED -->
-  <LeftAntenna.label>antena esquerda</LeftAntenna.label>
-  
-  <!-- UNUSED -->
-  <LeftElytra.label>bainha esquerdo</LeftElytra.label>
-  
-  <!-- UNUSED -->
-  <LeftTusk.label>presa esquerda</LeftTusk.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftInsectLeg.label>perna esquerda</MiddleLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleLeftLeg.label>perna do meio esquerda</MiddleLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightInsectLeg.label>perna do meio direito</MiddleRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <MiddleRightLeg.label>perna direita do meio</MiddleRightLeg.label>
-  
   <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
+  <Paw.label>pata</Paw.label>
   
   <!-- EN: plastron -->
   <Plastron.label>plastrão</Plastron.label>
@@ -136,72 +61,9 @@
   <Pronotum.label>placa dorsal</Pronotum.label>
   
   <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
+  <RearClaw.label>garra traseira</RearClaw.label>
   <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
-  
-  <!-- UNUSED -->
-  <RearLeftHoof.label>casco traseiro esquerdo</RearLeftHoof.label>
-  
-  <!-- UNUSED -->
-  <RearLeftInsectLeg.label>perna esquerda traseira</RearLeftInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLeg.label>perna esquerda traseira</RearLeftLeg.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFifthClaw.label>quinta garra da perna traseira</RearLeftLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFirstClaw.label>primeira garra da perna traseira</RearLeftLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegFourthClaw.label>quarta garra da perna traseira</RearLeftLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegSecondClaw.label>segunda garra da perna traseira</RearLeftLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftLegThirdClaw.label>terceira garra da perna traseira</RearLeftLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearLeftPaw.label>pata esquerda traseira</RearLeftPaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightHoof.label>casco direito traseiro</RearRightHoof.label>
-  
-  <!-- UNUSED -->
-  <RearRightInsectLeg.label>perna direita traseira</RearRightInsectLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLeg.label>perna direita traseira</RearRightLeg.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFifthClaw.label>quinta garra da perna traseira</RearRightLegFifthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFirstClaw.label>primeira garra da perna traseira</RearRightLegFirstClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegFourthClaw.label>quarta garra da perna traseira</RearRightLegFourthClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegSecondClaw.label>segunda garra da perna traseira</RearRightLegSecondClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightLegThirdClaw.label>terceira garra da perna traseira</RearRightLegThirdClaw.label>
-  
-  <!-- UNUSED -->
-  <RearRightPaw.label>pata direita traseira</RearRightPaw.label>
-  
-  <!-- UNUSED -->
-  <RightAntenna.label>antena direita</RightAntenna.label>
-  
-  <!-- UNUSED -->
-  <RightElytra.label>bainha direito</RightElytra.label>
-  
-  <!-- UNUSED -->
-  <RightTusk.label>presa direita</RightTusk.label>
+  <RearClaw.labelShort>garra</RearClaw.labelShort>
   
   <!-- EN: shell -->
   <Shell.label>casco</Shell.label>
@@ -228,6 +90,6 @@
   <TurtleShell.label>casco</TurtleShell.label>
   
   <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
+  <Tusk.label>presa</Tusk.label>
   
 </LanguageData>

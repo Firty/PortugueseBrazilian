@@ -22,9 +22,9 @@
   <Capturing.helpText>Quando um inimigo está caído, mas não morto, você pode CAPTURÁ-LO.\n\nPara capturar, selecione um colono, clique com o botão direito sobre o inimigo incapacitado, e selecione Capturar.\n\nVocê irá precisar de uma cama extra marcada para uso de prisioneiro.</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>velocidade de abertura da porta</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>As portas abrem em velocidades diferentes dependendo do que são feitas. \n\nAviso: As portas de pedra abrem muito devagar. Qualquer pessoa que esteja passando será significativamente atrasada.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
   <Drafting.label>Alistando para o combate</Drafting.label>
@@ -56,19 +56,15 @@
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>Para se comunicar, selecione um colono e clique com o botão direito do mouse no console de comunicação.</OpeningComms.helpText>
   
-  <!-- UNUSED -->
-  <PersonalShields.label>Escudos pessoais</PersonalShields.label>
-  <PersonalShields.helpText>Escudos pessoais param ataques à distância que vem de dentro e de fora. Eles não têm nenhum efeito sobre ataques corpo a corpo.\n\nPara lutar contra escudos pessoais, se concentre em ambas uma grande quantidade de tiros no alvo, ou luta mão-a-mão.</PersonalShields.helpText>
-  
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Aba de prisioneiro</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
   <PrisonerTab.helpText>Olhe para a aba 'Prisioneiro' de um prisioneiro para ver como ele será tratado.\n\nVocê pode definir se eles irão ser recrutados, ignorados ou executados, se eles comem, e que tipo de assistência médica que receberam.\n\nOs colonos com o tipo de trabalho em Guarda irão interagir com o prisioneiro.</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>TODO</QueueOrders.label>
+  <QueueOrders.label>Ordem de fila</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <QueueOrders.helpText>Ao dar comandos aos peões, você pode enfileirar vários pedidos segurando "shift". Isso também funciona ao dar emprego aos peões não-projetados.</QueueOrders.helpText>
   
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Reformando caravanas</ReformCaravan.label>
@@ -86,9 +82,9 @@
   <SetGrowingZonePlant.helpText>Você pode definir o que plantar em uma zona de cultivo. Você pode até mesmo  plantar árvores!\n\nBasta selecionar a zona de cultivo, abrir a aba de Cultivo, e clicar no botão 'plantar'.</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>TODO</ShieldBelts.label>
+  <ShieldBelts.label>Cintos de proteção</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
+  <ShieldBelts.helpText>Os cintos de proteção impedem que os ataques à distância entrem ou saiam. Eles não têm nenhum efeito sobre os ataques corpo a corpo. \n\nPara lutar contra os cinturões de proteção, concentre muitos tiros no alvo ou lute corpo-a-corpo.</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>TV para pessoas doentes</TVForSickPeople.label>

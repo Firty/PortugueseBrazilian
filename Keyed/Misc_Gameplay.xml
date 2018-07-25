@@ -1043,25 +1043,4 @@
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
 
-  <!-- UNUSED -->
-  <NextTreatmentIn>Próximo tratamento em {0}</NextTreatmentIn>
-  <CaravanMemberMentalBreak>Parado porque: {0} teve um colapso mental.</CaravanMemberMentalBreak>
-  <CaravanHoursPerTile>h/azulejo</CaravanHoursPerTile>
-  <CaravanBaseMovementTime>Tempo de movimento da base</CaravanBaseMovementTime>
-  <DeterioratingDueToBeingUnroofed>Deteriorando devido a não estar sob um telhado.</DeterioratingDueToBeingUnroofed>
-  <FactionBaseTrader>{0} de {1}</FactionBaseTrader>
-  <HarvestFailed>Colheita\nfalhou</HarvestFailed>
-  <AreaAnimalDefaultLabel>Área de animal {0}</AreaAnimalDefaultLabel>
-  <NewAreaAnimal>Nova área de animal</NewAreaAnimal>
-  <ShowEnvironmentToggleButton>Alterna a exibição de beleza.\n\nExibe a beleza do mundo como seria percebido por um personagem de pé e para onde o mouse está apontando.</ShowEnvironmentToggleButton>
-  <ExpandingIconsToggleButton>Alterna a exibição ícones expandidos em vez dos ícones regulares para objetos distantes.</ExpandingIconsToggleButton>
-  <MapConditionsTip>Condições especiais que afetam a área agora.</MapConditionsTip>
-  <TrapArmed>Armado</TrapArmed>
-  <TrapNotArmed>Não armado</TrapNotArmed>
-  <TrapRearmingCost>Tempo de rearmamento: {0}</TrapRearmingCost>
-  <SomeItemStashContents>Alguns conteúdos: {0}.</SomeItemStashContents>
-  <LongRangeMineralScannerEfficiency>Efficiência: {0}</LongRangeMineralScannerEfficiency>
-  <EstimatedTimeToThisWaypoint>Tempo estimado até este waypoint: {0}</EstimatedTimeToThisWaypoint>
-  <EstimatedTimeToThisWaypointFromPrevious>Tempo estimado entre este e o waypoint anterior: {0}</EstimatedTimeToThisWaypointFromPrevious>
-
 </LanguageData>

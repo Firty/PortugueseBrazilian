@@ -71,10 +71,6 @@
   <!-- EN: plants -->
   <Plants.skillLabel>Agricultura</Plants.skillLabel>
   
-  <!-- UNUSED -->
-  <Research.skillLabel>Pesquisa</Research.skillLabel>
-  <Research.description>Investiga provas, faz experiências e aprende.</Research.description>
-  
   <!-- EN: shooting -->
   <Shooting.label>TODO</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->

@@ -133,8 +133,4 @@
   <!-- EN: East -->
   <East>Leste</East>
   
-  <!-- UNUSED -->
-  <LeatherLabel>couro de {0}</LeatherLabel>
-  <LeatherDesc>Pele raspada, bronzeada e seca. Um bom material tradicional para fazer roupas e bolsas.</LeatherDesc>
-
 </LanguageData>

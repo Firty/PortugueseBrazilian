@@ -8,9 +8,6 @@
   <Elephant.lifeStages.1.label>elefante jovem</Elephant.lifeStages.1.label>
   <Elephant.lifeStages.2.label>elefante</Elephant.lifeStages.2.label>
   
-  <!-- UNUSED -->
-  <Elephant.lifeStages.elephant_calf.label>elefante filhote</Elephant.lifeStages.elephant_calf.label>
-  
   <!-- EN: megasloth -->
   <Megasloth.label>megapreguiça</Megasloth.label>
   <Megasloth.lifeStages.0.label>megapreguiça filhote</Megasloth.lifeStages.0.label>
@@ -33,8 +30,5 @@
   <Thrumbo.lifeStages.thrumbo_calf.labelPlural>TODO</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
   <Thrumbo.lifeStages.1.label>thrumbo jovem</Thrumbo.lifeStages.1.label>
   <Thrumbo.lifeStages.2.label>thrumbo</Thrumbo.lifeStages.2.label>
-  
-  <!-- UNUSED -->
-  <Thrumbo.lifeStages.thrumbo_calf.label>thrumbo filhote</Thrumbo.lifeStages.thrumbo_calf.label>
   
 </LanguageData>

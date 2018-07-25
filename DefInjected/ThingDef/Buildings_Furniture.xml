@@ -36,12 +36,6 @@
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
   <BedrollDouble.description>TODO</BedrollDouble.description>
   
-  <!-- UNUSED -->
-  <Blueprint_Install_TableLong.label>mesa (longa) (projeto)</Blueprint_Install_TableLong.label>
-  
-  <!-- UNUSED -->
-  <Blueprint_Install_TableShort.label>mesa (curta) (projeto)</Blueprint_Install_TableShort.label>
-  
   <!-- EN: dining chair -->
   <DiningChair.label>cadeira de jantar</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
@@ -66,10 +60,6 @@
   <EndTable.label>TODO</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>TODO</EndTable.description>
-  
-  <!-- UNUSED -->
-  <EquipmentRack.label>estante de equipamentos</EquipmentRack.label>
-  <EquipmentRack.description>Itens armazenados nisto não irão se deteriorar, mesmo no lado de fora.</EquipmentRack.description>
   
   <!-- EN: hospital bed -->
   <HospitalBed.label>cama de hospital</HospitalBed.label>
@@ -138,22 +128,10 @@
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x2c.description>As pessoas comem em mesas quando as cadeiras são colocadas de frente a elas.</Table2x2c.description>
   
-  <!-- UNUSED -->
-  <Table2x2c_Blueprint.label>mesa (curta) (projeto)</Table2x2c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x2c_Frame.label>mesa (curta) (construção)</Table2x2c_Frame.label>
-  
   <!-- EN: table (2x4) -->
   <Table2x4c.label>mesa (longa)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
   <Table2x4c.description>As pessoas comem em mesas quando as cadeiras são colocadas de frente a elas.</Table2x4c.description>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Blueprint.label>mesa (longa) (projeto)</Table2x4c_Blueprint.label>
-  
-  <!-- UNUSED -->
-  <Table2x4c_Frame.label>mesa (longa) (construção)</Table2x4c_Frame.label>
   
   <!-- EN: table (3x3) -->
   <Table3x3c.label>TODO</Table3x3c.label>

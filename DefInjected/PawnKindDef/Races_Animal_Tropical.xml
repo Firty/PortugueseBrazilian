@@ -10,9 +10,6 @@
   <Boomalope.lifeStages.1.label>bumalope jovem</Boomalope.lifeStages.1.label>
   <Boomalope.lifeStages.2.label>bumalope</Boomalope.lifeStages.2.label>
   
-  <!-- UNUSED -->
-  <Boomalope.lifeStages.boomalope_calf.label>bumalope filhote</Boomalope.lifeStages.boomalope_calf.label>
-  
   <!-- EN: cobra -->
   <Cobra.label>cobra</Cobra.label>
   <Cobra.lifeStages.0.label>cobra filhote</Cobra.lifeStages.0.label>

@@ -4,22 +4,13 @@
   <!-- EN: colonist mood -->
   <ColonistMood.label>humor do colono</ColonistMood.label>
   
-  <!-- UNUSED -->
-  <ColonistMood.graphLabelY>Porcentagem</ColonistMood.graphLabelY>
-  
   <!-- EN: debug -->
   <Debug.label>TODO</Debug.label>
   
   <!-- EN: population -->
   <Population.label>população</Population.label>
   
-  <!-- UNUSED -->
-  <Population.graphLabelY>Colonos</Population.graphLabelY>
-  
   <!-- EN: wealth -->
   <Wealth.label>riqueza</Wealth.label>
-  
-  <!-- UNUSED -->
-  <Wealth.graphLabelY>Quantidade</Wealth.graphLabelY>
   
 </LanguageData>

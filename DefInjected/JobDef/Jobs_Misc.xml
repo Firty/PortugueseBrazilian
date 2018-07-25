@@ -85,9 +85,6 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>abrindo TargetA.</Open.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>rearmando TargetA.</RearmTrap.reportString>
-  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>TODO</RearmTurret.reportString>
   

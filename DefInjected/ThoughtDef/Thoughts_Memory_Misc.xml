@@ -6,10 +6,6 @@
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
   <AteWithoutTable.stages.ate_without_table.description>Eu tive que comer uma refeição no chão. Não podemos obter uma mesa por aqui?</AteWithoutTable.stages.ate_without_table.description>
   
-  <!-- UNUSED -->
-  <BondedAnimalAbandoned.stages.0.label>mascote {0} abandonado</BondedAnimalAbandoned.stages.0.label>
-  <BondedAnimalAbandoned.stages.0.description>Meu mascote foi abandonado no meio do nada!</BondedAnimalAbandoned.stages.0.description>
-  
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
@@ -24,14 +20,6 @@
   <Catharsis.stages.catharsis.label>catarse</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>Me sinto bem depois de finalmente desengarrafar os meus sentimentos.</Catharsis.stages.catharsis.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandoned.stages.0.label>colono abandonado</ColonistAbandoned.stages.0.label>
-  <ColonistAbandoned.stages.0.description>Nós deixamos alguém para trás. Espero que eles consigam, mas estou preocupado.</ColonistAbandoned.stages.0.description>
-  
-  <!-- UNUSED -->
-  <ColonistAbandonedToDie.stages.0.label>colono abandonado para morrer</ColonistAbandonedToDie.stages.0.label>
-  <ColonistAbandonedToDie.stages.0.description>Nós deixamos alguém para trás de tal maneira que quase não há como ele sobreviver.</ColonistAbandonedToDie.stages.0.description>
   
   <!-- EN: colonist banished -->
   <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
@@ -51,18 +39,10 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
-  <!-- UNUSED -->
-  <DefeatedMajorEnemy.stages.0.label>derrotou {0}</DefeatedMajorEnemy.stages.0.label>
-  <DefeatedMajorEnemy.stages.0.description>Eu derrubei uma grande ameaça! Sou um herói!</DefeatedMajorEnemy.stages.0.description>
-  
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
   <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
-  
-  <!-- UNUSED -->
-  <GreenThumbHappy.stages.0.label>cultivou uma planta</GreenThumbHappy.stages.0.label>
-  <GreenThumbHappy.stages.0.description>O que o mundo precisa é de mais plantas!</GreenThumbHappy.stages.0.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>matou alguém</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -123,10 +103,6 @@
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>viu cadáver podre</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
   <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Eu vi um cadáver em decomposição no chão. Foi nojento.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
-  
-  <!-- UNUSED -->
-  <PrisonerAbandonedToDie.stages.0.label>prisioneiro abandonado para morrer</PrisonerAbandonedToDie.stages.0.label>
-  <PrisonerAbandonedToDie.stages.0.description>Nós deixamos um prisioneiro para trás de tal maneira que quase não há como ele sobreviver.</PrisonerAbandonedToDie.stages.0.description>
   
   <!-- EN: prisoner banished to death -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>

@@ -6,16 +6,10 @@
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
   <Battery.description>Armazena eletricidade quando há excesso de energia e a devolve quando não há. Aviso - As baterias carregadas tendem a explodir quando superaquecidas ou molhadas.</Battery.description>
   
-  <!-- UNUSED -->
-  <Blueprint_FueledGenerator.label>gerador abastecido (projeto)</Blueprint_FueledGenerator.label>
-  
   <!-- EN: chemfuel powered generator -->
   <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
   <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
-  
-  <!-- UNUSED -->
-  <Frame_FueledGenerator.label>gerador abastecido (construção)</Frame_FueledGenerator.label>
   
   <!-- EN: geothermal generator -->
   <GeothermalGenerator.label>gerador geotérmico</GeothermalGenerator.label>

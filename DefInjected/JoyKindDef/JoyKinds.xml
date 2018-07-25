@@ -13,28 +13,16 @@
   <!-- EN: food consumption -->
   <Gluttonous.label>guloso</Gluttonous.label>
   
-  <!-- UNUSED -->
-  <Lewd.label>ignorante</Lewd.label>
-  
   <!-- EN: solitary relaxation -->
   <Meditative.label>meditativo</Meditative.label>
   
-  <!-- UNUSED -->
-  <Passive.label>passivo</Passive.label>
-  
   <!-- EN: social interaction -->
   <Social.label>sociável</Social.label>
-  
-  <!-- UNUSED -->
-  <Study.label>estudioso</Study.label>
   
   <!-- EN: telescope study -->
   <Telescope.label>TODO</Telescope.label>
   
   <!-- EN: television watching -->
   <Television.label>TODO</Television.label>
-  
-  <!-- UNUSED -->
-  <Work.label>trabalho</Work.label>
   
 </LanguageData>

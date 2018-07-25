@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: belt -->
-  <Belt.label>TODO</Belt.label>
+  <Belt.label>cinto</Belt.label>
   
   <!-- EN: middle -->
-  <Middle.label>TODO</Middle.label>
+  <Middle.label>medio</Middle.label>
   
   <!-- EN: skin -->
-  <OnSkin.label>TODO</OnSkin.label>
+  <OnSkin.label>pele</OnSkin.label>
   
   <!-- EN: headgear -->
-  <Overhead.label>TODO</Overhead.label>
+  <Overhead.label>chapel</Overhead.label>
   
   <!-- EN: outer -->
-  <Shell.label>TODO</Shell.label>
+  <Shell.label>exterior</Shell.label>
   
 </LanguageData>

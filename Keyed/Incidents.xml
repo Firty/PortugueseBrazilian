@@ -243,26 +243,4 @@
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
   <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
 
-  <!-- UNUSED -->
-  <CropBlight>Uma praga misteriosa destruiu as plantações.</CropBlight>
-  <EnemyRaidWalkIn>Um grupo de {0} de "{1}" chegou nas proximidades.</EnemyRaidWalkIn>
-  <EnemyRaidEdgeDrop>Um grupo de {0} de "{1}" chegou em cápsulas nas proximidades.</EnemyRaidEdgeDrop>
-  <EnemyRaidCenterDrop>Um grupo de {0} de "{1}" caiu direto em cima de você!</EnemyRaidCenterDrop>
-  <FriendlyRaidWalkIn>Um grupo amigável {0} de "{1}" chegou nas proximidades.</FriendlyRaidWalkIn>
-  <FriendlyRaidEdgeDrop>Um grupo de amigável {0} de "{1}" caíram da órbita nas proximidades.</FriendlyRaidEdgeDrop>
-  <FriendlyRaidCenterDrop>Um grupo de amigável {0} de "{1}" caíram da órbita direito em cima de você!</FriendlyRaidCenterDrop>
-  <PsychicDroneLevelLow>Baixo</PsychicDroneLevelLow>
-  <PsychicDroneLevelMedium>Médio</PsychicDroneLevelMedium>
-  <PsychicDroneLevelHigh>Alto</PsychicDroneLevelHigh>
-  <PsychicDroneLevelExtreme>Extremo</PsychicDroneLevelExtreme>
-  <ItemStashQuest_Accept>Aceitar</ItemStashQuest_Accept>
-  <ItemStashQuest_Reject>Rejeitar</ItemStashQuest_Reject>
-  <ItemStashQuestTitle>Oportunidade de depósito de itens</ItemStashQuestTitle>
-  <ItemStashSitePart_Nothing>{0} diz que o depósito não está protegido.</ItemStashSitePart_Nothing>
-  <ItemStashSitePart_Outpost>{0} diz que há um entreposto inimigo próximo.</ItemStashSitePart_Outpost>
-  <ItemStashSitePart_Turrets>{0} diz que o esconderijo está cercado por torres inimigas.</ItemStashSitePart_Turrets>
-  <ItemStashQuestFeeDemand>{0} quer nos dizer o local do depósito em troca por {1} prata.</ItemStashQuestFeeDemand>
-  <ItemStashSitePart_Manhunters>{0} diz que há um grupo de animais que caçam humanos vagando por perto.</ItemStashSitePart_Manhunters>
-  <ItemStashSitePart_Unknown>Infelizmente, {0} não tem idéia de quem ou o que - se alguma coisa - pode estar guardando o depósito.</ItemStashSitePart_Unknown>
-
 </LanguageData>

@@ -278,16 +278,4 @@
   <!-- EN: mentally broken -->
   <InMentalStateCountLower>TODO</InMentalStateCountLower>
 
-  <!-- UNUSED -->
-  <PrisonerNoInteraction>Sem interação</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Conversa amigável</PrisonerFriendlyChat>
-  <PrisonerAttemptRecruit>Conversar e recrutar</PrisonerAttemptRecruit>
-  <PrisonerRelease>Soltar</PrisonerRelease>
-  <PrisonerExecution>Executar</PrisonerExecution>
-  <NoInjuries>(sem ferimentos)</NoInjuries>
-  <Harvest>Colher</Harvest>
-  <TrainableIntelligence>Inteligência de treinamento</TrainableIntelligence>
-  <AverageArmor>Média de armadura</AverageArmor>
-  <ArmorElectric>Elétrico</ArmorElectric>
-
 </LanguageData>

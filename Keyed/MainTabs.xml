@@ -155,11 +155,4 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>O custo base do projeto {0} se tornou {1} para você por causa do seu nível de tecnologia.</ResearchCostComparison>
   
-  <!-- UNUSED -->
-  <CurrentOutfit>Trajes atuais</CurrentOutfit>
-  <CurrentDrugPolicies>Política de drogas atual</CurrentDrugPolicies>
-  <FollowDraftedTip>Seguir o dono enquanto o dono estiver alistado.</FollowDraftedTip>
-  <FollowFieldworkTip>Segue o dono enquanto o dono estiver trabalhando no campo (caça ou domesticação de animais).</FollowFieldworkTip>
-  <CurrentGoodwill>Boa vontade atual com esta facção.</CurrentGoodwill>
-
 </LanguageData>

@@ -817,35 +817,4 @@
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
 
-  <!-- UNUSED -->
-  <ModWithAssemblyWasUnloaded>O jogo não pode descarregar totalmente o código modificado de mods desativados, então o código de mods desativados ainda podem estar ativos.\n\nÉ recomendável que você feche e reinicie o jogo agora para carregar todos os mods corretamente.</ModWithAssemblyWasUnloaded>
-  <PermadeathMode>Modo morte permanente</PermadeathMode>
-  <DoXTimes>Fazer X vezes</DoXTimes>
-  <DoUntilYouHaveX>Fazer até ter X</DoUntilYouHaveX>
-  <DoForever>Fazer sempre</DoForever>
-  <BillStoreMode_DropOnFloor>Colocar no chão</BillStoreMode_DropOnFloor>
-  <BillStoreMode_BestStockpile>Levar ao melhor estoque</BillStoreMode_BestStockpile>
-  <BillStoreMode_NearestStockpileAnyPriority>Leve ao estoque mais próximo</BillStoreMode_NearestStockpileAnyPriority>
-  <TradeMassUsageTooltip>O uso de massa e a capacidade de massa resultantes.</TradeMassUsageTooltip>
-  <CaravanConfigTab>Configuração</CaravanConfigTab>
-  <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} dias de comida</DaysWorthOfFoodInfo>
-  <NoExitDirectionForCaravanChosen>Você deve escolher uma direção de saída para a caravana.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(sem direção de saída disponível)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Direção de saída</ExitDirection>
-  <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <CaravanSplitSourceLabel>Atual</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>Novo</CaravanSplitDestLabel>
-  <SplitCaravanMassUsageTooltip>Uso de massa atual e capacidade de massa.</SplitCaravanMassUsageTooltip>
-  <TransportersMassUsageTooltip>Uso de massa atual e capacidade de massa.\n\nVocê não poderá enviar as cápsulas de transporte se o uso em massa exceder a capacidade.</TransportersMassUsageTooltip>
-  <ConfirmLeavePrisonersOrAnimalsBehind>Há ainda alguns prisioneiros ou animais deixados nesta área e esta é a única caravana que eles possam se juntar no momento.\n\nSe você mover sua caravana, eles não serão capazes de deixar a área até que você esteja de volta. Os prisioneiros começarão a escapar, enquanto os animais continuarão esperando por você.\n\nSe você decidir esperar, eles vão tentar se juntar a sua caravana o mais rapidamente possível.\n\nVocê tem certeza de que deseja mover sua caravana?</ConfirmLeavePrisonersOrAnimalsBehind>
-  <ConfirmAbandonPawnDialog>Você realmente quer abandonar {0}?</ConfirmAbandonPawnDialog>
-  <ConfirmAbandonPawnDialog_LeftToDie>{0} provavelmente morrerá.</ConfirmAbandonPawnDialog_LeftToDie>
-  <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} irá levar os seguintes itens com [PAWN_pronoun]:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
-  <ConfirmAbandonPawnDialog_AllColonistsThoughts>Todos os colonos receberão os seguintes pensamentos:</ConfirmAbandonPawnDialog_AllColonistsThoughts>
-  <ConfirmAbandonPawnDialog_IndividualThoughts>Abandonando {0} fará com que as seguintes pessoas recebam os seguintes pensamentos:</ConfirmAbandonPawnDialog_IndividualThoughts>
-  <EstimatedTimeToDestinationButton>Tempo estimado para destino</EstimatedTimeToDestinationButton>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Com base na estação atual, temperatura e arredores, assumimos que será possível que os animais herbívoros comam plantas locais. Isso, no entanto, pode mudar a qualquer momento.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Com base na estação atual, temperatura e arredores, assumimos que NÃO será possível que os animais herbívoros comam plantas locais. Isso, no entanto, pode mudar a qualquer momento.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-
 </LanguageData>

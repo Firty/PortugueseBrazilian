@@ -5,13 +5,13 @@
   <Brain.label>cérebro</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>orelha</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>olho</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>pé</Foot.label>
   
   <!-- EN: head -->
   <Head.label>cabeça</Head.label>
@@ -19,20 +19,8 @@
   <!-- EN: jaw -->
   <Jaw.label>maxilar</Jaw.label>
   
-  <!-- UNUSED -->
-  <LeftEar.label>orelha esquerda</LeftEar.label>
-  
-  <!-- UNUSED -->
-  <LeftEye.label>olho esquerdo</LeftEye.label>
-  
-  <!-- UNUSED -->
-  <LeftFoot.label>pé esquerdo</LeftFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftLeg.label>perna esquerda</LeftLeg.label>
-  
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>perna</Leg.label>
   
   <!-- EN: neck -->
   <Neck.label>pescoço</Neck.label>
@@ -40,23 +28,8 @@
   <!-- EN: nose -->
   <Nose.label>nariz</Nose.label>
   
-  <!-- UNUSED -->
-  <Rib.label>costela</Rib.label>
-  
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
-  
-  <!-- UNUSED -->
-  <RightEar.label>orelha direita</RightEar.label>
-  
-  <!-- UNUSED -->
-  <RightEye.label>olho direito</RightEye.label>
-  
-  <!-- UNUSED -->
-  <RightFoot.label>pé direito</RightFoot.label>
-  
-  <!-- UNUSED -->
-  <RightLeg.label>perna direita</RightLeg.label>
+  <Ribcage.label>caixa toráxica</Ribcage.label>
   
   <!-- EN: skull -->
   <Skull.label>crânio</Skull.label>
