@@ -10,9 +10,6 @@
   <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>cápsula caída (partindo)</DropPodLeaving.label>
   
-  <!-- EN: drop pod (incoming) -->
-  <ExplosiveDropPodIncoming.label>TODO</ExplosiveDropPodIncoming.label>
-  
   <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>TODO</MeteoriteIncoming.label>
   

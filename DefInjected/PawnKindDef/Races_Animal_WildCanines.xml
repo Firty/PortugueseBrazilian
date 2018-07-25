@@ -12,6 +12,9 @@
   <Fox_Arctic.lifeStages.1.label>raposa-do-ártico jovem</Fox_Arctic.lifeStages.1.label>
   <Fox_Arctic.lifeStages.2.label>raposa-do-ártico</Fox_Arctic.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>raposa-do-ártico filhote</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  
   <!-- EN: fennec fox -->
   <Fox_Fennec.label>feneco</Fox_Fennec.label>
   <!-- EN: fennec foxes -->
@@ -22,6 +25,9 @@
   <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   <Fox_Fennec.lifeStages.1.label>feneco jovem</Fox_Fennec.lifeStages.1.label>
   <Fox_Fennec.lifeStages.2.label>feneco</Fox_Fennec.lifeStages.2.label>
+  
+  <!-- UNUSED -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>feneco filhote</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
   
   <!-- EN: red fox -->
   <Fox_Red.label>raposa-vermelha</Fox_Red.label>
@@ -34,6 +40,9 @@
   <Fox_Red.lifeStages.1.label>raposa-vermelha jovem</Fox_Red.lifeStages.1.label>
   <Fox_Red.lifeStages.2.label>raposa-vermelha</Fox_Red.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>raposa-vermelha filhote</Fox_Red.lifeStages.red_fox_puppy.label>
+  
   <!-- EN: warg -->
   <Warg.label>warg</Warg.label>
   <!-- EN: warg puppy -->
@@ -42,6 +51,9 @@
   <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
   <Warg.lifeStages.1.label>warg jovem</Warg.lifeStages.1.label>
   <Warg.lifeStages.2.label>warg</Warg.lifeStages.2.label>
+  
+  <!-- UNUSED -->
+  <Warg.lifeStages.warg_puppy.label>warg filhote</Warg.lifeStages.warg_puppy.label>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>lobo-do-ártico</Wolf_Arctic.label>
@@ -54,6 +66,9 @@
   <Wolf_Arctic.lifeStages.1.label>lobo-do-ártico jovem</Wolf_Arctic.lifeStages.1.label>
   <Wolf_Arctic.lifeStages.2.label>lobo-do-ártico</Wolf_Arctic.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>lobo-do-ártico filhote</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>lobo-cinzento</Wolf_Timber.label>
   <!-- EN: timber wolves -->
@@ -64,5 +79,8 @@
   <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   <Wolf_Timber.lifeStages.1.label>lobo-cinzento jovem</Wolf_Timber.lifeStages.1.label>
   <Wolf_Timber.lifeStages.2.label>lobo-cinzento</Wolf_Timber.lifeStages.2.label>
+  
+  <!-- UNUSED -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>lobo-cinzento filhote</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   
 </LanguageData>

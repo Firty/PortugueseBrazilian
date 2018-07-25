@@ -12,6 +12,9 @@
   <Dromedary.lifeStages.1.label>dromedário jovem</Dromedary.lifeStages.1.label>
   <Dromedary.lifeStages.2.label>dromedário</Dromedary.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <Dromedary.lifeStages.dromedary_calf.label>dromedário filhote</Dromedary.lifeStages.dromedary_calf.label>
+  
   <!-- EN: gazelle -->
   <Gazelle.label>gazela</Gazelle.label>
   <Gazelle.lifeStages.0.label>gazela filhote</Gazelle.lifeStages.0.label>
@@ -32,5 +35,8 @@
   <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
   <Muffalo.lifeStages.1.label>múfalo jovem</Muffalo.lifeStages.1.label>
   <Muffalo.lifeStages.2.label>múfalo</Muffalo.lifeStages.2.label>
+  
+  <!-- UNUSED -->
+  <Muffalo.lifeStages.muffalo_calf.label>múfalo filhote</Muffalo.lifeStages.muffalo_calf.label>
   
 </LanguageData>

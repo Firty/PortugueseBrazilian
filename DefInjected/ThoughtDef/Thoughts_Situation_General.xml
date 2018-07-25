@@ -106,6 +106,16 @@
   <!-- EN: I look like a freak from a horror show, and I feel like I'm in a horror show. -->
   <HumanLeatherApparelSad.stages.human_leather_etc.description>TODO</HumanLeatherApparelSad.stages.human_leather_etc.description>
   
+  <!-- UNUSED -->
+  <LowExpectations.stages.0.label>expectativas moderadas</LowExpectations.stages.0.label>
+  <LowExpectations.stages.0.description>Este lugar não é muito rico. Eu não posso esperar para ser totalmente mimado.</LowExpectations.stages.0.description>
+  <LowExpectations.stages.1.label>expectativas baixas</LowExpectations.stages.1.label>
+  <LowExpectations.stages.1.description>Este lugar não tem a riqueza como muitos luxos. Eu preciso me manter forte.</LowExpectations.stages.1.description>
+  <LowExpectations.stages.2.label>expectativas muito baixas</LowExpectations.stages.2.label>
+  <LowExpectations.stages.2.description>Este lugar é pobre. Não espero qualquer conforto aqui; Eu preciso me manter forte.</LowExpectations.stages.2.description>
+  <LowExpectations.stages.3.label>expectativas extremamente baixas</LowExpectations.stages.3.label>
+  <LowExpectations.stages.3.description>Estou aqui fora com pouco ou nenhum abrigo. É melhor eu me preparar para sobreviver.</LowExpectations.stages.3.description>
+  
   <!-- EN: sick -->
   <Sick.stages.sick.label>doente</Sick.stages.sick.label>
   <!-- EN: I don't feel very well. -->

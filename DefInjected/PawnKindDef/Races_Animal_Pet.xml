@@ -10,6 +10,9 @@
   <Cat.lifeStages.2.labelFemale>gata</Cat.lifeStages.2.labelFemale>
   <Cat.lifeStages.2.labelMale>gato</Cat.lifeStages.2.labelMale>
   
+  <!-- UNUSED -->
+  <Cat.lifeStages.kitten.label>gatinho</Cat.lifeStages.kitten.label>
+  
   <!-- EN: husky -->
   <Husky.label>husky</Husky.label>
   <!-- EN: huskies -->
@@ -21,6 +24,9 @@
   <Husky.lifeStages.1.label>husky jovem</Husky.lifeStages.1.label>
   <Husky.lifeStages.2.label>husky</Husky.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <Husky.lifeStages.husky_puppy.label>husky filhote</Husky.lifeStages.husky_puppy.label>
+  
   <!-- EN: labrador retriever -->
   <LabradorRetriever.label>labrador retriever</LabradorRetriever.label>
   <!-- EN: labrador puppy -->
@@ -30,6 +36,9 @@
   <LabradorRetriever.lifeStages.1.label>labrador retriever jovem</LabradorRetriever.lifeStages.1.label>
   <LabradorRetriever.lifeStages.2.label>labrador retriever</LabradorRetriever.lifeStages.2.label>
   
+  <!-- UNUSED -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>labrador retriever filhote</LabradorRetriever.lifeStages.labrador_puppy.label>
+  
   <!-- EN: yorkshire terrier -->
   <YorkshireTerrier.label>yorkshire terrier</YorkshireTerrier.label>
   <!-- EN: yorkshire terrier puppy -->
@@ -38,5 +47,8 @@
   <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>TODO</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
   <YorkshireTerrier.lifeStages.1.label>yorkshire terrier jovem</YorkshireTerrier.lifeStages.1.label>
   <YorkshireTerrier.lifeStages.2.label>yorkshire terrier</YorkshireTerrier.lifeStages.2.label>
+  
+  <!-- UNUSED -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>yorkshire terrier filhote</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
   
 </LanguageData>

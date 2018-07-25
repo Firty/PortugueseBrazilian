@@ -6,6 +6,9 @@
   <!-- EN: withdrawal -->
   <SmokeleafAddiction.stages.withdrawal.label>abstinência</SmokeleafAddiction.stages.withdrawal.label>
   
+  <!-- UNUSED -->
+  <SmokeleafAddiction.stages.withdrawal.label>abstinência</SmokeleafAddiction.stages.withdrawal.label>
+  
   <!-- EN: stoned on smokeleaf -->
   <SmokeleafHigh.label>viajando na folha-de-fumo</SmokeleafHigh.label>
   <!-- EN: a smokeleaf high -->
@@ -20,6 +23,11 @@
   <!-- EN: large -->
   <SmokeleafTolerance.stages.large.label>grande</SmokeleafTolerance.stages.large.label>
   <!-- EN: massive -->
+  <SmokeleafTolerance.stages.massive.label>maciça</SmokeleafTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <SmokeleafTolerance.stages.small-1.label>pequena</SmokeleafTolerance.stages.small-1.label>
+  <SmokeleafTolerance.stages.large.label>grande</SmokeleafTolerance.stages.large.label>
   <SmokeleafTolerance.stages.massive.label>maciça</SmokeleafTolerance.stages.massive.label>
   
 </LanguageData>

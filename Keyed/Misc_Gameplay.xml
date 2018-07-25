@@ -262,11 +262,11 @@
   <WornBy>vestido por {0}</WornBy>
   <!-- EN: equipped by {0} -->
   <EquippedBy>equipado por {0}</EquippedBy>
-  <!-- EN: {0} wants this destroyed.\n    Reward: {1}. -->
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} quer isto destruído.\n    Recompensa: {1}.</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
   <WorldObjectTimeout>Tempo que falta: {0}</WorldObjectTimeout>
-  <!-- EN: Contents: {0} -->
+  <!-- EN: Contents: {0} ({1}) -->
   <ItemStashContents>Conteúdos: {0}.</ItemStashContents>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>Clique para ordenar por esta coluna.</ClickToSortByThisColumn>
@@ -608,7 +608,7 @@
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>Não conectado à energia.</PowerNotConnected>
-  <!-- EN: Grid usage/stored: {0} W / {1} Wd -->
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Taxa conectada/armazenado: {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>Energia necessária</PowerNeeded>

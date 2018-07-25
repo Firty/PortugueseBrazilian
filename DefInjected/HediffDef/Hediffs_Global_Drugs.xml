@@ -2,6 +2,32 @@
 <LanguageData>
   
   <!-- UNUSED -->
+  <AlcoholAddiction.stages.1.label>abstinência</AlcoholAddiction.stages.1.label>
+  
+  <!-- UNUSED -->
+  <AlcoholHigh.stages.0.label>tonto-escondido</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>caloroso</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>embriagado</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>bêbado</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>caindo de bêbado</AlcoholHigh.stages.4.label>
   <AlcoholHigh.stages.5.label>apagado</AlcoholHigh.stages.5.label>
+  
+  <!-- UNUSED -->
+  <AlcoholTolerance.stages.1.label>pequena</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>grande</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>maciça</AlcoholTolerance.stages.3.label>
+  
+  <!-- UNUSED -->
+  <GoJuiceAddiction.stages.1.label>abstinência</GoJuiceAddiction.stages.1.label>
+  
+  <!-- UNUSED -->
+  <GoJuiceTolerance.stages.1.label>pequena</GoJuiceTolerance.stages.1.label>
+  <GoJuiceTolerance.stages.2.label>grande</GoJuiceTolerance.stages.2.label>
+  <GoJuiceTolerance.stages.3.label>maciça</GoJuiceTolerance.stages.3.label>
+  
+  <!-- UNUSED -->
+  <Hangover.stages.0.label>ligeira</Hangover.stages.0.label>
+  <Hangover.stages.1.label>forte</Hangover.stages.1.label>
+  <Hangover.stages.2.label>insuportável</Hangover.stages.2.label>
   
 </LanguageData>

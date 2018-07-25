@@ -519,6 +519,9 @@
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
   <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
+  <!-- EN: Warning: Capturing [PAWN_nameDef] will anger [PAWN_possessive] faction [PAWN_factionName]. -->
+  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
+
   <!-- UNUSED -->
   <MessageMustDesignateSmoothableFloor>Deve ser designado um terreno áspero de pedra.</MessageMustDesignateSmoothableFloor>
   <MessagePawnExitMapRelationsGain>Por {0} ter saído do mapa saudável, as relações com {1} foram melhoradas em {2}.</MessagePawnExitMapRelationsGain>

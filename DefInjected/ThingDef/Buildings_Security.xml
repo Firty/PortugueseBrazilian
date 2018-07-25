@@ -63,7 +63,7 @@
   
   <!-- EN: deadfall trap -->
   <TrapDeadfall.label>armadilha suspensa</TrapDeadfall.label>
-  <!-- EN: A collection of spikes under tension. When the victim disturbs the trigger, the spikes are released and spring forth, striking the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <!-- EN: A collection of five heavy spikes under tension. When the victim disturbs the trigger, the spikes are released and spring forth, striking the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapDeadfall.description>Um espinho pesado suspenso sustentado por um gatilho delicado. Quando a vítima pisa no gatilho, o peso é libertado e cai sobre a cabeça ou dorso.</TrapDeadfall.description>
   
   <!-- EN: IED antigrain warhead trap -->

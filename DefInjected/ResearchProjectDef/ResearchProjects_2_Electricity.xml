@@ -26,9 +26,8 @@
   <!-- EN: Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs. -->
   <BlowbackOperation.description>TODO</BlowbackOperation.description>
   
-  <!-- EN: electric cremation -->
+  <!-- UNUSED -->
   <ElectricCremation.label>cremação elétrica</ElectricCremation.label>
-  <!-- EN: Build crematoriums for vaporizing unwanted corpses. -->
   <ElectricCremation.description>Permite construir crematórios que podem evaporar cadáveres indesejados.</ElectricCremation.description>
   
   <!-- EN: electricity -->
@@ -36,9 +35,8 @@
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
   <Electricity.description>Permite gerar e usar a eletricidade para cozinhar e outras tarefas simples.</Electricity.description>
   
-  <!-- EN: electric smelting -->
+  <!-- UNUSED -->
   <ElectricSmelting.label>fundição elétrica</ElectricSmelting.label>
-  <!-- EN: Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items. -->
   <ElectricSmelting.description>Permite a construção de forjas elétricas e fornos de fundições.\n\nA forja elétrica permite que os itens sejam criados sem combustível. Os fornos de fundição elétricos usam o calor e fortes eletroímãs para extrair metais útil a partir de pedaços de escória e outros itens.</ElectricSmelting.description>
   
   <!-- EN: firefoam -->

@@ -114,6 +114,8 @@
   <CantSowCavePlantBecauseUnroofed>TODO</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>TODO</IncapableOfDeconstruction>
+  <!-- EN: angers faction -->
+  <AngersFaction>TODO</AngersFaction>
   
   <!-- EN: Consume {0} -->
   <ConsumeThing>Consumir {0}</ConsumeThing>

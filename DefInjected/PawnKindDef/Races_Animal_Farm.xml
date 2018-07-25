@@ -21,6 +21,11 @@
   <Chicken.lifeStages.2.labelFemale>galinha</Chicken.lifeStages.2.labelFemale>
   <Chicken.lifeStages.2.labelMale>galo</Chicken.lifeStages.2.labelMale>
   
+  <!-- UNUSED -->
+  <Chicken.lifeStages.chick.label>pintinho</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>galinha jovem</Chicken.lifeStages.cockerel.labelFemale>
+  <Chicken.lifeStages.cockerel.labelMale>galo jovem</Chicken.lifeStages.cockerel.labelMale>
+  
   <!-- EN: cow -->
   <Cow.label>bovino</Cow.label>
   <!-- EN: cow -->
@@ -38,6 +43,9 @@
   <Cow.lifeStages.2.labelFemale>vaca</Cow.lifeStages.2.labelFemale>
   <Cow.lifeStages.2.labelMale>boi</Cow.lifeStages.2.labelMale>
   
+  <!-- UNUSED -->
+  <Cow.lifeStages.calf.label>bezerro</Cow.lifeStages.calf.label>
+  
   <!-- EN: pig -->
   <Pig.label>porco</Pig.label>
   <!-- EN: sow -->
@@ -50,5 +58,8 @@
   <Pig.lifeStages.2.label>porco</Pig.lifeStages.2.label>
   <Pig.lifeStages.2.labelFemale>porca</Pig.lifeStages.2.labelFemale>
   <Pig.lifeStages.2.labelMale>porco</Pig.lifeStages.2.labelMale>
+  
+  <!-- UNUSED -->
+  <Pig.lifeStages.piglet.label>porco filhote</Pig.lifeStages.piglet.label>
   
 </LanguageData>
