@@ -18,9 +18,9 @@
   <BloodLoss.stages.extreme.label>extremo</BloodLoss.stages.extreme.label>
   
   <!-- EN: catatonic breakdown -->
-  <CatatonicBreakdown.label>TODO</CatatonicBreakdown.label>
+  <CatatonicBreakdown.label>colapso catatônico</CatatonicBreakdown.label>
   <!-- EN: a catatonic breakdown -->
-  <CatatonicBreakdown.labelNoun>TODO</CatatonicBreakdown.labelNoun>
+  <CatatonicBreakdown.labelNoun>um colapso catatônico</CatatonicBreakdown.labelNoun>
   
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>doença do cripto-sono</CryptosleepSickness.label>
@@ -32,7 +32,7 @@
   <!-- EN: {0} is overdosing! -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} teve uma overdose!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: a drug overdose -->
-  <DrugOverdose.labelNoun>TODO</DrugOverdose.labelNoun>
+  <DrugOverdose.labelNoun>uma overdose de drogas</DrugOverdose.labelNoun>
   <!-- EN: minor -->
   <DrugOverdose.stages.minor-0.label>escondido</DrugOverdose.stages.minor-0.label>
   <!-- EN: minor -->
@@ -43,16 +43,16 @@
   <!-- EN: food poisoning -->
   <FoodPoisoning.label>intoxicação alimentar</FoodPoisoning.label>
   <!-- EN: recovering -->
-  <FoodPoisoning.stages.recovering.label>TODO</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.recovering.label>recuperando</FoodPoisoning.stages.recovering.label>
   <!-- EN: major -->
-  <FoodPoisoning.stages.major.label>TODO</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.major.label>maior</FoodPoisoning.stages.major.label>
   <!-- EN: initial -->
-  <FoodPoisoning.stages.initial.label>TODO</FoodPoisoning.stages.initial.label>
+  <FoodPoisoning.stages.initial.label>inicial</FoodPoisoning.stages.initial.label>
   
   <!-- EN: heart attack -->
   <HeartAttack.label>ataque cardíaco</HeartAttack.label>
   <!-- EN: a heart attack -->
-  <HeartAttack.labelNoun>TODO</HeartAttack.labelNoun>
+  <HeartAttack.labelNoun>um ataque cardíaco</HeartAttack.labelNoun>
   <!-- EN: painful -->
   <HeartAttack.stages.painful.label>doloroso</HeartAttack.stages.painful.label>
   <!-- EN: debilitating -->
@@ -67,7 +67,7 @@
   <!-- EN: {0} is pregnant! -->
   <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} está grávida!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: pregnancy -->
-  <Pregnant.labelNoun>TODO</Pregnant.labelNoun>
+  <Pregnant.labelNoun>gravidez</Pregnant.labelNoun>
   <!-- EN: early-stage -->
   <Pregnant.stages.earlystage.label>primeiro estágio-escondido</Pregnant.stages.earlystage.label>
   <!-- EN: middle-stage -->
@@ -78,10 +78,10 @@
   <!-- EN: psychic shock -->
   <PsychicShock.label>choque psíquico</PsychicShock.label>
   <!-- EN: a psychic shock -->
-  <PsychicShock.labelNoun>TODO</PsychicShock.labelNoun>
+  <PsychicShock.labelNoun>um choque psíquico</PsychicShock.labelNoun>
   
   <!-- EN: resurrection sickness -->
-  <ResurrectionSickness.label>TODO</ResurrectionSickness.label>
+  <ResurrectionSickness.label>doença da ressurreição</ResurrectionSickness.label>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>acúmulo tóxico</ToxicBuildup.label>
