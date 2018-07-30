@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: butchery efficiency -->
   <ButcheryFleshEfficiency.label>eficiência de esquartejamento</ButcheryFleshEfficiency.label>
@@ -67,3 +68,59 @@
   <UnskilledLaborSpeed.description>TODO</UnskilledLaborSpeed.description>
   
 </LanguageData>
+=======
+
+	<SculptingSpeed.label>velocidade de esculpimento</SculptingSpeed.label>
+
+	<SculptingSpeed.description>Velocidade com que esta pessoa esculpe.</SculptingSpeed.description>
+
+	<TailoringSpeed.label>velocidade de costura</TailoringSpeed.label>
+
+	<TailoringSpeed.description>Velocidade com que esta pessoa faz roupas.</TailoringSpeed.description>
+
+	<SmithingSpeed.label>velocidade de metalurgia</SmithingSpeed.label>
+
+	<SmithingSpeed.description>Velocidade com que esta pessoa forja ou cria armas, máquinas, munições e ferramentas.</SmithingSpeed.description>
+
+	<DrugProductionSpeed.label>velocidade de produção de drogas</DrugProductionSpeed.label>
+
+	<DrugProductionSpeed.description>O quão rápido este personagem produz drogas.</DrugProductionSpeed.description>
+
+	<CookSpeed.label>velocidade de cozimento</CookSpeed.label>
+
+	<CookSpeed.description>Velocidade com que esta pessoa cozinha refeições.</CookSpeed.description>
+
+	<FoodPoisonChance.label>chance de envenenar comida</FoodPoisonChance.label>
+
+	<FoodPoisonChance.description>A probabilidade de que este personagem irá inadvertidamente envenenar uma refeição que ele cozinhar.</FoodPoisonChance.description>
+
+	<BrewingSpeed.label>velocidade de fabricação de cerveja</BrewingSpeed.label>
+
+	<BrewingSpeed.description>Velocidade com que esta pessoa fabrica cerveja.</BrewingSpeed.description>
+
+	<ButcheryFleshSpeed.label>velocidade de esquartejamento</ButcheryFleshSpeed.label>
+
+	<ButcheryFleshSpeed.description>Velocidade com que esta pessoa esquarteja criaturas de carne.</ButcheryFleshSpeed.description>
+
+	<ButcheryFleshEfficiency.label>eficiência de esquartejamento</ButcheryFleshEfficiency.label>
+
+	<ButcheryFleshEfficiency.description>Multiplicador sobre a quantidade de carne produzida quando massacra criaturas de carne.</ButcheryFleshEfficiency.description>
+
+	<ButcheryMechanoidSpeed.label>velocidade de desmontagem</ButcheryMechanoidSpeed.label>
+
+	<ButcheryMechanoidSpeed.description>Velocidade com que esta pessoa pode desmontar um mechanoide.</ButcheryMechanoidSpeed.description>
+
+	<ButcheryMechanoidEfficiency.label>eficiência de desmontagem</ButcheryMechanoidEfficiency.label>
+
+	<ButcheryMechanoidEfficiency.description>Multiplicador sobre a quantidade de materiais produzidos quando esta pessoa desmonta um mechanoide morto.</ButcheryMechanoidEfficiency.description>
+
+	<SmeltingSpeed.label>velocidade de fundição</SmeltingSpeed.label>
+
+	<SmeltingSpeed.description>Velocidade com que esta pessoa funde coisas.</SmeltingSpeed.description>
+
+	<MechanoidOperationSuccessChance.label>chance de operar um mechanoid</MechanoidOperationSuccessChance.label>
+
+	<MechanoidOperationSuccessChance.description>A chance de um personagem realizar uma operação em um mechanoid com sucesso. Falhas podem resultar em perda de peças colhidas e danos ao mechanoid.</MechanoidOperationSuccessChance.description>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

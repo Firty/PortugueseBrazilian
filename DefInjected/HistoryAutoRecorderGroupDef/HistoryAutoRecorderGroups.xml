@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: colonist mood -->
   <ColonistMood.label>humor do colono</ColonistMood.label>
@@ -14,3 +15,13 @@
   <Wealth.label>riqueza</Wealth.label>
   
 </LanguageData>
+=======
+    
+    <Wealth.label>riqueza</Wealth.label>
+    
+    <Population.label>população</Population.label>
+    
+    <ColonistMood.label>humor do colono</ColonistMood.label>
+    
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

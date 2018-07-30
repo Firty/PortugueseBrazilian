@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: medical operation speed -->
   <MedicalOperationSpeed.label>velocidade de operação médica</MedicalOperationSpeed.label>
@@ -22,3 +23,23 @@
   <MedicalTendSpeed.description>TODO</MedicalTendSpeed.description>
   
 </LanguageData>
+=======
+
+	<MedicalOperationSpeed.label>velocidade de operação médica</MedicalOperationSpeed.label>
+
+	<MedicalOperationSpeed.description>Velocidade em que o personagem realiza operações médicas.</MedicalOperationSpeed.description>
+
+	<SurgerySuccessChance.label>chance de cirurgia de sucesso</SurgerySuccessChance.label>
+
+	<SurgerySuccessChance.description>A probabilidade de que um personagem irá ter sucesso ao tentar realizar uma cirurgia. Falhas podem resultar em danos catastróficos para o paciente ou simples desperdício de tempo e da medicina.</SurgerySuccessChance.description>
+
+	<HealingQuality.label>base da qualidade de cura</HealingQuality.label>
+
+	<HealingQuality.description>Base da qualidade do tratamento dado aos pacientes quando atuando como um médico.</HealingQuality.description>
+
+	<HealingSpeed.label>velocidade de cura</HealingSpeed.label>
+
+	<HealingSpeed.description>Velocidade em que o personagem cura feridas e doenças como um médico.</HealingSpeed.description>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

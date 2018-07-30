@@ -1,89 +1,126 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>damaged_past(p=2)->blasted</li>
-    <li>damaged_past(p=2)->exploded</li>
-    <li>damaged_past->injured</li>
-    <li>damaged_past->damaged</li>
-    <li>damaged_past->wounded</li>
-    <li>damaged_past->hurt</li>
-    <li>destroyed_past->shattered</li>
-    <li>destroyed_past->crushed</li>
-    <li>destroyed_past->obliterated</li>
-    <li>destroyed_past->annihilated</li>
-    <li>destroyed_past->detonated</li>
-  -->
-  <Damage_Bomb.rulePack.rulesStrings>TODO</Damage_Bomb.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damaged_past->electrified</li>
-    <li>damaged_past->shocked</li>
-    <li>damaged_past->zapped</li>
-    <li>destroyed_past->damaged_past</li>
-  -->
-  <Damage_EMP.rulePack.rulesStrings>TODO</Damage_EMP.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damaged_past->extinguished</li>
-    <li>damaged_past->swamped</li>
-    <li>damaged_past->foamed</li>
-    <li>damaged_past->quenched</li>
-    <li>destroyed_past->damaged_past</li>
-  -->
-  <Damage_Extinguish.rulePack.rulesStrings>TODO</Damage_Extinguish.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damaged_past(p=2)->blasted</li>
-    <li>damaged_past(p=2)->scorched</li>
-    <li>damaged_past(p=2)->burned</li>
-    <li>damaged_past(p=2)->blistered</li>
-    <li>damaged_past(p=2)->ignited</li>
-    <li>damaged_past(p=2)->seared</li>
-    <li>damaged_past->injured</li>
-    <li>damaged_past->damaged</li>
-    <li>damaged_past->wounded</li>
-    <li>damaged_past->hurt</li>
-    <li>damaged_present(p=2)->blasting</li>
-    <li>damaged_present(p=2)->scorching</li>
-    <li>damaged_present(p=2)->burning</li>
-    <li>damaged_present(p=2)->blistering</li>
-    <li>damaged_present(p=2)->igniting</li>
-    <li>damaged_present(p=2)->searing</li>
-    <li>damaged_present->injuring</li>
-    <li>damaged_present->damaging</li>
-    <li>damaged_present->wounding</li>
-    <li>damaged_present->hurting</li>
-    <li>destroyed_past->cremated</li>
-    <li>destroyed_past->incinerated</li>
-    <li>destroyed_past->charred</li>
-    <li>destroyed_past->obliterated</li>
-    <li>destroyed_past->annihilated</li>
-    <li>destroyed_past->detonated</li>
-    <li>destroyed_present->cremating</li>
-    <li>destroyed_present->incinerating</li>
-    <li>destroyed_present->charring</li>
-    <li>destroyed_present->obliterating</li>
-    <li>destroyed_present->annihilating</li>
-    <li>destroyed_present->detonating</li>
-  -->
-  <Damage_Flame.rulePack.rulesStrings>TODO</Damage_Flame.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damaged_past->smoked</li>
-    <li>damaged_past->fogged</li>
-    <li>damaged_past->clouded</li>
-    <li>destroyed_past->damaged_past</li>
-  -->
-  <Damage_Smoke.rulePack.rulesStrings>TODO</Damage_Smoke.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damaged_past->stunned</li>
-    <li>damaged_past->confused</li>
-    <li>damaged_past->stopped</li>
-    <li>damaged_past->dizzied</li>
-    <li>destroyed_past->damaged_past</li>
-  -->
-  <Damage_Stun.rulePack.rulesStrings>TODO</Damage_Stun.rulePack.rulesStrings>
-  
+
+	<Damage_Bomb.rulepack.rulesstrings.0>damaged_past(p=2)->estourado</Damage_Bomb.rulepack.rulesstrings.0>
+
+	<Damage_Bomb.rulepack.rulesstrings.1>damaged_past(p=2)->explodido</Damage_Bomb.rulepack.rulesstrings.1>
+
+	<Damage_Bomb.rulepack.rulesstrings.2>damaged_past->ferido</Damage_Bomb.rulepack.rulesstrings.2>
+
+	<Damage_Bomb.rulepack.rulesstrings.3>damaged_past->danificado</Damage_Bomb.rulepack.rulesstrings.3>
+
+	<Damage_Bomb.rulepack.rulesstrings.4>damaged_past->ferido</Damage_Bomb.rulepack.rulesstrings.4>
+
+	<Damage_Bomb.rulepack.rulesstrings.5>damaged_past->prejudicado</Damage_Bomb.rulepack.rulesstrings.5>
+
+	<Damage_Bomb.rulepack.rulesstrings.6>destroyed_past->destruido</Damage_Bomb.rulepack.rulesstrings.6>
+
+	<Damage_Bomb.rulepack.rulesstrings.7>destroyed_past->esmagado</Damage_Bomb.rulepack.rulesstrings.7>
+
+	<Damage_Bomb.rulepack.rulesstrings.8>destroyed_past->removido</Damage_Bomb.rulepack.rulesstrings.8>
+
+	<Damage_Bomb.rulepack.rulesstrings.9>destroyed_past->aniquilado</Damage_Bomb.rulepack.rulesstrings.9>
+
+	<Damage_Bomb.rulepack.rulesstrings.10>destroyed_past->detonado</Damage_Bomb.rulepack.rulesstrings.10>
+
+	<Damage_Flame.rulepack.rulesstrings.0>damaged_past(p=2)->destruido</Damage_Flame.rulepack.rulesstrings.0>
+
+	<Damage_Flame.rulepack.rulesstrings.1>damaged_past(p=2)->chamuscado</Damage_Flame.rulepack.rulesstrings.1>
+
+	<Damage_Flame.rulepack.rulesstrings.2>damaged_past(p=2)->queimado</Damage_Flame.rulepack.rulesstrings.2>
+
+	<Damage_Flame.rulepack.rulesstrings.3>damaged_past(p=2)->empolado</Damage_Flame.rulepack.rulesstrings.3>
+
+	<Damage_Flame.rulepack.rulesstrings.4>damaged_past(p=2)->incinerado</Damage_Flame.rulepack.rulesstrings.4>
+
+	<Damage_Flame.rulepack.rulesstrings.5>damaged_past(p=2)->grelhado</Damage_Flame.rulepack.rulesstrings.5>
+
+	<Damage_Flame.rulepack.rulesstrings.6>damaged_past->ferido</Damage_Flame.rulepack.rulesstrings.6>
+
+	<Damage_Flame.rulepack.rulesstrings.7>damaged_past->danificado</Damage_Flame.rulepack.rulesstrings.7>
+
+	<Damage_Flame.rulepack.rulesstrings.8>damaged_past->ferido</Damage_Flame.rulepack.rulesstrings.8>
+
+	<Damage_Flame.rulepack.rulesstrings.9>damaged_past->machucado</Damage_Flame.rulepack.rulesstrings.9>
+
+	<Damage_Flame.rulepack.rulesstrings.10>damaged_present(p=2)->destruindo</Damage_Flame.rulepack.rulesstrings.10>
+
+	<Damage_Flame.rulepack.rulesstrings.11>damaged_present(p=2)->torrando</Damage_Flame.rulepack.rulesstrings.11>
+
+	<Damage_Flame.rulepack.rulesstrings.12>damaged_present(p=2)->queimando</Damage_Flame.rulepack.rulesstrings.12>
+
+	<Damage_Flame.rulepack.rulesstrings.13>damaged_present(p=2)->empolamento</Damage_Flame.rulepack.rulesstrings.13>
+
+	<Damage_Flame.rulepack.rulesstrings.14>damaged_present(p=2)->incinerando</Damage_Flame.rulepack.rulesstrings.14>
+
+	<Damage_Flame.rulepack.rulesstrings.15>damaged_present(p=2)->cauterizando</Damage_Flame.rulepack.rulesstrings.15>
+
+	<Damage_Flame.rulepack.rulesstrings.16>damaged_present->ferindo</Damage_Flame.rulepack.rulesstrings.16>
+
+	<Damage_Flame.rulepack.rulesstrings.17>damaged_present->danificando</Damage_Flame.rulepack.rulesstrings.17>
+
+	<Damage_Flame.rulepack.rulesstrings.18>damaged_present->ferindo</Damage_Flame.rulepack.rulesstrings.18>
+
+	<Damage_Flame.rulepack.rulesstrings.19>damaged_present->machucando</Damage_Flame.rulepack.rulesstrings.19>
+
+	<Damage_Flame.rulepack.rulesstrings.20>destroyed_past->cremado</Damage_Flame.rulepack.rulesstrings.20>
+
+	<Damage_Flame.rulepack.rulesstrings.21>destroyed_past->incinerado</Damage_Flame.rulepack.rulesstrings.21>
+
+	<Damage_Flame.rulepack.rulesstrings.22>destroyed_past->carbonizado</Damage_Flame.rulepack.rulesstrings.22>
+
+	<Damage_Flame.rulepack.rulesstrings.23>destroyed_past->destruido</Damage_Flame.rulepack.rulesstrings.23>
+
+	<Damage_Flame.rulepack.rulesstrings.24>destroyed_past->aniquilado</Damage_Flame.rulepack.rulesstrings.24>
+
+	<Damage_Flame.rulepack.rulesstrings.25>destroyed_past->detonado</Damage_Flame.rulepack.rulesstrings.25>
+
+	<Damage_Flame.rulepack.rulesstrings.26>destroyed_present->cremando</Damage_Flame.rulepack.rulesstrings.26>
+
+	<Damage_Flame.rulepack.rulesstrings.27>destroyed_present->incinerando</Damage_Flame.rulepack.rulesstrings.27>
+
+	<Damage_Flame.rulepack.rulesstrings.28>destroyed_present->canbonizando</Damage_Flame.rulepack.rulesstrings.28>
+
+	<Damage_Flame.rulepack.rulesstrings.29>destroyed_present->destruindo</Damage_Flame.rulepack.rulesstrings.29>
+
+	<Damage_Flame.rulepack.rulesstrings.30>destroyed_present->aniquilando</Damage_Flame.rulepack.rulesstrings.30>
+
+	<Damage_Flame.rulepack.rulesstrings.31>destroyed_present->detonando</Damage_Flame.rulepack.rulesstrings.31>
+
+	<Damage_Extinguish.rulepack.rulesstrings.0>damaged_past->extinto</Damage_Extinguish.rulepack.rulesstrings.0>
+
+	<Damage_Extinguish.rulepack.rulesstrings.1>damaged_past->inundado</Damage_Extinguish.rulepack.rulesstrings.1>
+
+	<Damage_Extinguish.rulepack.rulesstrings.2>damaged_past->espumado</Damage_Extinguish.rulepack.rulesstrings.2>
+
+	<Damage_Extinguish.rulepack.rulesstrings.3>damaged_past->destruido</Damage_Extinguish.rulepack.rulesstrings.3>
+
+	<Damage_Extinguish.rulepack.rulesstrings.4>destroyed_past->damaged_past</Damage_Extinguish.rulepack.rulesstrings.4>
+
+	<Damage_Stun.rulepack.rulesstrings.0>damaged_past->atordoado</Damage_Stun.rulepack.rulesstrings.0>
+
+	<Damage_Stun.rulepack.rulesstrings.1>damaged_past->confuso</Damage_Stun.rulepack.rulesstrings.1>
+
+	<Damage_Stun.rulepack.rulesstrings.2>damaged_past->paralizado</Damage_Stun.rulepack.rulesstrings.2>
+
+	<Damage_Stun.rulepack.rulesstrings.3>damaged_past->atordoado</Damage_Stun.rulepack.rulesstrings.3>
+
+	<Damage_Stun.rulepack.rulesstrings.4>destroyed_past->damaged_past</Damage_Stun.rulepack.rulesstrings.4>
+
+	<Damage_EMP.rulepack.rulesstrings.0>damaged_past->eletrificado</Damage_EMP.rulepack.rulesstrings.0>
+
+	<Damage_EMP.rulepack.rulesstrings.1>damaged_past->chocado</Damage_EMP.rulepack.rulesstrings.1>
+
+	<Damage_EMP.rulepack.rulesstrings.2>damaged_past->zapped</Damage_EMP.rulepack.rulesstrings.2>
+
+	<Damage_EMP.rulepack.rulesstrings.3>destroyed_past->damaged_past</Damage_EMP.rulepack.rulesstrings.3>
+
+	<Damage_Smoke.rulepack.rulesstrings.0>damaged_past->defumado</Damage_Smoke.rulepack.rulesstrings.0>
+
+	<Damage_Smoke.rulepack.rulesstrings.1>damaged_past->enevoado</Damage_Smoke.rulepack.rulesstrings.1>
+
+	<Damage_Smoke.rulepack.rulesstrings.2>damaged_past->nublado</Damage_Smoke.rulepack.rulesstrings.2>
+
+	<Damage_Smoke.rulepack.rulesstrings.3>destroyed_past->damaged_past</Damage_Smoke.rulepack.rulesstrings.3>
+
 </LanguageData>

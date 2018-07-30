@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: cook fine meal -->
   <CookMealFine.label>cozinhar boa refeição</CookMealFine.label>
@@ -30,3 +31,37 @@
   <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
   
 </LanguageData>
+=======
+
+	<CookMealSimple.label>cozinhar refeição simples</CookMealSimple.label>
+
+	<CookMealSimple.description>Cozinha uma refeição simples de um ingrediente.</CookMealSimple.description>
+
+	<CookMealSimple.jobString>Cozinhando refeição simples.</CookMealSimple.jobString>
+
+	<CookMealSimpleCampfire.label>cozinhar refeição simples</CookMealSimpleCampfire.label>
+
+	<CookMealSimpleCampfire.description>Cozinha uma refeição simples de um ingrediente.</CookMealSimpleCampfire.description>
+
+	<CookMealSimpleCampfire.jobString>Cozinhando refeição simples.</CookMealSimpleCampfire.jobString>
+
+	<CookMealFine.label>cozinhar boa refeição</CookMealFine.label>
+
+	<CookMealFine.description>Cozinha uma refeição um pouco complexa a partir de uma combinação de carne crua e ingredientes vegetais crus.</CookMealFine.description>
+
+	<CookMealFine.jobString>Cozinhando boa refeição.</CookMealFine.jobString>
+
+	<CookMealLavish.label>cozinhar refeição abundante</CookMealLavish.label>
+
+	<CookMealLavish.description>Cozinha uma refeição muito complexa a partir de uma combinação de carne crua e ingredientes vegetais crus. Muito dos ingredientes são desperdiçados.</CookMealLavish.description>
+
+	<CookMealLavish.jobString>Cozinhando refeição abundante.</CookMealLavish.jobString>
+
+	<CookMealSurvival.label>cozinhar refeição de sobrevivência embalada</CookMealSurvival.label>
+
+	<CookMealSurvival.description>Cozinha uma refeição de sobrevivência embalada a partir de uma combinação de carne crua e ingredientes vegetais crus. Muitos dos ingredientes são desperdiçados.</CookMealSurvival.description>
+
+	<CookMealSurvival.jobstring>Cozinhar refeição de sobrevivência.</CookMealSurvival.jobstring>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

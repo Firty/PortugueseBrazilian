@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: tropical rainforest -->
   <TropicalRainforest.label>floresta tropical</TropicalRainforest.label>
@@ -12,3 +13,11 @@
   <TropicalSwamp.description>Um pântano cheio de plantas e cheio de vapor, fervilhando de parasitas e patógenos. Grande parte da terra é muito pantanosa para se construir. Movimentos difíceis, animais agressivos e doenças desenfreadas tornam a vida aqui um pesadelo.</TropicalSwamp.description>
   
 </LanguageData>
+=======
+
+	<TropicalSwamp.label>pântano tropical</TropicalSwamp.label>
+
+	<TropicalSwamp.description>Uma selva espessa com muito pântano e lama. Movimentos difíceis, pouco espaço para construir estruturas pesadas, animais agressivos e doenças constantes tornam a vida aqui um pesadelo.</TropicalSwamp.description>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

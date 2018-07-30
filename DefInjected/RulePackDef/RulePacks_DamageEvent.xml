@@ -1,82 +1,120 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-  
-  <!-- EN:
-    <li>damage_source->the [roof] [collapsed] on</li>
-    <li>roof->roof</li>
-    <li>roof->roofing</li>
-    <li>roof->ceiling</li>
-    <li>collapsed->collapsed</li>
-    <li>collapsed->fell</li>
-    <li>collapsed->caved in</li>
-    <li>damaged_present->smashing</li>
-    <li>damaged_present->bashing</li>
-    <li>damaged_present->clobbering</li>
-    <li>damaged_present->bruising</li>
-    <li>damaged_present->lacerating</li>
-    <li>destroyed_present->shattering</li>
-    <li>destroyed_present->crushing</li>
-    <li>destroyed_present->obliterating</li>
-    <li>destroyed_present->annihilating</li>
-    <li>destroyed_present->breaking</li>
-  -->
-  <DamageEvent_Ceiling.rulePack.rulesStrings>TODO</DamageEvent_Ceiling.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damage_source->[fire] burned</li>
-    <li>fire(p=3)->fire</li>
-    <li>fire(p=3)->a fire</li>
-    <li>fire(p=3)->the fire</li>
-    <li>fire->heat</li>
-    <li>fire->a conflagration</li>
-    <li>fire->an inferno</li>
-    <li>damaged_present->scorching</li>
-    <li>damaged_present->broiling</li>
-    <li>damaged_present->searing</li>
-    <li>damaged_present->singeing</li>
-    <li>destroyed_present->charring</li>
-    <li>destroyed_present->roasting</li>
-    <li>destroyed_present->cooking</li>
-    <li>destroyed_present->cremating</li>
-  -->
-  <DamageEvent_Fire.rulePack.rulesStrings>TODO</DamageEvent_Fire.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
-  -->
-  <DamageEvent_Include.rulePack.rulesStrings>TODO</DamageEvent_Include.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damage_source->The [sky] opened up on</li>
-    <li>damage_source->A beam of incredible [power] [damaged_past]</li>
-    <li>damage_source->A column of [light] [damaged_past]</li>
-    <li>sky->sky</li>
-    <li>sky->clouds</li>
-    <li>sky->heavens</li>
-    <li>power->power</li>
-    <li>power->energy</li>
-    <li>power->heat</li>
-    <li>light->light</li>
-    <li>light->heat</li>
-    <li>light->flame</li>
-    <li>light(p=0.2)->incandescence</li>
-  -->
-  <DamageEvent_PowerBeam.rulePack.rulesStrings>TODO</DamageEvent_PowerBeam.rulePack.rulesStrings>
-  
-  <!-- EN:
-    <li>damage_source->A [spiraling] tornado [enveloped]</li>
-    <li>destroyed_present(p=3)->tearing off</li>
-    <li>spiraling->spiraling</li>
-    <li>spiraling->whirling</li>
-    <li>spiraling->spinning</li>
-    <li>spiraling(p=10)-></li>
-    <li>enveloped(p=8)->enveloped</li>
-    <li>enveloped->engulfed</li>
-    <li>enveloped->surrounded</li>
-  -->
-  <DamageEvent_Tornado.rulePack.rulesStrings>TODO</DamageEvent_Tornado.rulePack.rulesStrings>
-  
+
+	<DamageEvent_Include.rulepack.rulesstrings.0>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets].</DamageEvent_Include.rulepack.rulesstrings.0>
+
+	<DamageEvent_Include.rulepack.rulesstrings.1>logentry->[damageSource] [recipient_nameShortDef], [destroyed_present] [recipient_possessive] [destroyed_targets] and [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulepack.rulesstrings.1>
+
+	<DamageEvent_Include.rulepack.rulesstrings.2>logentry(recipient_part_destroyed_count==0)->[damageSource] [recipient_nameShortDef], [damaged_present] [recipient_possessive] [damaged_targets].</DamageEvent_Include.rulepack.rulesstrings.2>
+
+	<DamageEvent_Include.rulepack.rulesstrings.3>logentry(p=0.1)->[damageSource] [recipient_nameShortDef].</DamageEvent_Include.rulepack.rulesstrings.3>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.0>damageSource->o [roof] [collapsed] em</DamageEvent_Ceiling.rulepack.rulesstrings.0>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.1>roof->cobertura</DamageEvent_Ceiling.rulepack.rulesstrings.1>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.2>roof->telhado</DamageEvent_Ceiling.rulepack.rulesstrings.2>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.3>roof->teto</DamageEvent_Ceiling.rulepack.rulesstrings.3>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.4>collapsed->em colapso</DamageEvent_Ceiling.rulepack.rulesstrings.4>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.5>collapsed->caiu</DamageEvent_Ceiling.rulepack.rulesstrings.5>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.6>collapsed->desabou em</DamageEvent_Ceiling.rulepack.rulesstrings.6>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.7>damaged_present->esmagando</DamageEvent_Ceiling.rulepack.rulesstrings.7>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.8>damaged_present->batendo</DamageEvent_Ceiling.rulepack.rulesstrings.8>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.9>damaged_present->espancando</DamageEvent_Ceiling.rulepack.rulesstrings.9>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.10>damaged_present->contundindo</DamageEvent_Ceiling.rulepack.rulesstrings.10>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.11>damaged_present->dilacerando</DamageEvent_Ceiling.rulepack.rulesstrings.11>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.12>destroyed_present->estilhaçando</DamageEvent_Ceiling.rulepack.rulesstrings.12>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.13>destroyed_present->esmagando</DamageEvent_Ceiling.rulepack.rulesstrings.13>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.14>destroyed_present->destruindo</DamageEvent_Ceiling.rulepack.rulesstrings.14>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.15>destroyed_present->aniquilando</DamageEvent_Ceiling.rulepack.rulesstrings.15>
+
+	<DamageEvent_Ceiling.rulepack.rulesstrings.16>destroyed_present->quebrando</DamageEvent_Ceiling.rulepack.rulesstrings.16>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.0>damageSource->[fire] queimado</DamageEvent_Fire.rulepack.rulesstrings.0>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.1>fire(p=3)->fogo</DamageEvent_Fire.rulepack.rulesstrings.1>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.2>fire(p=3)->um fogp</DamageEvent_Fire.rulepack.rulesstrings.2>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.3>fire(p=3)->o fogo</DamageEvent_Fire.rulepack.rulesstrings.3>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.4>fire->calor</DamageEvent_Fire.rulepack.rulesstrings.4>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.5>fire->uma conflagração</DamageEvent_Fire.rulepack.rulesstrings.5>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.6>fire->um inferno</DamageEvent_Fire.rulepack.rulesstrings.6>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.7>damaged_present->escaldando</DamageEvent_Fire.rulepack.rulesstrings.7>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.8>damaged_present->grelhando</DamageEvent_Fire.rulepack.rulesstrings.8>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.9>damaged_present->cauterizando</DamageEvent_Fire.rulepack.rulesstrings.9>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.10>damaged_present->chamuscando</DamageEvent_Fire.rulepack.rulesstrings.10>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.11>destroyed_present->carbonizando</DamageEvent_Fire.rulepack.rulesstrings.11>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.12>destroyed_present->assando</DamageEvent_Fire.rulepack.rulesstrings.12>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.13>destroyed_present->cozinhando</DamageEvent_Fire.rulepack.rulesstrings.13>
+
+	<DamageEvent_Fire.rulepack.rulesstrings.14>destroyed_present->cremação</DamageEvent_Fire.rulepack.rulesstrings.14>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.0>damageSource->O [sky] aberto em</DamageEvent_PowerBeam.rulepack.rulesstrings.0>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.1>damageSource->Um raio de incrível [power] [damaged_past]</DamageEvent_PowerBeam.rulepack.rulesstrings.1>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.2>damageSource->Uma coluna de [light] [damaged_past]</DamageEvent_PowerBeam.rulepack.rulesstrings.2>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.3>sky->céu</DamageEvent_PowerBeam.rulepack.rulesstrings.3>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.4>sky->nuvens</DamageEvent_PowerBeam.rulepack.rulesstrings.4>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.5>sky->céus</DamageEvent_PowerBeam.rulepack.rulesstrings.5>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.6>power->força</DamageEvent_PowerBeam.rulepack.rulesstrings.6>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.7>power->energia</DamageEvent_PowerBeam.rulepack.rulesstrings.7>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.8>power->calor</DamageEvent_PowerBeam.rulepack.rulesstrings.8>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.9>light->luz</DamageEvent_PowerBeam.rulepack.rulesstrings.9>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.10>light->calor</DamageEvent_PowerBeam.rulepack.rulesstrings.10>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.11>light->chama</DamageEvent_PowerBeam.rulepack.rulesstrings.11>
+
+	<DamageEvent_PowerBeam.rulepack.rulesstrings.12>light(p=0.2)->incandescência</DamageEvent_PowerBeam.rulepack.rulesstrings.12>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.0>damageSource->Um [spiraling] tornado [enveloped]</DamageEvent_Tornado.rulepack.rulesstrings.0>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.1>destroyed_present(p=3)->arrancando</DamageEvent_Tornado.rulepack.rulesstrings.1>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.2>spiraling->espiral</DamageEvent_Tornado.rulepack.rulesstrings.2>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.3>spiraling->girando</DamageEvent_Tornado.rulepack.rulesstrings.3>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.4>spiraling->fiação</DamageEvent_Tornado.rulepack.rulesstrings.4>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.5>spiraling(p=10)-></DamageEvent_Tornado.rulepack.rulesstrings.5>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.6>enveloped(p=8)->envelopado</DamageEvent_Tornado.rulepack.rulesstrings.6>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.7>enveloped->envolvido</DamageEvent_Tornado.rulepack.rulesstrings.7>
+
+	<DamageEvent_Tornado.rulepack.rulesstrings.8>enveloped->cercado</DamageEvent_Tornado.rulepack.rulesstrings.8>
+
 </LanguageData>

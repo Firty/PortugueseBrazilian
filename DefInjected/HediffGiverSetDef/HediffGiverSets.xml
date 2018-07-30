@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: [PAWN_nameDef]'s brain injury has caused [PAWN_objective] to develop strange savant-like abilities. -->
   <Human.hediffGivers.TraumaSavant.letter>TODO</Human.hediffGivers.TraumaSavant.letter>
@@ -7,3 +8,10 @@
   <Human.hediffGivers.TraumaSavant.letterLabel>TODO</Human.hediffGivers.TraumaSavant.letterLabel>
   
 </LanguageData>
+=======
+    
+    <OrganicStandard.hediffGivers.4.letterLabel>Traumatismo craniano</OrganicStandard.hediffGivers.4.letterLabel>
+    <OrganicStandard.hediffGivers.4.letter>O cérebro danificado de NAME fez HE deselvolver abilidades estranhas pós-traumaticas.</OrganicStandard.hediffGivers.4.letter>
+    
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

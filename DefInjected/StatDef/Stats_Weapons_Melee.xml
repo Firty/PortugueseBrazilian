@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: blunt damage -->
   <BluntDamageMultiplier.label>dano de pancada</BluntDamageMultiplier.label>
@@ -32,3 +33,27 @@
   <SharpDamageMultiplier.description>Multiplicador sobre danos com ataques afiados como corte ou esfaqueamento para itens feitos deste material.</SharpDamageMultiplier.description>
   
 </LanguageData>
+=======
+
+	<SharpDamageMultiplier.label>dano de corte</SharpDamageMultiplier.label>
+
+	<SharpDamageMultiplier.description>Multiplicador sobre danos com ataques afiados como corte ou esfaqueamento para itens feitos deste material.</SharpDamageMultiplier.description>
+
+	<BluntDamageMultiplier.label>dano de pancada</BluntDamageMultiplier.label>
+
+	<BluntDamageMultiplier.description>Multiplicador sobre danos com ataques contundentes para itens feitos deste material.</BluntDamageMultiplier.description>
+
+	<MeleeWeapon_AverageDPS.label>dano por segundo corpo-a-corpo</MeleeWeapon_AverageDPS.label>
+
+	<MeleeWeapon_AverageDPS.description>Dano causado por segundo em combate corpo a corpo, se todos os ataques atingirem.</MeleeWeapon_AverageDPS.description>
+
+	<MeleeWeapon_DamageMultiplier.label>multiplicador de dano corpo-a-corpo</MeleeWeapon_DamageMultiplier.label>
+
+	<MeleeWeapon_DamageMultiplier.description>Multiplicador de dano aplicado ao combate corpo a corpo.</MeleeWeapon_DamageMultiplier.description>
+
+	<MeleeWeapon_CooldownMultiplier.label>atraso corpo-a-corpo</MeleeWeapon_CooldownMultiplier.label>
+
+	<MeleeWeapon_CooldownMultiplier.description>Multiplicador no atraso de ataque para itens feitos deste material.</MeleeWeapon_CooldownMultiplier.description>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0

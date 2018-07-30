@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BuildRapport.label>tentar conhecer</BuildRapport.label>
+
+	<BuildRapport.logRulesInitiator.rulesStrings.0>logentry->Tentou construir relações com [other_nameShortIndef].</BuildRapport.logRulesInitiator.rulesStrings.0>
+
+	<BuildRapport.logRulesRecipient.rulesStrings.0>logentry->Escutou [other_nameShortIndef] construir relações comigo.</BuildRapport.logRulesRecipient.rulesStrings.0>
+
+	<RecruitAttempt.label>tentativa de recrutamento</RecruitAttempt.label>
+
+	<RecruitAttempt.logRulesInitiator.rulesStrings.0>logentry->Tentou recrutar [other_nameShortIndef].</RecruitAttempt.logRulesInitiator.rulesStrings.0>
+
+	<RecruitAttempt.logRulesRecipient.rulesStrings.0>logentry->Escutou o esclarecimento de recrutamento de [other_nameShortIndef].</RecruitAttempt.logRulesRecipient.rulesStrings.0>
+
+	<SparkJailbreak.label>fuga da prisão</SparkJailbreak.label>
+
+	<SparkJailbreak.logrulesinitiator.rulesstrings.0>logentry->Induzido [other_nameShortIndef] a fugir.</SparkJailbreak.logrulesinitiator.rulesstrings.0>
+
+	<SparkJailbreak.logrulesrecipient.rulesstrings.0>logentry->Foi induzido a fugir por [other_nameShortIndef].</SparkJailbreak.logrulesrecipient.rulesstrings.0>
+
+</LanguageData>

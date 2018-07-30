@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MeleeWeapon_Gladius.label>gládio</MeleeWeapon_Gladius.label>
+
+	<MeleeWeapon_Gladius.description>Uma espada curta de aparência antiga. Bom para cortar e apunhalar.</MeleeWeapon_Gladius.description>
+
+	<MeleeWeapon_LongSword.label>espada longa</MeleeWeapon_LongSword.label>
+
+	<MeleeWeapon_LongSword.description>A antiga arma dos reis, a espada longa pode ser usada para cortar ou apunhalar e é mortal nas mãos certas.</MeleeWeapon_LongSword.description>
+
+	<MeleeWeapon_Knife.label>faca</MeleeWeapon_Knife.label>
+
+	<MeleeWeapon_Knife.description>Uma das ferramentas mais antigas da humanidade, a faca é tanto uma ferramenta cotidiana como uma arma mortal.</MeleeWeapon_Knife.description>
+
+	<MeleeWeapon_Shiv.label>canivete</MeleeWeapon_Shiv.label>
+
+	<MeleeWeapon_Shiv.description>Uma espécie de faca improvisada.</MeleeWeapon_Shiv.description>
+
+	<MeleeWeapon_Spear.label>lança</MeleeWeapon_Spear.label>
+
+	<MeleeWeapon_Spear.description>Um cabo com uma ponta afiada para apunhalar adversários em combate corpo a corpo.</MeleeWeapon_Spear.description>
+
+	<MeleeWeapon_Mace.label>clava</MeleeWeapon_Mace.label>
+
+	<MeleeWeapon_Mace.description>Um porrete refinado, projetado para se balançar eficientemente em impactos mortais.</MeleeWeapon_Mace.description>
+
+	<MeleeWeapon_Club.label>porrete</MeleeWeapon_Club.label>
+
+	<MeleeWeapon_Club.description>A mais antiga arma humana - uma vara moldada, pesada em uma extremidade, para bater nos inimigos até a morte. Primitivo, mas eficaz.</MeleeWeapon_Club.description>
+
+	<MeleeWeapon_Gladius.tools.0.label>cabo</MeleeWeapon_Gladius.tools.0.label>
+
+	<MeleeWeapon_Gladius.tools.1.label>ponto</MeleeWeapon_Gladius.tools.1.label>
+
+	<MeleeWeapon_Gladius.tools.2.label>beira</MeleeWeapon_Gladius.tools.2.label>
+
+	<MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
+
+	<MeleeWeapon_Ikwa.description>Uma pequena lança ligada a uma longa ponta de lavminad, projetado para ser conduzido a órgãos vitais com um impulso rápido.</MeleeWeapon_Ikwa.description>
+
+	<MeleeWeapon_Ikwa.tools.0.label>cabo</MeleeWeapon_Ikwa.tools.0.label>
+
+	<MeleeWeapon_Ikwa.tools.1.label>cabeça</MeleeWeapon_Ikwa.tools.1.label>
+
+	<MeleeWeapon_Ikwa.tools.2.label>beira</MeleeWeapon_Ikwa.tools.2.label>
+
+	<MeleeWeapon_LongSword.tools.0.label>cabo</MeleeWeapon_LongSword.tools.0.label>
+
+	<MeleeWeapon_LongSword.tools.1.label>ponto</MeleeWeapon_LongSword.tools.1.label>
+
+	<MeleeWeapon_LongSword.tools.2.label>beira</MeleeWeapon_LongSword.tools.2.label>
+
+	<MeleeWeapon_Spear.tools.0.label>eixo</MeleeWeapon_Spear.tools.0.label>
+
+	<MeleeWeapon_Spear.tools.1.label>ponto</MeleeWeapon_Spear.tools.1.label>
+
+	<MeleeWeapon_Knife.tools.0.label>cabo</MeleeWeapon_Knife.tools.0.label>
+
+	<MeleeWeapon_Knife.tools.1.label>lâmina</MeleeWeapon_Knife.tools.1.label>
+
+	<MeleeWeapon_Knife.tools.2.label>ponto</MeleeWeapon_Knife.tools.2.label>
+
+	<MeleeWeapon_Shiv.tools.0.label>cabo</MeleeWeapon_Shiv.tools.0.label>
+
+	<MeleeWeapon_Shiv.tools.1.label>ponto</MeleeWeapon_Shiv.tools.1.label>
+
+	<MeleeWeapon_Club.tools.0.label>cabo</MeleeWeapon_Club.tools.0.label>
+
+	<MeleeWeapon_Club.tools.1.label>cabeça</MeleeWeapon_Club.tools.1.label>
+
+	<MeleeWeapon_Mace.tools.0.label>cabo</MeleeWeapon_Mace.tools.0.label>
+
+	<MeleeWeapon_Mace.tools.1.label>cabeça</MeleeWeapon_Mace.tools.1.label>
+
+</LanguageData>

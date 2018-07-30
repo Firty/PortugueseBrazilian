@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PsychoidPekoe.label>psychoid pekoe</PsychoidPekoe.label>
+
+	<PsychoidPekoe.description>Um chá perfumado que pode ser bebido para induzir um efeito eufórico fraco. Muito fácil de produzir, mas tenha cuidado com o vício.</PsychoidPekoe.description>
+
+	<PsychoidPekoe.ingestible.ingestcommandstring>Beber {0}</PsychoidPekoe.ingestible.ingestcommandstring>
+
+	<PsychoidPekoe.ingestible.ingestreportstring>bebendo {0}.</PsychoidPekoe.ingestible.ingestreportstring>
+
+</LanguageData>

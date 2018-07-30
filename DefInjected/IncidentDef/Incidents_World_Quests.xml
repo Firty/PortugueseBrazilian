@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
   
   <!-- EN: bandit camp quest -->
   <Quest_BanditCamp.label>TODO</Quest_BanditCamp.label>
@@ -50,3 +51,37 @@
   <Quest_TradeRequest.label>TODO</Quest_TradeRequest.label>
   
 </LanguageData>
+=======
+
+	<QuestBanditCamp.label>oportunidade de acampamento bandido</QuestBanditCamp.label>
+
+	<QuestBanditCamp.letterlabel>Oportunidade de acampamento bandido</QuestBanditCamp.letterlabel>
+
+	<QuestBanditCamp.lettertext>{0}, {1} de {2} nos enviou uma mensagem. \n\nAlguns bandidos em um acampamento saquearam uma de suas caravanas. Eles nos pediram para destruir esse acampamento, e eliminar todos os inimigos e torres. \n\nSe tivermos sucesso, a nossa relação com eles melhorarão e eles nos enviarão essa recompensa: \n\n {3}</QuestBanditCamp.lettertext>
+
+	<QuestItemStash.label>oportunidade de esconderijo de itens</QuestItemStash.label>
+
+	<QuestItemStash.letterlabel>Oportunidade de esconderijo de itens</QuestItemStash.letterlabel>
+
+	<QuestItemStash.lettertext>{0}, {1} de {2}, nos informou sobre uma coleção de itens valiosos não muito longe de nós. A coleção consiste em: \n\n {3} \n\nInfelizmente, isso não vai durar muito tempo. Outros pegarão os itens em {4} dias. \n\nCuidados - os objetos de valor tendem a atrair perigo. {5}</QuestItemStash.lettertext>
+
+	<QuestDownedRefugee.label>oportunidade de refugiado incapacitado</QuestDownedRefugee.label>
+
+	<QuestDownedRefugee.letterlabel>Oportunidade de refugiado incapacitado</QuestDownedRefugee.letterlabel>
+
+	<QuestDownedRefugee.lettertext>{0} entra em contato com você no rádio e solicita ajuda. HECAP está ferido e incapaz de se mover. Sem a sua ajuda, a HE irá morrer dentro de {1} dias. \n\nPode ser perigoso, por isso tenha cuidado.</QuestDownedRefugee.lettertext>
+
+	<QuestPrisonerWillingToJoin.label>oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.label>
+
+	<QuestPrisonerWillingToJoin.letterlabel>Oportunidade de resgate de prisioneiros</QuestPrisonerWillingToJoin.letterlabel>
+
+	<QuestPrisonerWillingToJoin.lettertext>Um preso preso por {0} conseguiu roubar um rádio e ligar para você! \n\nNAME está sendo mantido em um acampamento próximo sob guarda armada. Resgate-o e ele se juntará à sua colônia. HECAP é um {1} e tem {2} anos de idade.</QuestPrisonerWillingToJoin.lettertext>
+
+	<QuestPeaceTalks.label>oportunidade de negociações de paz</QuestPeaceTalks.label>
+
+	<QuestPeaceTalks.letterlabel>Oportunidade de negociações de paz</QuestPeaceTalks.letterlabel>
+
+	<QuestPeaceTalks.lettertext>NAME, {0} de {1}, nos enviou uma mensagem. O HECAP quer falar conosco em um local próximo. \n\nPode ser uma ótima oportunidade para melhorar as relações com sua facção, mas cuidado - um negociador ruim pode causar mais danos do que benefícios e até mesmo irritá-los. \n\nA oferta expira daqui a {2} dias.</QuestPeaceTalks.lettertext>
+
+</LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0
