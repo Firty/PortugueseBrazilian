@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+<<<<<<< HEAD
     
     <Joywire.label>arame da alegria</Joywire.label>
     
     <Painstopper.label>para-dor</Painstopper.label>
     
 </LanguageData>
+=======
+  
+  <!-- EN: joywire -->
+  <Joywire.label>arame da alegria</Joywire.label>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>TODO</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>para-dor</Painstopper.label>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>TODO</Painstopper.labelNoun>
+  
+</LanguageData>
+>>>>>>> parent of 918e392... Att 1.0
