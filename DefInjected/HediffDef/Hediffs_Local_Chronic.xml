@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-<<<<<<< HEAD
 
 	<BadBack.label>problema nas costas</BadBack.label>
 
@@ -59,83 +58,3 @@
 	<Blindness.label>cegueira</Blindness.label>
 
 </LanguageData>
-=======
-  
-  <!-- EN: alzheimer's -->
-  <Alzheimers.label>alzheimer</Alzheimers.label>
-  <!-- EN: minor -->
-  <Alzheimers.stages.minor-0.label>leve</Alzheimers.stages.minor-0.label>
-  <!-- EN: minor -->
-  <Alzheimers.stages.minor-1.label>leve</Alzheimers.stages.minor-1.label>
-  <!-- EN: major -->
-  <Alzheimers.stages.major-0.label>grave</Alzheimers.stages.major-0.label>
-  <!-- EN: major -->
-  <Alzheimers.stages.major-1.label>grave</Alzheimers.stages.major-1.label>
-  
-  <!-- EN: asthma -->
-  <Asthma.label>asma</Asthma.label>
-  <!-- EN: minor -->
-  <Asthma.stages.minor.label>leve</Asthma.stages.minor.label>
-  <!-- EN: major -->
-  <Asthma.stages.major-0.label>grave</Asthma.stages.major-0.label>
-  <!-- EN: major -->
-  <Asthma.stages.major-1.label>grave</Asthma.stages.major-1.label>
-  
-  <!-- EN: bad back -->
-  <BadBack.label>problema nas costas</BadBack.label>
-  <!-- EN: a bad back -->
-  <BadBack.labelNoun>TODO</BadBack.labelNoun>
-  
-  <!-- EN: blindness -->
-  <Blindness.label>TODO</Blindness.label>
-  
-  <!-- EN: carcinoma -->
-  <Carcinoma.label>carcinoma</Carcinoma.label>
-  <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
-  <!-- EN: minor -->
-  <Carcinoma.stages.minor-0.label>leve</Carcinoma.stages.minor-0.label>
-  <!-- EN: minor -->
-  <Carcinoma.stages.minor-1.label>leve</Carcinoma.stages.minor-1.label>
-  <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>grave</Carcinoma.stages.major-0.label>
-  <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>grave</Carcinoma.stages.major-1.label>
-  <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-0.label>extrema</Carcinoma.stages.extreme-0.label>
-  <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-1.label>extrema</Carcinoma.stages.extreme-1.label>
-  
-  <!-- EN: cataract -->
-  <Cataract.label>catarata</Cataract.label>
-  <!-- EN: a cataract -->
-  <Cataract.labelNoun>TODO</Cataract.labelNoun>
-  
-  <!-- EN: dementia -->
-  <Dementia.label>demência</Dementia.label>
-  
-  <!-- EN: frail -->
-  <Frail.label>frágil</Frail.label>
-  <!-- EN: frailty -->
-  <Frail.labelNoun>TODO</Frail.labelNoun>
-  
-  <!-- EN: hearing loss -->
-  <HearingLoss.label>perda de audição</HearingLoss.label>
-  
-  <!-- EN: artery blockage -->
-  <HeartArteryBlockage.label>obstrução da artéria</HeartArteryBlockage.label>
-  <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
-  <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-0.label>leve</HeartArteryBlockage.stages.minor-0.label>
-  <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-1.label>leve</HeartArteryBlockage.stages.minor-1.label>
-  <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-0.label>grave</HeartArteryBlockage.stages.major-0.label>
-  <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-1.label>grave</HeartArteryBlockage.stages.major-1.label>
-  <!-- EN: extreme -->
-  <HeartArteryBlockage.stages.extreme.label>extrema</HeartArteryBlockage.stages.extreme.label>
-  
-</LanguageData>
->>>>>>> parent of 918e392... Att 1.0
