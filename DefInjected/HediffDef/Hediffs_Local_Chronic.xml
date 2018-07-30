@@ -24,15 +24,15 @@
   <!-- EN: bad back -->
   <BadBack.label>problema nas costas</BadBack.label>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>um problema nas costas</BadBack.labelNoun>
+  <BadBack.labelNoun>TODO</BadBack.labelNoun>
   
   <!-- EN: blindness -->
-  <Blindness.label>cegueira</Blindness.label>
+  <Blindness.label>TODO</Blindness.label>
   
   <!-- EN: carcinoma -->
   <Carcinoma.label>carcinoma</Carcinoma.label>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>um carcinoma</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
   <!-- EN: minor -->
   <Carcinoma.stages.minor-0.label>leve</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
@@ -49,7 +49,7 @@
   <!-- EN: cataract -->
   <Cataract.label>catarata</Cataract.label>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>uma catarata</Cataract.labelNoun>
+  <Cataract.labelNoun>TODO</Cataract.labelNoun>
   
   <!-- EN: dementia -->
   <Dementia.label>demência</Dementia.label>
@@ -57,7 +57,7 @@
   <!-- EN: frail -->
   <Frail.label>frágil</Frail.label>
   <!-- EN: frailty -->
-  <Frail.labelNoun>fragilidade</Frail.labelNoun>
+  <Frail.labelNoun>TODO</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
   <HearingLoss.label>perda de audição</HearingLoss.label>
@@ -65,7 +65,7 @@
   <!-- EN: artery blockage -->
   <HeartArteryBlockage.label>obstrução da artéria</HeartArteryBlockage.label>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>uma obstrução na artéria</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
   <HeartArteryBlockage.stages.minor-0.label>leve</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->

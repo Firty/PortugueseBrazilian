@@ -10,15 +10,15 @@
   <!-- EN: sutured -->
   <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de mordida</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
   <Bite.injuryProps.destroyedLabel>Arrancado a mordida</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
   <Bite.injuryProps.destroyedOutLabel>Arrancado a mordida</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>uma ferida de mordida</Bite.labelNoun>
+  <Bite.labelNoun>TODO</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{0} no {1}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
   <Bruise.label>contusão</Bruise.label>
@@ -31,9 +31,9 @@
   <!-- EN: Destroyed -->
   <Bruise.injuryProps.destroyedLabel>Destruído</Bruise.injuryProps.destroyedLabel>
   <!-- EN: a bruise -->
-  <Bruise.labelNoun>um ematoma</Bruise.labelNoun>
+  <Bruise.labelNoun>TODO</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>{0} no {1}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>TODO</Bruise.labelNounPretty>
   
   <!-- EN: burn -->
   <Burn.label>queimadura</Burn.label>
@@ -44,15 +44,15 @@
   <!-- EN: sutured -->
   <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: burn scar -->
-  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de queimadura</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
   <Burn.injuryProps.destroyedLabel>Queimado</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
   <Burn.injuryProps.destroyedOutLabel>Queimado</Burn.injuryProps.destroyedOutLabel>
   <!-- EN: a burn -->
-  <Burn.labelNoun>uma queimadura</Burn.labelNoun>
+  <Burn.labelNoun>TODO</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>{0} no {1}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>TODO</Burn.labelNounPretty>
   
   <!-- EN: crack -->
   <Crack.label>fissura</Crack.label>
@@ -63,13 +63,13 @@
   <!-- EN: healed -->
   <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>tratado</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent crack -->
-  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>fissura permanente</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shattered -->
   <Crack.injuryProps.destroyedLabel>Despedaçado</Crack.injuryProps.destroyedLabel>
   <!-- EN: a crack wound -->
-  <Crack.labelNoun>uma ferida permanente</Crack.labelNoun>
+  <Crack.labelNoun>TODO</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>{0} no {1}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>TODO</Crack.labelNounPretty>
   
   <!-- EN: crush -->
   <Crush.label>esmagamento</Crush.label>
@@ -80,13 +80,13 @@
   <!-- EN: sutured -->
   <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: mangled scar -->
-  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de esmagamento</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Crushed -->
   <Crush.injuryProps.destroyedLabel>Esmagado</Crush.injuryProps.destroyedLabel>
   <!-- EN: a crush wound -->
-  <Crush.labelNoun>uma ferida de esmagamento</Crush.labelNoun>
+  <Crush.labelNoun>TODO</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>{0} no {1}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>TODO</Crush.labelNounPretty>
   
   <!-- EN: cut -->
   <Cut.label>corte</Cut.label>
@@ -97,15 +97,15 @@
   <!-- EN: sutured -->
   <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: cut scar -->
-  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de corte</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
   <Cut.injuryProps.destroyedLabel>Cortado fora</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
   <Cut.injuryProps.destroyedOutLabel>Cortado fora</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
-  <Cut.labelNoun>um corte</Cut.labelNoun>
+  <Cut.labelNoun>TODO</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>{0} no {1}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>TODO</Cut.labelNounPretty>
   
   <!-- EN: frostbite -->
   <Frostbite.label>congelamento</Frostbite.label>
@@ -116,11 +116,11 @@
   <!-- EN: sutured -->
   <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: frostbite scar -->
-  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de congelamento</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
   <Frostbite.injuryProps.destroyedLabel>Perdido para o congelamento</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>{0} no {1}</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>TODO</Frostbite.labelNounPretty>
   
   <!-- EN: gunshot -->
   <Gunshot.label>tiro</Gunshot.label>
@@ -131,17 +131,17 @@
   <!-- EN: sutured -->
   <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: permanent gunshot injury -->
-  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>lesão permanente por arma de fogo</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
-  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>tiro</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shot off -->
   <Gunshot.injuryProps.destroyedLabel>Arrancado a tiro</Gunshot.injuryProps.destroyedLabel>
   <!-- EN: Shot out -->
   <Gunshot.injuryProps.destroyedOutLabel>Arrancado a tiro</Gunshot.injuryProps.destroyedOutLabel>
   <!-- EN: a gunshot wound -->
-  <Gunshot.labelNoun>uma ferida de bala</Gunshot.labelNoun>
+  <Gunshot.labelNoun>TODO</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>{0} no {1}</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>TODO</Gunshot.labelNounPretty>
   
   <!-- EN: misc -->
   <Misc.label>outros</Misc.label>
@@ -154,16 +154,16 @@
   <!-- EN: Destroyed -->
   <Misc.injuryProps.destroyedLabel>Destruído</Misc.injuryProps.destroyedLabel>
   <!-- EN: an injury -->
-  <Misc.labelNoun>uma lesão</Misc.labelNoun>
+  <Misc.labelNoun>TODO</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>{0} no {1}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>TODO</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
   <MissingBodyPart.label>partes ausentes do corpo</MissingBodyPart.label>
   <!-- EN: a missing body part -->
-  <MissingBodyPart.labelNoun>uma parte ausente do corpo</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNoun>TODO</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
-  <MissingBodyPart.labelNounPretty>faltando um(a) {1}</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>TODO</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
   <Scratch.label>arranhão</Scratch.label>
@@ -174,15 +174,15 @@
   <!-- EN: sutured -->
   <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: scratch scar -->
-  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de arranhão</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Scratch.injuryProps.destroyedLabel>Arrancado</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Scratch.injuryProps.destroyedOutLabel>Arrancado</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
-  <Scratch.labelNoun>um arranhão</Scratch.labelNoun>
+  <Scratch.labelNoun>TODO</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>{0} no {1}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>TODO</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
   <Shredded.label>dilaceração</Shredded.label>
@@ -193,15 +193,15 @@
   <!-- EN: sutured -->
   <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de dilaceração</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
   <Shredded.injuryProps.destroyedLabel>Arrancado</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
   <Shredded.injuryProps.destroyedOutLabel>Arrancado</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>uma ferida dilacerada</Shredded.labelNoun>
+  <Shredded.labelNoun>TODO</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>{0} no {1}</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>TODO</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
   <Stab.label>punhalada</Stab.label>
@@ -212,15 +212,15 @@
   <!-- EN: sutured -->
   <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: stab scar -->
-  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de facada</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
   <Stab.injuryProps.destroyedLabel>Cortado fora</Stab.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
   <Stab.injuryProps.destroyedOutLabel>Cortado fora</Stab.injuryProps.destroyedOutLabel>
   <!-- EN: a stab wound -->
-  <Stab.labelNoun>uma facada</Stab.labelNoun>
+  <Stab.labelNoun>TODO</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>{0} no {1}</Stab.labelNounPretty>
+  <Stab.labelNounPretty>TODO</Stab.labelNounPretty>
   
   <!-- EN: surgical cut -->
   <SurgicalCut.label>corte cirúrgico</SurgicalCut.label>
@@ -231,10 +231,10 @@
   <!-- EN: sutured -->
   <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>suturado</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
   <!-- EN: surgical scar -->
-  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz cirúrgica</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->
-  <SurgicalCut.labelNoun>uma cicatriz cirúrgica</SurgicalCut.labelNoun>
+  <SurgicalCut.labelNoun>TODO</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>{0} no {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>TODO</SurgicalCut.labelNounPretty>
   
 </LanguageData>
