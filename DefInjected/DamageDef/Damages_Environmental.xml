@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: burn -->
   <Burn.label>queimadura</Burn.label>
@@ -25,15 +24,10 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
 
 	<TornadoScratch.label>levado</TornadoScratch.label>
 
 	<TornadoScratch.deathmessage>{0} foi morto por um tornado.</TornadoScratch.deathmessage>
 
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: battery -->
   <Battery.label>bateria</Battery.label>
@@ -55,8 +54,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
 
 	<PowerConduit.label>condutor elétrico</PowerConduit.label>
 
@@ -109,7 +106,4 @@
 	<ChemfuelPoweredGenerator.description>Produz energia consumindo combustivel. Deve ser abastecido manualmente.</ChemfuelPoweredGenerator.description>
 
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

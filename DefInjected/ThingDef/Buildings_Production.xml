@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: biofuel refinery -->
   <BiofuelRefinery.label>refinaria</BiofuelRefinery.label>
@@ -130,8 +129,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
     
     <CraftingSpot.label>local de artesanato</CraftingSpot.label>
     <CraftingSpot.description>Um lugar para a elaboração de coisas simples como estoques ou arcos.</CraftingSpot.description>
@@ -255,7 +252,4 @@
     <Hopper_Frame.label>funil (construção)</Hopper_Frame.label>
     
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

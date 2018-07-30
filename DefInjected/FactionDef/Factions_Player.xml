@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: New Arrivals -->
   <PlayerColony.label>Recém Chegados</PlayerColony.label>
@@ -23,8 +22,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
     
     <PlayerColony.label>Recém Chegados</PlayerColony.label>
     <PlayerColony.description>Sua própria comunidade.</PlayerColony.description>
@@ -35,7 +32,4 @@
     <PlayerTribe.pawnsPlural>nativos</PlayerTribe.pawnsPlural>
     
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

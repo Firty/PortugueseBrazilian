@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: builder -->
   <Easy.label>Algum desafio</Easy.label>
@@ -38,11 +37,6 @@
   
 </LanguageData>
 =======
-=======
-
-  <Peaceful.label>Pacífico</Peaceful.label>
-  <Peaceful.description>Para aqueles que querem relaxar e construir uma colônia em um ambiente sandbox.\n\nGrandes eventos ameaçadores estão desativados, mas os colonos ainda podem ficar mal-humorados e os animais ainda podem enlouquecer de vez em quando.</Peaceful.description>
->>>>>>> parent of 6d2a87b... Att 1.0
 
   <VeryEasy.label>Construtor de base</VeryEasy.label>
   <VeryEasy.description>Para aqueles que querem construir uma colônia com um gosto do perigo. Ameaças maiores aparecem, mas estão enfraquecidas. Alguns dos eventos extremamente perigosos estão desabilitados.</VeryEasy.description>
@@ -60,7 +54,4 @@
   <VeryHard.description>Tão duro como um punhal de lâmina de diamante. Os inimigos são fortes, os preços são ruins, a comida é escassa, e os colonos são arrogantes. Para aqueles que gostam de sofrimento digital.</VeryHard.description>
 
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

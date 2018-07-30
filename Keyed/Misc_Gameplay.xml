@@ -114,7 +114,6 @@
   <WornBy>usado por {0}</WornBy>
   <EquippedBy>equipado por {0}</EquippedBy>
 <<<<<<< HEAD
-<<<<<<< HEAD
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} quer isto destruído.\n    Recompensa: {1}.</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
@@ -133,8 +132,6 @@
   <CheckboxShiftClickTip>Shift + clique: Selecionar todos\nShift + clique direito: Deselecionar todos</CheckboxShiftClickTip>
   <!-- EN: Known threat: {0} -->
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
   <QuestTargetDestroyInspectString>{0} quer isso destruído. \n Recompensa: {1}.</QuestTargetDestroyInspectString>
   <WorldObjectTimeout>Tempo restante: {0}</WorldObjectTimeout>
   <LongRangeMineralScannerEfficiency>Eficiência: {0}</LongRangeMineralScannerEfficiency>
@@ -145,9 +142,6 @@
   <WorkPriorityShiftClickEnableDisableTip>Shift + click: Ativa todos\nShift + right click: Desativa todos</WorkPriorityShiftClickEnableDisableTip>
   <AllowedAreaShiftClickTip>Shift + click: Marca todos como casa\nShift + right click: Marca todos como irrestrito</AllowedAreaShiftClickTip>
   <CheckboxShiftClickTip>Shift + click: Verifica todos\nShift + right click: não verifica todos</CheckboxShiftClickTip>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <KnownSiteThreat>Ameaça: {0}.</KnownSiteThreat>
   <KnownSiteThreats>Ameaças: {0}.</KnownSiteThreats>
@@ -300,10 +294,7 @@
   <!-- Power readout -->
   <PowerNotConnected>Não conectado à energia.</PowerNotConnected>
 <<<<<<< HEAD
-<<<<<<< HEAD
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <PowerConnectedRateStored>Taxa conectada/armazenado: {0} W / {1} Wd</PowerConnectedRateStored>
@@ -547,7 +538,6 @@
 
   <!-- Hibernatable -->
 <<<<<<< HEAD
-<<<<<<< HEAD
   <!-- EN: Hibernating -->
   <HibernatableHibernating>TODO</HibernatableHibernating>
   <!-- EN: Starting up -->
@@ -561,13 +551,8 @@
 
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
   <HibernatableHibernating>Hibernando</HibernatableHibernating>
   <HibernatableStartingUp>Inicializando</HibernatableStartingUp>
 
   </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

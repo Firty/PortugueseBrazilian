@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: ancients -->
   <Ancients.label>espacial</Ancients.label>
@@ -45,8 +44,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
     
     <Spacer.label>espacial</Spacer.label>
     <Spacer.description>Pessoas de alcance distante do espaço.</Spacer.description>
@@ -69,7 +66,4 @@
     <Insect.fixedName>insetos</Insect.fixedName>
     
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

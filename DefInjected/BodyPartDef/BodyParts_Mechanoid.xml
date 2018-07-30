@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: artificial brain -->
   <ArtificialBrain.label>cérebro artificial</ArtificialBrain.label>
@@ -83,8 +82,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
     
     <MechanicalThorax.label>tórax</MechanicalThorax.label>
     
@@ -157,7 +154,4 @@
     <ArtificialBrain.label>cérebro artificial</ArtificialBrain.label>
     
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0

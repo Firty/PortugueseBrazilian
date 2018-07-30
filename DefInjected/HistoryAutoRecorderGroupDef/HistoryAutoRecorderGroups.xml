@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
-<<<<<<< HEAD
   
   <!-- EN: colonist mood -->
   <ColonistMood.label>humor do colono</ColonistMood.label>
@@ -17,8 +16,6 @@
   
 </LanguageData>
 =======
-=======
->>>>>>> parent of 6d2a87b... Att 1.0
     
     <Wealth.label>riqueza</Wealth.label>
     
@@ -27,7 +24,4 @@
     <ColonistMood.label>humor do colono</ColonistMood.label>
     
 </LanguageData>
-<<<<<<< HEAD
->>>>>>> parent of 6d2a87b... Att 1.0
-=======
 >>>>>>> parent of 6d2a87b... Att 1.0
