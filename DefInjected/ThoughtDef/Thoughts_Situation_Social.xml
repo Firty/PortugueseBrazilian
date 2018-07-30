@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: affair -->
   <Affair.stages.affair.label>caso</Affair.stages.affair.label>
@@ -110,6 +111,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <Affair.stages.0.label>caso</Affair.stages.0.label>
     
@@ -166,4 +169,7 @@
     <WantToSleepWithSpouseOrLover.stages.0.description>Eu não gosto de dormir longe de meu parceiro.</WantToSleepWithSpouseOrLover.stages.0.description>
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

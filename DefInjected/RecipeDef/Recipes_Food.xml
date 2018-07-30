@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: make kibble -->
   <Make_Kibble.label>fazer ração</Make_Kibble.label>
@@ -18,6 +19,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <MakeKibble.label>fazer ração</MakeKibble.label>
     <MakeKibble.description>Faz ração de animais através da combinação de carne e vegetais crus.</MakeKibble.description>
@@ -32,4 +35,7 @@
     
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: blunt damage -->
   <BluntDamageMultiplier.label>dano de pancada</BluntDamageMultiplier.label>
@@ -34,6 +35,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
 	<SharpDamageMultiplier.label>dano de corte</SharpDamageMultiplier.label>
 
@@ -56,4 +59,7 @@
 	<MeleeWeapon_CooldownMultiplier.description>Multiplicador no atraso de ataque para itens feitos deste material.</MeleeWeapon_CooldownMultiplier.description>
 
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

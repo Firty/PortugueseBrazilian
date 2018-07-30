@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: cook fine meal -->
   <CookMealFine.label>cozinhar boa refeição</CookMealFine.label>
@@ -32,6 +33,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
 	<CookMealSimple.label>cozinhar refeição simples</CookMealSimple.label>
 
@@ -64,4 +67,7 @@
 	<CookMealSurvival.jobstring>Cozinhar refeição de sobrevivência.</CookMealSurvival.jobstring>
 
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

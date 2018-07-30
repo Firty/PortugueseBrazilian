@@ -26,7 +26,10 @@
 
   <LetterLabelRefugeePodCrash>Cápsula de escape</LetterLabelRefugeePodCrash>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: A [PAWN_title] named [PAWN_nameDef] is crashing in an escape pod nearby. If [PAWN_pronoun] survives the impact, [PAWN_pronoun] will be badly wounded.\n\nDepending on [PAWN_nameDef]'s faction, you may be able to rescue [PAWN_objective] and hope [PAWN_pronoun] joins freely, or capture [PAWN_objective] for recruitment or slavery purposes. -->
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <RefugeePodCrash>Você detectou uma cápsula de escape caindo nas proximidades.\n\nSe alguém sobreviveu ao impacto, eles irão estar gravemente feridos.</RefugeePodCrash>
@@ -91,11 +94,15 @@
 
   <!-- Refugee chased -->
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>Refugiado perseguido em {0}</RefugeeChasedTitle>
   <!-- EN: A [PAWN_title] named [PAWN_nameDef] calls you from nearby. [PAWN_pronoun] is being chased by {2} from {3}!\n\n[PAWN_pronoun] begs for safety and offers to join your colony. [PAWN_pronoun] tells you [PAWN_pronoun] is {4} years old, but there's no time to collect more information.\n\nBe warned - if you accept, you'll have to fight off the {2} on [PAWN_possessive] tail. Their group is composed of:\n\n{5} -->
   <RefugeeChasedInitial>Um(a) {1} chamado(a) {0} está te chamando. [PAWN_pronoun] está sendo perseguido(a) pelos {2} de {3}!\n\n[PAWN_pronoun] implora por sua segurança e se oferece para se juntar a colônia. Biologicamente [PAWN_pronoun] tem {4} anos de idade.\n\nEsteja avisado - se você aceitar, você terá que lutar contra os {2} que estão atrás dele.</RefugeeChasedInitial>
   <!-- EN: Offer safety -->
+=======
+  <RefugeeChasedInitial>Um(a) {1} chamado(a) {0} está te chamando. HECAP está sendo perseguido(a) pelos {2} de {3}!\n\nHECAP implora por sua segurança e se oferece para se juntar a colônia. Biologicamente HE tem {4} anos de idade.\n\nEsteja avisado - se você aceitar, você terá que lutar contra os {2} que estão atrás dele.</RefugeeChasedInitial>
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
   <RefugeeChasedInitial>Um(a) {1} chamado(a) {0} está te chamando. HECAP está sendo perseguido(a) pelos {2} de {3}!\n\nHECAP implora por sua segurança e se oferece para se juntar a colônia. Biologicamente HE tem {4} anos de idade.\n\nEsteja avisado - se você aceitar, você terá que lutar contra os {2} que estão atrás dele.</RefugeeChasedInitial>
 >>>>>>> parent of 6d2a87b... Att 1.0
@@ -150,7 +157,10 @@
   <LetterLabelCaravanRequest>Pedido de caravana</LetterLabelCaravanRequest>
   <LetterCaravanRequest>Um acordo próximo, {0}, contata você com um pedido comercial especial. Eles gostariam de comprar:\n\n{1}\n\nNo retorno, eles oferecem:\n\n{2}\n\nEsta solicitação expira depois: {3}\n\nSe quiser fazer o comércio, Envie uma caravana com os suprimentos solicitados. Você pode rever esta oferta selecionando {0} no mapa do mundo.</LetterCaravanRequest>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <CaravanRequestInfo>Requisitando: {0}, Recompensa: {1} ({2} sobrando)</CaravanRequestInfo>
@@ -161,6 +171,7 @@
   <CaravanDemand_Give>Entregar e passar</CaravanDemand_Give>
   <CaravanDemand_Fight>Recusar e lutar</CaravanDemand_Fight>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
@@ -174,6 +185,8 @@
 
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
   <!-- Temporary item stash -->
   <ItemStashQuestTitle>Oportunidade de depósito de itens</ItemStashQuestTitle>
   <ItemStashQuest_Accept>Aceitar</ItemStashQuest_Accept>
@@ -185,4 +198,7 @@
 
 
   </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: burn apparel -->
   <BurnApparel.label>Queimar roupa</BurnApparel.label>
@@ -25,6 +26,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <CremateCorpse.label>cremar corpo</CremateCorpse.label>
     <CremateCorpse.description>Cremar um cadáver para destruí-lo completamente.</CremateCorpse.description>
@@ -39,4 +42,7 @@
     <BurnApparelCampfire.jobString>Queimando roupas.</BurnApparelCampfire.jobString>
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

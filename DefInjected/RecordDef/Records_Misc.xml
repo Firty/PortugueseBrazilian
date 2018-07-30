@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: animals slaughtered -->
   <AnimalsSlaughtered.label>animais abatidos</AnimalsSlaughtered.label>
@@ -219,6 +220,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <Kills.label>matanças</Kills.label>
     <Kills.description>O número de criaturas que eu matei.</Kills.description>
@@ -353,4 +356,7 @@
     <SwitchesFlicked.description>O número de interruptores que eu manipulei.</SwitchesFlicked.description>
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

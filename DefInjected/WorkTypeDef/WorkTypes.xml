@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: Create beautiful works of art from raw materials. -->
   <Art.description>Cria belas obras de arte a partir de matérias-primas.</Art.description>
@@ -224,6 +225,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
 	<Firefighter.labelShort>Bombeiro</Firefighter.labelShort>
 
@@ -426,4 +429,7 @@
 	<Patient.verb>Torne-se paciente</Patient.verb>
 
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

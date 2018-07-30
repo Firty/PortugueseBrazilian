@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: bomb -->
   <Bomb.label>bomba</Bomb.label>
@@ -39,6 +40,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
 	<Deterioration.label>deterioração</Deterioration.label>
 
@@ -69,4 +72,7 @@
 	<Smoke.label>fumaça</Smoke.label>
 
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

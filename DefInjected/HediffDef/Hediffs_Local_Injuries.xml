@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: bite -->
   <Bite.label>mordida</Bite.label>
@@ -38,6 +39,8 @@
   
   <!-- EN: burn -->
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
   <!-- Missing body part -->
 
@@ -52,6 +55,9 @@
   <Misc.comps.0.labelSolidTendedWell>tratado</Misc.comps.0.labelSolidTendedWell>
   <Misc.injuryProps.destroyedLabel>Destruído</Misc.injuryProps.destroyedLabel>
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <Burn.label>queimadura</Burn.label>
   <Burn.comps.0.labelTendedWell>enfaixado</Burn.comps.0.labelTendedWell>
@@ -60,6 +66,7 @@
   <Burn.comps.2.oldLabel>cicatriz de queimadura</Burn.comps.2.oldLabel>
   <Burn.injuryProps.destroyedLabel>Queimado</Burn.injuryProps.destroyedLabel>
   <Burn.injuryProps.destroyedOutLabel>Queimado</Burn.injuryProps.destroyedOutLabel>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <!-- EN: a burn -->
   <Burn.labelNoun>TODO</Burn.labelNoun>
@@ -104,6 +111,10 @@
 =======
 
   <Crush.label>esmagamento</Crush.label>
+=======
+
+  <Crush.label>esmagamento</Crush.label>
+>>>>>>> parent of 6d2a87b... Att 1.0
   <Crush.comps.0.labelTendedWell>enfaixado</Crush.comps.0.labelTendedWell>
   <Crush.comps.0.labelTendedWellInner>suturado</Crush.comps.0.labelTendedWellInner>
   <Crush.comps.0.labelSolidTendedWell>tratado</Crush.comps.0.labelSolidTendedWell>
@@ -116,6 +127,9 @@
   <Crack.comps.0.labelSolidTendedWell>tratado</Crack.comps.0.labelSolidTendedWell>
   <Crack.injuryProps.destroyedLabel>Despedaçado</Crack.injuryProps.destroyedLabel>
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <Cut.label>corte</Cut.label>
   <Cut.comps.0.labelTendedWell>enfaixado</Cut.comps.0.labelTendedWell>
@@ -124,6 +138,7 @@
   <Cut.comps.2.oldLabel>cicatriz de corte</Cut.comps.2.oldLabel>
   <Cut.injuryProps.destroyedLabel>Cortado fora</Cut.injuryProps.destroyedLabel>
   <Cut.injuryProps.destroyedOutLabel>Cortado fora</Cut.injuryProps.destroyedOutLabel>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <!-- EN: a cut -->
   <Cut.labelNoun>TODO</Cut.labelNoun>
@@ -190,6 +205,8 @@
   
   <!-- EN: scratch -->
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
   <SurgicalCut.label>corte cirúrgico</SurgicalCut.label>
   <SurgicalCut.comps.0.labelTendedWell>enfaixado</SurgicalCut.comps.0.labelTendedWell>
@@ -197,6 +214,9 @@
   <SurgicalCut.comps.0.labelSolidTendedWell>tratado</SurgicalCut.comps.0.labelSolidTendedWell>
   <SurgicalCut.comps.1.oldLabel>Cicatriz de corte</SurgicalCut.comps.1.oldLabel>
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <Scratch.label>arranhão</Scratch.label>
   <Scratch.comps.0.labelTendedWell>enfaixado</Scratch.comps.0.labelTendedWell>
@@ -205,6 +225,7 @@
   <Scratch.comps.2.oldLabel>cicatriz de arranhão</Scratch.comps.2.oldLabel>
   <Scratch.injuryProps.destroyedLabel>Arrancado</Scratch.injuryProps.destroyedLabel>
   <Scratch.injuryProps.destroyedOutLabel>Arrancado</Scratch.injuryProps.destroyedOutLabel>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <!-- EN: a scratch -->
   <Scratch.labelNoun>TODO</Scratch.labelNoun>
@@ -232,6 +253,8 @@
   
   <!-- EN: stab -->
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
   <Bite.label>mordida</Bite.label>
   <Bite.comps.0.labelTendedWell>enfaixado</Bite.comps.0.labelTendedWell>
@@ -241,6 +264,9 @@
   <Bite.injuryProps.destroyedLabel>Arrancado a mordida</Bite.injuryProps.destroyedLabel>
   <Bite.injuryProps.destroyedOutLabel>Arrancado a mordida</Bite.injuryProps.destroyedOutLabel>
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <Stab.label>punhalada</Stab.label>
   <Stab.comps.0.labelTendedWell>enfaixado</Stab.comps.0.labelTendedWell>
@@ -249,6 +275,7 @@
   <Stab.comps.2.oldLabel>cicatriz de punhalada</Stab.comps.2.oldLabel>
   <Stab.injuryProps.destroyedLabel>Cortado fora</Stab.injuryProps.destroyedLabel>
   <Stab.injuryProps.destroyedOutLabel>Cortado fora</Stab.injuryProps.destroyedOutLabel>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <!-- EN: a stab wound -->
   <Stab.labelNoun>TODO</Stab.labelNoun>
@@ -271,6 +298,8 @@
   <SurgicalCut.labelNounPretty>TODO</SurgicalCut.labelNounPretty>
   
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
   <Gunshot.label>tiro</Gunshot.label>
   <Gunshot.comps.0.labelTendedWell>enfaixado</Gunshot.comps.0.labelTendedWell>
@@ -303,5 +332,8 @@
   <Frostbite.injuryProps.destroyedLabel>Perdido para o congelamento</Frostbite.injuryProps.destroyedLabel>
 
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
 </LanguageData>

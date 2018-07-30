@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: chemical consumption -->
   <Chemical.label>químico</Chemical.label>
@@ -28,6 +29,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <Work.label>trabalho</Work.label>
     
@@ -50,4 +53,7 @@
     <Study.label>estudioso</Study.label>
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

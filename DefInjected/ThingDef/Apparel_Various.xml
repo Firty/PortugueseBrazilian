@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: T-shirt -->
   <Apparel_BasicShirt.label>camiseta</Apparel_BasicShirt.label>
@@ -64,6 +65,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
     
     <Apparel_Pants.label>calças</Apparel_Pants.label>
     <Apparel_Pants.description>Um conjunto simples de calças.</Apparel_Pants.description>
@@ -93,4 +96,7 @@
     <Apparel_PowerArmor.description>Armadura energizada normalmente utilizada por tropas de assalto em planetas avançados do mundo brilhante.</Apparel_PowerArmor.description>
     
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

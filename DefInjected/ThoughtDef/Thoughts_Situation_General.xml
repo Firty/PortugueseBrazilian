@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 <<<<<<< HEAD
+<<<<<<< HEAD
   
   <!-- EN: ratty apparel -->
   <ApparelDamaged.stages.ratty_apparel.label>vestindo roupas desgastadas</ApparelDamaged.stages.ratty_apparel.label>
@@ -108,6 +109,8 @@
   
 </LanguageData>
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 
 	<LowExpectations.stages.0.label>expectativas moderadas</LowExpectations.stages.0.label>
 
@@ -226,4 +229,7 @@
 	<HumanLeatherApparelHappy.stages.3.description>A carne! A carne sinaliza meu triunfo!</HumanLeatherApparelHappy.stages.3.description>
 
 </LanguageData>
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0

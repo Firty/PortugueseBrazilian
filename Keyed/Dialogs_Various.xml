@@ -68,7 +68,10 @@
 
   <!-- Player faction naming -->
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <NamePlayerFactionMessage>{0} acha que você deve dar um nome a sua facção. Como a sua facção deve ser chamada?</NamePlayerFactionMessage>
@@ -77,7 +80,10 @@
 
   <!-- Player faction base naming -->
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <NamePlayerFactionBaseMessage>Uma vez que parece que você estará aqui por um tempo, {0} Acredita que você deve dar a esta comunidade um nome. Como esta comunidade local deve ser chamada?</NamePlayerFactionBaseMessage>
@@ -86,7 +92,10 @@
   
   <!-- Player faction and faction base naming -->
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Uma vez que parece que você estará aqui por um tempo, {0} também acha que você deve dar a comunidade um nome. Como esta comunidade local deve ser chamada?</NamePlayerFactionBaseMessage_NameFactionContinuation>
@@ -395,6 +404,7 @@
   
   <!-- Abandon pawn -->
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: Do you really want to banish {0}? -->
   <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
   <!-- EN: {0} will most likely die. -->
@@ -421,6 +431,8 @@
   <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
 
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
   <ConfirmAbandonPawnDialog>Você realmente quer abandonar {0}?</ConfirmAbandonPawnDialog>
   <ConfirmAbandonPawnDialog_LeftToDie>{0} provavelmente morrerá.</ConfirmAbandonPawnDialog_LeftToDie>
   <ConfirmAbandonPawnDialog_EquipmentAndApparel>{0} irá levar os seguintes itens com HE:</ConfirmAbandonPawnDialog_EquipmentAndApparel>
@@ -430,5 +442,8 @@
   <!-- Send transport pods which are not completely loaded -->
   <ConfirmSendNotCompletelyLoadedPods>O grupo de cápsulas não está completamente carregado. Está faltando {0}. Lançar assim mesmo?</ConfirmSendNotCompletelyLoadedPods>
   
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
 </LanguageData>

@@ -49,6 +49,7 @@
   <SelfTendDisabled>desabilitado auto-atendimento</SelfTendDisabled>
   <ReservedForPrisoners>reservado para prisioneiros</ReservedForPrisoners>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: cannot reach -->
   <CannotReach>TODO</CannotReach>
   <!-- EN: not ready for surgery -->
@@ -66,11 +67,16 @@
   
   <!-- EN: Consume {0} -->
 =======
+=======
+>>>>>>> parent of 6d2a87b... Att 1.0
   <CannotReach>não pode alcançar</CannotReach>
   <NotSurgeryReady>não está pronto para cirurgia</NotSurgeryReady>
   <CantSowCavePlantBecauseOfLight>muito brilhante</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>sem teto</CantSowCavePlantBecauseUnroofed>
 
+<<<<<<< HEAD
+>>>>>>> parent of 6d2a87b... Att 1.0
+=======
 >>>>>>> parent of 6d2a87b... Att 1.0
   <ConsumeThing>Consumir {0}</ConsumeThing>
 
@@ -187,6 +193,7 @@
   <RemoveWaypoint>Remover este waypoint</RemoveWaypoint>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>TODO</RemoveAllDesignations>
   <!-- EN: Designate all -->
@@ -217,6 +224,9 @@
   <OfferHelp>TODO</OfferHelp>
   
 </LanguageData>
+=======
+  </LanguageData>
+>>>>>>> parent of 6d2a87b... Att 1.0
 =======
   </LanguageData>
 >>>>>>> parent of 6d2a87b... Att 1.0
