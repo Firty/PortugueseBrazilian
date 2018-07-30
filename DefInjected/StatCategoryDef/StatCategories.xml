@@ -1,34 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Basics.label>Básico</Basics.label>
+  <!-- General -->
 
-	<BasicsPawn.label>Básico</BasicsPawn.label>
+  <Basics.label>Básico</Basics.label>
+  <BasicsPawn.label>Básico</BasicsPawn.label>
+  <BasicsNonPawn.label>Básico</BasicsNonPawn.label>
 
-	<BasicsNonPawn.label>Básico</BasicsNonPawn.label>
 
-	<Apparel.label>Vestuário</Apparel.label>
+  <!-- Non-pawn -->
 
-	<Weapon.label>Arma</Weapon.label>
+  <Apparel.label>Vestuário</Apparel.label>
+  <Weapon.label>Arma</Weapon.label>
+  <Building.label>Estrutura</Building.label>
 
-	<Building.label>Estrutura</Building.label>
 
-	<EquippedStatOffsets.label>Compensações quando equipado</EquippedStatOffsets.label>
+  <!-- Virtual categories -->
 
-	<StuffStatFactors.label>Multiplicações quando feito disto</StuffStatFactors.label>
+  <EquippedStatOffsets.label>Compensações quando equipado</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Multiplicações quando feito disto</StuffStatFactors.label>
+  <StuffStatOffsets.label>Compensações quando feito disto</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Multiplicações quando o equipamento é feito disto</StuffOfEquipmentStatFactors.label>
+  <Surgery.label>Surgical</Surgery.label>
 
-	<StuffStatOffsets.label>Compensações quando feito disto</StuffStatOffsets.label>
 
-	<StuffOfEquipmentStatFactors.label>Multiplicações quando o equipamento é feito disto</StuffOfEquipmentStatFactors.label>
+  <!-- Pawn -->
 
-	<PawnCombat.label>Combate</PawnCombat.label>
+  <PawnCombat.label>Combate</PawnCombat.label>
+  <PawnSocial.label>Social</PawnSocial.label>
+  <PawnMisc.label>Diversos</PawnMisc.label>
+  <PawnWork.label>Trabalho</PawnWork.label>
 
-	<PawnSocial.label>Social</PawnSocial.label>
-
-	<PawnMisc.label>Diversos</PawnMisc.label>
-
-	<PawnWork.label>Trabalho</PawnWork.label>
-
-	<Surgery.label>Cirúrgico</Surgery.label>
 
 </LanguageData>

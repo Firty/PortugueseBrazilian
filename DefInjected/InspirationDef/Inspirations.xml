@@ -1,74 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<WorkFrenzy.label>trabalhando rápido</WorkFrenzy.label>
+  <Frenzy_Work.label>frenesi de trabalho</Frenzy_Work.label>
+  <Frenzy_Work.beginLetter>{0} acaba de se inspirar. [PAWN_pronoun] trabalhará 2.5 vezes mais rápido durante as próximas 24 horas.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.beginLetterLabel>Inspirado(a): Frenesi de trabalho</Frenzy_Work.beginLetterLabel>
+  <Frenzy_Work.endMessage>{0} já não está inspirado(a) (frenesi de trabalho).</Frenzy_Work.endMessage>
+  <Frenzy_Work.baseInspectLine>Inspirado(a): Frenesi de trabalho</Frenzy_Work.baseInspectLine>
 
-	<WorkFrenzy.beginletterlabel>Inspiração: trabalhando rápido</WorkFrenzy.beginletterlabel>
+  <Frenzy_Go.label>hiperativo(a)</Frenzy_Go.label>
+  <Frenzy_Go.beginLetter>{0} acaba de se inspirar [PAWN_pronoun] se moverá 1.5 vezes mais rápido durante os próximos 2 dias.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.beginLetterLabel>Inspirado(a): Hiperativo(a)</Frenzy_Go.beginLetterLabel>
+  <Frenzy_Go.endMessage>{0} já não está inspirado(a) (hiperativo(a)).</Frenzy_Go.endMessage>
+  <Frenzy_Go.baseInspectLine>Inspirado(a): Hiperativo(a)</Frenzy_Go.baseInspectLine>
 
-	<WorkFrenzy.beginletter>{0} está inspirada(o). HECAP irá trabalhar 2,5 vezes mais rápido pelas próximas 24 horas.</WorkFrenzy.beginletter>
+  <Frenzy_Shoot.label>pistoleiro(a)</Frenzy_Shoot.label>
+  <Frenzy_Shoot.beginLetter>{0} acaba de se inspirar. [PAWN_possessive] terá uma melhor precisão de disparou durante os próximos 3 dias.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.beginLetterLabel>Inspirado(a): Pistoleiro(a)</Frenzy_Shoot.beginLetterLabel>
+  <Frenzy_Shoot.endMessage>{0} já não está inspirado(a) (pistoleiro(a)).</Frenzy_Shoot.endMessage>
+  <Frenzy_Shoot.baseInspectLine>Inspirado(a): Pistoleiro(a)</Frenzy_Shoot.baseInspectLine>
 
-	<WorkFrenzy.endmessage>{0} não está mais inspirada(o) (trabalhando rápido).</WorkFrenzy.endmessage>
+  <Inspired_Trade.label>negociante</Inspired_Trade.label>
+  <Inspired_Trade.beginLetter>{0} acaba de se inspirar. [PAWN_pronoun] receberá uma importante bonificação em [PAWN_possessive] no próximo acordo comercial.\n\nA inspiração acabará depois de 8 dias ou quando se realizar um comércio.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.beginLetterLabel>Inspirado(a): Negociante</Inspired_Trade.beginLetterLabel>
+  <Inspired_Trade.endMessage>{0} já não está inspirado(a) (negociante).</Inspired_Trade.endMessage>
+  <Inspired_Trade.baseInspectLine>Inspirado(a): Negociante</Inspired_Trade.baseInspectLine>
 
-	<WorkFrenzy.baseinspectline>Inspirada(o): Trabalhando rápido</WorkFrenzy.baseinspectline>
+  <Inspired_Recruitment.label>político(a)</Inspired_Recruitment.label>
+  <Inspired_Recruitment.beginLetter>{0} acaba de se inspirar. [PAWN_pronoun] terá êxito com o próximo prisioneiro sem importar a dificuldade.\n\nA inspiração acabará depois de 8 dias ou quando um prisioneiro for recrutado.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.beginLetterLabel>Inspirado(a): Político(a)</Inspired_Recruitment.beginLetterLabel>
+  <Inspired_Recruitment.endMessage>{0} já não está inspirado(a) (político(a)).</Inspired_Recruitment.endMessage>
+  <Inspired_Recruitment.baseInspectLine>Inspirado(a): Político(a)</Inspired_Recruitment.baseInspectLine>
 
-	<GoFrenzy.label>andar rápido</GoFrenzy.label>
+  <Inspired_Surgery.label>cirurgiã(ão)</Inspired_Surgery.label>
+  <Inspired_Surgery.beginLetter>{0} acaba de se inspirar. A probabilidade de fracasso da próxima cirurgia realizada por [PAWN_objective] será 10 vezes menor.\n\nA inspiração acabará depois de 8 dias ou quando realizar uma cirurgia.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetterLabel>Inspirado(a): Cirurgiã(ão)</Inspired_Surgery.beginLetterLabel>
+  <Inspired_Surgery.endMessage>{0} já não está inspirado(a) (cirurgiã(ão)).</Inspired_Surgery.endMessage>
+  <Inspired_Surgery.baseInspectLine>Inspirado(a): Cirurgiã(ão)</Inspired_Surgery.baseInspectLine>
 
-	<GoFrenzy.beginletterlabel>Inspiração: andar rápido</GoFrenzy.beginletterlabel>
+  <Inspired_Creativity.label>artista</Inspired_Creativity.label>
+  <Inspired_Creativity.beginLetter>{0} acaba de se inspirar. Qualquer peça de arte terminada terá 2 níveis de qualidade mais altos do que o normal.\n\nA inspiração acabará depois de 8 dias ou quando se completar uma obra de arte.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.beginLetterLabel>Inspirado(a): Artista</Inspired_Creativity.beginLetterLabel>
+  <Inspired_Creativity.endMessage>{0} já não está inspirado(a) (artista).</Inspired_Creativity.endMessage>
+  <Inspired_Creativity.baseInspectLine>Inspirado(a): Artista</Inspired_Creativity.baseInspectLine>
 
-	<GoFrenzy.beginletter>{0} está inspirada(o). HECAP vai andar 1,5 vezes mais rápido pelas próximas 24 horas.</GoFrenzy.beginletter>
-
-	<GoFrenzy.endmessage>{0} não esta mais inspirada(o) (andar rápido).</GoFrenzy.endmessage>
-
-	<GoFrenzy.baseinspectline>Inspirada(o): Andar rápido</GoFrenzy.baseinspectline>
-
-	<ShootFrenzy.label>tiro preciso</ShootFrenzy.label>
-
-	<ShootFrenzy.beginletterlabel>Inspiração: tiro preciso</ShootFrenzy.beginletterlabel>
-
-	<ShootFrenzy.beginletter>{0} está inspirada(o). A sua precisão de tiro será melhorada nos próximos 3 dias.</ShootFrenzy.beginletter>
-
-	<ShootFrenzy.endmessage>{0} não está mais inspirada(o) (tiro preciso).</ShootFrenzy.endmessage>
-
-	<ShootFrenzy.baseinspectline>Inspirada(o): Tiro preciso</ShootFrenzy.baseinspectline>
-
-	<InspiredTrade.label>Inspiração comercial</InspiredTrade.label>
-
-	<InspiredTrade.beginletterlabel>Inspiração: Inspiração comercial</InspiredTrade.beginletterlabel>
-
-	<InspiredTrade.beginletter>{0} está inspirada(o). A HECAP receberá um bônus nos preços da próxima negociação. \n\nA Inspiração terminará após 8 dias ou quando uma negociação for concluído.</InspiredTrade.beginletter>
-
-	<InspiredTrade.endmessage>{0} não está mais inspirada(o) (Inspiração comercial).</InspiredTrade.endmessage>
-
-	<InspiredTrade.baseinspectline>Inspirada(o): Inspiração comercial</InspiredTrade.baseinspectline>
-
-	<InspiredRecruitment.label>Inspiração de recrutamento</InspiredRecruitment.label>
-
-	<InspiredRecruitment.beginletterlabel>Inspiração: Inspiração de recrutamento</InspiredRecruitment.beginletterlabel>
-
-	<InspiredRecruitment.beginletter>{0} está inspirada(o). O HECAP recrutará com sucesso o próximo preso, independentemente da dificuldade. \n\nA Inspiração terminará após 8 dias ou quando um preso for recrutado.</InspiredRecruitment.beginletter>
-
-	<InspiredRecruitment.endmessage>{0} não está mais inspirada(o) (Inspiração de recrutamento).</InspiredRecruitment.endmessage>
-
-	<InspiredRecruitment.baseinspectline>Inspirada(o): Inspiração de recrutamento</InspiredRecruitment.baseinspectline>
-
-	<InspiredSurgery.label>Cirurgião inspirada(o)</InspiredSurgery.label>
-
-	<InspiredSurgery.beginletterlabel>Inspiração: Cirurgião inspirada(o)</InspiredSurgery.beginletterlabel>
-
-	<InspiredSurgery.beginletter>{0} está inspirada(o). A chance de  HIM falhar na próxima cirurgia será 10 vezes menor. \n\nA Inspiração terminará após 8 dias ou quando uma cirurgia for realizada.</InspiredSurgery.beginletter>
-
-	<InspiredSurgery.endmessage>{0} não está mais inspirada(o) (Cirurgião inspirada(o)).</InspiredSurgery.endmessage>
-
-	<InspiredSurgery.baseinspectline>Inspirada(o): Cirurgião inspirada(o)</InspiredSurgery.baseinspectline>
-
-	<InspiredArt.label>Inspiração Artistica</InspiredArt.label>
-
-	<InspiredArt.beginletterlabel>Inspiração: Inspiração Artistica</InspiredArt.beginletterlabel>
-
-	<InspiredArt.beginletter>{0} está inspirada(o). Qualquer peça de arte concluída terá 3 níveis de qualidade mais altos do que normalmente. \n\nA Inspiração terminará após 8 dias ou quando uma obra estiver concluída.</InspiredArt.beginletter>
-
-	<InspiredArt.endmessage>{0} não está mais inspirada(o) (Inspiração Artistica).</InspiredArt.endmessage>
-
-	<InspiredArt.baseinspectline>Inspirada(o): Inspiração Artistica</InspiredArt.baseinspectline>
 
 </LanguageData>

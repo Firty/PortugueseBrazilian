@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Penoxycyline.label>penoxicilina</Penoxycyline.label>
+  <Penoxycyline.description>Uma droga para prevenir o começo de infecções. Bloqueia a malária, a doença do sono e a peste. Tome a cada cinco dias. Nota: Esta droga não faz nada para curar infecções existentes - só previne as novas.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>Tomar {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Tomando {0}.</Penoxycyline.ingestible.ingestReportString>
+
+
+</LanguageData>

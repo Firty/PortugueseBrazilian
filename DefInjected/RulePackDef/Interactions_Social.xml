@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->Isso levou [recipient_nameShortDef] a uma raiva e [recipient_pronoun] começou a brigar!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+
+
+</LanguageData>

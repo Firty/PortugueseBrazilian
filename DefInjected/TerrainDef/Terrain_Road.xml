@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BrokenAsphalt.label>asfalto quebrado</BrokenAsphalt.label>
+  <BrokenAsphalt.label>asfalto quebrado</BrokenAsphalt.label>
+  <PackedDirt.label>terra batida</PackedDirt.label>
 
-	<PackedDirt.label>sujeira acumulada</PackedDirt.label>
 
 </LanguageData>

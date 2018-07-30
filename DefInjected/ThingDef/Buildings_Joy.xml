@@ -1,70 +1,66 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<HorseshoesPin.label>pino de ferraduras</HorseshoesPin.label>
+  <HorseshoesPin.label>pino de ferraduras</HorseshoesPin.label>
+  <HorseshoesPin.description>Um jogo antigo simples jogado com algumas ferraduras e um grande pino no chão. Os jogadores atiram as ferraduras de longe e tentam faze-las pousar perto ou ao redor do pino. É relaxante, e ainda treina a coordenação olho-mão.</HorseshoesPin.description>
+  <HorseshoesPin_Blueprint.label>pino de ferraduras (projeto)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>pino de ferraduras (projeto)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>pino de ferraduras (construção)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.description>Um jogo antigo simples jogado com algumas ferraduras e um grande pino no chão. Os jogadores atiram as ferraduras de longe e tentam faze-las pousar perto ou ao redor do pino. É relaxante, e ainda treina a coordenação olho-mão.</HorseshoesPin_Frame.description>
 
-	<HorseshoesPin.description>Um jogo antigo simples jogado com algumas ferraduras e um grande pino no chão. Os jogadores atiram as ferraduras de longe e tentam faze-las pousar perto ou ao redor do pino. É relaxante, e ainda treina a coordenação olho-mão.</HorseshoesPin.description>
+  <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
+  <HoopstoneRing.description>A simple ancient game played with a stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing.description>
+  <HoopstoneRing_Blueprint.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint.label>
+  <HoopstoneRing_Blueprint_Install.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint_Install.label>
+  <HoopstoneRing_Frame.label>hoopstone ring (building)</HoopstoneRing_Frame.label>
+  <HoopstoneRing_Frame.description>A simple ancient game played with a stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing_Frame.description>
 
-	<HorseshoesPin_Blueprint.label>pino de ferraduras (projeto)</HorseshoesPin_Blueprint.label>
+  <GameOfUrBoard.label>game-of-Ur board</GameOfUrBoard.label>
+  <GameOfUrBoard.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard.description>
+  <GameOfUrBoard_Blueprint.label>game-of-Ur board (blueprint)</GameOfUrBoard_Blueprint.label>
+  <GameOfUrBoard_Blueprint_Install.label>game-of-Ur board (blueprint)</GameOfUrBoard_Blueprint_Install.label>
+  <GameOfUrBoard_Frame.label>game-of-Ur board (building)</GameOfUrBoard_Frame.label>
+  <GameOfUrBoard_Frame.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard_Frame.description>
 
-	<HorseshoesPin_Blueprint_Install.label>pino de ferraduras (projeto)</HorseshoesPin_Blueprint_Install.label>
+  <ChessTable.label>mesa de xadrez</ChessTable.label>
+  <ChessTable.description>O antigo Jogo dos reis. Diversão por algumas horas de vez em quando, mesmo Jogado sozinho.</ChessTable.description>
+  <ChessTable_Blueprint.label>mesa de xadrez (projeto)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>mesa de xadrez (projeto)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>mesa de xadrez (construção)</ChessTable_Frame.label>
+  <ChessTable_Frame.description>O antigo jogo dos reis. Diversão por algumas horas aqui e ali, mesmo jogado sozinho.</ChessTable_Frame.description>
 
-	<HorseshoesPin_Frame.label>pino de ferraduras (construção)</HorseshoesPin_Frame.label>
+  <BilliardsTable.label>mesa de bilhar</BilliardsTable.label>
+  <BilliardsTable.description>Uma mesa coberta de pano suave para jogar uma variedade de jogos do tipo de bilhar.</BilliardsTable.description>
+  <BilliardsTable_Blueprint.label>mesa de bilhar (projeto)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>mesa de bilhar (projeto)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>mesa de bilhar (construção)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.description>Uma mesa coberta de pano suave para jogar uma variedade de jogos do tipo de bilhar.</BilliardsTable_Frame.description>
 
-	<ChessTable.label>mesa de xadrez</ChessTable.label>
+  <PokerTable.label>poker table</PokerTable.label>
+  <PokerTable.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
+  <PokerTable_Blueprint.label>poker table (blueprint)</PokerTable_Blueprint.label>
+  <PokerTable_Blueprint_Install.label>poker table (blueprint)</PokerTable_Blueprint_Install.label>
+  <PokerTable_Frame.label>poker table (building)</PokerTable_Frame.label>
+  <PokerTable_Frame.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable_Frame.description>
 
-	<ChessTable.description>O antigo Jogo dos reis. Diversão Para algumas horas aqui e ali, mesmo Jogado sozinho.</ChessTable.description>
+  <TubeTelevision.label>televisão de tubo</TubeTelevision.label>
+  <TubeTelevision.description>Uma tela de tubo de raios catódicos que mostra imagens em movimento com som. Mesmo em mundos isolados, há muitas vezes um velho transmissor executando algo pelo menos marginalmente interessante.</TubeTelevision.description>
+  <TubeTelevision_Blueprint.label>televisão de tubo (projeto)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>televisão de tubo (projeto)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>televisão de tubo (construção)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.description>Uma tela de tubo de raios catódicos que mostra imagens em movimento com som. Mesmo em mundos isolados, há muitas vezes um velho transmissor executando algo pelo menos marginalmente interessante.</TubeTelevision_Frame.description>
 
-	<ChessTable_Blueprint.label>mesa de xadrez (projeto)</ChessTable_Blueprint.label>
+  <FlatscreenTelevision.label>televisão de tela plana</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Uma televisão de alta tecnologia com tela plana de imagem cristalina e rica em cores. Mais divertido do que uma TV de tubo granulada.</FlatscreenTelevision.description>
+  <FlatscreenTelevision_Blueprint_Install.label>televisão de tela plana (projeto)</FlatscreenTelevision_Blueprint_Install.label>
 
-	<ChessTable_Blueprint_Install.label>mesa de xadrez (projeto)</ChessTable_Blueprint_Install.label>
+  <MegascreenTelevision.label>televisão de mega tela</MegascreenTelevision.label>
+  <MegascreenTelevision.description>Um enorme, televisor de alta tecnologia. Imagens gigantescas, hiper vibrantes como se estivessem quase pulando para fora da tela. Muito divertido.</MegascreenTelevision.description>
+  <MegascreenTelevision_Blueprint_Install.label>televisão de mega tela (projeto)</MegascreenTelevision_Blueprint_Install.label>
 
-	<ChessTable_Frame.label>mesa de xadrez (construção)</ChessTable_Frame.label>
+  <Telescope.label>telescópio</Telescope.label>
+  <Telescope.description>Um telescópio para fazer astronomia amadora. É um passatempo relaxante e divertido para um determinado tipo de pessoa.</Telescope.description>
+  <Telescope_Blueprint_Install.label>telescópio (projeto)</Telescope_Blueprint_Install.label>
 
-	<BilliardsTable.label>mesa de sinuca</BilliardsTable.label>
-
-	<BilliardsTable.description>Uma mesa coberta de pano suave para jogar uma variedade de jogos do tipo de bilhar.</BilliardsTable.description>
-
-	<BilliardsTable_Blueprint.label>mesa de sinuca (projeto)</BilliardsTable_Blueprint.label>
-
-	<BilliardsTable_Blueprint_Install.label>mesa de sinuca (projeto)</BilliardsTable_Blueprint_Install.label>
-
-	<BilliardsTable_Frame.label>mesa de sinuca (construção)</BilliardsTable_Frame.label>
-
-	<TubeTelevision.label>televisão de tubo</TubeTelevision.label>
-
-	<TubeTelevision.description>Um display de tubo de raios catódicos que mostra imagens em movimento com som. Mesmo em mundo isolado, há muitas vezes um velho transmissor executando algo pelo menos marginalmente interessante.</TubeTelevision.description>
-
-	<TubeTelevision_Blueprint.label>televisão de tubo (projeto)</TubeTelevision_Blueprint.label>
-
-	<TubeTelevision_Blueprint_Install.label>televisão de tubo (projeto)</TubeTelevision_Blueprint_Install.label>
-
-	<TubeTelevision_Frame.label>televisão de tubo (construção)</TubeTelevision_Frame.label>
-
-	<FlatscreenTelevision.label>televisão de tela plana</FlatscreenTelevision.label>
-
-	<FlatscreenTelevision.description>Uma televisão de alta tecnologia com tela plana de imagem cristalina rica em cores. Mais divertido do que uma TV de tubo granulada.</FlatscreenTelevision.description>
-
-	<FlatscreenTelevision_Blueprint_Install.label>televisão de tela plana (projeto)</FlatscreenTelevision_Blueprint_Install.label>
-
-	<MegascreenTelevision.label>televisão de tela grande</MegascreenTelevision.label>
-
-	<MegascreenTelevision.description>Um enorme, televisor de alta tecnologia. Imagens gigantescas, híper vibrantes como se estivessem quase pulando para fora da tela. Muito divertido.</MegascreenTelevision.description>
-
-	<MegascreenTelevision_Blueprint_Install.label>televisão de tela grande (projeto)</MegascreenTelevision_Blueprint_Install.label>
-
-	<Telescope.label>telescópio</Telescope.label>
-
-	<Telescope.description>Um telescópio para fazer astronomia amadora. É um passatempo relaxante e divertido para um determinado tipo de pessoa.</Telescope.description>
-
-	<Telescope_Blueprint_Install.label>telescópio (projeto)</Telescope_Blueprint_Install.label>
-
-	<PokerTable.label>mesa de poker</PokerTable.label>
-
-	<PokerTable.description>Uma mesa projetada para jogar cartas, principalmente poker. Uma ótima maneira de testar suas habilidades estratégicas e um pouco de sorte.</PokerTable.description>
-
-	<HoopstoneRing.label>anel de pedra</HoopstoneRing.label>
-
-	<HoopstoneRing.description>Um simples jogo antigo jogado com algumas pedras e um grande anel no chão. Os jogadores jogam pedras à distância e tentam acerta-las no meio do anel. É relaxante e até treina a coordenação entre as mãos e os olhos.</HoopstoneRing.description>
 
 </LanguageData>

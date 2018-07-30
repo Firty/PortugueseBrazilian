@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<DownedRefugee.label>pessoa incapacitada</DownedRefugee.label>
+  <DownedRefugee.label>refugiado incapacitado</DownedRefugee.label>
+  <DownedRefugee.description>Uma pessoa presa e incapacitada pedindo ajuda.</DownedRefugee.description>
 
-	<DownedRefugee.description>Uma pessoa incapacitada pedindo ajuda.</DownedRefugee.description>
 
 </LanguageData>

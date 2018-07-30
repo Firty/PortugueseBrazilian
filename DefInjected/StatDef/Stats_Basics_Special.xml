@@ -1,7 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-    
-    <MedicalPotency.label>potência médica</MedicalPotency.label>
-    <MedicalPotency.description>O quão eficaz é quando usado para curar ferimentos e doenças, ou fazer cirurgia. Potência médica superior melhora as chances de um médico no tratamento de feridas corretamente, e reduz as chances de fracasso durante a cirurgia.</MedicalPotency.description>
-    
+
+  <MedicalPotency.label>potência médica</MedicalPotency.label>
+  <MedicalPotency.description>O quão eficaz é quando usado para tratar ferimentos e doenças, ou fazer cirurgia. Potência médica superior melhora a qualidade de tratamento, e atua como um multiplicador sobre a chance de sucesso durante a cirurgia. A chance de sucesso cirúrgico também é afetada pelo cirurgião e pela cama cirúrgica.</MedicalPotency.description>
+
+  <MedicalQualityMax.label>medical tend quality maximum</MedicalQualityMax.label>
+  <MedicalQualityMax.description>The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably.</MedicalQualityMax.description>
+
+  <ConstructionSpeedFactor.label>construction speed</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast.</ConstructionSpeedFactor.description>
+
+
 </LanguageData>

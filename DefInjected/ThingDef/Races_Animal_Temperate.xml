@@ -1,112 +1,81 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Deer.label>cervo</Deer.label>
+  <Deer.label>cervo</Deer.label>
+  <Deer.description>Um herbívoro pastoreio de porte médio. Geralmente pacífico a menos se perturbado.</Deer.description>
+  <Deer.tools.0.label>left hoof</Deer.tools.0.label>
+  <Deer.tools.1.label>right hoof</Deer.tools.1.label>
+  <Deer.tools.3.label>head</Deer.tools.3.label>
+  <Deer_Leather.label>pele de cervo</Deer_Leather.label>
+  <Deer_Leather.description>pele de cervo</Deer_Leather.description>
+  <Deer_Leather.stuffProps.stuffAdjective>pele de cervo</Deer_Leather.stuffProps.stuffAdjective>
+  <Deer_Meat.label>carne de cervo</Deer_Meat.label>
+  <Deer_Meat.description>carne de cervo</Deer_Meat.description>
+  <Deer_Corpse.label>cadáver de cervo</Deer_Corpse.label>
+  <Deer_Corpse.description>cadáver de cervo</Deer_Corpse.description>
 
-	<Deer.description>Um herbívoro pastoreio de porte médio. Geralmente pacífico a menos se perturbado.</Deer.description>
+  <Ibex.label>íbex</Ibex.label>
+  <Ibex.description>O antepassado selvagem resistente do bode domesticado. O Íbex vive em território marginal que a maioria dos antílopes não conseguiriam sobreviver, se alimenta de líquenes e plantas de montanhas esparsas. Eles são famosos pela destreza de pular através dos penhascos - e por seu violento ataque de colisão.</Ibex.description>
+  <Ibex.tools.0.label>left hoof</Ibex.tools.0.label>
+  <Ibex.tools.1.label>right hoof</Ibex.tools.1.label>
+  <Ibex.tools.3.label>head</Ibex.tools.3.label>
+  <Ibex_Leather.label>pele de cabra</Ibex_Leather.label>
+  <Ibex_Leather.description>pele de cabra</Ibex_Leather.description>
+  <Ibex_Leather.stuffProps.stuffAdjective>pele de cabra</Ibex_Leather.stuffProps.stuffAdjective>
+  <Ibex_Meat.label>carne de íbex</Ibex_Meat.label>
+  <Ibex_Meat.description>carne de íbex</Ibex_Meat.description>
+  <Ibex_Corpse.label>cadáver de íbex</Ibex_Corpse.label>
+  <Ibex_Corpse.description>cadáver de íbex</Ibex_Corpse.description>
 
-	<Deer_Leather.label>pele de cervo</Deer_Leather.label>
+  <Elk.label>alce</Elk.label>
+  <Elk.description>Um grande membro da família dos cervos, bem adaptado á vida em climas frios.</Elk.description>
+  <Elk.tools.0.label>left hoof</Elk.tools.0.label>
+  <Elk.tools.1.label>right hoof</Elk.tools.1.label>
+  <Elk.tools.3.label>head</Elk.tools.3.label>
+  <Elk_Leather.label>pele de alce</Elk_Leather.label>
+  <Elk_Leather.description>pele de alce</Elk_Leather.description>
+  <Elk_Leather.stuffProps.stuffAdjective>pele de alce</Elk_Leather.stuffProps.stuffAdjective>
+  <Elk_Meat.label>carne de alce</Elk_Meat.label>
+  <Elk_Meat.description>carne de alce</Elk_Meat.description>
+  <Elk_Corpse.label>cadáver de alce</Elk_Corpse.label>
+  <Elk_Corpse.description>cadáver de alce</Elk_Corpse.description>
 
-	<Deer_Leather.stuffProps.stuffAdjective>pele de cervo</Deer_Leather.stuffProps.stuffAdjective>
+  <Caribou.label>caribu</Caribou.label>
+  <Caribou.description>Um grande membro da família dos cervos, bem adaptado á vida em climas frios.</Caribou.description>
+  <Caribou.tools.0.label>left hoof</Caribou.tools.0.label>
+  <Caribou.tools.1.label>right hoof</Caribou.tools.1.label>
+  <Caribou.tools.3.label>head</Caribou.tools.3.label>
+  <Caribou_Leather.label>couro de caribu</Caribou_Leather.label>
+  <Caribou_Leather.description>couro de caribu</Caribou_Leather.description>
+  <Caribou_Leather.stuffProps.stuffAdjective>couro de caribu</Caribou_Leather.stuffProps.stuffAdjective>
+  <Caribou_Meat.label>carne de caribu</Caribou_Meat.label>
+  <Caribou_Meat.description>carne de caribu</Caribou_Meat.description>
+  <Caribou_Corpse.label>cadáver de caribu</Caribou_Corpse.label>
+  <Caribou_Corpse.description>cadáver de caribu</Caribou_Corpse.description>
 
-	<Deer_Meat.label>carne de cervo</Deer_Meat.label>
+  <WildBoar.label>javali selvagem</WildBoar.label>
+  <WildBoar.description>Embora seja considerado impuro por algumas culturas, este antepassado peludo do porco domesticado é valorizado pelo sabor incomparável de sua carne.</WildBoar.description>
+  <WildBoar.tools.0.label>tusk</WildBoar.tools.0.label>
+  <WildBoar.tools.2.label>head</WildBoar.tools.2.label>
+  <WildBoar_Leather.label>wild boar leather</WildBoar_Leather.label>
+  <WildBoar_Leather.description>wild boar leather</WildBoar_Leather.description>
+  <WildBoar_Leather.stuffProps.stuffAdjective>wild boar leather</WildBoar_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Pig -->
+  <WildBoar_Corpse.label>cadáver de javali selvagem</WildBoar_Corpse.label>
+  <WildBoar_Corpse.description>Corpo sem vida de um javali selvagem.</WildBoar_Corpse.description>
 
-	<Deer_Corpse.label>cadáver de cervo</Deer_Corpse.label>
+  <Tortoise.label>tartaruga</Tortoise.label>
+  <Tortoise.description>Este réptil terrestre fortemente blindado é conhecido por sua velocidade de movimento lenta e mordida surpreendentemente viciosa.</Tortoise.description>
+  <Tortoise.tools.1.label>head</Tortoise.tools.1.label>
+  <Tortoise_Leather.label>couro de tartaruga</Tortoise_Leather.label>
+  <Tortoise_Leather.description>couro de tartaruga</Tortoise_Leather.description>
+  <Tortoise_Leather.stuffProps.stuffAdjective>couro de tartaruga</Tortoise_Leather.stuffProps.stuffAdjective>
+  <Tortoise_Meat.label>carne de tartaruga</Tortoise_Meat.label>
+  <Tortoise_Meat.description>carne de tartaruga</Tortoise_Meat.description>
+  <Tortoise_Corpse.label>cadáver de tartaruga</Tortoise_Corpse.label>
+  <Tortoise_Corpse.description>cadáver de tartaruga</Tortoise_Corpse.description>
 
-	<Deer_Corpse.description>Corpo sem vida de um cervo.</Deer_Corpse.description>
 
-	<Ibex.label>íbex</Ibex.label>
-
-	<Ibex.description>O antepassado selvagem resistente do bode domesticado. O Íbex vive em território marginal que a maioria dos antílopes não conseguiriam sobreviver, se alimenta de líquenes e plantas de montanhas esparsas. Eles são famosos pela destreza de pular através dos penhascos - e por seu violento ataque de colisão.</Ibex.description>
-
-	<Ibex_Leather.label>pele de cabra</Ibex_Leather.label>
-
-	<Ibex_Leather.stuffProps.stuffAdjective>pele de cabra</Ibex_Leather.stuffProps.stuffAdjective>
-
-	<Ibex_Meat.label>carne de íbex</Ibex_Meat.label>
-
-	<Ibex_Corpse.label>cadáver de íbex</Ibex_Corpse.label>
-
-	<Ibex_Corpse.description>Corpo sem vida de um íbex.</Ibex_Corpse.description>
-
-	<Elk.label>alce</Elk.label>
-
-	<Elk.description>Um grande membro da família dos cervos, bem adaptado á vida em climas frios.</Elk.description>
-
-	<Elk_Leather.label>pele de alce</Elk_Leather.label>
-
-	<Elk_Leather.stuffProps.stuffAdjective>pele de alce</Elk_Leather.stuffProps.stuffAdjective>
-
-	<Elk_Meat.label>carne de alce</Elk_Meat.label>
-
-	<Elk_Corpse.label>cadáver de alce</Elk_Corpse.label>
-
-	<Elk_Corpse.description>Corpo sem vida de um alce.</Elk_Corpse.description>
-
-	<Caribou.label>caribu</Caribou.label>
-
-	<Caribou.description>Um grande membro da família dos cervos, bem adaptado á vida em climas frios.</Caribou.description>
-
-	<Caribou_Leather.label>couro de caribu</Caribou_Leather.label>
-
-	<Caribou_Leather.stuffProps.stuffAdjective>couro de caribu</Caribou_Leather.stuffProps.stuffAdjective>
-
-	<Caribou_Meat.label>carne de caribu</Caribou_Meat.label>
-
-	<Caribou_Corpse.label>cadáver de caribu</Caribou_Corpse.label>
-
-	<Caribou_Corpse.description>Corpo sem vida de um caribu.</Caribou_Corpse.description>
-
-	<WildBoar.label>javali selvagem</WildBoar.label>
-
-	<WildBoar.description>Embora seja considerado impuro por algumas culturas, este antepassado peludo do porco domesticado é valorizado pelo sabor incomparável de sua carne.</WildBoar.description>
-
-	<WildBoar_Corpse.label>cadáver de javali selvagem</WildBoar_Corpse.label>
-
-	<WildBoar_Corpse.description>Corpo sem vida de um javali selvagem.</WildBoar_Corpse.description>
-
-	<Tortoise.label>tartaruga</Tortoise.label>
-
-	<Tortoise.description>Este réptil terrestre fortemente blindado é conhecido por sua velocidade de movimento lenta e mordida surpreendentemente viciosa.</Tortoise.description>
-
-	<Tortoise_Leather.label>couro de tartaruga</Tortoise_Leather.label>
-
-	<Tortoise_Leather.stuffProps.stuffAdjective>couro de tartaruga</Tortoise_Leather.stuffProps.stuffAdjective>
-
-	<Tortoise_Meat.label>carne de tartaruga</Tortoise_Meat.label>
-
-	<Tortoise_Corpse.label>cadáver de tartaruga</Tortoise_Corpse.label>
-
-	<Tortoise_Corpse.description>Corpo sem vida de uma tartaruga.</Tortoise_Corpse.description>
-
-	<Deer.tools.0.label>casco esquerdo</Deer.tools.0.label>
-
-	<Deer.tools.1.label>casco direito</Deer.tools.1.label>
-
-	<Deer.tools.3.label>cabeça</Deer.tools.3.label>
-
-	<WildBoar.tools.0.label>presa</WildBoar.tools.0.label>
-
-	<WildBoar.tools.2.label>cabeça</WildBoar.tools.2.label>
-
-	<Caribou.tools.0.label>casco esquerdo</Caribou.tools.0.label>
-
-	<Caribou.tools.1.label>casco direito</Caribou.tools.1.label>
-
-	<Caribou.tools.3.label>cabeça</Caribou.tools.3.label>
-
-	<Tortoise.tools.1.label>cabeça</Tortoise.tools.1.label>
-
-	<Ibex.tools.0.label>casco esquerdo</Ibex.tools.0.label>
-
-	<Ibex.tools.1.label>casco direito</Ibex.tools.1.label>
-
-	<Ibex.tools.3.label>cabeça</Ibex.tools.3.label>
-
-	<Elk.tools.0.label>casco esquerdo</Elk.tools.0.label>
-
-	<Elk.tools.1.label>casco direito</Elk.tools.1.label>
-
-	<Elk.tools.3.label>cabeça</Elk.tools.3.label>
+  <!-- Use Leather From: Pig -->
 
 </LanguageData>

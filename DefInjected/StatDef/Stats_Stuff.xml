@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StuffPower_Armor_Sharp.label>Armadura - Cortante</StuffPower_Armor_Sharp.label>
+  <StuffPower_Armor_Sharp.description>Armadura contra danos cortantes como balas, facadas e mordidas de animais.</StuffPower_Armor_Sharp.description>
+
+  <StuffPower_Armor_Blunt.label>Armadura - Contundente</StuffPower_Armor_Blunt.label>
+  <StuffPower_Armor_Blunt.description>Aramdura contra danos contundentes como impactos de porretes, quedas de rochas e explosões.</StuffPower_Armor_Blunt.description>
+
+  <StuffPower_Armor_Heat.label>Armadura - Calor</StuffPower_Armor_Heat.label>
+  <StuffPower_Armor_Heat.description>Armadura contra danos relacionados com a temperatura, como queimaduras.</StuffPower_Armor_Heat.description>
+
+  <StuffPower_Insulation_Cold.label>Isolamento - Frio</StuffPower_Insulation_Cold.label>
+  <StuffPower_Insulation_Cold.description>O quanto um aparelho feito deste material melhora a temperatura confortável mínima do usuário quando usado.</StuffPower_Insulation_Cold.description>
+
+  <StuffPower_Insulation_Heat.label>Isolamento - Heat</StuffPower_Insulation_Heat.label>
+  <StuffPower_Insulation_Heat.description>O quanto um aparelho feito deste material melhora a temperatura confortável máxima do usuário quando usado.</StuffPower_Insulation_Heat.description>
+
+
+</LanguageData>

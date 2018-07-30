@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<AmbushHidden.label>emboscada</AmbushHidden.label>
+  <AmbushHidden.label>emboscada</AmbushHidden.label>
+  <AmbushHidden.description>Uma emboscada.</AmbushHidden.description>
+  <AmbushHidden.descriptionDialogue>uma força inimiga está esperando para emboscar qualquer um que se aproxime</AmbushHidden.descriptionDialogue>
 
-	<AmbushHidden.description>Uma emboscada.</AmbushHidden.description>
 
 </LanguageData>

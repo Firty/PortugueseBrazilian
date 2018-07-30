@@ -1,16 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Anesthetize.label>anestesia</Anesthetize.label>
+  <!-- Anesthetize -->
 
-	<Anesthetize.description>Torna uma criatura inconsciente administrando um anestésico.</Anesthetize.description>
+  <Anesthetize.label>anestesiar</Anesthetize.label>
+  <Anesthetize.description>Deixa uma criatura inconsciente através da administração de um anestésico.</Anesthetize.description>
+  <Anesthetize.jobString>Anestesiado.</Anesthetize.jobString>
 
-	<Anesthetize.jobstring>Anestesiar.</Anesthetize.jobstring>
 
-	<AdministerMechSerumHealer.label>administrar soro mech curandeiro</AdministerMechSerumHealer.label>
+  <!-- Euthanasia -->
 
-	<AdministerMechSerumHealer.description>Administra soro mech de curandeiro.</AdministerMechSerumHealer.description>
+  <Euthanize.label>eutanasiar por corte</Euthanize.label>
+  <Euthanize.description>Eutanasia uma criatura por corte.</Euthanize.description>
+  <Euthanize.jobString>Eutanasiado por corte.</Euthanize.jobString>
 
-	<AdministerMechSerumHealer.jobstring>Administrando soro mech de curandeiro.</AdministerMechSerumHealer.jobstring>
+
+  <!-- removing hediffs (e.g. diseases) -->
+
+  <ExciseCarcinoma.label>extrair carcinoma</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Extrai a carcinoma.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Extraindo a carcinoma.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} extraiu com sucesso a carcinoma de {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+
+  <!-- removing body parts -->
+
+  <RemoveBodyPart.label>remover parte</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Remove parte do corpo.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Removendo parte do corpo.</RemoveBodyPart.jobString>
+
+
+  <!-- special administer -->
+
+  <AdministerMechSerumHealer.label>administer healer mech serum</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Administer a healer mech serum.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Administering healer mech serum.</AdministerMechSerumHealer.jobString>
+
 
 </LanguageData>

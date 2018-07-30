@@ -1,38 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<FilthDirt.label>terra</FilthDirt.label>
+  <Filth_Dirt.label>dirt</Filth_Dirt.label>
+  <Filth_AnimalFilth.label>animal filth</Filth_AnimalFilth.label>
+  <Filth_HumanFilth.label>human filth</Filth_HumanFilth.label>
+  <Filth_Trash.label>trash</Filth_Trash.label>
+  <Filth_Sand.label>sand</Filth_Sand.label>
+  <Filth_RubbleRock.label>rock rubble</Filth_RubbleRock.label>
+  <Filth_RubbleBuilding.label>building rubble</Filth_RubbleBuilding.label>
+  <SlagRubble.label>escória espalhada</SlagRubble.label>
+  <SandbagRubble.label>sacos de areia espalhados</SandbagRubble.label>
 
-	<FilthAnimalFilth.label>sujeira de animal</FilthAnimalFilth.label>
 
-	<FilthSand.label>areia</FilthSand.label>
+  <!-- Fluids etc -->
 
-	<RockRubble.label>escombros</RockRubble.label>
+  <Filth_Blood.label>blood</Filth_Blood.label>
+  <Filth_BloodInsect.label>bugblood</Filth_BloodInsect.label>
+  <Filth_AmnioticFluid.label>amniotic fluid</Filth_AmnioticFluid.label>
+  <Filth_Slime.label>slime</Filth_Slime.label>
+  <Filth_Vomit.label>vomit</Filth_Vomit.label>
+  <Filth_FireFoam.label>firefoam</Filth_FireFoam.label>
 
-	<BuildingRubble.label>entulho</BuildingRubble.label>
+  <Filth_Fuel.label>chemfuel puddle</Filth_Fuel.label>
+  <Filth_Fuel.description>A puddle of flammable chemfuel.</Filth_Fuel.description>
 
-	<SandbagRubble.label>sacos de areia espalhados</SandbagRubble.label>
+  <Filth_CorpseBile.label>corpse bile</Filth_CorpseBile.label>
+  <Filth_Ash.label>ash</Filth_Ash.label>
 
-	<FilthBlood.label>sangue</FilthBlood.label>
 
-	<FilthBloodInsect.label>sangue de inseto</FilthBloodInsect.label>
-
-	<FilthAmnioticFluid.label>flúido amniótico</FilthAmnioticFluid.label>
-
-	<FilthSlime.label>gosma</FilthSlime.label>
-
-	<FilthVomit.label>vômito</FilthVomit.label>
-
-	<FilthFireFoam.label>espuma</FilthFireFoam.label>
-
-	<FilthFuel.label>poça de combustível</FilthFuel.label>
-
-	<FilthFuel.description>queimaduras no chão.</FilthFuel.description>
-
-	<SlagRubble.label>escória dispersa</SlagRubble.label>
-
-	<FilthAsh.label>cinza</FilthAsh.label>
-
-	<FilthCorpseBile.label>bile de cadáver</FilthCorpseBile.label>
+  <!--<FilthDirt.label>terra</FilthDirt.label>-->
+  <!--<FilthAnimalFilth.label>sujeira de animal</FilthAnimalFilth.label>-->
+  <!--<FilthSand.label>areia</FilthSand.label>-->
+  <!--<RockRubble.label>escombros de pedra</RockRubble.label>-->
+  <!--<BuildingRubble.label>entulho de construção</BuildingRubble.label>-->
+  <!--<FilthBlood.label>sangue</FilthBlood.label>-->
+  <!--<FilthBloodInsect.label>sangue de inseto</FilthBloodInsect.label>-->
+  <!--<FilthAmnioticFluid.label>fluído amniótico</FilthAmnioticFluid.label>-->
+  <!--<FilthSlime.label>gosma</FilthSlime.label>-->
+  <!--<FilthVomit.label>vômito</FilthVomit.label>-->
+  <!--<FilthFireFoam.label>espuma contra incêndio</FilthFireFoam.label>-->
+  <!--<FilthFuel.label>poça de biocombustível</FilthFuel.label>-->
+  <!--<FilthFuel.description>uma poça de biocombustível inflamável</FilthFuel.description>-->
+  <!--<FilthCorpseBile.label>bile de cadáver</FilthCorpseBile.label>-->
+  <!--<FilthAsh.label>cinza</FilthAsh.label>-->
 
 </LanguageData>

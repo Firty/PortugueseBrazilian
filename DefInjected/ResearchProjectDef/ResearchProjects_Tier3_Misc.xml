@@ -1,36 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Firefoam.label>espuma contra fogo</Firefoam.label>
+  <!-- Tier 3: Hi-tech research bench -->
 
-	<Firefoam.description>Permite a construção de dispositivos de espuma; edíficios de segurança contra incêndios que espalharam espuma retardando o fogo em resposta á aproximação das chamas.</Firefoam.description>
+  <Firefoam.label>espuma contra fogo</Firefoam.label>
+  <Firefoam.description>Permite a construção de dispositivos de espuma; edifícios de segurança contra incêndios que espalharam espuma retardando o fogo em resposta a aproximação das chamas.</Firefoam.description>
 
-	<MoisturePump.label>bomba de umidade</MoisturePump.label>
+  <MoisturePump.label>bomba de umidade</MoisturePump.label>
+  <MoisturePump.description>Permite a construção de bombas de umidade, que transformam o chão molhado em seco.</MoisturePump.description>
 
-	<MoisturePump.description>Permite a construção de bombas de umidade, que transformam o chão molhado em seco.</MoisturePump.description>
+  <SterileMaterials.label>sterile materials</SterileMaterials.label>
+  <SterileMaterials.description>Construct sterile tiles to make cleanrooms for more effective medical treatment and research.</SterileMaterials.description>
 
-	<GeothermalPower.label>energia geotérmica</GeothermalPower.label>
+  <HospitalBed.label>cama de hospital</HospitalBed.label>
+  <HospitalBed.description>Permite a construção de camas de hospital que aumentam a chance de tratamentos médicos bem sucedidos.</HospitalBed.description>
 
-	<GeothermalPower.description>Permite construir usinas de energia geotérmica no topo de gêiseres de vapor, para obter energia ilimitada.</GeothermalPower.description>
+  <TransportPod.label>cápsula de transporte</TransportPod.label>
+  <TransportPod.description>Permite construir cápsulas de transporte lançáveis que você pode usar para lançar pessoas e fornece longas distâncias sobre a superfície do planeta.</TransportPod.description>
 
-	<HospitalBed.label>cama hospitalar</HospitalBed.label>
+  <MedicineProduction.label>produção de medicamento</MedicineProduction.label>
+  <MedicineProduction.description>Permite a produção de medicamento a partir de medicamento herbal, neutramina e pano.</MedicineProduction.description>
 
-	<HospitalBed.description>Permite a construção de camas de hospital que aumentam chance de tratamentos médicos bem sucedidos.</HospitalBed.description>
+  <MultiAnalyzer.label>multi-analisador</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Permite a construção de multi-analisadores que aumentam a velocidade de pesquisa, e permite projetos pesquisas de nível superior, se colocado perto de uma bancada de pesquisa.</MultiAnalyzer.description>
 
-	<TransportPod.label>cápsula de transporte</TransportPod.label>
+  <LongRangeMineralScanner.label>scanner de minerais de longo alcance</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>Permite a construção de scanner de minerais de longo alcance que detectam automaticamente minerais preciosos como o ouro ou jade nas áreas próximas (mas não em que os scanners foram construídos).\n\nOs pedaços são encontrados em média uma vez por 30 dias dentro de um raio de 30 azulejos.\n\nConstruir mais de um scanner na mesma área ou nas proximidades tem pouco ou nenhum efeito.</LongRangeMineralScanner.description>
 
-	<TransportPod.description>Permite construir cápsulas de transporte lançáveis que você pode usar para lançar pessoas e fornece longas distâncias sobre a superfície do planeta.</TransportPod.description>
+  <ShieldBelt.label>cinto escudo</ShieldBelt.label>
+  <ShieldBelt.description>Estuda a tecnologia de campo de repulsão de impulso permitindo que você construa cintos de escudo, que bloqueiam ataques à distância que chegam ou saem.</ShieldBelt.description>
 
-	<MedicineProduction.label>produção de medicina</MedicineProduction.label>
 
-	<MedicineProduction.description>Permite a produção de medicina a partir de medicina herbal, neutramina e pano.</MedicineProduction.description>
-
-	<MultiAnalyzer.label>multi-analisador</MultiAnalyzer.label>
-
-	<MultiAnalyzer.description>Permite a construção de multi-analisadores que aumentam a velocidade de pesquisa, e permite pesquisar os projetos de investigação de nível superior, se colocado perto de uma bancada de pesquisa.</MultiAnalyzer.description>
-
-	<LongRangeMineralScanner.label>scanner mineral de longo alcance</LongRangeMineralScanner.label>
-
-	<LongRangeMineralScanner.description>Permite a construção de scanners minerais de longo alcance que detectam automaticamente minerais preciosos como ouro ou jade nas áreas próximas (mas não na área que o scanner for construído). \n\nOs minerais são encontrados em média uma vez a cada 30 dias em um raio de 30 blocos. \n\nConstruir mais de um scanner nas mesmas áreas ou áreas próximas tem pouco ou nenhum efeito.</LongRangeMineralScanner.description>
+  <!--<GeothermalPower.label>energia geotérmica</GeothermalPower.label>-->
+  <!--<GeothermalPower.description>Permite construir usinas de energia geotérmica no topo de gêiseres de vapor, para obter energia ilimitada.</GeothermalPower.description>-->
 
 </LanguageData>

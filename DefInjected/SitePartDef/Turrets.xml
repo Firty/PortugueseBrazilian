@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Turrets.label>torres</Turrets.label>
+  <Turrets.label>torretas</Turrets.label>
+  <Turrets.description>Algumas torretas.</Turrets.description>
+  <Turrets.descriptionDialogue>um anel de torretas inimigas defende o local</Turrets.descriptionDialogue>
 
-	<Turrets.description>Tem algumas torres.</Turrets.description>
 
 </LanguageData>

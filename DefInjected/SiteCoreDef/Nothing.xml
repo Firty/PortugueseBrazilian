@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Nothing.label>local</Nothing.label>
+  <Nothing.label>local</Nothing.label>
+  <Nothing.description>Um local no mundo que não contém nada de especial.</Nothing.description>
 
-	<Nothing.description>Uma localização no mundo que não contém nada de especial.</Nothing.description>
 
 </LanguageData>

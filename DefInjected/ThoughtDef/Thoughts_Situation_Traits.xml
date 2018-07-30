@@ -1,120 +1,107 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MasochistPain.stages.0.label>com um pouco de dor</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.label>masoquista com um pouco de dor</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Ai... He he he... Eu poderia me acostumar com isso!</MasochistPain.stages.0.description>
+  <MasochistPain.stages.1.label>masoquista com dor moderada</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Ughhh... Isso dói, mas eu estou adorando! Deixe vir!</MasochistPain.stages.1.description>
+  <MasochistPain.stages.2.label>masoquista com dor aguda</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Argh... Acho que algo está quebrado... Mas que sentimento requintado!</MasochistPain.stages.2.description>
+  <MasochistPain.stages.3.label>masoquista com dor excepcional</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>Aaah... Estou no paraíso?</MasochistPain.stages.3.description>
 
-	<MasochistPain.stages.0.description>Ai... He he he... Eu poderia me acostumar com isso!</MasochistPain.stages.0.description>
+  <ProsthophileNoProsthetic.stages.0.label>prostéfilo sem parte biônica</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>A carne é tão limitada. Eu gostaria de ter algum tipo de parte artificial no corpo.</ProsthophileNoProsthetic.stages.0.description>
 
-	<MasochistPain.stages.1.label>com quantidade moderada de dor</MasochistPain.stages.1.label>
+  <ProsthophileHappy.stages.0.label>prostéfilo tem parte biônica</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Eu sou um produto da tecnologia moderna! Posso fazer tudo melhor!</ProsthophileHappy.stages.0.description>
+  <ProsthophileHappy.stages.1.label>transhumanist quite pleased</ProsthophileHappy.stages.1.label>
+  <ProsthophileHappy.stages.1.description>Two artificial parts are better than one. I wish I had more.</ProsthophileHappy.stages.1.description>
+  <ProsthophileHappy.stages.2.label>transhumanist delighted</ProsthophileHappy.stages.2.label>
+  <ProsthophileHappy.stages.2.description>Three artificial parts, and my weak human flesh is receding. But I still want more machine power.</ProsthophileHappy.stages.2.description>
+  <ProsthophileHappy.stages.3.label>transhumanist enchanted</ProsthophileHappy.stages.3.label>
+  <ProsthophileHappy.stages.3.description>Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing.</ProsthophileHappy.stages.3.description>
+  <ProsthophileHappy.stages.4.label>transhumanist overjoyed</ProsthophileHappy.stages.4.label>
+  <ProsthophileHappy.stages.4.description>Five artificial body parts! How could an enhanced being like me ever feel sad?</ProsthophileHappy.stages.4.description>
+  <ProsthophileHappy.stages.5.label>machine body is complete</ProsthophileHappy.stages.5.label>
+  <ProsthophileHappy.stages.5.description>I asked for this.</ProsthophileHappy.stages.5.description>
 
-	<MasochistPain.stages.1.description>Ughhh... Isso dói, mas eu estou adorando! Deixe vir!</MasochistPain.stages.1.description>
+  <ProsthophobeUnhappy.stages.0.label>prostefóbico tem parte biônica</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>Eles me transformaram em uma abominação tecnológica... Se ao menos eles tivessem me dado uma escolha...</ProsthophobeUnhappy.stages.0.description>
+  <ProsthophobeUnhappy.stages.1.label>body purist disgusted</ProsthophobeUnhappy.stages.1.label>
+  <ProsthophobeUnhappy.stages.1.description>Two artificial parts are sullying my natural, pure body. It makes me sick to think of it.</ProsthophobeUnhappy.stages.1.description>
+  <ProsthophobeUnhappy.stages.2.label>body purist violated</ProsthophobeUnhappy.stages.2.label>
+  <ProsthophobeUnhappy.stages.2.description>Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me.</ProsthophobeUnhappy.stages.2.description>
+  <ProsthophobeUnhappy.stages.3.label>body purist horrified</ProsthophobeUnhappy.stages.3.label>
+  <ProsthophobeUnhappy.stages.3.description>I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation.</ProsthophobeUnhappy.stages.3.description>
+  <ProsthophobeUnhappy.stages.4.label>body purist nightmare</ProsthophobeUnhappy.stages.4.label>
+  <ProsthophobeUnhappy.stages.4.description>Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human?</ProsthophobeUnhappy.stages.4.description>
+  <ProsthophobeUnhappy.stages.5.label>I have become what I hate</ProsthophobeUnhappy.stages.5.label>
+  <ProsthophobeUnhappy.stages.5.description>I asked for the exact opposite of this!</ProsthophobeUnhappy.stages.5.description>
 
-	<MasochistPain.stages.2.label>experimentando dor aguda</MasochistPain.stages.2.label>
+  <NonProsthophileHasAddedBodyParts.stages.1.label>artificial body uneasiness</NonProsthophileHasAddedBodyParts.stages.1.label>
+  <NonProsthophileHasAddedBodyParts.stages.1.description>Two artificial body parts were okay, but having three is bothersome. I miss my natural, clean body.</NonProsthophileHasAddedBodyParts.stages.1.description>
+  <NonProsthophileHasAddedBodyParts.stages.2.label>artificial body squeamishness</NonProsthophileHasAddedBodyParts.stages.2.label>
+  <NonProsthophileHasAddedBodyParts.stages.2.description>I have four artificial body parts. Even if they're necessary, I still wish I could be natural again.</NonProsthophileHasAddedBodyParts.stages.2.description>
+  <NonProsthophileHasAddedBodyParts.stages.3.label>artificial body discomfort</NonProsthophileHasAddedBodyParts.stages.3.label>
+  <NonProsthophileHasAddedBodyParts.stages.3.description>Five artificial body parts. It's like I click and creak when I move. I wish I could just be a healthy again, without these reminders of pain.</NonProsthophileHasAddedBodyParts.stages.3.description>
+  <NonProsthophileHasAddedBodyParts.stages.4.label>artificial body disgust</NonProsthophileHasAddedBodyParts.stages.4.label>
+  <NonProsthophileHasAddedBodyParts.stages.4.description>Six artificial body parts is too much. It's like I'm becoming an android.</NonProsthophileHasAddedBodyParts.stages.4.description>
+  <NonProsthophileHasAddedBodyParts.stages.5.label>artificial body horror</NonProsthophileHasAddedBodyParts.stages.5.label>
+  <NonProsthophileHasAddedBodyParts.stages.5.description>I never asked for this.</NonProsthophileHasAddedBodyParts.stages.5.description>
 
-	<MasochistPain.stages.2.description>Argh... Acho que algo está quebrado... Mas que sentimento requintado!</MasochistPain.stages.2.description>
+  <BrawlerUnhappy.stages.0.label>lutador tem arma a distância</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Eu odeio atirar à distância. Quero chegar perto e pessoalmente!</BrawlerUnhappy.stages.0.description>
 
-	<MasochistPain.stages.3.label>em choque de dor excepcional</MasochistPain.stages.3.label>
+  <PyromaniacHappy.stages.0.label>piromaníaco tem arma incendiária</PyromaniacHappy.stages.0.label>
+  <PyromaniacHappy.stages.0.description>Isso me faz pensar em chama e fogo. Estou tão feliz.</PyromaniacHappy.stages.0.description>
 
-	<MasochistPain.stages.3.description>Aaah... Estou no paraíso?</MasochistPain.stages.3.description>
+  <ClothedNudist.stages.0.label>roupas constrangedoras</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Eu sou um nudista, mas tenho que usar estas roupas. Não é insuportável - mas eu ainda me sinto constrangido e desconfortável.</ClothedNudist.stages.0.description>
 
-	<ProsthophileNoProsthetic.stages.0.label>prostéfilo sem parte biônica</ProsthophileNoProsthetic.stages.0.label>
+  <HappyNude.stages.0.label>nudista feliz</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Estou nu e adoro isso! Eu me sinto tão livre e sem restrições em contato ao meu redor!</HappyNude.stages.0.description>
 
-	<ProsthophileNoProsthetic.stages.0.description>A carne é tão limitada. Eu gostaria de ter algum tipo de parte artificial no corpo.</ProsthophileNoProsthetic.stages.0.description>
+  <NightOwlDuringTheDay.stages.0.label>noturno durante o dia</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>Eu não gosto de trabalhar durante o dia.</NightOwlDuringTheDay.stages.0.description>
 
-	<ProsthophileHappy.stages.0.label>prostéfilo tem parte biônica</ProsthophileHappy.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.label>noturno</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Eu me sinto muito melhor à noite.</NightOwlDuringTheNight.stages.0.description>
 
-	<ProsthophileHappy.stages.0.description>Eu sou um produto da tecnologia moderna! Posso fazer tudo melhor!</ProsthophileHappy.stages.0.description>
+  <Greedy.stages.0.label>ganancioso por quarto impressionante</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Eu sou ganancioso. Quero um quarto realmente impressionante.</Greedy.stages.0.description>
+  <Greedy.stages.1.label>ganancioso por quarto impressionante</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Eu sou ganancioso. Meu quarto é patético! Quero um quarto realmente impressionante.</Greedy.stages.1.description>
+  <Greedy.stages.2.label>ganancioso por quarto impressionante</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Eu sou ganancioso. Meu quarto não chega nem perto do bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.2.description>
+  <Greedy.stages.3.label>ganancioso por quarto impressionante</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Eu sou ganancioso. Meu quarto não está bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.3.description>
+  <Greedy.stages.4.label>ganancioso por quarto impressionante</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Eu sou ganancioso. Meu quarto ainda não está bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.4.description>
 
-	<ProsthophobeUnhappy.stages.0.label>prostefóbico tem parte biônica</ProsthophobeUnhappy.stages.0.label>
+  <Jealous.stages.0.label>ciúmes do quarto de {0}</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Eu preciso ter o melhor!</Jealous.stages.0.description>
 
-	<ProsthophobeUnhappy.stages.0.description>Eles me transformaram em uma abominação tecnológica... Se eles tivessem me dado uma escolha...</ProsthophobeUnhappy.stages.0.description>
+  <Ascetic.stages.0.label>ascético tem quarto terrível</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Meu quarto é exatamente como eu quero que seja. Muito humilde e simples.</Ascetic.stages.0.description>
+  <Ascetic.stages.1.label>ascético tem quarto repulsivo</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Meu quarto é exatamente como eu quero que seja. Muito humilde e simples.</Ascetic.stages.1.description>
+  <Ascetic.stages.2.label>ascético tem quarto maçante</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Meu quarto é muito humilde e simples. Eu gosto disso.</Ascetic.stages.2.description>
+  <Ascetic.stages.5.label>ascético tem quarto impressionante</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.5.description>
+  <Ascetic.stages.6.label>ascético tem quarto impressionante</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.6.description>
+  <Ascetic.stages.7.label>ascético tem quarto impressionante</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.7.description>
+  <Ascetic.stages.8.label>ascético tem quarto impressionante</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.8.description>
+  <Ascetic.stages.9.label>ascético tem quarto impressionante</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.9.description>
+  <Ascetic.stages.10.label>ascético tem quarto impressionante</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.10.description>
+  <Ascetic.stages.11.label>ascético tem quarto impressionante</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.11.description>
 
-	<BrawlerUnhappy.stages.0.label>lutador com arma a distância</BrawlerUnhappy.stages.0.label>
-
-	<BrawlerUnhappy.stages.0.description>Eu odeio disparo à distância. Quero chegar perto e pessoalmente!</BrawlerUnhappy.stages.0.description>
-
-	<ClothedNudist.stages.0.label>roupas constrangedoras</ClothedNudist.stages.0.label>
-
-	<ClothedNudist.stages.0.description>Eu sou um nudista, mas tenho que usar estas roupas. Não é insuportável - mas eu ainda me sinto constrangido e desconfortável.</ClothedNudist.stages.0.description>
-
-	<HappyNude.stages.0.label>nudista feliz</HappyNude.stages.0.label>
-
-	<HappyNude.stages.0.description>Estou nu e amo isso! Eu me sinto tão livre e sem restrições em contato ao meu redor!</HappyNude.stages.0.description>
-
-	<NightOwlDuringTheDay.stages.0.label>noturno durante o dia</NightOwlDuringTheDay.stages.0.label>
-
-	<NightOwlDuringTheDay.stages.0.description>Eu não gosto de trabalhar durante o dia.</NightOwlDuringTheDay.stages.0.description>
-
-	<NightOwlDuringTheNight.stages.0.label>noturno</NightOwlDuringTheNight.stages.0.label>
-
-	<NightOwlDuringTheNight.stages.0.description>Eu me sinto muito melhor à noite.</NightOwlDuringTheNight.stages.0.description>
-
-	<Greedy.stages.0.label>ganancioso por quarto impressionante</Greedy.stages.0.label>
-
-	<Greedy.stages.0.description>Eu sou ganancioso. Quero um quarto realmente impressionante.</Greedy.stages.0.description>
-
-	<Greedy.stages.1.label>ganancioso por quarto impressionante</Greedy.stages.1.label>
-
-	<Greedy.stages.1.description>Eu sou ganancioso. Meu quarto é patético! quero um Quarto realmente impressionante.</Greedy.stages.1.description>
-
-	<Greedy.stages.2.label>ganancioso por quarto impressionante</Greedy.stages.2.label>
-
-	<Greedy.stages.2.description>Eu sou ganancioso. Meu quarto não chega nem perto do bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.2.description>
-
-	<Greedy.stages.3.label>ganancioso por quarto impressionante</Greedy.stages.3.label>
-
-	<Greedy.stages.3.description>Eu sou ganancioso. Meu quarto não está bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.3.description>
-
-	<Greedy.stages.4.label>ganancioso por quarto impressionante</Greedy.stages.4.label>
-
-	<Greedy.stages.4.description>Eu sou ganancioso. Meu quarto ainda não está bom o suficiente. Quero um quarto realmente impressionante.</Greedy.stages.4.description>
-
-	<Jealous.stages.0.label>ciumes do quarto de {0}</Jealous.stages.0.label>
-
-	<Jealous.stages.0.description>Eu preciso ter o melhor!</Jealous.stages.0.description>
-
-	<Ascetic.stages.0.label>ascético tem quarto terrível</Ascetic.stages.0.label>
-
-	<Ascetic.stages.0.description>Meu quarto é exatamente como eu quero que seja. Muito humilde e simples.</Ascetic.stages.0.description>
-
-	<Ascetic.stages.1.label>ascético tem quarto repulsivo</Ascetic.stages.1.label>
-
-	<Ascetic.stages.1.description>Meu quarto é exatamente como eu quero que seja. Muito humilde e simples.</Ascetic.stages.1.description>
-
-	<Ascetic.stages.2.label>ascético tem quarto maçante</Ascetic.stages.2.label>
-
-	<Ascetic.stages.2.description>Meu quarto é exatamente como eu quero que seja. Eu gosto disso.</Ascetic.stages.2.description>
-
-	<Ascetic.stages.5.label>ascético tem quarto impressionante</Ascetic.stages.5.label>
-
-	<Ascetic.stages.5.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.5.description>
-
-	<Ascetic.stages.6.label>ascético tem quarto impressionante</Ascetic.stages.6.label>
-
-	<Ascetic.stages.6.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.6.description>
-
-	<Ascetic.stages.7.label>ascético tem quarto impressionante</Ascetic.stages.7.label>
-
-	<Ascetic.stages.7.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.7.description>
-
-	<Ascetic.stages.8.label>ascético tem quarto impressionante</Ascetic.stages.8.label>
-
-	<Ascetic.stages.8.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.8.description>
-
-	<Ascetic.stages.9.label>ascético tem quarto impressionante</Ascetic.stages.9.label>
-
-	<Ascetic.stages.9.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.9.description>
-
-	<Ascetic.stages.10.label>ascético tem quarto impressionante</Ascetic.stages.10.label>
-
-	<Ascetic.stages.10.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.10.description>
-
-	<Ascetic.stages.11.label>ascético tem quarto impressionante</Ascetic.stages.11.label>
-
-	<Ascetic.stages.11.description>Eu não gosto de ter um quarto impressionante.</Ascetic.stages.11.description>
-
-	<PyromaniacHappy.stages.0.label>piromaníaco tem uma arma incendiária</PyromaniacHappy.stages.0.label>
-
-	<PyromaniacHappy.stages.0.description>Isso me faz pensar em chamas e fogo. Estou tão feliz.</PyromaniacHappy.stages.0.description>
 
 </LanguageData>

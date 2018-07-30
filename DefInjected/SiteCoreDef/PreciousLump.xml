@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PreciousLump.label>local com recursos preciosos</PreciousLump.label>
+  <PreciousLump.label>pedaço de recursos preciosos</PreciousLump.label>
+  <PreciousLump.description>Um pedaço minerável de recursos preciosos.</PreciousLump.description>
 
-	<PreciousLump.description>Um local com recursos preciosos.</PreciousLump.description>
 
 </LanguageData>

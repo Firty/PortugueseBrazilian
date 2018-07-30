@@ -1,20 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PlantAgave.label>agave</PlantAgave.label>
+  <!-- Bushes -->
 
-	<PlantAgave.description>Uma planta de folhas largas do deserto com flores comestíveis e caudas.</PlantAgave.description>
+  <Plant_Agave.label>agave</Plant_Agave.label>
+  <Plant_Agave.description>A large-leafed desert plant with edible flowers and stalks.</Plant_Agave.description>
 
-	<PlantSaguaroCactus.label>cacto saguaro</PlantSaguaroCactus.label>
+  <Plant_PincushionCactus.label>pincushion cactus</Plant_PincushionCactus.label>
+  <Plant_PincushionCactus.description>A short cactus. It is so named because it resembles a pincushion.</Plant_PincushionCactus.description>
 
-	<PlantSaguaroCactus.description>Um grande nativo do cacto em ambientes árido terrestres.</PlantSaguaroCactus.description>
 
-	<PlantPincushionCactus.label>cacto alfineteiro</PlantPincushionCactus.label>
+  <!-- Trees -->
 
-	<PlantPincushionCactus.description>Um cacto curto. Assim chamado porque se assemelha á uma almofada de alfinetes.</PlantPincushionCactus.description>
+  <Plant_SaguaroCactus.label>saguaro cactus</Plant_SaguaroCactus.label>
+  <Plant_SaguaroCactus.description>A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood.</Plant_SaguaroCactus.description>
 
-	<PlantTreeDrago.description>Uma árvore resistente do deserto coberta com folhas grossas e pontiagudas.</PlantTreeDrago.description>
+  <Plant_TreeDrago.label>drago tree</Plant_TreeDrago.label>
+  <Plant_TreeDrago.description>A hardy desert tree topped with thick, pointed leaves.</Plant_TreeDrago.description>
 
-	<PlantTreeDrago.label>árvore drago</PlantTreeDrago.label>
+
+  <!-- Wild - clustering bushes (some harvestable) -->
+  <!--<PlantAgave.label>agave</PlantAgave.label>-->
+  <!--<PlantAgave.description>Uma planta de folhas largas do deserto com flores comestíveis e talos.</PlantAgave.description>-->
+  <!-- Wild - Cacti -->
+  <!--<PlantSaguaroCactus.label>cacto saguaro</PlantSaguaroCactus.label>-->
+  <!--<PlantSaguaroCactus.description>Um grande nativo do cacto em ambientes árido terrestres.</PlantSaguaroCactus.description>-->
+  <!--<PlantPincushionCactus.label>cacto alfineteiro</PlantPincushionCactus.label>-->
+  <!--<PlantPincushionCactus.description>Um cacto curto. Assim chamado porque se assemelha á uma almofada de alfinetes.</PlantPincushionCactus.description>-->
 
 </LanguageData>

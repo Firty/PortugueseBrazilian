@@ -1,32 +1,71 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<AmbrosiaSprout.label>brotou ambrosia</AmbrosiaSprout.label>
+  <!-- Good -->
 
-	<AmbrosiaSprout.letterlabel>Brotou ambrosia</AmbrosiaSprout.letterlabel>
+  <ResourcePodCrash.label>colisão de cápsula de recursos</ResourcePodCrash.label>
+  <PsychicSoothe.label>calmante psíquico</PsychicSoothe.label>
+  <SelfTame.label>auto-domesticação</SelfTame.label>
 
-	<AmbrosiaSprout.lettertext>Um bosque do misterioso arbusto de ambrosia brotou nas proximidades! Se você esperar que as plantas cresçam, você poderá colher a fruta deliciosa, prazerosa e ligeiramente viciante.</AmbrosiaSprout.lettertext>
+  <AmbrosiaSprout.label>broto de ambrosia</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterText>Um bosque de arbusto misterioso de ambrosia brotou nas proximidades! Se você esperar para plantas crescerem, você será capaz de colher o delicioso, prazeroso fruto e ligeiramente viciante.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterLabel>Broto de ambrosia</AmbrosiaSprout.letterLabel>
 
-	<RansomDemand.letterlabel>Pedido de resgate</RansomDemand.letterlabel>
+  <FarmAnimalsWanderIn.label>animais de fazenda se juntam</FarmAnimalsWanderIn.label>
+  <WandererJoin.label>aldeão se junta</WandererJoin.label>
+  <RefugeePodCrash.label>colisão de cápsula de refugiado</RefugeePodCrash.label>
 
-	<CaravanRequest.label>pedido de caravana</CaravanRequest.label>
 
-	<MeteoriteImpact.letterlabel>Meteorito</MeteoriteImpact.letterlabel>
+  <!-- Neutral -->
 
-	<MeteoriteImpact.lettertext>Um grande meteorito de {0} caiu na área.</MeteoriteImpact.lettertext>
+  <RefugeeChased.label>refugiado perseguido</RefugeeChased.label>
+  <ThrumboPasses.label>passagem de thrumbos</ThrumboPasses.label>
 
-	<HerdMigration.label>migração do rebanho</HerdMigration.label>
+  <RansomDemand.label>pedido de resgate</RansomDemand.label>
+  <RansomDemand.letterLabel>Pedido de resgate</RansomDemand.letterLabel>
 
-	<HerdMigration.letterlabel>Migração do rebanho: {0}</HerdMigration.letterlabel>
+  <MeteoriteImpact.label>impacto de meteorito</MeteoriteImpact.label>
+  <MeteoriteImpact.letterText>Um grande meteorito atingiu o chão na área. Ele deixou um pedaço de {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterLabel>Meteorito</MeteoriteImpact.letterLabel>
 
-	<HerdMigration.lettertext>Um grande rebanho de {0} está passando pela área. Eles não atacarão a menos que sejam provocados.</HerdMigration.lettertext>
+  <HerdMigration.label>migração do rebanho</HerdMigration.label>
+  <HerdMigration.letterText>Um grande rebanho de {0} está passando através da área. Eles não irão atacar a menos que sejam provocados.</HerdMigration.letterText>
+  <HerdMigration.letterLabel>Migração do rebanho: {0}</HerdMigration.letterLabel>
 
-	<Aurora.letterlabel>Aurora</Aurora.letterlabel>
+  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
+  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective].</WildManWandersIn.letterText>
+  <WildManWandersIn.letterLabel>Wild man wanders in</WildManWandersIn.letterLabel>
 
-	<Aurora.lettertext>Uma bela aurora está iluminando o céu. \n\nAs cores ondulantes aumentam o ânimo de qualquer pessoa que sair para fora para ver e torna a noite mais brilhante.</Aurora.lettertext>
 
-	<Tornado.letterlabel>Tornado</Tornado.letterlabel>
+  <!-- Bad -->
 
-	<Tornado.lettertext>Um tornado se formou! \n\nEle deixará um caminho de destruição onde passar.</Tornado.lettertext>
+  <PsychicDrone.label>zumbido psíquico</PsychicDrone.label>
+
+  <ToxicFallout.label>precipitação tóxica</ToxicFallout.label>
+  <ToxicFallout.letterText>Um incêndio químico distante começou e lançou uma nuvem de veneno ao longo de toda esta região.\n\nQualquer pessoa ou criatura que não esteja sob um telhado ficará lentamente doente pela poeira tóxica que se estabelece na atmosfera.\n\nIsto irá durar em qualquer lugar entre alguns dias ou até mais de uma estação.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Precipitação tóxica</ToxicFallout.letterLabel>
+
+  <VolcanicWinter.label>cinzas vulcânicas</VolcanicWinter.label>
+  <VolcanicWinter.letterText>Um super vulcão distante entrou em erupção e começou a soltar milhões de quilômetros cúbicos de cinzas na atmosfera.\n\nAs cinzas na atmosfera irão obscurecer o sol. As temperaturas irão cair e as plantas irão sofrer por falta de luz solar. Isto pode passar em algumas semanas, ou pode durar muitas estações.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Cinzas vulcânicas</VolcanicWinter.letterLabel>
+
+  <HeatWave.label>onda de calor</HeatWave.label>
+  <HeatWave.letterText>Uma onda de calor incomum começou.\n\nAs ondas de calor podem matar rapidamente se as pessoas começarem a ter insolação. Mantenha-se fresco, construindo um refrigerador ou ficando sob uma montanha.</HeatWave.letterText>
+  <HeatWave.letterLabel>Onda de calor</HeatWave.letterLabel>
+
+  <ColdSnap.label>onda de frio</ColdSnap.label>
+  <ColdSnap.letterText>Uma onda de frio incomum começou.\n\nAs ondas de frio podem matar rapidamente pela hipotermia. Certifique-se de construir um espaço aquecido para sobreviver, vestir roupas adequadas e tentar colher colheitas antes que se congelem e morram.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Onda de frio</ColdSnap.letterLabel>
+
+  <Flashstorm.label>tempestade seca</Flashstorm.label>
+  <Flashstorm.letterText>Quantidades extremas de raios estão atingindo uma pequena região. Isto pode causar incêndios maciços.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>Tempestade seca</Flashstorm.letterLabel>
+
+  <ShortCircuit.label>curto-circuito</ShortCircuit.label>
+  <CropBlight.label>praga da plantação</CropBlight.label>
+  <Alphabeavers.label>alfacastores</Alphabeavers.label>
+
+
+  <!--<CaravanRequest.label>pedido de caravana</CaravanRequest.label>-->
 
 </LanguageData>

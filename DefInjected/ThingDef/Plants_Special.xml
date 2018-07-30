@@ -1,12 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PlantAmbrosia.label>arbusto de ambrosia</PlantAmbrosia.label>
+  <BurnedTree.label>árvore queimada</BurnedTree.label>
+  <BurnedTree.description>Uma árvore queimada. Não produz madeira utilizável.</BurnedTree.description>
 
-	<PlantAmbrosia.description>Um arbusto que raramente brota, produz ambrosia. A ambrosia é prazerosa de comer e produz um efeito químico de calor ligeiramente viciante.</PlantAmbrosia.description>
+  <Plant_Ambrosia.label>ambrosia bush</Plant_Ambrosia.label>
+  <Plant_Ambrosia.description>A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.</Plant_Ambrosia.description>
 
-	<BurnedTree.label>árvore queimada</BurnedTree.label>
 
-	<BurnedTree.description>Uma árvore queimada. Não produz madeira utilizável.</BurnedTree.description>
+  <!--<PlantAmbrosia.label>arbusto ambrosiano</PlantAmbrosia.label>-->
+  <!--<PlantAmbrosia.description>Um arbusto raramente brotando que produz a fruta ambrosia. Ambrosia é prazerosa para comer e produz um efeito de calor químico ligeiramente viciante.</PlantAmbrosia.description>-->
 
 </LanguageData>

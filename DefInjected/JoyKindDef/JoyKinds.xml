@@ -1,53 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<<<<<<< HEAD
-  
-  <!-- EN: chemical consumption -->
-  <Chemical.label>químico</Chemical.label>
-  
-  <!-- EN: cerebral play -->
-  <Gaming_Cerebral.label>jogos (inteligência)</Gaming_Cerebral.label>
-  
-  <!-- EN: dexterity play -->
-  <Gaming_Dexterity.label>jogos (destreza)</Gaming_Dexterity.label>
-  
-  <!-- EN: food consumption -->
-  <Gluttonous.label>guloso</Gluttonous.label>
-  
-  <!-- EN: solitary relaxation -->
+
+  <!-- Requiring nothing -->
+
   <Meditative.label>meditativo</Meditative.label>
-  
-  <!-- EN: social interaction -->
   <Social.label>sociável</Social.label>
-  
-  <!-- EN: telescope study -->
-  <Telescope.label>TODO</Telescope.label>
-  
-  <!-- EN: television watching -->
-  <Television.label>TODO</Television.label>
-  
+
+
+  <!-- horseshoes/hoopstone, billiards -->
+
+  <Gaming_Dexterity.label>dexterity play</Gaming_Dexterity.label>
+
+
+  <!-- chess, poker -->
+
+  <Gaming_Cerebral.label>cerebral play</Gaming_Cerebral.label>
+  <Television.label>television watching</Television.label>
+  <Telescope.label>telescope study</Telescope.label>
+
+
+  <!-- Item consumption -->
+
+  <Chemical.label>químico</Chemical.label>
+  <Gluttonous.label>guloso</Gluttonous.label>
+
+
+  <!--<Work.label>trabalho</Work.label>-->
+  <!--<Lewd.label>ignorante</Lewd.label>-->
+  <!--<GamingDexterity.label>jogos (destreza)</GamingDexterity.label>-->
+  <!--<GamingCerebral.label>jogos (inteligência)</GamingCerebral.label>-->
+  <!--<Passive.label>passivo</Passive.label>-->
+  <!--<Study.label>estudioso</Study.label>-->
+
 </LanguageData>
-=======
-    
-    <Work.label>trabalho</Work.label>
-    
-    <Meditative.label>meditativo</Meditative.label>
-    
-    <Lewd.label>ignorante</Lewd.label>
-    
-    <Social.label>sociável</Social.label>
-    
-    <Chemical.label>químico</Chemical.label>
-    
-    <Gluttonous.label>guloso</Gluttonous.label>
-    
-    <GamingDexterity.label>jogos (destreza)</GamingDexterity.label>
-    
-    <GamingCerebral.label>jogos (inteligência)</GamingCerebral.label>
-    
-    <Passive.label>passivo</Passive.label>
-    
-    <Study.label>estudioso</Study.label>
-    
-</LanguageData>
->>>>>>> parent of 6d2a87b... Att 1.0

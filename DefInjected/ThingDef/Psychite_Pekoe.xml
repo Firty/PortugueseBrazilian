@@ -1,12 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PsychoidPekoe.label>psychoid pekoe</PsychoidPekoe.label>
+  <PsychoidPekoe.label>psychite pekoe</PsychoidPekoe.label>
+  <PsychoidPekoe.description>A fragrant tea infused with psychoid leaves. Drinking it induces a subtle psychite euphoria. This tea is easy to produce, but can psychite psychoid addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals.</PsychoidPekoe.description>
+  <PsychoidPekoe.ingestible.ingestCommandString>Drink {0}</PsychoidPekoe.ingestible.ingestCommandString>
+  <PsychoidPekoe.ingestible.ingestReportString>Drinking {0}.</PsychoidPekoe.ingestible.ingestReportString>
 
-	<PsychoidPekoe.description>Um chá perfumado que pode ser bebido para induzir um efeito eufórico fraco. Muito fácil de produzir, mas tenha cuidado com o vício.</PsychoidPekoe.description>
-
-	<PsychoidPekoe.ingestible.ingestcommandstring>Beber {0}</PsychoidPekoe.ingestible.ingestcommandstring>
-
-	<PsychoidPekoe.ingestible.ingestreportstring>bebendo {0}.</PsychoidPekoe.ingestible.ingestreportstring>
 
 </LanguageData>

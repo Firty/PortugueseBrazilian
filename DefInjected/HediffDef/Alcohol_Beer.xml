@@ -1,53 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<<<<<<< HEAD
-  
-  <!-- EN: alcohol addiction -->
-  <AlcoholAddiction.label>vício em álcool</AlcoholAddiction.label>
-  <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>abstinência</AlcoholAddiction.stages.withdrawal.label>
-  
-  <!-- EN: alcohol -->
+
   <AlcoholHigh.label>álcool</AlcoholHigh.label>
-  <!-- EN: drunkenness -->
-  <AlcoholHigh.labelNoun>embriaguez</AlcoholHigh.labelNoun>
-  <!-- EN: warm -->
-  <AlcoholHigh.stages.warm.label>tonto-escondido</AlcoholHigh.stages.warm.label>
-  <!-- EN: tipsy -->
-  <AlcoholHigh.stages.tipsy.label>caloroso</AlcoholHigh.stages.tipsy.label>
-  <!-- EN: drunk -->
-  <AlcoholHigh.stages.drunk.label>embriagado</AlcoholHigh.stages.drunk.label>
-  <!-- EN: hammered -->
-  <AlcoholHigh.stages.hammered.label>bêbado</AlcoholHigh.stages.hammered.label>
-  <!-- EN: blackout -->
-  <AlcoholHigh.stages.blackout.label>caindo de bêbado</AlcoholHigh.stages.blackout.label>
-  
-  <!-- EN: alcohol tolerance -->
-  <AlcoholTolerance.label>tolerância ao álcool</AlcoholTolerance.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>pequena</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>pequena</AlcoholTolerance.stages.small-1.label>
-  <!-- EN: large -->
-  <AlcoholTolerance.stages.large.label>grande</AlcoholTolerance.stages.large.label>
-  <!-- EN: massive -->
-  <AlcoholTolerance.stages.massive.label>maciça</AlcoholTolerance.stages.massive.label>
-  
-  <!-- EN: hangover -->
+  <AlcoholHigh.stages.0.label>um pouco quente</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>caloroso</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>embriagado</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>bêbado</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>completamente bêbado</AlcoholHigh.stages.4.label>
+  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
+
   <Hangover.label>ressaca</Hangover.label>
-  <!-- EN: a hangover -->
-  <Hangover.labelNoun>uma ressaca</Hangover.labelNoun>
-  <!-- EN: slight -->
-  <Hangover.stages.slight.label>ligeira</Hangover.stages.slight.label>
-  <!-- EN: strong -->
-  <Hangover.stages.strong.label>forte</Hangover.stages.strong.label>
-  <!-- EN: pounding -->
-  <Hangover.stages.pounding.label>insuportável</Hangover.stages.pounding.label>
-  
-</LanguageData>
-=======
+  <Hangover.stages.0.label>ligeira</Hangover.stages.0.label>
+  <Hangover.stages.1.label>forte</Hangover.stages.1.label>
+  <Hangover.stages.2.label>insuportável</Hangover.stages.2.label>
+  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
 
-	<AlcoholTolerance.stages.0.label>pequeno</AlcoholTolerance.stages.0.label>
+
+  <!-- Alcohol addiction -->
+
+  <AlcoholTolerance.label>tolerância ao álcool</AlcoholTolerance.label>
+  <AlcoholTolerance.stages.0.label>pequena</AlcoholTolerance.stages.0.label>
+  <AlcoholTolerance.stages.1.label>pequena</AlcoholTolerance.stages.1.label>
+  <AlcoholTolerance.stages.2.label>grande</AlcoholTolerance.stages.2.label>
+  <AlcoholTolerance.stages.3.label>maciça</AlcoholTolerance.stages.3.label>
+
+  <AlcoholAddiction.label>dependência em álcool</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>crise de abstinência</AlcoholAddiction.stages.1.label>
+
+
+  <!--<AlcoholHigh.stages.5.label>apagado</AlcoholHigh.stages.5.label>-->
 
 </LanguageData>
->>>>>>> parent of 6d2a87b... Att 1.0

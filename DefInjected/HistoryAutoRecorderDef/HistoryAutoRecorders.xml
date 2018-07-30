@@ -1,88 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-<<<<<<< HEAD
-  
-  <!-- EN: recovery -->
-  <Adaptation.label>TODO</Adaptation.label>
-  <!-- EN: Days -->
-  <Adaptation.graphLabelY>TODO</Adaptation.graphLabelY>
-  
-  <!-- EN: mood -->
-  <ColonistMood.label>humor</ColonistMood.label>
-  <!-- EN: Percent -->
-  <ColonistMood.graphLabelY>TODO</ColonistMood.graphLabelY>
-  
-  <!-- EN: free colonists -->
-  <FreeColonists.label>colonos livres</FreeColonists.label>
-  <!-- EN: Colonists -->
-  <FreeColonists.graphLabelY>TODO</FreeColonists.graphLabelY>
-  
-  <!-- EN: pop recovery -->
-  <PopAdaptation.label>TODO</PopAdaptation.label>
-  <!-- EN: Days -->
-  <PopAdaptation.graphLabelY>TODO</PopAdaptation.graphLabelY>
-  
-  <!-- EN: pop intent x10 -->
-  <PopIntent.label>TODO</PopIntent.label>
-  <!-- EN: Days -->
-  <PopIntent.graphLabelY>TODO</PopIntent.graphLabelY>
-  
-  <!-- EN: prisoners -->
-  <Prisoners.label>prisioneiros</Prisoners.label>
-  <!-- EN: Prisoners -->
-  <Prisoners.graphLabelY>TODO</Prisoners.graphLabelY>
-  
-  <!-- EN: fun points /10 -->
-  <ThreatPoints.label>TODO</ThreatPoints.label>
-  <!-- EN: Points -->
-  <ThreatPoints.graphLabelY>TODO</ThreatPoints.graphLabelY>
-  
-  <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>riqueza (estruturas)</Wealth_Buildings.label>
-  <!-- EN: Amount -->
-  <Wealth_Buildings.graphLabelY>TODO</Wealth_Buildings.graphLabelY>
-  
-  <!-- EN: wealth (items) -->
-  <Wealth_Items.label>riqueza (itens)</Wealth_Items.label>
-  <!-- EN: Amount -->
-  <Wealth_Items.graphLabelY>TODO</Wealth_Items.graphLabelY>
-  
-  <!-- EN: wealth (animals) -->
-  <Wealth_TameAnimals.label>TODO</Wealth_TameAnimals.label>
-  <!-- EN: Amount -->
-  <Wealth_TameAnimals.graphLabelY>TODO</Wealth_TameAnimals.graphLabelY>
-  
-  <!-- EN: wealth (total) -->
+
   <Wealth_Total.label>riqueza (total)</Wealth_Total.label>
-  <!-- EN: Amount -->
-  <Wealth_Total.graphLabelY>TODO</Wealth_Total.graphLabelY>
-  
-</LanguageData>
-=======
+  <Wealth_Total.graphLabelY>Quantidade</Wealth_Total.graphLabelY>
 
-	<WealthTotal.label>riqueza (total)</WealthTotal.label>
+  <Wealth_Items.label>riqueza (itens)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Quantidade</Wealth_Items.graphLabelY>
 
-	<WealthItems.label>riqueza (itens)</WealthItems.label>
+  <Wealth_Buildings.label>riqueza (estruturas)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Quantidade</Wealth_Buildings.graphLabelY>
 
-	<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>
+  <Wealth_TameAnimals.label>riqueza (animais)</Wealth_TameAnimals.label>
+  <Wealth_TameAnimals.graphLabelY>Quantidade</Wealth_TameAnimals.graphLabelY>
 
-	<FreeColonists.label>colonos livres</FreeColonists.label>
+  <FreeColonists.label>colonos livres</FreeColonists.label>
+  <FreeColonists.graphLabelY>Colonos</FreeColonists.graphLabelY>
 
-	<Prisoners.label>prisioneiros</Prisoners.label>
+  <Prisoners.label>prisioneiros</Prisoners.label>
+  <Prisoners.graphLabelY>Prisioneiros</Prisoners.graphLabelY>
 
-	<ColonistMood.label>humor</ColonistMood.label>
+  <ColonistMood.label>humor</ColonistMood.label>
+  <ColonistMood.graphLabelY>Porcentagem</ColonistMood.graphLabelY>
 
-	<WealthTotal.graphlabely>Montante</WealthTotal.graphlabely>
 
-	<WealthItems.graphlabely>Montante</WealthItems.graphlabely>
-
-	<WealthBuildings.graphlabely>Montante</WealthBuildings.graphlabely>
-
-	<FreeColonists.graphlabely>Colônos</FreeColonists.graphlabely>
-
-	<Prisoners.graphlabely>Prisioneiros</Prisoners.graphlabely>
-
-	<ColonistMood.graphlabely>Por cento</ColonistMood.graphlabely>
+  <!--<WealthTotal.label>riqueza (total)</WealthTotal.label>-->
+  <!--<WealthTotal.graphLabelY>Quantidade</WealthTotal.graphLabelY>-->
+  <!--<WealthItems.label>riqueza (itens)</WealthItems.label>-->
+  <!--<WealthItems.graphLabelY>Quantidade</WealthItems.graphLabelY>-->
+  <!--<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>-->
+  <!--<WealthBuildings.graphLabelY>Quantidade</WealthBuildings.graphLabelY>-->
 
 </LanguageData>
->>>>>>> parent of 6d2a87b... Att 1.0

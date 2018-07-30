@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <LetterDay>d</LetterDay>
@@ -13,33 +13,33 @@
   <SeasonSummer>verão</SeasonSummer>
   <SeasonFall>outono</SeasonFall>
   <SeasonWinter>inverno</SeasonWinter>
-  <SeasonPermanentSummer>verão permanente</SeasonPermanentSummer>
-  <SeasonPermanentWinter>inverno permanente</SeasonPermanentWinter>
+  <SeasonPermanentSummer>permanent summer</SeasonPermanentSummer>
+  <SeasonPermanentWinter>permanent winter</SeasonPermanentWinter>
 
   <QuadrumAprimay>Abrimaio</QuadrumAprimay>
-  <QuadrumJugust>Jugusto</QuadrumJugust>
-  <QuadrumSeptober>Setubro</QuadrumSeptober>
-  <QuadrumDecembary>Dezeneiro</QuadrumDecembary>
+  <QuadrumJugust>Jugosto</QuadrumJugust>
+  <QuadrumSeptober>Setentubro</QuadrumSeptober>
+  <QuadrumDecembary>Dezembreiro</QuadrumDecembary>
 
   <Born>Nasceu: {0}</Born>
-  <AgeChronological>Idade cronológica: {0} anos, {1} estações, {2} dias</AgeChronological>
-  <AgeBiological>Idade biológica: {0} anos, {1} estações, {2} dias</AgeBiological>
+  <AgeChronological>Idade cronológica: {0} anos, {1} quadrums, {2} dias</AgeChronological>
+  <AgeBiological>Idade biológica: {0} anos, {1} quadrums, {2} dias</AgeBiological>
 
   <!-- Date periods -->
   <Period1Year>1 ano</Period1Year>
   <PeriodYears>{0} anos</PeriodYears>
-  <Period1Season>1 estação</Period1Season>
-  <PeriodSeasons>{0} estações</PeriodSeasons>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
   <Period1Day>1 dia</Period1Day>
   <PeriodDays>{0} dias</PeriodDays>
   <Period1Hour>1 hora</Period1Hour>
   <PeriodHours>{0} horas</PeriodHours>
+  <Period1Second>1 second</Period1Second>
+  <PeriodSeconds>{0} seconds</PeriodSeconds>
 
   <!-- Misc -->
   <Started>Começou</Started>
   <Lasted>Durou</Lasted>
   <OccurredTimeAgo>ocorreu {0} atrás</OccurredTimeAgo>
-  <Period1Quadrum>1 mês</Period1Quadrum>
-  <PeriodQuadrums>{0} mêses</PeriodQuadrums>
 
 </LanguageData>

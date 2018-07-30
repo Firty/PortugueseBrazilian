@@ -1,6 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PsychiteTolerance.stages.0.label>pequena</PsychiteTolerance.stages.0.label>
+  <YayoHigh.label>viajando no brilho</YayoHigh.label>
+  <YayoHigh.labelNoun>a yayo high</YayoHigh.labelNoun>
+
+
+  <!-- Psychite addiction -->
+
+  <PsychiteTolerance.label>tolerância a psicóide</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.0.label>pequena</PsychiteTolerance.stages.0.label>
+  <PsychiteTolerance.stages.1.label>pequena</PsychiteTolerance.stages.1.label>
+  <PsychiteTolerance.stages.2.label>grande</PsychiteTolerance.stages.2.label>
+  <PsychiteTolerance.stages.3.label>maciça</PsychiteTolerance.stages.3.label>
+
+  <PsychiteAddiction.label>dependência por psicóide</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.1.label>retirada</PsychiteAddiction.stages.1.label>
+
 
 </LanguageData>
