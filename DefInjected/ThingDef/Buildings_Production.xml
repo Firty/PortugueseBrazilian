@@ -1,190 +1,129 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CraftingSpot.label>local de artesanato</CraftingSpot.label>
-  <CraftingSpot.description>Um lugar para a elaboração de coisas simples como estoques ou arcos.</CraftingSpot.description>
-  <CraftingSpot_Blueprint.label>local de artesanato (projeto)</CraftingSpot_Blueprint.label>
-  <CraftingSpot_Frame.label>local de artesanato (construção)</CraftingSpot_Frame.label>
-  <CraftingSpot_Frame.description>Um lugar para a elaboração de coisas simples como estoques ou arcos.</CraftingSpot_Frame.description>
-
-  <ButcherSpot.label>butcher spot</ButcherSpot.label>
-  <ButcherSpot.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot.description>
-  <ButcherSpot_Blueprint.label>butcher spot (blueprint)</ButcherSpot_Blueprint.label>
-  <ButcherSpot_Frame.label>butcher spot (building)</ButcherSpot_Frame.label>
-  <ButcherSpot_Frame.description>A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature.</ButcherSpot_Frame.description>
-
-
-  <!-- Work tables -->
-
-  <TableSculpting.label>mesa de escultor</TableSculpting.label>
-  <TableSculpting.description>Uma mesa equipada para esculpimento artístico.</TableSculpting.description>
-  <TableSculpting_Blueprint.label>mesa de escultor (projeto)</TableSculpting_Blueprint.label>
-  <TableSculpting_Blueprint_Install.label>sculptor's table (blueprint)</TableSculpting_Blueprint_Install.label>
-  <TableSculpting_Frame.label>mesa de escultor (construção)</TableSculpting_Frame.label>
-  <TableSculpting_Frame.description>Uma mesa equipada para esculpimento artístico.</TableSculpting_Frame.description>
-
-  <TableButcher.label>mesa de açougueiro</TableButcher.label>
-  <TableButcher.description>Uma mesa pesada para esquartejar criaturas mortas em pedaços de carne crua.</TableButcher.description>
-  <TableButcher_Blueprint.label>mesa de açougueiro (projeto)</TableButcher_Blueprint.label>
-  <TableButcher_Blueprint_Install.label>butcher table (blueprint)</TableButcher_Blueprint_Install.label>
-  <TableButcher_Frame.label>mesa de açougueiro (construção)</TableButcher_Frame.label>
-  <TableButcher_Frame.description>Uma mesa pesada para esquartejar criaturas mortas em pedaços de carne crua.</TableButcher_Frame.description>
-
-  <HandTailoringBench.label>bancada de alfaiate à mão</HandTailoringBench.label>
-  <HandTailoringBench.description>Uma bancada para costurar roupas à mão. Trabalha a 50% da velocidade de uma bancada de alfaiataria elétrica.</HandTailoringBench.description>
-  <HandTailoringBench_Blueprint.label>bancada de alfaiate à mão (projeto)</HandTailoringBench_Blueprint.label>
-  <HandTailoringBench_Blueprint_Install.label>hand tailor bench (blueprint)</HandTailoringBench_Blueprint_Install.label>
-  <HandTailoringBench_Frame.label>bancada de alfaiate à mão (construção)</HandTailoringBench_Frame.label>
-  <HandTailoringBench_Frame.description>Uma bancada para costurar roupas à mão. Trabalha a 50% da velocidade de uma bancada de alfaiataria elétrica.</HandTailoringBench_Frame.description>
-
-  <ElectricTailoringBench.label>bancada de alfaiate elétrica</ElectricTailoringBench.label>
-  <ElectricTailoringBench.description>Uma bancada de trabalho com uma máquina para uma rápida costura de roupas. Pode funcionar sem eletricidade a 40% da velocidade normal.</ElectricTailoringBench.description>
-  <ElectricTailoringBench_Blueprint.label>bancada de alfaiate elétrica (projeto)</ElectricTailoringBench_Blueprint.label>
-  <ElectricTailoringBench_Blueprint_Install.label>electric tailor bench (blueprint)</ElectricTailoringBench_Blueprint_Install.label>
-  <ElectricTailoringBench_Frame.label>bancada de alfaiate elétrica (construção)</ElectricTailoringBench_Frame.label>
-  <ElectricTailoringBench_Frame.description>Uma bancada de trabalho com uma máquina para uma rápida costura de roupas. Pode funcionar sem eletricidade a 40% da velocidade normal.</ElectricTailoringBench_Frame.description>
-
-  <FueledSmithy.label>forja abastecida</FueledSmithy.label>
-  <FueledSmithy.description>Uma estação movida a madeira para fundir armas não-mecânicas e ferramentas.</FueledSmithy.description>
-  <FueledSmithy_Blueprint.label>forja abastecida (projeto)</FueledSmithy_Blueprint.label>
-  <FueledSmithy_Blueprint_Install.label>fueled smithy (blueprint)</FueledSmithy_Blueprint_Install.label>
-  <FueledSmithy_Frame.label>forja abastecida (construção)</FueledSmithy_Frame.label>
-  <FueledSmithy_Frame.description>Uma estação movida a madeira para fundir armas não-mecânicas e ferramentas.</FueledSmithy_Frame.description>
-
-  <ElectricSmithy.label>forja elétrica</ElectricSmithy.label>
-  <ElectricSmithy.description>Uma estação elétrica-alimentada equipada para fundir armas não-mecânicas e ferramentas.</ElectricSmithy.description>
-  <ElectricSmithy_Blueprint.label>forja elétrica (projeto)</ElectricSmithy_Blueprint.label>
-  <ElectricSmithy_Blueprint_Install.label>electric smithy (blueprint)</ElectricSmithy_Blueprint_Install.label>
-  <ElectricSmithy_Frame.label>forja elétrica (construção)</ElectricSmithy_Frame.label>
-  <ElectricSmithy_Frame.description>Uma estação elétrica-alimentada equipada para fundir armas não-mecânicas e ferramentas.</ElectricSmithy_Frame.description>
-
-  <TableMachining.label>mesa de usinagem</TableMachining.label>
-  <TableMachining.description>Uma estação de trabalho para montagem e desmontagem de maquinário tais como armas de fogo ou cadáveres de mechanoides.</TableMachining.description>
-  <TableMachining_Blueprint.label>mesa de usinagem (projeto)</TableMachining_Blueprint.label>
-  <TableMachining_Blueprint_Install.label>machining table (blueprint)</TableMachining_Blueprint_Install.label>
-  <TableMachining_Frame.label>mesa de usinagem (construção)</TableMachining_Frame.label>
-  <TableMachining_Frame.description>Uma estação de trabalho para montagem e desmontagem de maquinário tais como armas de fogo ou cadáveres de mechanoides.</TableMachining_Frame.description>
-
-  <ElectricStove.label>fogão elétrico</ElectricStove.label>
-  <ElectricStove.description>Um fogão elétrico-alimentado com uma bancada anexada para preparar as refeições.</ElectricStove.description>
-  <ElectricStove_Blueprint.label>fogão elétrico (projeto)</ElectricStove_Blueprint.label>
-  <ElectricStove_Blueprint_Install.label>electric stove (blueprint)</ElectricStove_Blueprint_Install.label>
-  <ElectricStove_Frame.label>fogão elétrico (construção)</ElectricStove_Frame.label>
-  <ElectricStove_Frame.description>Um fogão elétrico-alimentado com uma bancada anexada para preparar as refeições.</ElectricStove_Frame.description>
-
-  <FueledStove.label>fogão abastecido</FueledStove.label>
-  <FueledStove.description>Um fogão abastecido simples com uma bancada anexada para preparar as refeições.</FueledStove.description>
-  <FueledStove_Blueprint.label>fogão abastecido (projeto)</FueledStove_Blueprint.label>
-  <FueledStove_Blueprint_Install.label>fueled stove (blueprint)</FueledStove_Blueprint_Install.label>
-  <FueledStove_Frame.label>fogão abastecido (construção)</FueledStove_Frame.label>
-  <FueledStove_Frame.description>Um fogão abastecido simples com uma bancada anexada para preparar as refeições.</FueledStove_Frame.description>
-
-  <TableStonecutter.label>mesa de canteiro</TableStonecutter.label>
-  <TableStonecutter.description>Uma mesa de trabalho equipada para cortar pedras brutas em blocos utilizáveis.</TableStonecutter.description>
-  <TableStonecutter_Blueprint.label>mesa de canteiro (projeto)</TableStonecutter_Blueprint.label>
-  <TableStonecutter_Blueprint_Install.label>stonecutter's table (blueprint)</TableStonecutter_Blueprint_Install.label>
-  <TableStonecutter_Frame.label>mesa de canteiro (construção)</TableStonecutter_Frame.label>
-  <TableStonecutter_Frame.description>Uma mesa de trabalho equipada para cortar pedras brutas em blocos utilizáveis.</TableStonecutter_Frame.description>
-
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>refinaria de biocombustível</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Refina a matéria biológica como madeira ou matéria vegetal em combustivel.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
   <Brewery.label>cervejaria</Brewery.label>
+  <!-- EN: A work station with all the equipment needed mix wort for beer production. Wort must be fermented to finally become beer. -->
   <Brewery.description>Uma estação de trabalho com todo o equipamento necessário para fabricar cerveja.</Brewery.description>
-  <Brewery_Blueprint.label>cervejaria (projeto)</Brewery_Blueprint.label>
-  <Brewery_Blueprint_Install.label>brewery (blueprint)</Brewery_Blueprint_Install.label>
-  <Brewery_Frame.label>cervejaria (construção)</Brewery_Frame.label>
-  <Brewery_Frame.description>Uma estação de trabalho com todo o equipamento necessário para fabricar cerveja.</Brewery_Frame.description>
-
-  <DrugLab.label>laboratório de drogas</DrugLab.label>
-  <DrugLab.description>Uma bancada de trabalho equipada com vários recipientes, aquecedores e equipamentos de medição para a produção de uma variedade de drogas.</DrugLab.description>
-  <DrugLab_Blueprint.label>laboratório de drogas (projeto)</DrugLab_Blueprint.label>
-  <DrugLab_Blueprint_Install.label>drug lab (blueprint)</DrugLab_Blueprint_Install.label>
-  <DrugLab_Frame.label>laboratório de drogas (construção)</DrugLab_Frame.label>
-  <DrugLab_Frame.description>Uma bancada de trabalho equipada com vários recipientes, aquecedores e equipamentos de medição para a produção de uma variedade de drogas.</DrugLab_Frame.description>
-
-  <ElectricSmelter.label>forno de fundição elétrico</ElectricSmelter.label>
-  <ElectricSmelter.description>Extrai metal utilizável a partir de pedaços de escórias e outros itens de metal misto. Consome muita energia.</ElectricSmelter.description>
-  <ElectricSmelter_Blueprint.label>forno de fundição elétrico (projeto)</ElectricSmelter_Blueprint.label>
-  <ElectricSmelter_Blueprint_Install.label>electric smelter (blueprint)</ElectricSmelter_Blueprint_Install.label>
-  <ElectricSmelter_Frame.label>forno de fundição elétrico (construção)</ElectricSmelter_Frame.label>
-  <ElectricSmelter_Frame.description>Extrai metal utilizável a partir de pedaços de escórias e outros itens de metal misto. Consome muita energia.</ElectricSmelter_Frame.description>
-
-  <BiofuelRefinery.label>biofuel refinery</BiofuelRefinery.label>
-  <BiofuelRefinery.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery.description>
-  <BiofuelRefinery_Blueprint.label>biofuel refinery (blueprint)</BiofuelRefinery_Blueprint.label>
-  <BiofuelRefinery_Frame.label>biofuel refinery (building)</BiofuelRefinery_Frame.label>
-  <BiofuelRefinery_Frame.description>Refines biological matter like wood or plant matter into chemfuel.</BiofuelRefinery_Frame.description>
-
-  <FabricationBench.label>fabrication bench</FabricationBench.label>
-  <FabricationBench.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench.description>
-  <FabricationBench_Blueprint.label>fabrication bench (blueprint)</FabricationBench_Blueprint.label>
-  <FabricationBench_Frame.label>fabrication bench (building)</FabricationBench_Frame.label>
-  <FabricationBench_Frame.description>A workbench equipped with advanced tools for producing technological marvels from simpler materials.</FabricationBench_Frame.description>
-
-
-  <!-- Non-standard work buildings -->
-
-  <SimpleResearchBench.label>bancada de pesquisa simples</SimpleResearchBench.label>
-  <SimpleResearchBench.description>Uma bancada simples com instrumentos de escrita e ferramentas científicas de baixa tecnologia. Pesquisadores trabalham aqui para descobrirem novas coisas.</SimpleResearchBench.description>
-  <SimpleResearchBench_Blueprint.label>bancada de pesquisa simples (projeto)</SimpleResearchBench_Blueprint.label>
-  <SimpleResearchBench_Blueprint_Install.label>simple research bench (blueprint)</SimpleResearchBench_Blueprint_Install.label>
-  <SimpleResearchBench_Frame.label>bancada de pesquisa simples (construção)</SimpleResearchBench_Frame.label>
-  <SimpleResearchBench_Frame.description>Uma bancada simples com instrumentos de escrita e ferramentas científicas de baixa tecnologia. Pesquisadores trabalham aqui para descobrirem novas coisas.</SimpleResearchBench_Frame.description>
-
-  <HiTechResearchBench.label>bancada de pesquisa de alta tecnologia</HiTechResearchBench.label>
-  <HiTechResearchBench.description>Uma bancada de alta tecnologia com computadores e equipamentos de medição eletrônica. A Pesquisa é acelerada pelas ferramentas de alta tecnologia. Requer energia.</HiTechResearchBench.description>
-  <HiTechResearchBench_Blueprint.label>bancada de pesquisa de alta tecnologia (projeto)</HiTechResearchBench_Blueprint.label>
-  <HiTechResearchBench_Frame.label>bancada de pesquisa de alta tecnologia (construção)</HiTechResearchBench_Frame.label>
-  <HiTechResearchBench_Frame.description>Uma bancada de alta tecnologia com computadores e equipamentos de medição eletrônica. A Pesquisa é acelerada pelas ferramentas de alta tecnologia. Requer energia.</HiTechResearchBench_Frame.description>
-
-  <ElectricCrematorium.label>crematório elétrico</ElectricCrematorium.label>
-  <ElectricCrematorium.description>Crema cadáveres. Eletricamente alimentado.</ElectricCrematorium.description>
-  <ElectricCrematorium_Blueprint.label>crematório elétrico (projeto)</ElectricCrematorium_Blueprint.label>
-  <ElectricCrematorium_Frame.label>crematório elétrico (construção)</ElectricCrematorium_Frame.label>
-  <ElectricCrematorium_Frame.description>Crema cadáveres. Eletricamente alimentado.</ElectricCrematorium_Frame.description>
-
-  <HydroponicsBasin.label>bacia de hidroponia</HydroponicsBasin.label>
-  <HydroponicsBasin.description>Cultiva plantas rapidamente em um banho de nutrientes artificial. Requer energia para funcionar; as plantas irão morrer se a energia for cortada.</HydroponicsBasin.description>
-  <HydroponicsBasin_Blueprint.label>bacia de hidroponia (projeto)</HydroponicsBasin_Blueprint.label>
-  <HydroponicsBasin_Frame.label>bacia de hidroponia (construção)</HydroponicsBasin_Frame.label>
-  <HydroponicsBasin_Frame.description>Cultiva plantas rapidamente em um banho de nutrientes artificial. Requer energia para funcionar; as plantas irão morrer se a energia for cortada.</HydroponicsBasin_Frame.description>
-
-  <FermentingBarrel.label>barril de fermentação</FermentingBarrel.label>
-  <FermentingBarrel.description>Um barril para fermentar o mosto cru em cerveja.</FermentingBarrel.description>
-  <FermentingBarrel_Blueprint.label>barril de fermentação (projeto)</FermentingBarrel_Blueprint.label>
-  <FermentingBarrel_Blueprint_Install.label>barril de fermentação (projeto)</FermentingBarrel_Blueprint_Install.label>
-  <FermentingBarrel_Frame.label>barril de fermentação (construção)</FermentingBarrel_Frame.label>
-  <FermentingBarrel_Frame.description>Um barril para fermentar o mosto cru em cerveja.</FermentingBarrel_Frame.description>
-
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>açougue</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Um lugar para esquartejar animais. Devido à falta de equipamento, o abate aqui produz apenas 70% da carne e do couro de cada criatura.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>local de artesanato</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Um lugar para a elaboração de coisas simples como estoques ou arcos.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
   <DeepDrill.label>broca subterrânea</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
   <DeepDrill.description>Um equipamento de perfuração profunda de crosta para extrair os minerais abaixo da superfície. Usa um scanner penetrador subterrâneo para detectar os recursos.</DeepDrill.description>
-  <DeepDrill_Blueprint.label>broca subterrânea (projeto)</DeepDrill_Blueprint.label>
-  <DeepDrill_Frame.label>broca subterrânea (construção)</DeepDrill_Frame.label>
-  <DeepDrill_Frame.description>Um equipamento de perfuração profunda de crosta para extrair os minerais abaixo da superfície. Usa um scanner penetrador subterrâneo para detectar os recursos.</DeepDrill_Frame.description>
-
-
-  <!-- Nutrient dispenser -->
-
-  <NutrientPasteDispenser.label>dispensador de pasta de nutrientes</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>Sintetiza pasta de nutrientes a partir de matérias-primas orgânicas. Ele consome menos ingredientes e tempo do que qualquer outro método de produção de refeições - mas ninguém gosta de comer a pasta de nutrientes. Aceita alimentos crus, mas não matéria vegetal áspero como feno.</NutrientPasteDispenser.description>
-  <NutrientPasteDispenser_Blueprint.label>dispensador de pasta de nutrientes (projeto)</NutrientPasteDispenser_Blueprint.label>
-  <NutrientPasteDispenser_Frame.label>dispensador de pasta de nutrientes (construção)</NutrientPasteDispenser_Frame.label>
-  <NutrientPasteDispenser_Frame.description>Sintetiza pasta de nutrientes a partir de matérias-primas orgânicas. Ele consome menos ingredientes e tempo do que qualquer outro método de produção de refeições - mas ninguém gosta de comer a pasta de nutrientes. Aceita alimentos crus, mas não matéria vegetal áspero como feno.</NutrientPasteDispenser_Frame.description>
-
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>laboratório de drogas</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Uma bancada de trabalho equipada com vários recipientes, aquecedores e equipamentos de medição para a produção de uma variedade de drogas.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>crematório elétrico</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Crema cadáveres. Eletricamente alimentado.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>forno de fundição elétrico</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Extrai metal utilizável a partir de pedaços de escórias e outros itens de metal misto. Consome muita energia.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>forja elétrica</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Uma estação elétrica-alimentada equipada para fundir armas não-mecânicas e ferramentas.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>fogão elétrico</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Um fogão elétrico-alimentado com uma bancada anexada para preparar as refeições.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>bancada de alfaiate elétrica</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Uma bancada de trabalho com uma máquina para uma rápida costura de roupas. Pode funcionar sem eletricidade a 40% da velocidade normal.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>bancada de fabricação</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Uma bancada equipada com ferramentas avançadas para produzir maravilhas tecnológicas a partir de materiais mais simples.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>barril de fermentação</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Um barril para fermentar o mosto cru em cerveja.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>forja abastecida</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Uma estação movida a madeira para fundir armas não-mecânicas e ferramentas.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>fogão abastecido</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Um fogão abastecido simples com uma bancada anexada para preparar as refeições.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>bancada de alfaiate à mão</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Uma bancada para costurar roupas à mão. Trabalha a 50% da velocidade de uma bancada de alfaiataria elétrica.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>bancada de pesquisa de alta tecnologia</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Uma bancada de alta tecnologia com computadores e equipamentos de medição eletrônica. A Pesquisa é acelerada pelas ferramentas de alta tecnologia. Requer energia.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
   <Hopper.label>funil</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
   <Hopper.description>Mantém recursos para uso por máquinas como dispensadores de pasta de nutrientes.</Hopper.description>
-  <Hopper_Blueprint.label>funil (projeto)</Hopper_Blueprint.label>
-  <Hopper_Frame.label>funil (construção)</Hopper_Frame.label>
-  <Hopper_Frame.description>Mantém recursos para uso por máquinas como dispensadores de pasta de nutrientes.</Hopper_Frame.description>
-
-
-  <!--<Refinery.label>refinaria</Refinery.label>-->
-  <!--<Refinery.description>Uma refinaria química. Usada para refinar madeira em biocombustível.</Refinery.description>-->
-  <!--<Refinery_Blueprint.label>refinaria (projeto)</Refinery_Blueprint.label>-->
-  <!--<Refinery_Frame.label>refinaria (construção)</Refinery_Frame.label>-->
-  <!--<Refinery_Frame.description>Uma refinaria química. Usada para refinar madeira em biocombustível.</Refinery_Frame.description>-->
-  <!--<ComponentAssemblyBench.label>bancada de montagem de componentes</ComponentAssemblyBench.label>-->
-  <!--<ComponentAssemblyBench.description>Uma bancada equipada com ferramentas avançadas para a produção de componentes a partir de materiais simples.</ComponentAssemblyBench.description>-->
-  <!--<ComponentAssemblyBench_Blueprint.label>bancada de montagem de componentes (projeto)</ComponentAssemblyBench_Blueprint.label>-->
-  <!--<ComponentAssemblyBench_Frame.label>bancada de montagem de componentes (construção)</ComponentAssemblyBench_Frame.label>-->
-  <!--<ComponentAssemblyBench_Frame.description>Uma bancada equipada com ferramentas avançadas para a produção de componentes a partir de materiais simples.</ComponentAssemblyBench_Frame.description>-->
-
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>bacia de hidroponia</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Cultiva plantas rapidamente em um banho de nutrientes artificial. Requer energia para funcionar; as plantas irão morrer se a energia for cortada.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>dispensador de pasta de nutrientes</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Sintetiza pasta de nutrientes a partir de matérias-primas orgânicas. Ele consome menos ingredientes e tempo do que qualquer outro método de produção de refeições - mas ninguém gosta de comer a pasta de nutrientes. Aceita alimentos crus, mas não matéria vegetal áspero como feno.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>bancada de pesquisa simples</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Uma bancada simples com instrumentos de escrita e ferramentas científicas de baixa tecnologia. Pesquisadores trabalham aqui para descobrirem novas coisas.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>mesa de açougueiro</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>Uma mesa pesada para esquartejar criaturas mortas em pedaços de carne crua.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>mesa de usinagem</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Uma estação de trabalho para montagem e desmontagem de maquinário tais como armas de fogo ou cadáveres de mechanoides.</TableMachining.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>mesa de escultor</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>Uma mesa equipada para esculpimento artístico.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>mesa de canteiro</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Uma mesa de trabalho equipada para cortar pedras brutas em blocos utilizáveis.</TableStonecutter.description>
+  
 </LanguageData>

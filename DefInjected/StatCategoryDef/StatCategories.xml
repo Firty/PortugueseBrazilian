@@ -1,35 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <Basics.label>Básico</Basics.label>
-  <BasicsPawn.label>Básico</BasicsPawn.label>
-  <BasicsNonPawn.label>Básico</BasicsNonPawn.label>
-
-
-  <!-- Non-pawn -->
-
+  
+  <!-- EN: Apparel -->
   <Apparel.label>Vestuário</Apparel.label>
-  <Weapon.label>Arma</Weapon.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Básico</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Básico</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Básico</BasicsPawn.label>
+  
+  <!-- EN: Building -->
   <Building.label>Estrutura</Building.label>
-
-
-  <!-- Virtual categories -->
-
+  
+  <!-- EN: Offsets when equipped -->
   <EquippedStatOffsets.label>Compensações quando equipado</EquippedStatOffsets.label>
-  <StuffStatFactors.label>Multiplicações quando feito disto</StuffStatFactors.label>
-  <StuffStatOffsets.label>Compensações quando feito disto</StuffStatOffsets.label>
-  <StuffOfEquipmentStatFactors.label>Multiplicações quando o equipamento é feito disto</StuffOfEquipmentStatFactors.label>
-  <Surgery.label>Surgical</Surgery.label>
-
-
-  <!-- Pawn -->
-
+  
+  <!-- EN: Combat -->
   <PawnCombat.label>Combate</PawnCombat.label>
-  <PawnSocial.label>Social</PawnSocial.label>
+  
+  <!-- EN: Misc -->
   <PawnMisc.label>Diversos</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Social</PawnSocial.label>
+  
+  <!-- EN: Work -->
   <PawnWork.label>Trabalho</PawnWork.label>
-
-
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Multiplicações quando o equipamento é feito disto</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Multiplicações quando feito disto</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Compensações quando feito disto</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>Surgical</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Arma</Weapon.label>
+  
 </LanguageData>

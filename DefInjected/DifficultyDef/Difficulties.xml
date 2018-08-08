@@ -1,28 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Peaceful.label>Pacífico</Peaceful.label>
-  <Peaceful.description>Para aqueles que querem relaxar e construir uma colônia em um ambiente sandbox.\n\nGrandes eventos ameaçadores estão desativados, mas os colonos ainda podem ficar mal-humorados e os animais ainda podem enlouquecer de vez em quando.</Peaceful.description>
-
+  
+  <!-- EN: builder -->
   <Easy.label>Algum desafio</Easy.label>
-  <Easy.description>Para os jogadores em seu primeiro jogo, ou jogadores casuais que ainda querem um desafio.\n\nAs ameaças são perigosas, mas não brutais.</Easy.description>
-
-  <Medium.label>Agitado</Medium.label>
-  <Medium.description>Este é um planeta agitado.\n\nAs ameaças podem ser bastante perigosas. Não recomendado até que você tenha alguma experiência com o jogo.</Medium.description>
-
+  <!-- EN: Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled. -->
+  <Easy.description>Para os jogadores em seu primeiro jogo, ou jogadores casuais que ainda querem um desafio. As ameaças são perigosas, mas não brutais.</Easy.description>
+  
+  <!-- EN: merciless -->
+  <Extreme.label>luta impiedosa</Extreme.label>
+  <!-- EN: Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time. -->
+  <Extreme.description>Use o seu domínio de todas as habilidades em RimWorld, apenas por uma chance de sobreviver a um julgamento angustiante contra um mundo impiedoso e injusto.\n\nRecomendado para: Jogadores que querem enfrentar situações brutais e injustas que exigem o desenvolvimento de habilidades fluentes e bem-desenvolvidas. sacrifíque pessoas valiosas apenas para evitar perder tudo.\n\nNão há jogo limpo aqui. Você passará muito tempo lutando ferido e se recuperando, precisará se preparar com cuidado e precisará sacrificar as pessoas e as coisas que ama. Desafios injustos e morte podem chegar até você a qualquer momento. Este nível trata de lidar com perdas, porque impedi-las é impossível.</Extreme.description>
+  
+  <!-- EN: savage -->
   <Hard.label>Intenso</Hard.label>
-  <Hard.description>Um desafio significativo.\n\nSuceder a este nível exige uma compreensão sólida e bem arredondada de estratégias de sobrevivência, e alguma sorte.</Hard.description>
-
-  <ExtraHard.label>Extra hard</ExtraHard.label>
-  <ExtraHard.description>A significant challenge.\n\nSucceeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.</ExtraHard.description>
-
-  <Extreme.label>Extreme</Extreme.label>
-  <Extreme.description>As hard as a diamond-bladed dagger in the iciest pit of hell.\n\nEnemies are numerous, prices are poor, crop yields are poor, and colonists are grumpy. For those who enjoy digital suffering.</Extreme.description>
-
-
-  <!--<VeryEasy.label>Construtor de base</VeryEasy.label>-->
-  <!--<VeryEasy.description>Para aqueles que querem construir uma colônia com um gosto do perigo.\n\nAmeaças maiores aparecem, mas estão enfraquecidas. Alguns dos eventos extremamente perigosos estão desativados.</VeryEasy.description>-->
-  <!--<VeryHard.label>Extremo</VeryHard.label>-->
-  <!--<VeryHard.description>Tão duro como um punhal de lâmina de diamante.\n\nOs inimigos são fortes, os preços são ruins, a comida é escassa, e os colonos são mal-humorados. Para aqueles que gostam de sofrimento digital.</VeryHard.description>-->
-
+  <!-- EN: Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experince great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, and disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses. -->
+  <Hard.description>Um desafio significativo. Suceder a este nível exige uma compreensão sólida e bem arredondada de estratégias de sobrevivência, e alguma sorte.</Hard.description>
+  
+  <!-- EN: medium -->
+  <Medium.label>Agitado</Medium.label>
+  <!-- EN: Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet. -->
+  <Medium.description>Este é um planeta agitado. As ameaças podem ser bastante perigosas. Não recomendado até que você tenha alguma experiência com o jogo.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>Pacífico</Peaceful.label>
+  <!-- EN: Build a community in sandbox environment.\n\nRecommendeed for: Players who want to focus on the community-building aspects of RimWorld.\n\nThis mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur. -->
+  <Peaceful.description>Para aqueles que querem relaxar e construir uma colônia em um ambiente sandbox.\n\nGrandes eventos ameaçadores estão desativados, mas os colonos ainda podem ficar mal-humorados e os animais ainda podem enlouquecer de vez em quando.</Peaceful.description>
+  
+  <!-- EN: rough -->
+  <Rough.label>rude</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama. -->
+  <Rough.description>Esforce-se para sobreviver em um planeta difícil e resistente.\n\nRecomendado para: Jogadores com experiência em RimWorld, procurando jogar uma história intensa que exija habilidade significativa para sobreviver.\n\nNão espere jogar um jogo limpo e perfeito. Você vai perder pessoas. Mesmo se você jogar bem, alguns desafios serão impossíveis de superar sem perdas. Você terá que lutar ferido, sacrificar para sobreviver e se recuperar. É tudo pelo drama.</Rough.description>
+  
 </LanguageData>

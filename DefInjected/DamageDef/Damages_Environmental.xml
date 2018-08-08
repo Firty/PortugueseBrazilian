@@ -1,20 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Flame.label>chama</Flame.label>
-  <Flame.deathMessage>{0} queimou até a morte.</Flame.deathMessage>
-
-
-  <!-- Burn is like Flame, but doesn't ignite anything -->
-
+  
+  <!-- EN: burn -->
   <Burn.label>queimadura</Burn.label>
+  <!-- EN: {0} has burned to death. -->
   <Burn.deathMessage>{0} queimou até a morte.</Burn.deathMessage>
-
+  
+  <!-- EN: flame -->
+  <Flame.label>chama</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>{0} queimou até a morte.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
   <Frostbite.label>congelamento</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
   <Frostbite.deathMessage>{0} sucumbiu ao congelamento.</Frostbite.deathMessage>
-
+  
+  <!-- EN: scratch -->
   <TornadoScratch.label>arranhão</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
   <TornadoScratch.deathMessage>{0} foi morto(a) por um tornado.</TornadoScratch.deathMessage>
-
-
+  
 </LanguageData>

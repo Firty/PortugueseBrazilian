@@ -6,7 +6,7 @@
     <credits>
         <li Class="CreditRecord_Role">
             <roleKey>Credit_Translator</roleKey>
-            <creditee>ArxdSilva</creditee>
+            <creditee>@arxdsilva</creditee>
         </li>
         <li Class="CreditRecord_Role">
             <roleKey>Credit_Translator</roleKey>
@@ -59,6 +59,10 @@
         <li Class="CreditRecord_Role">
             <roleKey>Credit_Translator</roleKey>
             <creditee>Altieres Lima</creditee>
+        </li>
+		<li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>Ezequiel (Firty)</creditee>
         </li>
     </credits>
   </LanguageInfo>

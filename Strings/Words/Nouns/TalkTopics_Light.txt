@@ -1,73 +1,67 @@
-the weather
-
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
-
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
-
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
-
-animals
-cute animals
-fat animals
+o clima
+café da manhã
+café da manhã
+jantar
+Comida
+hora do almoço
+hábitos alimentares
+alimentos salgados
+alimentos doces
+comidas salgadas
+alimentos amargos
+cortes favoritos de cabelo
+roupas favoritas
+penteados
+moda
+Maquiagem
+barbas
+pêlos faciais
+biscates
+jogos infantis
+entretenimento
+jogos
+aniversários
+balões
+embriaguez
+ficando bêbado
+festas
+Férias
+pessoas bonitas
+pessoas gordas
+pessoas altas
+pessoas curtas
+Prazeres culpados
+vômito
+comendo
+natação
+Esportes
+praias
+animais
+animais fofos
+animais gordos
 pets
-
-pet peeves
-life's annoyances
-laundry
-sweating
-
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
+porcaria
+aborrecimentos da vida
+lavanderia
+suar
+transportando
+limpeza
+comer sem mesas
+mobília confortável
+refeições finas
+refeições luxuosas
 pemmican
-horseshoes
-recreation
-lovers
-lovin'
+ferraduras
+lazer
+amantes
+amando'
 healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
-poker
-billiards
-spaceships
-xenohumans
+cirurgias mal feitas
+vômito
+jogos de tabuleiro
+jogos de computador
+televisão
+pôquer
+bilhar
+naves espaciais
+xeno-humanos

@@ -1,14 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Save -->
   <SaveButton>Salvar</SaveButton>
-  <!--<CancelButton>Cancel</CancelButton>-->
+  <!-- EN: Clear -->
   <ClearBinding>Excluir</ClearBinding>
+  <!-- EN: Reset to default -->
   <ResetBinding>Restaurar padrão</ResetBinding>
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>Clique no botão esquerdo para definir esta tecla ou clique com o botão direito para as opções</BindingButtonToolTip>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>Pressione qualquer tecla ou Esc para cancelar...</PressAnyKeyOrEsc>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>Atalho de teclado sobrescrito: {0}</KeyBindingOverwritten>
-
-  <!--<CancelButton>Cancelar</CancelButton>-->
-
+  
 </LanguageData>

@@ -1,12 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: crashed ship part (incoming) -->
+  <CrashedShipPartIncoming.label>parte de uma nave caiu (chegando)</CrashedShipPartIncoming.label>
+  
+  <!-- EN: drop pod (incoming) -->
   <DropPodIncoming.label>cápsula de descida (chegando)</DropPodIncoming.label>
-  <ExplosiveDropPodIncoming.label>drop pod (incoming)</ExplosiveDropPodIncoming.label>
+  
+  <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>cápsula de descida (partindo)</DropPodLeaving.label>
-  <ShipChunkIncoming.label>ship chunk (incoming)</ShipChunkIncoming.label>
-  <CrashedShipPartIncoming.label>crashed ship part (incoming)</CrashedShipPartIncoming.label>
-  <MeteoriteIncoming.label>meteorite (incoming)</MeteoriteIncoming.label>
-
-
+  
+  <!-- EN: meteorite (incoming) -->
+  <MeteoriteIncoming.label>meteorito (chegando)</MeteoriteIncoming.label>
+  
+  <!-- EN: ship chunk (incoming) -->
+  <ShipChunkIncoming.label>pedaço de nave (chegando)</ShipChunkIncoming.label>
+  
 </LanguageData>

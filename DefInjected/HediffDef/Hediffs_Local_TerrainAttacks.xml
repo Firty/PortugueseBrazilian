@@ -1,20 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SandInEyes.label>sand</SandInEyes.label>
-  <SandInEyes.labelNoun>sand</SandInEyes.labelNoun>
-
-  <DirtInEyes.label>dirt</DirtInEyes.label>
-  <DirtInEyes.labelNoun>dirt</DirtInEyes.labelNoun>
-
-  <MudInEyes.label>mud</MudInEyes.label>
-  <MudInEyes.labelNoun>mud</MudInEyes.labelNoun>
-
-  <GravelInEyes.label>gravel</GravelInEyes.label>
-  <GravelInEyes.labelNoun>gravel</GravelInEyes.labelNoun>
-
-  <WaterInEyes.label>water</WaterInEyes.label>
-  <WaterInEyes.labelNoun>water</WaterInEyes.labelNoun>
-
-
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>terra</DirtInEyes.label>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>terra</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>cascalho</GravelInEyes.label>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>cascalho</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>lama</MudInEyes.label>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>lama</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>areia</SandInEyes.label>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>areia</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>água</WaterInEyes.label>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>água</WaterInEyes.labelNoun>
+  
 </LanguageData>

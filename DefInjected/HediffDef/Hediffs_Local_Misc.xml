@@ -1,21 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <TraumaSavant.label>traumatismo craniano</TraumaSavant.label>
-  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
-
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageModerate.label>dano químico</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
   <ChemicalDamageSevere.label>dano químico</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
   <Cirrhosis.label>cirrose</Cirrhosis.label>
-
-  <ResurrectionPsychosis.label>psicose de ressurreição</ResurrectionPsychosis.label>
-  <ResurrectionPsychosis.stages.0.label>precoce</ResurrectionPsychosis.stages.0.label>
-  <ResurrectionPsychosis.stages.1.label>precoce</ResurrectionPsychosis.stages.1.label>
-  <ResurrectionPsychosis.stages.2.label>moderado</ResurrectionPsychosis.stages.2.label>
-  <ResurrectionPsychosis.stages.3.label>avançado</ResurrectionPsychosis.stages.3.label>
-  <ResurrectionPsychosis.stages.4.label>total</ResurrectionPsychosis.stages.4.label>
-  <ResurrectionPsychosis.stages.5.label>total</ResurrectionPsychosis.stages.5.label>
-  <ResurrectionPsychosis.stages.6.label>catatonic</ResurrectionPsychosis.stages.6.label>
-
-
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>psicose ressurreição</ResurrectionPsychosis.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>minima</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>pequena</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>moderada</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>avançada</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>severa</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>toral</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>catatônico</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>traumatismo craniano</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  
 </LanguageData>

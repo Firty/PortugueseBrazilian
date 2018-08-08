@@ -1,11 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Human.hediffGivers.0.letterLabel>Trauma savant</Human.hediffGivers.0.letterLabel>
-  <Human.hediffGivers.0.letter>[PAWN_nameDef]'s brain injury has caused [PAWN_objective] to develop strange savant-like abilities.</Human.hediffGivers.0.letter>
-
-
-  <!--<OrganicStandard.hediffGivers.4.letterLabel>Traumatismo craniano</OrganicStandard.hediffGivers.4.letterLabel>-->
-  <!--<OrganicStandard.hediffGivers.4.letter>O cérebro danificado de [PAWN_nameDef] fez [PAWN_pronoun] desenvolver habilidades estranhas pós-traumáticas.</OrganicStandard.hediffGivers.4.letter>-->
-
+  
+  <!-- EN: [PAWN_nameDef]'s brain injury has caused [PAWN_objective] to develop strange savant-like abilities. -->
+  <Human.hediffGivers.TraumaSavant.letter>A lesão cerebral de [PAWN_nameDef] fez com que [PAWN_objective] desenvolvesse habilidades estranhas semelhantes a savant.</Human.hediffGivers.TraumaSavant.letter>
+  <!-- EN: Trauma savant -->
+  <Human.hediffGivers.TraumaSavant.letterLabel>Trauma savant</Human.hediffGivers.TraumaSavant.letterLabel>
+  
 </LanguageData>

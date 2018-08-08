@@ -1,143 +1,114 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: mortar -->
+  <Artillery_Mortar.label>morteiro</Artillery_Mortar.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <Artillery_Mortar.description>Lançador de morteiro. Lança bombas por cima das paredes. Muito impreciso mas de longo alcance.</Artillery_Mortar.description>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>morteiro</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autocannon shell -->
+  <Bullet_AutocannonTurret.label>munição de canhão automático</Bullet_AutocannonTurret.label>
+  
+  <!-- EN: mini-turret bullet -->
+  <Bullet_MiniTurret.label>bala de mini-torreta</Bullet_MiniTurret.label>
+  
+  <!-- EN: uranium slug -->
+  <Bullet_TurretSniper.label>bala de urânio</Bullet_TurretSniper.label>
+  
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.label>canhão automatico</Gun_AutocannonTurret.label>
+  <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+  <Gun_AutocannonTurret.description>Um canhão com cano grande, de carregamento automático projetado para se conectar a uma torre.</Gun_AutocannonTurret.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>canhão automatico</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.label>mini-torreta</Gun_MiniTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_MiniTurret.description>Uma arma automática simples feita para ser montada em uma torre.</Gun_MiniTurret.description>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>mini-torreta</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.label>canhão com bala de urânio</Gun_TurretSniper.label>
+  <!-- EN: A self-loading sniper cannon designed to attach to a turret. Precise at range, it's not good at tracking close targets. -->
+  <Gun_TurretSniper.description>Um canhão automático projetado para se conectar a uma torre. Preciso a longa distância, não é bom para rastrear alvos próximos.</Gun_TurretSniper.description>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>canhão com bala de urânio</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sandbags -->
   <Sandbags.label>sacos de areia</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
   <Sandbags.description>Dá cobertura contra tiroteios.</Sandbags.description>
-  <Sandbags_Blueprint.label>sacos de areia (projeto)</Sandbags_Blueprint.label>
-  <Sandbags_Frame.label>sacos de areia (construção)</Sandbags_Frame.label>
-  <Sandbags_Frame.description>Dá cobertura contra tiroteios.</Sandbags_Frame.description>
-
-
-  <!-- Mini-turret -->
-
-  <Turret_MiniTurret.label>mini-turret</Turret_MiniTurret.label>
-  <Turret_MiniTurret.description>A small, short-ranged automatic turret. Requires steel to replace its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
-  <Turret_MiniTurret_Blueprint.label>mini-turret (blueprint)</Turret_MiniTurret_Blueprint.label>
-  <Turret_MiniTurret_Blueprint_Install.label>mini-turret (blueprint)</Turret_MiniTurret_Blueprint_Install.label>
-  <Turret_MiniTurret_Frame.label>mini-turret (building)</Turret_MiniTurret_Frame.label>
-  <Turret_MiniTurret_Frame.description>A small, short-ranged automatic turret. Requires steel to replace its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret_Frame.description>
-
-  <Bullet_MiniTurret.label>mini-turret bullet</Bullet_MiniTurret.label>
-
-  <Gun_MiniTurret.label>mini-turret gun</Gun_MiniTurret.label>
-  <Gun_MiniTurret.description>A simple automatic gun made to be mounted on a turret.</Gun_MiniTurret.description>
-
-
-  <!-- Autocannon turret -->
-
-  <Turret_Autocannon.label>autocannon turret</Turret_Autocannon.label>
-  <Turret_Autocannon.description>A long-ranged heavy automatic turret. Its large-caliber shells do heavy damage over long ranges, but it requires frequent and expensive barrel changes. It cannot fire at close-up targets, and may explode when damaged.</Turret_Autocannon.description>
-  <Turret_Autocannon_Blueprint.label>autocannon turret (blueprint)</Turret_Autocannon_Blueprint.label>
-  <Turret_Autocannon_Frame.label>autocannon turret (building)</Turret_Autocannon_Frame.label>
-  <Turret_Autocannon_Frame.description>A long-ranged heavy automatic turret. Its large-caliber shells do heavy damage over long ranges, but it requires frequent and expensive barrel changes. It cannot fire at close-up targets, and may explode when damaged.</Turret_Autocannon_Frame.description>
-
-  <Bullet_AutocannonTurret.label>autocannon shell</Bullet_AutocannonTurret.label>
-
-  <Gun_AutocannonTurret.label>autocannon</Gun_AutocannonTurret.label>
-  <Gun_AutocannonTurret.description>A self-loading large-bore cannon designed to attach to a turret.</Gun_AutocannonTurret.description>
-
-
-  <!-- Mortar turret -->
-
-  <Turret_Mortar.label>mortar</Turret_Mortar.label>
-  <Turret_Mortar.description>A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field.</Turret_Mortar.description>
-  <Turret_Mortar_Blueprint.label>mortar (blueprint)</Turret_Mortar_Blueprint.label>
-  <Turret_Mortar_Blueprint_Install.label>mortar (blueprint)</Turret_Mortar_Blueprint_Install.label>
-  <Turret_Mortar_Frame.label>mortar (building)</Turret_Mortar_Frame.label>
-  <Turret_Mortar_Frame.description>A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field.</Turret_Mortar_Frame.description>
-
-  <Artillery_Mortar.label>mortar</Artillery_Mortar.label>
-  <Artillery_Mortar.description>Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged.</Artillery_Mortar.description>
-
-
-  <!-- Traps -->
-
-  <TrapDeadfall.label>armadilha suspensa</TrapDeadfall.label>
-  <TrapDeadfall.description>Um espinho pesado suspenso sustentado por um gatilho delicado. Quando a vítima perturba no gatilho, o peso é libertado e cai sobre sua cabeça ou torso.</TrapDeadfall.description>
-  <TrapDeadfall_Blueprint.label>armadilha suspensa (projeto)</TrapDeadfall_Blueprint.label>
-  <TrapDeadfall_Frame.label>armadilha suspensa (construção)</TrapDeadfall_Frame.label>
-  <TrapDeadfall_Frame.description>Um espinho pesado suspenso sustentado por um gatilho delicado. Quando a vítima perturba no gatilho, o peso é libertado e cai sobre sua cabeça ou torso.</TrapDeadfall_Frame.description>
-
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>IED armadilha de ogiva antigrani</TrapIED_AntigrainWarhead.label>
+  <!-- EN: A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>Uma ogiva de alta tecnologia conectada a um gatilho caseiro. Quando disparada, a ogiva detona, criando uma enorme explosão de antimatéria. Uma vez que está escondido no terreno, não pode ser colocado ao lado de outras armadilhas. Os animais podem senti-la quando estão calmos.</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>armadilha de EMP</TrapIED_EMP.label>
+  <!-- EN: A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Uma armadilha simples que consiste em uma granada de EMP e um gatilho caseiro. A explosão pode paralisar os mecanóides por alguns segundos. Pode ser ativada por aqueles que não são afetados por explosões EMP.</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>armadilha do firefoam</TrapIED_Firefoam.label>
+  <!-- EN: When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Quando alguém toca no gatilho, a armadilha explode e pulveriza uma espuma extintora de fogo em torno de si.</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
   <TrapIED_HighExplosive.label>IED trap</TrapIED_HighExplosive.label>
+  <!-- EN: A mortar shell connected to a trigger. When someone disturbs the trigger, the shell explodes. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_HighExplosive.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIED_HighExplosive.description>
-  <TrapIED_HighExplosive_Blueprint.label>IED trap (blueprint)</TrapIED_HighExplosive_Blueprint.label>
-  <TrapIED_HighExplosive_Frame.label>IED trap (building)</TrapIED_HighExplosive_Frame.label>
-  <TrapIED_HighExplosive_Frame.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.</TrapIED_HighExplosive_Frame.description>
-
+  
+  <!-- EN: IED incendiary trap -->
   <TrapIED_Incendiary.label>IED incendiary trap</TrapIED_Incendiary.label>
+  <!-- EN: Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIED_Incendiary.description>
-  <TrapIED_Incendiary_Blueprint.label>IED incendiary trap (blueprint)</TrapIED_Incendiary_Blueprint.label>
-  <TrapIED_Incendiary_Frame.label>IED incendiary trap (building)</TrapIED_Incendiary_Frame.label>
-  <TrapIED_Incendiary_Frame.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.</TrapIED_Incendiary_Frame.description>
-
-  <TrapIED_EMP.label>IED EMP trap</TrapIED_EMP.label>
-  <TrapIED_EMP.description>A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions.</TrapIED_EMP.description>
-  <TrapIED_EMP_Blueprint.label>IED EMP trap (blueprint)</TrapIED_EMP_Blueprint.label>
-  <TrapIED_EMP_Frame.label>IED EMP trap (building)</TrapIED_EMP_Frame.label>
-  <TrapIED_EMP_Frame.description>A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions.</TrapIED_EMP_Frame.description>
-
-  <TrapIED_Firefoam.label>IED firefoam trap</TrapIED_Firefoam.label>
-  <TrapIED_Firefoam.description>When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself.</TrapIED_Firefoam.description>
-  <TrapIED_Firefoam_Blueprint.label>IED firefoam trap (blueprint)</TrapIED_Firefoam_Blueprint.label>
-  <TrapIED_Firefoam_Frame.label>IED firefoam trap (building)</TrapIED_Firefoam_Frame.label>
-  <TrapIED_Firefoam_Frame.description>When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself.</TrapIED_Firefoam_Frame.description>
-
-  <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
-  <TrapIED_AntigrainWarhead.description>A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion.</TrapIED_AntigrainWarhead.description>
-  <TrapIED_AntigrainWarhead_Blueprint.label>IED antigrain warhead trap (blueprint)</TrapIED_AntigrainWarhead_Blueprint.label>
-  <TrapIED_AntigrainWarhead_Frame.label>IED antigrain warhead trap (building)</TrapIED_AntigrainWarhead_Frame.label>
-  <TrapIED_AntigrainWarhead_Frame.description>A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion.</TrapIED_AntigrainWarhead_Frame.description>
-
-
-  <!-- Improvised turret -->
-  <!--<TurretGun.label>torreta improvisada</TurretGun.label>-->
-  <!--<TurretGun.description>Uma torreta improvisada que dispara automaticamente em inimigos próximos. Explode quando danificada. O seu cérebro IA montado não é muito inteligente, e não pode ser diretamente controlada, por isto tenha cuidado com o fogo amigo.</TurretGun.description>-->
-  <!--<TurretGun_Blueprint.label>torreta improvisada (projeto)</TurretGun_Blueprint.label>-->
-  <!--<TurretGun_Blueprint_Install.label>torreta improvisada (projeto)</TurretGun_Blueprint_Install.label>-->
-  <!--<TurretGun_Frame.label>torreta improvisada (construção)</TurretGun_Frame.label>-->
-  <!--<TurretGun_Frame.description>Uma torreta improvisada que dispara automaticamente em inimigos próximos. Explode quando danificada. O seu cérebro IA montado não é muito inteligente, e não pode ser diretamente controlada, por isso tenha cuidado com o fogo amigo.</TurretGun_Frame.description>-->
-  <!--<Bullet_TurretImprovised.label>bala de torreta improvisada</Bullet_TurretImprovised.label>-->
-  <!--<Gun_TurretImprovised.label>arma de fogo de torreta improvisada</Gun_TurretImprovised.label>-->
-  <!--<Gun_TurretImprovised.description>Arma de fogo presa a uma torreta.</Gun_TurretImprovised.description>-->
-  <!-- Mortar bomb turret -->
-  <!--<Turret_MortarBomb.label>morteiro</Turret_MortarBomb.label>-->
-  <!--<Turret_MortarBomb.description>Um morteiro que lança projéteis explosivos. Deve ser operado. Explode quando danificado.</Turret_MortarBomb.description>-->
-  <!--<Turret_MortarBomb_Blueprint.label>morteiro (projeto)</Turret_MortarBomb_Blueprint.label>-->
-  <!--<Turret_MortarBomb_Blueprint_Install.label>morteiro (projeto)</Turret_MortarBomb_Blueprint_Install.label>-->
-  <!--<Turret_MortarBomb_Frame.label>morteiro (construção)</Turret_MortarBomb_Frame.label>-->
-  <!--<Turret_MortarBomb_Frame.description>Um morteiro que lança projéteis explosivos. Deve ser operado. Explode quando danificado.</Turret_MortarBomb_Frame.description>-->
-  <!--<Artillery_MortarBomb.label>morteiro explosivo</Artillery_MortarBomb.label>-->
-  <!--<Artillery_MortarBomb.description>Lançador de morteiro. Arremessa bombas acima das paredes. Muito impreciso mas de longo alcance.</Artillery_MortarBomb.description>-->
-  <!--<Bullet_MortarBomb.label>projétil de morteiro explosivo</Bullet_MortarBomb.label>-->
-  <!-- Mortar incendiary turret -->
-  <!--<Turret_MortarIncendiary.label>morteiro incendiário</Turret_MortarIncendiary.label>-->
-  <!--<Turret_MortarIncendiary.description>Um morteiro que lança projéteis incendiários. Deve ser operado. Explode quando danificado.</Turret_MortarIncendiary.description>-->
-  <!--<Turret_MortarIncendiary_Blueprint.label>morteiro incendiário (projeto)</Turret_MortarIncendiary_Blueprint.label>-->
-  <!--<Turret_MortarIncendiary_Blueprint_Install.label>morteiro incendiário (projeto)</Turret_MortarIncendiary_Blueprint_Install.label>-->
-  <!--<Turret_MortarIncendiary_Frame.label>morteiro incendiário (construção)</Turret_MortarIncendiary_Frame.label>-->
-  <!--<Turret_MortarIncendiary_Frame.description>Um morteiro que lança projéteis incendiários. Deve ser operado. Explode quando danificado.</Turret_MortarIncendiary_Frame.description>-->
-  <!--<Artillery_MortarIncendiary.label>morteiro incendiário</Artillery_MortarIncendiary.label>-->
-  <!--<Artillery_MortarIncendiary.description>Lançador de morteiro incendiário. Arremessa bombas iniciadoras de incêndio acima das paredes. Muito impreciso mas de longo alcance.</Artillery_MortarIncendiary.description>-->
-  <!--<Bullet_MortarIncendiary.label>projétil de morteiro incendiário</Bullet_MortarIncendiary.label>-->
-  <!-- Mortar EMP -->
-  <!--<Turret_MortarEMP.label>morteiro PEM</Turret_MortarEMP.label>-->
-  <!--<Turret_MortarEMP.description>Um morteiro que lança bombas eletromagnéticas. Deve ser operado. Explode quando danificado.</Turret_MortarEMP.description>-->
-  <!--<Turret_MortarEMP_Blueprint.label>morteiro PEM (projeto)</Turret_MortarEMP_Blueprint.label>-->
-  <!--<Turret_MortarEMP_Blueprint_Install.label>morteiro PEM (projeto)</Turret_MortarEMP_Blueprint_Install.label>-->
-  <!--<Turret_MortarEMP_Frame.label>morteiro PEM (construção)</Turret_MortarEMP_Frame.label>-->
-  <!--<Turret_MortarEMP_Frame.description>Um morteiro que lança bombas eletromagnéticas. Deve ser operado. Explode quando danificado.</Turret_MortarEMP_Frame.description>-->
-  <!--<Artillery_MortarEMP.label>morteiro PEM</Artillery_MortarEMP.label>-->
-  <!--<Artillery_MortarEMP.description>Morteiro lançador. Arremessa bombas PEM acima das paredes. Muito impreciso, mas de longo alcance.</Artillery_MortarEMP.description>-->
-  <!--<Bullet_MortarEMP.label>bomba PEM de morteiro</Bullet_MortarEMP.label>-->
-  <!--<TrapIEDBomb.label>armadilha AEI</TrapIEDBomb.label>-->
-  <!--<TrapIEDBomb.description>Um projétil de morteiro conectado a um gatilho caseiro. Quando alguém perturba no gatilho, o projétil explode. O gatilho improvisado tem um atraso aleatório permitindo que um inimigo ágil consiga escapar.</TrapIEDBomb.description>-->
-  <!--<TrapIEDBomb_Blueprint.label>armadilha AEI (projeto)</TrapIEDBomb_Blueprint.label>-->
-  <!--<TrapIEDBomb_Frame.label>armadilha AEI (construção)</TrapIEDBomb_Frame.label>-->
-  <!--<TrapIEDBomb_Frame.description>Um projétil de morteiro conectado a um gatilho caseiro. Quando alguém perturba no gatilho, o projétil explode. O gatilho improvisado tem um atraso aleatório permitindo que um inimigo ágil consiga escapar.</TrapIEDBomb_Frame.description>-->
-  <!--<TrapIEDIncendiary.label>armadilha AEI incendiária</TrapIEDIncendiary.label>-->
-  <!--<TrapIEDIncendiary.description>Explosivos misturados em uma pasta incendiária com um gatilho químico suspenso. A química do gatilho é simples e confiável.</TrapIEDIncendiary.description>-->
-  <!--<TrapIEDIncendiary_Blueprint.label>armadilha AEI incendiária (projeto)</TrapIEDIncendiary_Blueprint.label>-->
-  <!--<TrapIEDIncendiary_Frame.label>armadilha AEI incendiária (construção)</TrapIEDIncendiary_Frame.label>-->
-  <!--<TrapIEDIncendiary_Frame.description>Explosivos misturados em uma pasta incendiária com um gatilho químico suspenso. A química do gatilho é simples e confiável.</TrapIEDIncendiary_Frame.description>-->
-
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>armadilha suspensa</TrapSpike.label>
+  <!-- EN: A collection of five heavy spikes under tension. When the victim disturbs the trigger, the spikes are released and spring forth, striking the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Um espinho pesado suspenso sustentado por um gatilho delicado. Quando a vítima perturba no gatilho, o peso é libertado e cai sobre sua cabeça ou torso.</TrapSpike.description>
+  
+  <!-- EN: autocannon turret -->
+  <Turret_Autocannon.label>torre do canhão automático</Turret_Autocannon.label>
+  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+  <Turret_Autocannon.description>Uma pesada torre automática. Suas balas de grande calibre causam grandes danos em faixas significativas, mas seu barril deve ser recondicionado após o uso. Não pode disparar contra alvos próximos e pode explodir quando estiver danificado.</Turret_Autocannon.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Quantidade de munição</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Proxima troca de munição</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: precisa de munição</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mini-turret -->
+  <Turret_MiniTurret.label>mini-torre</Turret_MiniTurret.label>
+  <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <Turret_MiniTurret.description>Uma pequena torre automática de curto alcance. Requer aço para substituir a munição após muito uso. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</Turret_MiniTurret.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Quantidade de munição</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Proxima troca de munição</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: precisa de munição</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mortar -->
+  <Turret_Mortar.label>morteiro</Turret_Mortar.label>
+  <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
+  <Turret_Mortar.description>Um morteiro que lança todos os tipos de munições. Embora possa infligir danos devastadores, a sua imprecisão faz ele ser mais útil para atacar grandes fortificações do que grupos de inimigos.</Turret_Mortar.description>
+  
+  <!-- EN: uranium slug turret -->
+  <Turret_Sniper.label>torre com bala de urânio</Turret_Sniper.label>
+  <!-- EN: A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
+  <Turret_Sniper.description>Uma torre de longo alcance. Suas balas de urânio ultra-densas podem perfurar armaduras pesadas a longas distâncias, mas requer que novas balas de urânio sejam carregadas após o uso. É mais precisa a logas distâncias. Pode explodir quando estiver danificado.</Turret_Sniper.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Quantidade de munição</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Proxima troca de munição</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs rearm -->
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: precisa de munição</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  
 </LanguageData>

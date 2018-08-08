@@ -1,131 +1,96 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OrbitalTradeBeacon.label>baliza de comércio orbital</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>Requerido para negociação orbital. Você só pode vender bens que estão perto de uma baliza de comércio orbital. Pode ser colocada em interiores.</OrbitalTradeBeacon.description>
-  <OrbitalTradeBeacon_Blueprint.label>baliza de comércio orbital (projeto)</OrbitalTradeBeacon_Blueprint.label>
-  <OrbitalTradeBeacon_Blueprint_Install.label>baliza de comércio orbital (projeto)</OrbitalTradeBeacon_Blueprint_Install.label>
-  <OrbitalTradeBeacon_Frame.label>baliza de comércio orbital (construção)</OrbitalTradeBeacon_Frame.label>
-  <OrbitalTradeBeacon_Frame.description>Requerido para negociação orbital. Você só pode vender bens que estão perto de uma baliza de comércio orbital. Pode ser colocada em interiores.</OrbitalTradeBeacon_Frame.description>
-
-  <CommsConsole.label>console de comunicação</CommsConsole.label>
-  <CommsConsole.description>Permite o contato por rádio com os comerciantes remotos como também outras facções para o comércio e diplomacia.</CommsConsole.description>
-  <CommsConsole_Blueprint.label>console de comunicação (projeto)</CommsConsole_Blueprint.label>
-  <CommsConsole_Frame.label>console de comunicação (construção)</CommsConsole_Frame.label>
-  <CommsConsole_Frame.description>Permite o contato por rádio com os comerciantes remotos como também outras facções para o comércio e diplomacia.</CommsConsole_Frame.description>
-
-  <FirefoamPopper.label>dispositivo de espuma</FirefoamPopper.label>
-  <FirefoamPopper.description>Quando tocado pelo fogo ou desencadeado á mão, isto solta uma espuma que extingue incêndios em um campo circular em torno de si.</FirefoamPopper.description>
-  <FirefoamPopper.comps.1.useLabel>Acionar dispositivo de espuma</FirefoamPopper.comps.1.useLabel>
-  <FirefoamPopper_Blueprint.label>dispositivo de espuma (projeto)</FirefoamPopper_Blueprint.label>
-  <FirefoamPopper_Blueprint_Install.label>dispositivo de espuma (projeto)</FirefoamPopper_Blueprint_Install.label>
-  <FirefoamPopper_Frame.label>dispositivo de espuma (construção)</FirefoamPopper_Frame.label>
-  <FirefoamPopper_Frame.description>Quando tocado pelo fogo ou desencadeado á mão, isto solta uma espuma que extingue incêndios em um campo circular em torno de si.</FirefoamPopper_Frame.description>
-
-  <MoisturePump.label>bomba de umidade</MoisturePump.label>
-  <MoisturePump.description>Remove muito lentamente a umidade do terreno nas proximidades, convertendo pântanos ou água rasa em solo seco. Não afeta águas profundas.</MoisturePump.description>
-  <MoisturePump_Blueprint.label>bomba de umidade (projeto)</MoisturePump_Blueprint.label>
-  <MoisturePump_Frame.label>bomba de umidade (construção)</MoisturePump_Frame.label>
-  <MoisturePump_Frame.description>Remove muito lentamente a umidade do terreno nas proximidades, convertendo pântanos ou água rasa em solo seco. Não afeta águas profundas.</MoisturePump_Frame.description>
-
-  <GroundPenetratingScanner.label>scanner penetrador subterrâneo</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Um radar de penetração voltado para baixo, combinado com sonar e ressonância magnética, permite detectar (mas não identificar) minerais enterrados nas profundezas da superfície. Requer uma enorme quantidade de eletricidade.</GroundPenetratingScanner.description>
-  <GroundPenetratingScanner_Blueprint.label>scanner penetrador subterrâneo (projeto)</GroundPenetratingScanner_Blueprint.label>
-  <GroundPenetratingScanner_Frame.label>scanner penetrador subterrâneo (construção)</GroundPenetratingScanner_Frame.label>
-  <GroundPenetratingScanner_Frame.description>Um radar de penetração voltado para baixo, combinado com sonar e ressonância magnética, permite detectar (mas não identificar) minerais enterrados nas profundezas da superfície. Requer uma enorme quantidade de eletricidade.</GroundPenetratingScanner_Frame.description>
-
-  <LongRangeMineralScanner.label>scanner de minerais de longo alcance</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>Detecta automaticamente minerais preciosos como ouro ou jade nas áreas próximas (mas não em que foi construído). Os pedaços são encontrados em média uma vez por 30 dias dentro de um raio de 30 azulejos. Construir mais de um scanner na mesma área ou nas proximidades tem pouco ou nenhum efeito.</LongRangeMineralScanner.description>
-  <LongRangeMineralScanner_Blueprint.label>scanner de minerais de longo alcance (projeto)</LongRangeMineralScanner_Blueprint.label>
-  <LongRangeMineralScanner_Frame.label>scanner de minerais de longo alcance (construção)</LongRangeMineralScanner_Frame.label>
-  <LongRangeMineralScanner_Frame.description>Detecta automaticamente minerais preciosos como ouro ou jade nas áreas próximas (mas não em que foi construído). Os pedaços são encontrados em média uma vez por 30 dias dentro de um raio de 30 azulejos. Construir mais de um scanner na mesma área ou nas proximidades tem pouco ou nenhum efeito.</LongRangeMineralScanner_Frame.description>
-
-
-  <!-- Transport pods -->
-
-  <PodLauncher.label>lançador de cápsula</PodLauncher.label>
-  <PodLauncher.description>Um porto abastecido para o lançamento de um cápsula de transporte. Lançadores de cápsulas pode lançam como um grupo - mas os lançadores devem sem colocados juntos um ao outro.</PodLauncher.description>
-  <PodLauncher_Blueprint.label>lançador de cápsula (projeto)</PodLauncher_Blueprint.label>
-  <PodLauncher_Frame.label>lançador de cápsula (construção)</PodLauncher_Frame.label>
-  <PodLauncher_Frame.description>Um porto abastecido para o lançamento de um cápsula de transporte. Lançadores de cápsulas pode lançam como um grupo - mas os lançadores devem sem colocados juntos um ao outro.</PodLauncher_Frame.description>
-
-  <TransportPod.label>cápsula de transporte</TransportPod.label>
-  <TransportPod.description>Um cápsula de carga lançável de viagem suborbital capaz de transportar pessoas, itens, ou animais. Pode ser usada para transporte, ataques surpresa, ou reforçar as batalhas.</TransportPod.description>
-  <TransportPod_Blueprint.label>cápsula de transporte (projeto)</TransportPod_Blueprint.label>
-  <TransportPod_Frame.label>cápsula de transporte (construção)</TransportPod_Frame.label>
-  <TransportPod_Frame.description>Um cápsula de carga lançável de viagem suborbital capaz de transportar pessoas, itens, ou animais. Pode ser usada para transporte, ataques surpresa, ou reforçar as batalhas.</TransportPod_Frame.description>
-
-
-  <!-- Facilities -->
-
-  <MultiAnalyzer.label>multi-analisador</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Aumenta a velocidade de pesquisa. Precisa ser colocado perto da bancada de pesquisa de alta tecnologia. Uma bancada de pesquisa pode só ser ligada a apenas um multi-analisador.</MultiAnalyzer.description>
-  <MultiAnalyzer_Blueprint.label>multi-analisador (projeto)</MultiAnalyzer_Blueprint.label>
-  <MultiAnalyzer_Blueprint_Install.label>multi-analisador (projeto)</MultiAnalyzer_Blueprint_Install.label>
-  <MultiAnalyzer_Frame.label>multi-analisador (construção)</MultiAnalyzer_Frame.label>
-  <MultiAnalyzer_Frame.description>Aumenta a velocidade de pesquisa. Precisa ser colocado perto da bancada de pesquisa de alta tecnologia. Uma bancada de pesquisa pode só ser ligada a apenas um multi-analisador.</MultiAnalyzer_Frame.description>
-
-  <VitalsMonitor.label>monitor de sinais vitais</VitalsMonitor.label>
-  <VitalsMonitor.description>Aumenta a qualidade do tratamento dos pacientes. Precisa de ser colocado junto a uma cama médica. Uma cama médica só pode ser ligada a apenas um monitor de sinais vitais.</VitalsMonitor.description>
-  <VitalsMonitor_Blueprint.label>monitor de sinais vitais (projeto)</VitalsMonitor_Blueprint.label>
-  <VitalsMonitor_Blueprint_Install.label>monitor de sinais vitais (projeto)</VitalsMonitor_Blueprint_Install.label>
-  <VitalsMonitor_Frame.label>monitor de sinais vitais (construção)</VitalsMonitor_Frame.label>
-  <VitalsMonitor_Frame.description>Aumenta a qualidade do tratamento dos pacientes. Precisa de ser colocado junto a uma cama médica. Uma cama médica só pode ser ligada a apenas um monitor de sinais vitais.</VitalsMonitor_Frame.description>
-
-  <ToolCabinet.label>armário de ferramentas</ToolCabinet.label>
-  <ToolCabinet.description>Aumenta a velocidade de trabalho. Precisa ser colocado perto de uma bancada. Uma bancada pode ser simultaneamente ligada a apenas dois armários de ferramentas.</ToolCabinet.description>
-  <ToolCabinet_Blueprint.label>armário de ferramentas (projeto)</ToolCabinet_Blueprint.label>
-  <ToolCabinet_Blueprint_Install.label>armário de ferramentas (projeto)</ToolCabinet_Blueprint_Install.label>
-  <ToolCabinet_Frame.label>armário de ferramentas (construção)</ToolCabinet_Frame.label>
-  <ToolCabinet_Frame.description>Aumenta a velocidade de trabalho. Precisa ser colocado perto de uma bancada. Uma bancada pode ser simultaneamente ligada a apenas dois armários de ferramentas.</ToolCabinet_Frame.description>
-
-
-  <!-- Graves -->
-
-  <Grave.label>túmulo</Grave.label>
-  <Grave.description>Coloque os mortos em túmulos para dar-lhes um lugar de descanso decente. Os colonos irão visitar os túmulos cheios para ganhar alegria meditativa.</Grave.description>
-  <Grave_Blueprint.label>túmulo (projeto)</Grave_Blueprint.label>
-  <Grave_Frame.label>túmulo (construção)</Grave_Frame.label>
-  <Grave_Frame.description>Coloque os mortos em túmulos para dar-lhes um lugar de descanso decente. Os colonos irão visitar os túmulos cheios para ganhar alegria meditativa.</Grave_Frame.description>
-
-  <Sarcophagus.label>sarcófago</Sarcophagus.label>
-  <Sarcophagus.description>Um receptáculo de enterro ornamentado para mortos honrados.</Sarcophagus.description>
-  <Sarcophagus_Blueprint.label>sarcófago (projeto)</Sarcophagus_Blueprint.label>
-  <Sarcophagus_Frame.label>sarcófago (construção)</Sarcophagus_Frame.label>
-  <Sarcophagus_Frame.description>Um receptáculo de enterro ornamentado para mortos honrados.</Sarcophagus_Frame.description>
-
-
-  <!-- Cryptosleep caskets -->
-
-  <CryptosleepCasket.label>sarcófago de cripto-sono</CryptosleepCasket.label>
-  <CryptosleepCasket.description>Um sarcófago auto-alimentado projetado para manter uma pessoa em um estado de animação suspensa por milhares de anos.</CryptosleepCasket.description>
-  <CryptosleepCasket_Blueprint.label>sarcófago de cripto-sono (projeto)</CryptosleepCasket_Blueprint.label>
-  <CryptosleepCasket_Frame.label>sarcófago de cripto-sono (construção)</CryptosleepCasket_Frame.label>
-  <CryptosleepCasket_Frame.description>Um sarcófago auto-alimentado projetado para manter uma pessoa em um estado de animação suspensa por milhares de anos.</CryptosleepCasket_Frame.description>
-
+  
+  <!-- EN: ancient cryptosleep casket -->
   <AncientCryptosleepCasket.label>sarcófago de cripto-sono antigo</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Este sarcófago de cripto-sono parece que está aqui há muito tempo. Quem sabe o que ele pode conter?</AncientCryptosleepCasket.description>
-
-
-  <!-- Spots -->
-
-  <MarriageSpot.label>local de casamento</MarriageSpot.label>
-  <MarriageSpot.description>Designa um local onde cerimônias de casamento irão acontecer. Os espectadores podem assistir de qualquer lado.</MarriageSpot.description>
-  <MarriageSpot_Blueprint.label>local de casamento (projeto)</MarriageSpot_Blueprint.label>
-  <MarriageSpot_Frame.label>local de casamento (construção)</MarriageSpot_Frame.label>
-  <MarriageSpot_Frame.description>Designa um local onde cerimônias de casamento irão acontecer. Os espectadores podem assistir de qualquer lado.</MarriageSpot_Frame.description>
-
-  <PartySpot.label>local de festa</PartySpot.label>
-  <PartySpot.description>Designa um local onde festas serão concentradas. Festam irão acontecer em torno do local.</PartySpot.description>
-  <PartySpot_Blueprint.label>local de festa (projeto)</PartySpot_Blueprint.label>
-  <PartySpot_Frame.label>local de festa (construção)</PartySpot_Frame.label>
-  <PartySpot_Frame.description>Designa um local onde festas serão concentradas. Festam irão acontecer em torno do local.</PartySpot_Frame.description>
-
+  
+  <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>local de formação de caravana</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
   <CaravanPackingSpot.description>Designa um local onde as caravanas serão formadas.</CaravanPackingSpot.description>
-  <CaravanPackingSpot_Blueprint.label>local de formação de caravana (projeto)</CaravanPackingSpot_Blueprint.label>
-  <CaravanPackingSpot_Frame.label>local de formação de caravana (construção)</CaravanPackingSpot_Frame.label>
-  <CaravanPackingSpot_Frame.description>Designa um local onde as caravanas serão formadas.</CaravanPackingSpot_Frame.description>
-
-
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>console de comunicação</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Permite o contato por rádio com os comerciantes remotos como também outras facções para o comércio e diplomacia.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>sarcófago de cripto-sono</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Um sarcófago auto-alimentado projetado para manter uma pessoa em um estado de animação suspensa por milhares de anos.</CryptosleepCasket.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>dispositivo de espuma</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Quando tocado pelo fogo ou desencadeado á mão, isto solta uma espuma que extingue incêndios em um campo circular em torno de si.</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Acionar dispositivo de espuma</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>túmulo</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Coloque os mortos em túmulos para dar-lhes um lugar de descanso decente. Os colonos irão visitar os túmulos cheios para ganhar alegria meditativa.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>scanner penetrador subterrâneo</GroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <GroundPenetratingScanner.description>Um radar de penetração voltado para baixo, combinado com sonar e ressonância magnética, permite detectar (mas não identificar) minerais enterrados nas profundezas da superfície. Requer uma enorme quantidade de eletricidade.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>scanner de minerais de longo alcance</LongRangeMineralScanner.label>
+  <!-- EN: Automatically detects precious minerals like gold or jade in destinations across the planet. The lumps are found on average once per 30 days within a radius of 30 planet tiles. Building more than one scanner in the same or nearby areas has little to no effect. -->
+  <LongRangeMineralScanner.description>Detecta automaticamente minerais preciosos como ouro ou jade nas áreas próximas (mas não em que foi construído). Os pedaços são encontrados em média uma vez por 30 dias dentro de um raio de 30 azulejos. Construir mais de um scanner na mesma área ou nas proximidades tem pouco ou nenhum efeito.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>local de casamento</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Designa um local onde cerimônias de casamento irão acontecer. Os espectadores podem assistir de qualquer lado.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>bomba de umidade</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Remove muito lentamente a umidade do terreno nas proximidades, convertendo pântanos ou água rasa em solo seco. Não afeta águas profundas.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>multi-analisador</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Aumenta a velocidade de pesquisa. Precisa ser colocado perto da bancada de pesquisa de alta tecnologia. Uma bancada de pesquisa pode só ser ligada a apenas um multi-analisador.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>baliza de comércio orbital</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Requerido para negociação orbital. Você só pode vender bens que estão perto de uma baliza de comércio orbital. Pode ser colocada em interiores.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>local de festa</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Designa um local onde festas serão concentradas. Festam irão acontecer em torno do local.</PartySpot.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>lançador de cápsula</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Um porto abastecido para o lançamento de um cápsula de transporte. Lançadores de cápsulas pode lançam como um grupo - mas os lançadores devem sem colocados juntos um ao outro.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>sarcófago</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Um receptáculo de enterro ornamentado para mortos honrados.</Sarcophagus.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>armário de ferramentas</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <ToolCabinet.description>Aumenta a velocidade de trabalho. Precisa ser colocado perto de uma bancada. Uma bancada pode ser simultaneamente ligada a apenas dois armários de ferramentas.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>cápsula de transporte</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Um cápsula de carga lançável de viagem suborbital capaz de transportar pessoas, itens, ou animais. Pode ser usada para transporte, ataques surpresa, ou reforçar as batalhas.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>monitor de sinais vitais</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Aumenta a qualidade do tratamento dos pacientes. Precisa de ser colocado junto a uma cama médica. Uma cama médica só pode ser ligada a apenas um monitor de sinais vitais.</VitalsMonitor.description>
+  
 </LanguageData>

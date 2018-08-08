@@ -1,13 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <PlayerColony.label>Recém-chegados</PlayerColony.label>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>Recém Chegados</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Sua própria comunidade.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>colono</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>colonos</PlayerColony.pawnsPlural>
-
-  <PlayerTribe.label>Nova tribo</PlayerTribe.label>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>Nova Tribo</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
   <PlayerTribe.description>Sua própria tribo.</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>tribo</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>nativos</PlayerTribe.pawnsPlural>
-
-
+  
 </LanguageData>

@@ -1,69 +1,102 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Added body parts -->
-
-  <PegLeg.label>perna de pau</PegLeg.label>
-  <PegLeg.labelNoun>a peg leg</PegLeg.labelNoun>
-
-  <WoodenFoot.label>wooden foot</WoodenFoot.label>
-  <WoodenFoot.labelNoun>a wooden foot</WoodenFoot.labelNoun>
-
-  <Denture.label>dentadura</Denture.label>
-  <Denture.labelNoun>a denture</Denture.labelNoun>
-
-  <SimpleProstheticLeg.label>perna protética simples</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
-
-  <SimpleProstheticArm.label>braço protético simples</SimpleProstheticArm.label>
-  <SimpleProstheticArm.comps.0.tools.0.label>punho</SimpleProstheticArm.comps.0.tools.0.label>
-  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
-
-  <SimpleProstheticHeart.label>prosthetic heart</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.labelNoun>a prosthetic heart</SimpleProstheticHeart.labelNoun>
-
-  <CochlearImplant.label>cochlear implant</CochlearImplant.label>
-  <CochlearImplant.labelNoun>a cochlear implant</CochlearImplant.labelNoun>
-
-  <BionicEye.label>olho biônico</BionicEye.label>
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
-
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>braço de archotech</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>um braço de archotech</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>olho de archotech</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>um olho de archotech</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>perna de archotech</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>uma perna de archotech</ArchotechLeg.labelNoun>
+  
+  <!-- EN: bionic arm -->
   <BionicArm.label>braço biônico</BionicArm.label>
-  <BionicArm.comps.0.tools.0.label>punho</BionicArm.comps.0.tools.0.label>
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
-
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>um braço biônico</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>orelha biônica</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>uma orelha biônica</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>olho biônico</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>um olho biônico</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>coração biônico</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>um coração biônico</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
   <BionicLeg.label>perna biônica</BionicLeg.label>
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
-
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
-
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
-
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
-
-  <BionicEar.label>bionic ear</BionicEar.label>
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
-
-  <PowerClaw.label>garra potente</PowerClaw.label>
-  <PowerClaw.comps.0.tools.0.label>garra</PowerClaw.comps.0.tools.0.label>
-  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
-
-  <ArchotechEye.label>archotech eye</ArchotechEye.label>
-  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
-
-  <ArchotechArm.label>archotech arm</ArchotechArm.label>
-  <ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
-  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
-
-  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
-  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
-
-
-  <!--<ScytherBlade.label>lâmina de ceifeiro</ScytherBlade.label>-->
-  <!--<ScytherBlade.comps.0.tools.0.label>lâmina</ScytherBlade.comps.0.tools.0.label>-->
-  <!--<ScytherBlade.comps.0.tools.1.label>ponta</ScytherBlade.comps.0.tools.1.label>-->
-
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>uma perna biônica</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>coluna biônica</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>uma coluna biônica</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>estômago biônico</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>um estômago biônico</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>implante coclear</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>um implante coclear</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>dentadura</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>uma dentadura</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>perna de pau</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>uma perna de pau</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>garra energizada</PowerClaw.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>garra</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>uma garra energizada</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>braço protético simples</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>punho</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>um braço protético simples</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>coração protético</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>um coração protético</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>perna protética simples</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>uma perna protética simples</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>pé de madeira</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>um pé de madeira</WoodenFoot.labelNoun>
+  
 </LanguageData>

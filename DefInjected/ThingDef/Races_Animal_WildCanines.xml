@@ -1,136 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Warg -->
-
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>raposa ártica</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>Um pequeno predador adaptado a climas frios. Normalmente caça pequenos animais, como camundongos e ratazanas, às vezes se esgueirando por um metro de neve para alcançar sua presa.</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>garra esquerda</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>garra direita</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>cabeça</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>raposa</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>Uma pequena raposa originalmente da parte norte do continente africano. Ela caça criaturas pequenas e tem orelhas muito grandes para se resfriar no calor.</Fox_Fennec.description>
+  <!-- EN: foxmeat -->
+  <Fox_Fennec.race.meatLabel>raposa</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>garra esquerda</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>garra direita</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>cabeça</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>raposa vermelha</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>Um pequeno canino solitário evoluiu para caçar pequenas presas em climas temperados. Os frangos odeiam raposas devido à sua capacidade de destruir um galinheiro inteiro em minutos.</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>garra esquerda</Fox_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>garra direita</Fox_Red.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>cabeça</Fox_Red.tools.head.label>
+  
+  <!-- EN: warg -->
   <Warg.label>warg</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
   <Warg.description>Criaturas muito musculosas parecidas com o lobo. Os cientistas dizem que os wargs são os descendentes de animais que eram armas biológicas militares criados para a supressão populacional. Os supersticiosos veem eles como as ferramentas de um deus irado. Só comem carne ou cadáveres.</Warg.description>
-  <Warg.tools.0.label>left claw</Warg.tools.0.label>
-  <Warg.tools.1.label>right claw</Warg.tools.1.label>
-  <Warg.tools.3.label>head</Warg.tools.3.label>
-  <Warg_Leather.label>pele de warg</Warg_Leather.label>
-  <Warg_Leather.description>pele de warg</Warg_Leather.description>
-  <Warg_Leather.stuffProps.stuffAdjective>pele de warg</Warg_Leather.stuffProps.stuffAdjective>
-  <Warg_Meat.label>carne de warg</Warg_Meat.label>
-  <Warg_Meat.description>carne de warg</Warg_Meat.description>
-  <Warg_Corpse.label>cadáver de warg</Warg_Corpse.label>
-  <Warg_Corpse.description>cadáver de warg</Warg_Corpse.description>
-
-
-  <!-- Wolves -->
-
-  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
-  <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</Wolf_Timber.description>
-  <Wolf_Timber.tools.0.label>left claw</Wolf_Timber.tools.0.label>
-  <Wolf_Timber.tools.1.label>right claw</Wolf_Timber.tools.1.label>
-  <Wolf_Timber.tools.3.label>head</Wolf_Timber.tools.3.label>
-  <Wolf_Timber_Leather.label>timber wolf leather</Wolf_Timber_Leather.label>
-  <Wolf_Timber_Leather.description>timber wolf leather</Wolf_Timber_Leather.description>
-  <Wolf_Timber_Leather.stuffProps.stuffAdjective>timber wolf leather</Wolf_Timber_Leather.stuffProps.stuffAdjective>
-  <Wolf_Timber_Meat.label>wolfmeat</Wolf_Timber_Meat.label>
-  <Wolf_Timber_Meat.description>wolfmeat</Wolf_Timber_Meat.description>
-  <Wolf_Timber_Corpse.label>timber wolf corpse</Wolf_Timber_Corpse.label>
-  <Wolf_Timber_Corpse.description>timber wolf corpse</Wolf_Timber_Corpse.description>
-
-  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
-  <Wolf_Arctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Arctic.description>
-  <Wolf_Arctic.tools.0.label>left claw</Wolf_Arctic.tools.0.label>
-  <Wolf_Arctic.tools.1.label>right claw</Wolf_Arctic.tools.1.label>
-  <Wolf_Arctic.tools.3.label>head</Wolf_Arctic.tools.3.label>
-  <Wolf_Arctic_Leather.label>arctic wolf leather</Wolf_Arctic_Leather.label>
-  <Wolf_Arctic_Leather.description>arctic wolf leather</Wolf_Arctic_Leather.description>
-  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>arctic wolf leather</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Wolf_Timber -->
-  <Wolf_Arctic_Corpse.label>arctic wolf corpse</Wolf_Arctic_Corpse.label>
-  <Wolf_Arctic_Corpse.description>arctic wolf corpse</Wolf_Arctic_Corpse.description>
-
-
-  <!-- Fox fennec -->
-
-  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
-  <Fox_Fennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat.</Fox_Fennec.description>
-  <Fox_Fennec.tools.0.label>left claw</Fox_Fennec.tools.0.label>
-  <Fox_Fennec.tools.1.label>right claw</Fox_Fennec.tools.1.label>
-  <Fox_Fennec.tools.3.label>head</Fox_Fennec.tools.3.label>
-  <Fox_Fennec_Leather.label>fennec fox leather</Fox_Fennec_Leather.label>
-  <Fox_Fennec_Leather.description>fennec fox leather</Fox_Fennec_Leather.description>
-  <Fox_Fennec_Leather.stuffProps.stuffAdjective>fennec fox leather</Fox_Fennec_Leather.stuffProps.stuffAdjective>
-  <Fox_Fennec_Meat.label>foxmeat</Fox_Fennec_Meat.label>
-  <Fox_Fennec_Meat.description>foxmeat</Fox_Fennec_Meat.description>
-  <Fox_Fennec_Corpse.label>fennec fox corpse</Fox_Fennec_Corpse.label>
-  <Fox_Fennec_Corpse.description>fennec fox corpse</Fox_Fennec_Corpse.description>
-
-
-  <!-- Fox red -->
-
-  <Fox_Red.label>red fox</Fox_Red.label>
-  <Fox_Red.description>A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes.</Fox_Red.description>
-  <Fox_Red.tools.0.label>left claw</Fox_Red.tools.0.label>
-  <Fox_Red.tools.1.label>right claw</Fox_Red.tools.1.label>
-  <Fox_Red.tools.3.label>head</Fox_Red.tools.3.label>
-  <Fox_Red_Leather.label>red fox leather</Fox_Red_Leather.label>
-  <Fox_Red_Leather.description>red fox leather</Fox_Red_Leather.description>
-  <Fox_Red_Leather.stuffProps.stuffAdjective>red fox leather</Fox_Red_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Fox_Fennec -->
-  <Fox_Red_Corpse.label>red fox corpse</Fox_Red_Corpse.label>
-  <Fox_Red_Corpse.description>red fox corpse</Fox_Red_Corpse.description>
-
-
-  <!-- Fox arctic -->
-
-  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
-  <Fox_Arctic.description>A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</Fox_Arctic.description>
-  <Fox_Arctic.tools.0.label>left claw</Fox_Arctic.tools.0.label>
-  <Fox_Arctic.tools.1.label>right claw</Fox_Arctic.tools.1.label>
-  <Fox_Arctic.tools.3.label>head</Fox_Arctic.tools.3.label>
-  <Fox_Arctic_Leather.label>arctic fox leather</Fox_Arctic_Leather.label>
-  <Fox_Arctic_Leather.description>arctic fox leather</Fox_Arctic_Leather.description>
-  <Fox_Arctic_Leather.stuffProps.stuffAdjective>arctic fox leather</Fox_Arctic_Leather.stuffProps.stuffAdjective>
-  <!-- Use Meat From: Fox_Fennec -->
-  <Fox_Arctic_Corpse.label>arctic fox corpse</Fox_Arctic_Corpse.label>
-  <Fox_Arctic_Corpse.description>arctic fox corpse</Fox_Arctic_Corpse.description>
-
-
-  <!--<WolfTimber.label>lobo-cinzento</WolfTimber.label>-->
-  <!--<WolfTimber.description>Um predador robusto longamente temido por muitas culturas antigas da Terra. Como caçadores em matilha, os lobos tem uma vida social complexa e são ferozmente inteligentes.</WolfTimber.description>-->
-  <!--<WolfTimber_Leather.label>pele de lobo-cinzento</WolfTimber_Leather.label>-->
-  <!--<WolfTimber_Leather.description>pele de lobo-cinzento</WolfTimber_Leather.description>-->
-  <!--<WolfTimber_Leather.stuffProps.stuffAdjective>pele de lobo-cinzento</WolfTimber_Leather.stuffProps.stuffAdjective>-->
-  <!--<WolfTimber_Meat.label>carne de lobo</WolfTimber_Meat.label>-->
-  <!--<WolfTimber_Meat.description>carne de lobo</WolfTimber_Meat.description>-->
-  <!--<WolfTimber_Corpse.label>cadáver de lobo-cinzento</WolfTimber_Corpse.label>-->
-  <!--<WolfTimber_Corpse.description>cadáver de lobo-cinzento</WolfTimber_Corpse.description>-->
-  <!--<WolfArctic.label>lobo-do-ártico</WolfArctic.label>-->
-  <!--<WolfArctic.description>Um variante ártico do velho lobo da Terra. Como caçadores em matilha, os lobos tem uma vida social complexa e são ferozmente inteligentes.</WolfArctic.description>-->
-  <!--<WolfArctic_Leather.label>pele de lobo-do-ártico</WolfArctic_Leather.label>-->
-  <!--<WolfArctic_Leather.description>pele de lobo-do-ártico</WolfArctic_Leather.description>-->
-  <!--<WolfArctic_Leather.stuffProps.stuffAdjective>pele de lobo-do-ártico</WolfArctic_Leather.stuffProps.stuffAdjective>-->
-  <!-- Use Meat From: WolfTimber -->
-  <!--<WolfArctic_Corpse.label>cadáver de lobo-do-ártico</WolfArctic_Corpse.label>-->
-  <!--<WolfArctic_Corpse.description>cadáver de lobo-do-árticoo</WolfArctic_Corpse.description>-->
-  <!--<FoxFennec.label>feneco</FoxFennec.label>-->
-  <!--<FoxFennec.description>Uma pequena raposa originalmente da parte do norte do continente Áfricano da Terra. Ela caça pequenas criaturas e tem orelhas muito grandes.</FoxFennec.description>-->
-  <!--<FoxFennec_Leather.label>pele de feneco</FoxFennec_Leather.label>-->
-  <!--<FoxFennec_Leather.description>pele de feneco</FoxFennec_Leather.description>-->
-  <!--<FoxFennec_Leather.stuffProps.stuffAdjective>pele de feneco</FoxFennec_Leather.stuffProps.stuffAdjective>-->
-  <!--<FoxFennec_Meat.label>carne de raposa</FoxFennec_Meat.label>-->
-  <!--<FoxFennec_Meat.description>carne de raposa</FoxFennec_Meat.description>-->
-  <!--<FoxFennec_Corpse.label>cadáver de feneco</FoxFennec_Corpse.label>-->
-  <!--<FoxFennec_Corpse.description>cadáver de feneco</FoxFennec_Corpse.description>-->
-  <!--<FoxRed.label>raposa-vermelha</FoxRed.label>-->
-  <!--<FoxRed.description>Um pequeno canino solitário evoluído para caçar pequenas presas em climas temperados.</FoxRed.description>-->
-  <!--<FoxRed_Leather.label>pele de raposa-vermelha</FoxRed_Leather.label>-->
-  <!--<FoxRed_Leather.description>pele de raposa-vermelha</FoxRed_Leather.description>-->
-  <!--<FoxRed_Leather.stuffProps.stuffAdjective>pele de raposa-vermelha</FoxRed_Leather.stuffProps.stuffAdjective>-->
-  <!-- Use Meat From: FoxFennec -->
-  <!--<FoxRed_Corpse.label>cadáver de raposa-vermelha</FoxRed_Corpse.label>-->
-  <!--<FoxRed_Corpse.description>cadáver de raposa-vermelha</FoxRed_Corpse.description>-->
-  <!--<FoxArctic.label>raposa-do-ártico</FoxArctic.label>-->
-  <!--<FoxArctic.description>Um pequeno predador adaptado para o extremo norte. Ele geralmente caça animais pequenos como ratos e ratazanas, às vezes cava através de um metro de neve para alcançar a sua presa.</FoxArctic.description>-->
-  <!--<FoxArctic_Leather.label>pele de raposa-do-ártico</FoxArctic_Leather.label>-->
-  <!--<FoxArctic_Leather.description>pele de raposa-do-ártico</FoxArctic_Leather.description>-->
-  <!--<FoxArctic_Leather.stuffProps.stuffAdjective>pele de raposa-do-ártico</FoxArctic_Leather.stuffProps.stuffAdjective>-->
-  <!--<FoxArctic_Corpse.label>cadáver de raposa-do-ártico</FoxArctic_Corpse.label>-->
-  <!--<FoxArctic_Corpse.description>cadáver de raposa-do-ártico</FoxArctic_Corpse.description>-->
-
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>garra esquerda</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>garra direita</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>presas de navalha</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>cabeça</Warg.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>Lobo Ártico</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>Uma variante ártica do antigo lobo. Como caçadores de bando, os lobos têm uma vida social complexa e são ferozmente inteligentes.</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>garra esquerda</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>garra direita</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>cabeça</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>Lobo de madeira</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>Um predador robusto há muito tempo temido por muitas culturas antigas da Terra. Como caçadores de bando, os lobos têm vidas sociais complexas e são ferozmente inteligentes.</Wolf_Timber.description>
+  <!-- EN: wolfmeat -->
+  <Wolf_Timber.race.meatLabel>carne de lobo</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>garra esquerda</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>garra direita</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>cabeça</Wolf_Timber.tools.head.label>
+  
 </LanguageData>

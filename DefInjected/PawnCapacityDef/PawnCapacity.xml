@@ -1,22 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Consciousness.label>consciência</Consciousness.label>
-  <Consciousness.labelMechanoids>Process. de dados</Consciousness.labelMechanoids>
-
-  <Moving.label>movimento</Moving.label>
-  <Manipulation.label>manipulação</Manipulation.label>
-
-  <Talking.label>fala</Talking.label>
-  <Talking.labelMechanoids>Comunicação</Talking.labelMechanoids>
-
-  <Eating.label>alimentação</Eating.label>
-  <Sight.label>visão</Sight.label>
-  <Hearing.label>audição</Hearing.label>
-  <Breathing.label>respiração</Breathing.label>
+  
+  <!-- EN: blood filtration -->
   <BloodFiltration.label>filtração de sangue</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>reprocessamento de fluidos</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
   <BloodPumping.label>bombeio de sangue</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>Geração de energia</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>respiração</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>consciência</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Process. de dados</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>alimentação</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>audição</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>manipulação</Manipulation.label>
+  
+  <!-- EN: metabolism -->
   <Metabolism.label>metabolismo</Metabolism.label>
-
-
+  
+  <!-- EN: moving -->
+  <Moving.label>movimento</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>visão</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>fala</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Comunicação</Talking.labelMechanoids>
+  
 </LanguageData>

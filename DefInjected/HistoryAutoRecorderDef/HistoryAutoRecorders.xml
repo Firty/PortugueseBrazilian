@@ -1,33 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Wealth_Total.label>riqueza (total)</Wealth_Total.label>
-  <Wealth_Total.graphLabelY>Quantidade</Wealth_Total.graphLabelY>
-
-  <Wealth_Items.label>riqueza (itens)</Wealth_Items.label>
-  <Wealth_Items.graphLabelY>Quantidade</Wealth_Items.graphLabelY>
-
-  <Wealth_Buildings.label>riqueza (estruturas)</Wealth_Buildings.label>
-  <Wealth_Buildings.graphLabelY>Quantidade</Wealth_Buildings.graphLabelY>
-
-  <Wealth_TameAnimals.label>riqueza (animais)</Wealth_TameAnimals.label>
-  <Wealth_TameAnimals.graphLabelY>Quantidade</Wealth_TameAnimals.graphLabelY>
-
-  <FreeColonists.label>colonos livres</FreeColonists.label>
-  <FreeColonists.graphLabelY>Colonos</FreeColonists.graphLabelY>
-
-  <Prisoners.label>prisioneiros</Prisoners.label>
-  <Prisoners.graphLabelY>Prisioneiros</Prisoners.graphLabelY>
-
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>recuperação</Adaptation.label>
+  <!-- EN: Days -->
+  <Adaptation.graphLabelY>Dias</Adaptation.graphLabelY>
+  
+  <!-- EN: mood -->
   <ColonistMood.label>humor</ColonistMood.label>
-  <ColonistMood.graphLabelY>Porcentagem</ColonistMood.graphLabelY>
-
-
-  <!--<WealthTotal.label>riqueza (total)</WealthTotal.label>-->
-  <!--<WealthTotal.graphLabelY>Quantidade</WealthTotal.graphLabelY>-->
-  <!--<WealthItems.label>riqueza (itens)</WealthItems.label>-->
-  <!--<WealthItems.graphLabelY>Quantidade</WealthItems.graphLabelY>-->
-  <!--<WealthBuildings.label>riqueza (estruturas)</WealthBuildings.label>-->
-  <!--<WealthBuildings.graphLabelY>Quantidade</WealthBuildings.graphLabelY>-->
-
+  <!-- EN: Percent -->
+  <ColonistMood.graphLabelY>Por cento</ColonistMood.graphLabelY>
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>colonos livres</FreeColonists.label>
+  <!-- EN: Colonists -->
+  <FreeColonists.graphLabelY>Colonos</FreeColonists.graphLabelY>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>recuperação pop</PopAdaptation.label>
+  <!-- EN: Days -->
+  <PopAdaptation.graphLabelY>Dias</PopAdaptation.graphLabelY>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>intento pop x10</PopIntent.label>
+  <!-- EN: Days -->
+  <PopIntent.graphLabelY>Dias</PopIntent.graphLabelY>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>prisioneiros</Prisoners.label>
+  <!-- EN: Prisoners -->
+  <Prisoners.graphLabelY>prisioneiros</Prisoners.graphLabelY>
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>pontos de diversão /10</ThreatPoints.label>
+  <!-- EN: Points -->
+  <ThreatPoints.graphLabelY>pontos</ThreatPoints.graphLabelY>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>riqueza (estruturas)</Wealth_Buildings.label>
+  <!-- EN: Amount -->
+  <Wealth_Buildings.graphLabelY>Quantidade</Wealth_Buildings.graphLabelY>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>riqueza (itens)</Wealth_Items.label>
+  <!-- EN: Amount -->
+  <Wealth_Items.graphLabelY>Quantidade</Wealth_Items.graphLabelY>
+  
+  <!-- EN: wealth (animals) -->
+  <Wealth_TameAnimals.label>riqueza (animais)</Wealth_TameAnimals.label>
+  <!-- EN: Amount -->
+  <Wealth_TameAnimals.graphLabelY>Quantidade</Wealth_TameAnimals.graphLabelY>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>riqueza (total)</Wealth_Total.label>
+  <!-- EN: Amount -->
+  <Wealth_Total.graphLabelY>Quantidade</Wealth_Total.graphLabelY>
+  
 </LanguageData>

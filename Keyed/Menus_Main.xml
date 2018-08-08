@@ -1,198 +1,388 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!--=========== Main menu ==========-->
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>Tutorial</Tutorial>
+  <!-- EN: New colony -->
   <NewColony>Nova colônia</NewColony>
+  <!-- EN: Back to game -->
   <BackToGame>Voltar ao Jogo</BackToGame>
+  <!-- EN: Review scenario -->
   <ReviewScenario>Revisão de cenário</ReviewScenario>
+  <!-- EN: Save -->
   <Save>Salvar</Save>
+  <!-- EN: Load game -->
   <LoadGame>Carregar jogo</LoadGame>
+  <!-- EN: Options -->
   <Options>Opções</Options>
+  <!-- EN: Mods -->
   <Mods>Mods</Mods>
+  <!-- EN: Save translation report -->
   <SaveTranslationReport>Salvar relatório da tradução</SaveTranslationReport>
-  <GeneratingTranslationReport>Gerar relatório da tradução</GeneratingTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Gerando relatório da tradução</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Limpar arquivos da tradução</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Limpando arquivos da tradução</CleaningTranslationFiles>
+  <!-- EN: Credits -->
   <Credits>Créditos</Credits>
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>Sair para o menu principal</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Salvar e sair para o Menu</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
   <QuitToOS>Sair do jogo</QuitToOS>
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>Salvar e sair do jogo</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
   <FictionPrimer>Ficção primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog>Blog de Ludeon</LudeonBlog>
+  <!-- EN: Forums -->
   <Forums>Fóruns</Forums>
+  <!-- EN: Official wiki -->
   <OfficialWiki>Wiki oficial</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>Twitter do Tynan</TynansTwitter>
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>Livro de design do Tynan</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Ajude a traduzir o RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>Comprar trilha sonora</BuySoundtrack>
+  <!-- EN: Create world -->
   <CreateWorld>Criar mundo</CreateWorld>
 
-  <!--=========== Create/review world ================-->
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Todas as traduções do RimWorld são feitas por fãs. Esta tradução feita por fãs foi criada pelos seguintes voluntários:\n\n {0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>Você pode contribuir também. Clique abaixo para saber mais (abre o navegador da web).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Saber mais</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Aviso: esta é uma construção de desenvolvimento instável. Isso significa que estamos realizando experimentos de design e desenvolvendo técnicas.\n\nAlguns itens ficarão temporariamente desbalanceados intencionalmente. Esse é um método clássico de design de jogos em que deliberadamente nos distanciamos demais com uma mudança de equilíbrio para entender melhor os limites de equilíbrio. Podemos então usar essa informação para decidir sobre os pontos finais de equilíbrio.\n\nHá também bugs, incluindo os que quebram o jogo. A compatibilidade de salvamento pode ser interrompida a qualquer momento.\n\nSe você estiver bem com tudo isso, obrigado por testar! Se você não quer se sujeitar às nossas experiências, por favor, jogue a última versão estável.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>Revisão do mundo</ReviewWorld>
+  <!-- EN: Generate -->
   <WorldGenerate>Gerar</WorldGenerate>
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Salvar e concluir</WorldSaveAndFinish>
+  <!-- EN: Reset -->
   <Reset>Restaurar</Reset>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>Cobertura do globo</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>Chuva geral</PlanetRainfall>
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>Temperatura geral</PlanetTemperature>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>Baixa</PlanetRainfall_Low>
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <!-- EN: High -->
   <PlanetRainfall_High>Alta</PlanetRainfall_High>
+  <!-- EN: Low -->
   <PlanetTemperature_Low>Baixa</PlanetTemperature_Low>
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <!-- EN: High -->
   <PlanetTemperature_High>Alta</PlanetTemperature_High>
+  <!-- EN: Seed -->
   <WorldSeed>Semente</WorldSeed>
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>Semente aleatória</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>O planeta é sempre do mesmo diâmetro, mas já que é muito maior do que o necessário para o jogo, nós não geramos toda a superfície porque pode levar um tempo muito longo. Esta é a percentagem da superfície que você quer gerado.</PlanetCoverageTip>
+  <!-- EN: Factions -->
   <WorldFactionsTab>Facções</WorldFactionsTab>
 
-  <!--=========== Select world ===================-->
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>Selecionar mundo</SelectWorld>
+  <!-- EN: Select -->
   <WorldChooseButton>Selecionar</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Nenhum arquivo de mundo encontrado. Crie um mundo primeiro.</NoWorldsFilesFound>
-
-  <!--=========== Version info ==========-->
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>A versão {0} está disponível. Verifique ludeon.com para mais informações.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
   <BuildUpToDate>Esta é a versão mais recente.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
   <ErrorGettingVersionInfo>Erro ao obter informação de versão: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
   <LoadingVersionInfo>Carregando informações de versão...</LoadingVersionInfo>
 
-  <!--=========== World generator =========-->
+  <!-- World generator -->
+  <!-- EN: Generate world -->
   <GenerateWorld>Gerar mundo</GenerateWorld>
 
-  <!--=========== Mods config ==========-->
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
   <OpenSteamWorkshop>Abrir Oficina Steam</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
   <GetModsFromForum>Obter mods no fórum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
   <OpenModsDataFolder>Abrir pasta de mods</OpenModsDataFolder>
-  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Mostrar localização dos mods</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
   <ConfirmDisableCoreMod>Tem certeza de que deseja desativar o mod núcleo? O jogo não irá funcionar a menos que você tenha um outro mod que substitui todas as funcionalidades do núcleo.\n\nLembre-se, outros mods pode substituir defs no mod núcleo usando o mesmo defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>Tem certeza de que deseja apagar todo o conteúdo de {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
   <Unsubscribe>Desinscrever</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>Tem certeza de que deseja cancelar a inscrição de {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
   <Author>Autor</Author>
+  <!-- EN: Workshop page -->
   <WorkshopPage>Página da Oficina</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
   <UploadToSteamWorkshop>Enviar para a Oficina Steam</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
   <UpdateOnSteamWorkshop>Atualização na Oficina Steam</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
   <UploadAlreadyInProgress>Envio já está em andamento.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
   <WorkshopSubmissionFailed>Submissão na Oficina falhou.\n\nRazão: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
   <WorkshopUploadSucceeded>Enviado com sucesso {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
   <Downloading>Baixando</Downloading>
+  <!-- EN: Source -->
   <Source>Fonte</Source>
+  <!-- EN: For version: {0} -->
   <ModTargetVersion>Para a versão: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>Este mod não foi feito para esta versão do RimWorld, e provavelmente não irá funcionar corretamente.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>O mod precisa de uma versão alvo bem formatado em About.xml. Como isto: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
+  <MessageModNeedsWellFormattedTargetVersion>O mod precisa de uma versão alvo bem formatado em About.xml. Como isto: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
   <DragToReorder>Arraste para reordenar</DragToReorder>
-
-  <!--=========== Select scenario =============-->
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
   <ChooseScenario>Escolha o cenário</ChooseScenario>
+  <!-- EN: Custom -->
   <ScenariosCustom>Personalizado</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
   <ScenariosSteamWorkshop>Oficina Steam</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
   <ScenarioEditor>Editor de cenário</ScenarioEditor>
+  <!-- EN: Delete -->
   <Delete>Excluir</Delete>
-
-  <!--============ Scenario editor ===============-->
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
   <Seed>semente</Seed>
+  <!-- EN: Load -->
   <Load>Carregar</Load>
+  <!-- EN: edit mode -->
   <EditMode>modo de edição</EditMode>
+  <!-- EN: Summary -->
   <Summary>Resumo</Summary>
+  <!-- EN: Add part -->
   <AddPart>Adicionar parte</AddPart>
+  <!-- EN: All text fields must be filled. -->
   <TextFieldsMustBeFilled>Todos os campos de texto devem ser preenchidos.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Você tem certeza de que deseja enviar isso para a Oficina Steam?\n\nVocê deve concordar com os termos de serviço da Oficina Steam. Encontre todos os termos aqui:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
   <ConfirmContentAuthor>Obviamente você só deve fazer upload de conteúdo que você mesmo criou.\n\nVocê criou este conteúdo por você mesmo?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
   <Incompatible>Incompatível</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
   <TooMany>Tem muitos (máx {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Pode ser atualizado na Oficina, já que você é o autor.</CanBeUpdatedOnWorkshop>
-
-  <!--=========== Select storyteller ==========-->
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Escolha o narrador</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
   <HowStorytellersWork>O narrador cria eventos como assalto de piratas, queda de recursos ou ataques de animais. Suas escolhas afetarão a história da sua colônia.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>Por favor, escolha um nível de dificuldade.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
   <Difficulty>Dificuldade</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Morte permanente</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Recarregar o jogo</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Por favor, escolha o modo de compromisso ou recarregue o modo a qualquer momento.</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Você pode salvar e carregar o jogo a qualquer momento.\n\nEsta é uma boa opção se você ainda estiver aprendendo o jogo, se ele se adequar ao seu estilo de jogo pessoal, se estiver usando mods que podem quebrar seu jogo ou se você pretendo auto-aplicar o modo de compromisso.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>No modo morte permanente, você recebe um arquivo de salvamento e só poderá salvar ao sair do jogo. Você não pode recarregar o jogo para corrigir erros, e quando a colônia perece, é isso.\n\nEsta é a maneira que o RimWorld foi concedido para ser jogado, com cada virada dramática - seja trágica ou esperançosa - irá desempenhar impacto total.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>O narrador e a dificuldade podem ser alterados a qualquer momento.</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>Modo impiedoso</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>O modo impiedoso é um modo de jogo especial em que todos os desafios são transformados em níveis extremos.\n\nModo sem obstáculos é desbloqueado automaticamente quando você alcança marcos específicos. No entanto, você pode desbloqueá-lo agora.\n\nEsta opção só é recomendada quando você tiver jogado um jogo de alta dificuldade ou dois e quiser ter uma boa chance de morrer apesar de seus melhores esforços.</ConfirmUnlockExtremeDifficulty>
 
-  <!--=========== Landing site select =========-->
+  <!-- Landing site select -->
+  <!-- EN: Select landing site -->
   <SelectLandingSite>Escolha um local de pouso</SelectLandingSite>
+  <!-- EN: Select random site -->
   <SelectRandomSite>Selecionar um local aleatório</SelectRandomSite>
+  <!-- EN: Select site -->
   <SelectSite>Selecionar local</SelectSite>
+  <!-- EN: Please select a landing site. -->
   <MustSelectLandingSite>Por favor, escolha um local de pouso</MustSelectLandingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
   <CannotLandBiome>Você não pode pousar sobre este bioma: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Bioma não implementado</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>Você não pode pousar em montanhas intransitáveis.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
   <BaseAlreadyThere>{0} já tem uma base lá.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Você já tem uma base lá.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
   <TileOccupied>Este azulejo está ocupado.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>Os assentamentos não podem estar diretamente juntos um ao outro.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
   <Biome>Bioma</Biome>
+  <!-- EN: Terrain -->
   <Terrain>Terreno</Terrain>
+  <!-- EN: Road -->
   <Road>Estrada</Road>
+  <!-- EN: River -->
   <River>Rio</River>
+  <!-- EN: Elevation -->
   <Elevation>Elevação</Elevation>
+  <!-- EN: Fertility -->
   <Fertility>Fertilidade</Fertility>
+  <!-- EN: Average temperature -->
   <AvgTemp>Temperatura média</AvgTemp>
+  <!-- EN: Rainfall -->
   <Rainfall>Chuva</Rainfall>
-  <SpecialFeatures>Special features</SpecialFeatures>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Características especiais</SpecialFeatures>
+  <!-- EN: northern coast -->
   <HasCoast0>Costa norte</HasCoast0>
+  <!-- EN: eastern coast -->
   <HasCoast1>Costa leste</HasCoast1>
+  <!-- EN: southern coast -->
   <HasCoast2>Costa sul</HasCoast2>
+  <!-- EN: western coast -->
   <HasCoast3>Costa oeste</HasCoast3>
-  <HasCaves>caves</HasCaves>
+  <!-- EN: caves -->
+  <HasCaves>cavernas</HasCaves>
+  <!-- EN: Faction base -->
   <FactionBase>Base de facção</FactionBase>
+  <!-- EN: Stone types -->
   <StoneTypesHere>Tipos de pedra</StoneTypesHere>
+  <!-- EN: Time zone -->
   <TimeZone>Fuso horário</TimeZone>
+  <!-- EN: Movement difficulty -->
   <MovementDifficulty>Dificuldade de movimento</MovementDifficulty>
-  <AnimalsCanGrazeNow>Os animais podem pastar agora</AnimalsCanGrazeNow>
-  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Animais podem pastar agora</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Freqüência média da doença</AverageDiseaseFrequency>
+  <!-- EN: per year -->
   <PerYear>por ano</PerYear>
-  <Forageability>Forageability</Forageability>
+  <!-- EN: Forageability -->
+  <Forageability>Foragibilidade</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
   <ConfirmRequiredWorkTypeDisabledForEveryone>Nenhuma das pessoas selecionadas pode fazer os seguintes trabalhos:\n\n{0}\n\nIsso pode tornar o jogo mais difícil do que o habitual. Você tem certeza de que deseja continuar?</ConfirmRequiredWorkTypeDisabledForEveryone>
 
-
-  <!--=========== Character chooser ==========-->
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
   <CreateCharacters>Criar personagens</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
   <FirstNameDesc>O primeiro nome do personagem.\n\nIsto só é exibido em alguns menus.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
   <ShortIdentifierDesc>Como o personagem será chamado.\n\nIsto é exibido em todos os momentos. Ele pode ser o primeiro ou o último nome, ou um apelido completamente separado.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
   <LastNameDesc>O sobrenome do personagem.\n\nIsto só é exibido em alguns menus.</LastNameDesc>
+  <!-- EN: Randomize -->
   <Randomize>Aleatorizar</Randomize>
+  <!-- EN: age {0} -->
   <AgeIndicator>Idade {0}</AgeIndicator>
+  <!-- EN: Backstory -->
   <Backstory>Passado</Backstory>
+  <!-- EN: Incapable of -->
   <IncapableOf>Incapaz de</IncapableOf>
+  <!-- EN: Traits -->
   <Traits>Traços</Traits>
+  <!-- EN: Permanent mood effect -->
   <PermanentMoodEffect>Efeito de humor permanente</PermanentMoodEffect>
+  <!-- EN: Skills -->
   <Skills>Habilidades</Skills>
+  <!-- EN: none -->
   <NoneLower>nenhum</NoneLower>
+  <!-- EN: Adulthood -->
   <Adulthood>Idade adulta</Adulthood>
+  <!-- EN: Childhood -->
   <Childhood>Infância</Childhood>
-  <Current>Current</Current>
+  <!-- EN: Current -->
+  <Current>Atual</Current>
+  <!-- EN: male -->
   <Male>masculino</Male>
+  <!-- EN: female -->
   <Female>feminino</Female>
+  <!-- EN: male -->
+  <MaleAnimal>macho</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>fêmea</FemaleAnimal>
+  <!-- EN: Pain -->
   <Pain>Dor</Pain>
+  <!-- EN: Health -->
   <Health>Saúde</Health>
+  <!-- EN: Relations -->
   <Relations>Relações</Relations>
+  <!-- EN: Team skills -->
   <TeamSkills>Habilidades da equipe</TeamSkills>
+  <!-- EN: Selected -->
   <StartingPawnsSelected>Selecionado</StartingPawnsSelected>
+  <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Deixado para trás</StartingPawnsLeftBehind>
-
-  <!--=========== Misc ==========-->
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
   <Start>Começar</Start>
+  <!-- EN: Advanced -->
   <Advanced>Avançado</Advanced>
+  <!-- EN: Next -->
   <Next>Próximo</Next>
+  <!-- EN: Back -->
   <Back>Voltar</Back>
+  <!-- EN: Gameplay -->
   <Gameplay>Jogabilidade</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
   <ConfirmQuit>Deseja realmente sair? Você perderá o progresso não salvo.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
   <EveryoneNeedsValidName>Cada pessoa precisa de um nome válido.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
   <RequiredWorkTypeDisabledForEveryone>Nenhuma das pessoas selecionadas pode fazer os seguintes trabalhos</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
   <Quit>Sair</Quit>
+  <!-- EN: Ignore -->
   <Ignore>Ignorar</Ignore>
-
-  <!--============ Progress bar==============-->
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
   <GeneratingWorld>Gerando mundo</GeneratingWorld>
+  <!-- EN: Generating planet -->
   <GeneratingPlanet>Gerando planeta</GeneratingPlanet>
+  <!-- EN: Generating map -->
   <GeneratingMap>Gerando mapa</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>Gerando mapa para novo encontro</GeneratingMapForNewEncounter>
-
-  <!--<AvgSummerTemp>Temperatura no verão</AvgSummerTemp>-->
-  <!--<AvgWinterTemp>Temperatura no inverno</AvgWinterTemp>-->
-  <!--<MovementTimeNow>Tempo de movimento atual</MovementTimeNow>-->
-  <!--<MovementTimeSummer>Tempo de movimento no verão</MovementTimeSummer>-->
-  <!--<MovementTimeWinter>Tempo de movimento no inverno</MovementTimeWinter>-->
 
 </LanguageData>

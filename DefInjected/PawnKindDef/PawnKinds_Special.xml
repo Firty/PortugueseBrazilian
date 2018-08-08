@@ -1,15 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: slave -->
   <Slave.label>escravo</Slave.label>
   <Slave.labelPlural>escravos</Slave.labelPlural>
-
+  
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>estranho de preto</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>mulher de preto</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>homem de preto</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>estranhos de preto</StrangerInBlack.labelPlural>
+  
+  <!-- EN: wild man -->
   <WildMan.label>homem selvagem</WildMan.label>
-  <WildMan.labelPlural>homens selvagens</WildMan.labelPlural>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>mulher selvagem</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>mulheres selvagens</WildMan.labelFemalePlural>
   <WildMan.labelMale>homem selvagem</WildMan.labelMale>
   <WildMan.labelMalePlural>homens selvagens</WildMan.labelMalePlural>
-  <WildMan.labelFemale>mulher selvagem</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>mulheres selvagens</WildMan.labelFemalePlural>
-
-
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>homens selvagens</WildMan.labelPlural>
+  
 </LanguageData>

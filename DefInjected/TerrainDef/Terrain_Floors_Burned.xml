@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BurnedWoodPlankFloor.label>piso de madeira queimado</BurnedWoodPlankFloor.label>
-  <BurnedWoodPlankFloor.description>Piso de tábuas de madeira queimado.</BurnedWoodPlankFloor.description>
-
+  
+  <!-- EN: burned carpet -->
   <BurnedCarpet.label>carpete queimado</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
   <BurnedCarpet.description>Carpete queimado.</BurnedCarpet.description>
-
-
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>piso de madeira queimado</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Piso de tábuas de madeira queimado.</BurnedWoodPlankFloor.description>
+  
 </LanguageData>

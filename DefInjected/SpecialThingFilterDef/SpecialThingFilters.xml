@@ -1,29 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>permitir corpo de colonos</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
   <AllowCorpsesColonist.description>Permite cadáveres de colonos antigos.</AllowCorpsesColonist.description>
-
+  
+  <!-- EN: allow stranger corpses -->
   <AllowCorpsesStranger.label>permitir corpo de estranhos</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
   <AllowCorpsesStranger.description>Permite que cadáveres de estranhos e inimigos antigos.</AllowCorpsesStranger.description>
-
-  <AllowRotten.label>permitir podre</AllowRotten.label>
-  <AllowRotten.description>Permite coisas orgânicas que começaram a apodrecer.</AllowRotten.description>
-
-  <AllowFresh.label>allow fresh</AllowFresh.label>
-  <AllowFresh.description>Allow organic things which haven't started to rot yet.</AllowFresh.description>
-
-  <AllowPlantFood.label>permitir plantas</AllowPlantFood.label>
-  <AllowPlantFood.description>Permite alimentos que são de qualidade equivalente às plantas não colhidas, como o feno.</AllowPlantFood.description>
-
-  <AllowSmeltable.label>permitir fundível</AllowSmeltable.label>
-  <AllowNonSmeltableWeapons.label>permitir não-fundível</AllowNonSmeltableWeapons.label>
-
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>permitir roupas contaminadas</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>Permitir roupas que já foram usadas por um cadáver. A maioria dos humanos acha que as roupas contaminadas são perturbadoras, e os comerciantes não aceitarão isso.</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>permitir fresco</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>Permitir coisas orgânicas que ainda não começaram a apodrecer.</AllowFresh.description>
+  
+  <!-- EN: allow clean apparel -->
   <AllowNonDeadmansApparel.label>per. roupas de pes. não mortas</AllowNonDeadmansApparel.label>
-  <AllowNonDeadmansApparel.description>Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowNonDeadmansApparel.description>
-
-  <AllowDeadmansApparel.label>allow tainted apparel</AllowDeadmansApparel.label>
-  <AllowDeadmansApparel.description>Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it.</AllowDeadmansApparel.description>
-
-
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>Permitir roupas que nunca foram usadas por um cadáver. A maioria dos humanos acha que as roupas contaminadas são perturbadoras, e os comerciantes não aceitarão isso.</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>permitir não-fundível</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>permitir plantas</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Permite alimentos que são de qualidade equivalente às plantas não colhidas, como o feno.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>permitir podre</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Permite coisas orgânicas que começaram a apodrecer.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>permitir fundível</AllowSmeltable.label>
+  
 </LanguageData>

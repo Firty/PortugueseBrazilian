@@ -1,10 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <HugeRiver.label>rio enorme</HugeRiver.label>
-  <LargeRiver.label>rio grande</LargeRiver.label>
-  <River.label>rio</River.label>
+  
+  <!-- EN: creek -->
   <Creek.label>riacho</Creek.label>
-
-
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>rio enorme</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>rio grande</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>rio</River.label>
+  
 </LanguageData>

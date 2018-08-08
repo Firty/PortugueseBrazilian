@@ -1,13 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Wealth.label>riqueza</Wealth.label>
-  <Population.label>população</Population.label>
+  
+  <!-- EN: colonist mood -->
   <ColonistMood.label>humor do colono</ColonistMood.label>
-
-
-  <!--<Wealth.graphLabelY>Quantidade</Wealth.graphLabelY>-->
-  <!--<Population.graphLabelY>Colonos</Population.graphLabelY>-->
-  <!--<ColonistMood.graphLabelY>Porcentagem</ColonistMood.graphLabelY>-->
-
+  
+  <!-- EN: debug -->
+  <Debug.label>debug</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>população</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>riqueza</Wealth.label>
+  
 </LanguageData>
