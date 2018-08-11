@@ -213,7 +213,7 @@
   <!-- EN: T -->
   <WornByCorpseChar>D</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>sem teto</DeterioratingUnroofed>
+  <DeterioratingUnroofed>sem telhado</DeterioratingUnroofed>
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>ao ar livre</DeterioratingOutdoors>
   <!-- EN: Deteriorating because of -->
@@ -413,7 +413,7 @@
   <!-- EN: Build roof -->
   <BuildRoof>Construir telhado</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>Área sem teto</NoRoof>
+  <NoRoof>Área sem telhado</NoRoof>
   <!-- EN: Snow clear -->
   <SnowClear>Área sem neve</SnowClear>
   <!-- EN: Area {0} -->
@@ -643,7 +643,7 @@
   <!-- EN: Indoors -->
   <Indoors>Interior</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>Sem teto</IndoorsUnroofed>
+  <IndoorsUnroofed>Sem telhado</IndoorsUnroofed>
   <!-- EN: Outdoors -->
   <Outdoors>Exterior</Outdoors>
 
