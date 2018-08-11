@@ -178,7 +178,7 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Você realmente deseja desativar permanentemente o modo de desenvolvimento neste computador?</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>Você realmente deseja desativar permanentemente o modo desenvolvedor neste computador?</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
   <!-- EN: Research -->
