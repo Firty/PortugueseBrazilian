@@ -18,7 +18,7 @@
   <!-- EN: leader {0} is unavailable -->
   <LeaderUnavailable>líder {0} está indisponível</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
-  <LeaderUnavailableNoLeader>leader está indisponível</LeaderUnavailableNoLeader>
+  <LeaderUnavailableNoLeader>líder está indisponível</LeaderUnavailableNoLeader>
   
   <!-- EN: Fire at {0} -->
   <FireAt>Atirar em {0}</FireAt>

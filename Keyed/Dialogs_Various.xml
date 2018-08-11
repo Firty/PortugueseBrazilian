@@ -749,7 +749,7 @@
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
   <JoyThresholdColumnDesc>Os colonos irão usar esta droga apenas seus níveis de diversão estiver abaixo deste limiar.</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>Uma quantidade da droga para pegar adicionalmente quando reunir-la para o consumo, a fim de evitar ter que visitar o estoque de drogas o tempo todo.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>Uma quantidade da droga para pegar adicionalmente quando reuni-la para o consumo, a fim de evitar ter que visitar o estoque de drogas o tempo todo.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
   <DrugUsageTipForAddiction>Para vícios\n\nUse esta droga para alimentar as necessidades de dependência já estabelecidas.\n\nMesmo se desativado, alguns personagens com traços específicos, ou em colapsos mentais, podem usar a droga de qualquer maneira.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
