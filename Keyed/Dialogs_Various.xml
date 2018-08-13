@@ -194,7 +194,7 @@
   <!-- EN: Locked -->
   <Locked>Trancado</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>Até que você construa uma BANCADA DE PESQUISA, os colonos não serão capazes de fazer alguma pesquisa.\n\nNo entanto, você ainda poderá olhar para os projetos de pesquina.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>Até que você construa uma BANCADA DE PESQUISA, os colonos não serão capazes de fazer alguma pesquisa.\n\nNo entanto, você ainda poderá olhar para os projetos de pesquisa.</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
   <ResearchPrerequisites>Pré-requisitos de pesquisa</ResearchPrerequisites>
   <!-- EN: Required research bench -->
@@ -665,7 +665,7 @@
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Você deseja fazer envio de seus registros de dados de jogo para o servidor de RimWorld, a fim de ajudar os desenvolvedores a equilibrar o jogo? Se você concordar, seus dados serão enviados a cada {0} dias (e em alguns outros casos raros, como o fim do jogo). preferências de privacidade podem ser alteradas mais tarde no menu de opções.</HistoryUploadMessage>
+  <HistoryUploadMessage>Você deseja fazer envio de seus registros de dados de jogo para o servidor de RimWorld, a fim de ajudar os desenvolvedores a equilibrar o jogo? Se você concordar, seus dados serão enviados a cada {0} dias (e em alguns outros casos raros, como o fim do jogo). Preferências de privacidade podem ser alteradas mais tarde no menu de opções.</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
   <HistoryUploadMessagePlayerName>Mesmo que a história seja enviado anonimamente, você pode anexar o seu nome.</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
@@ -765,7 +765,7 @@
   <!-- EN: Imprisoned colonist -->
   <MedGroupImprisonedColonist>Colono preso</MedGroupImprisonedColonist>
   <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Colonia animal</MedGroupColonyAnimal>
+  <MedGroupColonyAnimal>Colônia animal</MedGroupColonyAnimal>
   <!-- EN: Neutral animal -->
   <MedGroupNeutralAnimal>Animal neutro</MedGroupNeutralAnimal>
   <!-- EN: Neutral faction -->
@@ -787,7 +787,7 @@
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Alguns animais ou prisioneiros estão tentando se juntar a essa caravana. Se você movê-los, eles não conseguirão mais.\n\nAnimais, prisioneiros e colonos incapacitados deixados em um mapa sem colonizadores saúdaveis são considerados abandonados e podem ser capturados pelos inimigos.\n\nTem certeza que quer mover sua caravana?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Alguns animais ou prisioneiros estão tentando se juntar a essa caravana. Se você movê-los, eles não conseguirão mais.\n\nAnimais, prisioneiros e colonos incapacitados deixados em um mapa sem colonizadores saudáveis são considerados abandonados e podem ser capturados pelos inimigos.\n\nTem certeza que quer mover sua caravana?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {0}? -->
