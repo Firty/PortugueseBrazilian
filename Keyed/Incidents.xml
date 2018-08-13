@@ -69,17 +69,17 @@
   <LetterLabelSingleVisitorArrives>Visitantes</LetterLabelSingleVisitorArrives>
   <!-- EN: A {0} from {1} is visiting the colony.\n\n[PAWN_pronoun] is named {2}.{3}{4} -->
   <SingleVisitorArrives>Um(a) {0} de {1} está visitando a colônia.\n\n[PAWN_pronoun] se chama {2}.{3}{4}</SingleVisitorArrives>
-  <!-- EN: \n\n[PAWN_pronoun] seems to have a few items to trade. -->
+  <!-- EN:\n\n[PAWN_pronoun] seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>\n\n[PAWN_pronoun] parece ter alguns itens para o comércio.</SingleVisitorArrivesTraderInfo>
-  <!-- EN: \n\n[PAWN_pronoun] is the leader of the faction. -->
+  <!-- EN:\n\n[PAWN_pronoun] is the leader of the faction. -->
   <SingleVisitorArrivesLeaderInfo>\n\n[PAWN_pronoun] é o líder da facção.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Visitantes</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
   <GroupVisitorsArrive>Um grupo de {0} está visitando a colônia.{1}{2}</GroupVisitorsArrive>
-  <!-- EN: \n\nThey seem to have a few items to trade. -->
+  <!-- EN:\n\nThey seem to have a few items to trade. -->
   <GroupVisitorsArriveTraderInfo>\n\nEles parecem ter alguns itens para o comércio.</GroupVisitorsArriveTraderInfo>
-  <!-- EN: \n\nOne of the visitors - {0}, is the leader of the faction. -->
+  <!-- EN:\n\nOne of the visitors - {0}, is the leader of the faction. -->
   <GroupVisitorsArriveLeaderInfo>\n\nUm dos visitantes - {0}, é o líder da facção.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
   <VisitorsLeaving>Os visitantes de {0} estão partindo.</VisitorsLeaving>

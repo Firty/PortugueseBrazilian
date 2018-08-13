@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Column 1 -->
+
+  <PsychoidBrewing.label>preparação de psicóide</PsychoidBrewing.label>
+  <PsychoidBrewing.description>Com a preparação, as folhas de psicóide podem ser fervidas em água, produzindo um chá ligeiramente eufórico e viciante.</PsychoidBrewing.description>
+
+  <Pemmican.label>carne-seca</Pemmican.label>
+  <Pemmican.description>Permite fazer carne-seca, uma mistura preservada de carne e matéria vegetal que não apodrece por um longo tempo. Ótimo para viagens.</Pemmican.description>
+
+  <Bedrolls.label>sacos de dormir</Bedrolls.label>
+  <Bedrolls.description>Permite que você construa sacos de dormir.</Bedrolls.description>
+
+  <ComplexFurniture.label>complex furniture</ComplexFurniture.label>
+  <ComplexFurniture.description>Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more.</ComplexFurniture.description>
+
+  <PassiveCooler.label>refrigerador passivo</PassiveCooler.label>
+  <PassiveCooler.description>Permite fazer refrigeradores passivos, uma maneira de refrigerar espaços interiores sem usar eletricidade.</PassiveCooler.description>
+
+  <Stonecutting.label>cantaria</Stonecutting.label>
+  <Stonecutting.description>Permite construir mesas de canteiro, que lhe permite refinar pedaços de pedra em blocos de pedra que podem ser usados para a construção.</Stonecutting.description>
+
+  <ComplexClothing.label>roupas complexas</ComplexClothing.label>
+  <ComplexClothing.description>Permite costurar roupas complicadas como calças, gabardinas, e chapéus de caubói.</ComplexClothing.description>
+
+
+  <!-- Column 2 -->
+
+  <DrugProduction.label>produção de drogas</DrugProduction.label>
+  <DrugProduction.description>Estuda as noções básicas de preparação de drogas e de síntese. Permite a criação do laboratório de drogas. São necessárias mais pesquisas para fazer drogas específicas.</DrugProduction.description>
+
+  <Brewing.label>cervejaria</Brewing.label>
+  <Brewing.description>Permite que você construa uma cervejaria para transformar o lúpulo em uma cerveja muito, muito saborosa.</Brewing.description>
+
+  <Devilstrand.label>fio do diabo</Devilstrand.label>
+  <Devilstrand.description>Permite os colonos plantarem o cogumelo do diabo, um cogumelo de crescimento lento que produz uma fibra de planta valiosa.</Devilstrand.description>
+
+  <Bridges.label>bridges</Bridges.label>
+  <Bridges.description>Build bridges to provide passage over water or construct non-heavy structures on otherwise unbuildable terrain.</Bridges.description>
+
+  <CarpetMaking.label>fabricação de carpete</CarpetMaking.label>
+  <CarpetMaking.description>Permite que o colonos construam carpetes para melhorar a qualidade de seus ambientes.</CarpetMaking.description>
+
+  <TreeSowing.label>tree sowing</TreeSowing.label>
+  <TreeSowing.description>Sow the local biome's natural trees in your fields.</TreeSowing.description>
+
+
+  <!-- Column 3+ -->
+
+  <Smithing.label>metalurgia</Smithing.label>
+  <Smithing.description>Permite construir forjas para a elaboração de armas de metal e ferramentas.\n\nPermite que você elabore armas simples como facas, gladios e maças.</Smithing.description>
+
+  <RecurveBow.label>arco recurvo</RecurveBow.label>
+  <RecurveBow.description>Estuda as técnicas de construção avançadas que permitem a produção do arco recurvo, uma arma de longo alcance efetiva e barata.</RecurveBow.description>
+
+  <Electricity.label>eletricidade</Electricity.label>
+  <Electricity.description>Permite gerar e usar a eletricidade para cozinhar e outras tarefas simples.</Electricity.description>
+
+
+  <!-- Tier 1: pre-electricity -->
+
+</LanguageData>

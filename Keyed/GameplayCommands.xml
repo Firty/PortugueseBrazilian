@@ -227,8 +227,6 @@
   <CommandReleaseAnimalsLabel>Soltar animais</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
   <CommandReleaseAnimalsDesc>Quando ativado, animais treinados são enviados para atacar alvos distantes. Enquanto estiver desativado, eles permanecem próximo ao mestre.</CommandReleaseAnimalsDesc>
-  <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>Não há animais disponíveis.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
