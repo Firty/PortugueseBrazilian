@@ -62,7 +62,7 @@
   <Blueprint_Cooler.label>refrigerador (projeto)</Blueprint_Cooler.label>
   
   <!-- EN: local de artesanato (projeto) -->
-  <Blueprint_CraftingSpot.label>local de fabricação (projeto)</Blueprint_CraftingSpot.label>
+  <Blueprint_CraftingSpot.label>local de artesanato (projeto)</Blueprint_CraftingSpot.label>
   
   <!-- EN: sarcófago de cripto-sono (projeto) -->
   <Blueprint_CryptosleepCasket.label>sarcófago de cripto-sono (projeto)</Blueprint_CryptosleepCasket.label>
@@ -749,9 +749,9 @@
   <Frame_Cooler.description>Um dispositivo elétrico que se encaixa em uma parede e empurra o ar frio para uma sala. A sua entrada de escape gera muito calor. Pode ser usado para esfriar cômodos durante o verão, ou para criar uma zona de freezer.</Frame_Cooler.description>
   
   <!-- EN: local de artesanato (construção) -->
-  <Frame_CraftingSpot.label>local de fabricação (construção)</Frame_CraftingSpot.label>
+  <Frame_CraftingSpot.label>local de artesanato (construção)</Frame_CraftingSpot.label>
   <!-- EN: Um lugar para a elaboração de coisas simples como estoques ou arcos. -->
-  <Frame_CraftingSpot.description>Um lugar para a fabricação de coisas simples como facas ou arcos.</Frame_CraftingSpot.description>
+  <Frame_CraftingSpot.description>Um lugar para a elaboração de coisas simples como estoques ou arcos.</Frame_CraftingSpot.description>
   
   <!-- EN: sarcófago de cripto-sono (construção) -->
   <Frame_CryptosleepCasket.label>sarcófago de cripto-sono (construção)</Frame_CryptosleepCasket.label>
