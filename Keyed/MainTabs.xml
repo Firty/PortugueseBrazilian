@@ -133,7 +133,7 @@
   <!-- EN: Colony wealth (buildings) (this map) -->
   <ThisMapColonyWealthBuildings>Riqueza da colônia (estruturas) (neste mapa)</ThisMapColonyWealthBuildings>
   <!-- EN: Colony wealth (people and animals) (this map) -->
-  <ThisMapColonyWealthColonistsAndTameAnimals>TODO</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Riqueza da colônia (pessoas e animais) (neste mapa)</ThisMapColonyWealthColonistsAndTameAnimals>
   <!-- EN: Major threats -->
   <NumThreatBigs>Ameaças principais</NumThreatBigs>
   <!-- EN: Enemy raids -->
@@ -155,7 +155,4 @@
   <!-- EN: Project base cost {0} becomes {1} for you because of your tech level. -->
   <ResearchCostComparison>O custo base do projeto {0} se tornou {1} para você por causa do seu nível de tecnologia.</ResearchCostComparison>
   
-  <!-- UNUSED -->
-  <ThisMapColonyWealthTameAnimals>Riqueza da colônia (animais) (este mapa)</ThisMapColonyWealthTameAnimals>
-
 </LanguageData>

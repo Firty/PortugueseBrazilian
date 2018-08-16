@@ -583,7 +583,7 @@
   <!-- EN: Mass -->
   <Mass>Massa</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>TODO</CaravanMass>
+  <CaravanMass>Massa da caravana</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
   <EquipmentAndApparelMass>Massa de equipamentos e roupas</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
@@ -819,6 +819,6 @@
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>A caravana ficará imóvel se você enviar os pods para uma outro local. Deseja mesmo fazer isso?</TransportersCaravanWillBeImmobile>
 
 </LanguageData>
