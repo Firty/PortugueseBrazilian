@@ -13,7 +13,7 @@
   
   <!-- EN: heater -->
   <Heater.label>aquecedor</Heater.label>
-  <!-- EN: An device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
   <Heater.description>Um dispositivo elétrico que converte energia elétrica em calor. Ele pode se ligar ou desligar automaticamente para atingir uma temperatura específica.</Heater.description>
   
   <!-- EN: passive cooler -->

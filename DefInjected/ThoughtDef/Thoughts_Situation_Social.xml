@@ -68,9 +68,9 @@
   <!-- EN: I should be together with my bonded animal. -->
   <NotBondedAnimalMaster.stages.not_s_master.description>Eu deveria ficar junto do meu mascote.</NotBondedAnimalMaster.stages.not_s_master.description>
   <!-- EN: not master of {0} -->
-  <NotBondedAnimalMaster.stages.not_master_of.label>TODO</NotBondedAnimalMaster.stages.not_master_of.label>
+  <NotBondedAnimalMaster.stages.not_master_of.label>não é mestre de {0}</NotBondedAnimalMaster.stages.not_master_of.label>
   <!-- EN: I should be together with my bonded animals. -->
-  <NotBondedAnimalMaster.stages.not_master_of.description>TODO</NotBondedAnimalMaster.stages.not_master_of.description>
+  <NotBondedAnimalMaster.stages.not_master_of.description>Eu deveria estar junto com meus animais.</NotBondedAnimalMaster.stages.not_master_of.description>
   
   <!-- EN: opinion of my {0} {1} -->
   <OpinionOfMyLover.stages.opinion_of_my.label>opinião de {0} {1}</OpinionOfMyLover.stages.opinion_of_my.label>
