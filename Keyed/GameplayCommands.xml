@@ -42,7 +42,7 @@
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Alista para o modo de combate\n\npessoas alistadas recebem ordens e lutam. Eles não irão trabalhar, comer ou dormir.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{0} não pode andar.</IsIncapped>
+  <IsIncapped>{1_labelShort} não pode andar.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Disparo à vontade</CommandFireAtWillLabel>

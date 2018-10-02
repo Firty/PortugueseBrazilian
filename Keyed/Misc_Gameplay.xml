@@ -257,9 +257,9 @@
   <!-- EN: Closed -->
   <VentClosed>Fechado</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>vestido por {0}</WornBy>
+  <WornBy>vestido por {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>equipado por {0}</EquippedBy>
+  <EquippedBy>equipado por {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
   <QuestTargetDestroyInspectString>{0} quer isto destruído.\n    Recompensa: {1} ({2})</QuestTargetDestroyInspectString>
   <!-- EN: Time left: {0} -->
@@ -321,7 +321,7 @@
   <!-- EN: Expires in -->
   <ExpiresIn>Expira em</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>{0}s caravanas</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>{1_labelShort}s caravanas</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>Razão</Reason>
   <!-- EN: Relations with {0} -->
@@ -429,11 +429,11 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>não pode ordenar unidades não controlaveis.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{0} é incapaz de violência.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>{1_labelShort} é incapaz de violência.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>incapaz de violência</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{0} não está alistado(a).</IsNotDrafted>
+  <IsNotDrafted>{1_labelShort} não está alistado(a).</IsNotDrafted>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -459,15 +459,15 @@
   <!-- EN: roofed -->
   <Roofed>coberto</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Artilharia carregada: {0}</ShellLoaded>
+  <ShellLoaded>Artilharia carregada: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>Não carregado</ShellNotLoaded>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>Transportando {0} para {1}.</ReportHaulingTo>
+  <ReportHaulingTo>Transportando {THING_label} para {DESTINATION}.</ReportHaulingTo>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>Transportando {0}.</ReportHauling>
+  <ReportHauling>Transportando {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>transportando.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -497,7 +497,7 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>extinguindo fogo.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>extinguindo fogo em {0}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>extinguindo fogo em {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>desenterrando cadáver.</ReportDiggingUpCorpse>
 
@@ -527,7 +527,7 @@
   <!-- EN: Cover -->
   <ShootingCover>Cobertura</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{0} para {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{COVER_label} para {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>sem cobertura</NoCoverLower>
   <!-- EN: Execution -->
@@ -563,11 +563,11 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{1} {0}</PawnMainDescGendered>
+  <PawnMainDescGendered>{PAWN_gender} {0}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} de {1}</PawnMainDescFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{0} {1}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {1}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
   <Faction>Facção</Faction>
   <!-- EN: Equipped -->
@@ -667,7 +667,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Tiro por {0}</ShotBy>
+  <ShotBy>Tiro por {1_labelShort}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>Não pode acertar o alvo.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
@@ -771,7 +771,7 @@
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Fogo em {0}</FireOn>
+  <FireOn>Fogo em {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>Queimando</Burning>
   <!-- EN: fire size {0} -->
@@ -827,7 +827,7 @@
   <!-- EN: Contains -->
   <CasketContains>Contém</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Alerta!\n\n[PAWN_nameDef] é seu último colono independente! Se você deixar [PAWN_pronoun] entrar neste sarcófago de cripto-sono, você pode não ser capaz de continuar a jogar. Tem certeza de que deseja continuar?</CasketWarning>
+  <CasketWarning>Alerta!\n\n{PAWN_nameDef} é seu último colono independente! Se você deixar {PAWN_objective} entrar neste sarcófago de cripto-sono, você pode não ser capaz de continuar a jogar. Tem certeza de que deseja continuar?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
@@ -855,7 +855,7 @@
 
   <!-- Neurotrainer -->
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <NeurotrainerUsed>{0} usou {1} neurotreinador para ir do nível {2} para o nível {3}.</NeurotrainerUsed>
+  <NeurotrainerUsed>{USER_labelShort} usou {1} neurotreinador para ir do nível {2} para o nível {3}.</NeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
@@ -923,11 +923,11 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{1} de {0} está crescendo agora.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} de {1} está crescendo agora.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{1} de {0} está agora estável.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} de {1} está agora estável.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{1} de {0} está agora em remissão.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort} de {1} está agora em remissão.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
@@ -937,13 +937,13 @@
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>bloqueado</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>muito perigoso para {0}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>muito perigoso para {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>proibido para {0}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>proibido para {1_labelShort}</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>reservado</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>inacessível para {0}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>inacessível para {1_labelShort}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>em cela de prisão</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->

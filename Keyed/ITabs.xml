@@ -53,7 +53,7 @@
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>SUSPENSO</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Trabalhador: {0}</BoundWorkerIs>
+  <BoundWorkerIs>Trabalhador: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>Plano</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
@@ -197,7 +197,7 @@
   <!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>Requer inteligência treinável {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{0} é muito pequeno(a) para treinar isto.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} é muito pequeno(a) para treinar isto.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Pré-requisito necessário: {0}</TrainingNeedsPrerequisite>
@@ -214,9 +214,9 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Líder da facção</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>Opinião de {0}</OpinionOf>
+  <OpinionOf>Opinião de {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>Opinião de {0} sobre mim</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Opinião de {1_labelShort} sobre mim</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Estou morto</IAmDead>
   <!-- EN: I'm a psychopath -->
