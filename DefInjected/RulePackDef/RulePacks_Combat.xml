@@ -433,15 +433,15 @@
   <!-- EN: r_logentry(p=6)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite]'s [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets]. -->
   <Combat_RangedDamage.rulePack.rulesStrings.15>r_logentry(p=6)->[INITIATOR_definite] de [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite], [destroyed_present] [RECIPIENT_definite] de [destroyed_targets] e [damaged_present] [RECIPIENT_possessive] [damaged_targets].</Combat_RangedDamage.rulePack.rulesStrings.15>
   <!-- EN: r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label]. -->
-  <Combat_RangedDamage.rulePack.rulesStrings.16>r_logentry(p=0.2)->[INITIATOR_definite] acertou o(a) [RECIPIENT_definite] com um [WEAPON_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
+  <Combat_RangedDamage.rulePack.rulesStrings.16>r_logentry(p=0.2)->[INITIATOR_definite] acertou [RECIPIENT_definite] com um [WEAPON_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.16>
   <!-- EN: r_logentry(p=0.2)->[INITIATOR_definite]'s [WEAPON_projectile_label] hit [RECIPIENT_definite]. -->
   <Combat_RangedDamage.rulePack.rulesStrings.17>r_logentry(p=0.2)->O [WEAPON_projectile_label] de [INITIATOR_definite] acertou [RECIPIENT_definite].</Combat_RangedDamage.rulePack.rulesStrings.17>
   <!-- EN: r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite] with a [WEAPON_projectile_label]. -->
-  <Combat_RangedDamage.rulePack.rulesStrings.18>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou o(a) [RECIPIENT_definite] com um(a) [WEAPON_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
+  <Combat_RangedDamage.rulePack.rulesStrings.18>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou [RECIPIENT_definite] com um(a) [WEAPON_projectile_label].</Combat_RangedDamage.rulePack.rulesStrings.18>
   <!-- EN: r_logentry(p=0.4)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and hit [RECIPIENT_definite]. -->
-  <Combat_RangedDamage.rulePack.rulesStrings.19>r_logentry(p=0.4)->O [WEAPON_projectile_label] de [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou o(a) [RECIPIENT_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
+  <Combat_RangedDamage.rulePack.rulesStrings.19>r_logentry(p=0.4)->O [WEAPON_projectile_label] de [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou [RECIPIENT_definite].</Combat_RangedDamage.rulePack.rulesStrings.19>
   <!-- EN: r_logentry(p=0.2)->[INITIATOR_definite] hit [RECIPIENT_definite] with a [WEAPON_projectile_label] intended for [ORIGINALTARGET_definite]. -->
-  <Combat_RangedDamage.rulePack.rulesStrings.20>r_logentry(p=0.2)->[INITIATOR_definite] acertou o(a) [RECIPIENT_definite] com um [WEAPON_projectile_label] mirando em [ORIGINALTARGET_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
+  <Combat_RangedDamage.rulePack.rulesStrings.20>r_logentry(p=0.2)->[INITIATOR_definite] acertou [RECIPIENT_definite] com um [WEAPON_projectile_label] mirando em [ORIGINALTARGET_definite].</Combat_RangedDamage.rulePack.rulesStrings.20>
   <!-- EN: weapon_projectile_label(p=0.05)->shot -->
   <Combat_RangedDamage.rulePack.rulesStrings.21>weapon_projectile_label(p=0.05)->tiro</Combat_RangedDamage.rulePack.rulesStrings.21>
   <!-- EN: destroyed_past->shattered -->
@@ -550,8 +550,8 @@
     <li>r_logentry->[RECIPIENT_definite] [damaged_target_possessive_opt] estava [damaged_past] de [INITIATOR_definite] de [WEAPON_projectile_label] [deflected_result].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] acertou [RECIPIENT_definite][damaged_target_possessive_opt] com um(a) [WEAPON_projectile_label] [deflected_result].</li>
     <li>r_logentry(p=0.2)->O [WEAPON_projectile_label] de [INITIATOR_definite] acertou [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou o(a) [RECIPIENT_definite][damaged_target_possessive_opt] com um(a) [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->O [WEAPON_projectile_label] de [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou o(a) [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou [RECIPIENT_definite][damaged_target_possessive_opt] com um(a) [WEAPON_projectile_label] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->O [WEAPON_projectile_label] de [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] e acertou [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] acertou [RECIPIENT_definite][damaged_target_possessive_opt] com um(a) [WEAPON_projectile_label] destinado a [ORIGINALTARGET_definite] [deflected_result].</li>
     <li>weapon_projectile_label(p=0.05)->tiro</li>
     <li>damaged_target_possessive_opt-></li>
