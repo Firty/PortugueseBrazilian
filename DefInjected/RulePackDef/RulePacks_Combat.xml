@@ -148,11 +148,11 @@
   <Combat_ExplosionImpact.rulePack.rulesStrings.29>fromof->de</Combat_ExplosionImpact.rulePack.rulesStrings.29>
   
   <!-- EN: action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] -->
-  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[INITIATOR_definite] [tried] [damaged_inf] em [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
+  <Combat_FailIncludes.rulePack.rulesStrings.0>action->[INITIATOR_definite] [tried] [damaged_inf] [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.0>
   <!-- EN: action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement] -->
-  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[INITIATOR_definite] [tried] [damaged_inf] em [RECIPIENT_definite] com [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
+  <Combat_FailIncludes.rulePack.rulesStrings.1>action->[INITIATOR_definite] [tried] [damaged_inf] [RECIPIENT_definite] com [implement]</Combat_FailIncludes.rulePack.rulesStrings.1>
   <!-- EN: action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite] -->
-  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[INITIATOR_definite] [tried] para usar [implement] para [damaged_inf] [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.2>
+  <Combat_FailIncludes.rulePack.rulesStrings.2>action->[INITIATOR_definite] [tried] [damaged_inf] [RECIPIENT_definite] com [implement]</Combat_FailIncludes.rulePack.rulesStrings.2>
   <!-- EN: action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite] -->
   <Combat_FailIncludes.rulePack.rulesStrings.3>action->[INITIATOR_definite] tentou bater seu(ua) [WEAPON_label] em [RECIPIENT_definite]</Combat_FailIncludes.rulePack.rulesStrings.3>
   <!-- EN: action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement] -->
@@ -271,23 +271,23 @@
   <!-- EN: r_logentry(p=0.2)->[action]. -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.1>r_logentry(p=0.2)->[action].</Combat_MeleeIncludes.rulePack.rulesStrings.1>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=2)->o(a) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.2>implement(IMPLEMENTOWNER_type==weapon,p=2)->seu(ua) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.2>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.3>implement(IMPLEMENTOWNER_type==weapon,p=1)->seu(ua) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.3>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=1)->o(a) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.4>implement(IMPLEMENTOWNER_type==weapon,p=1)->seu(ua) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.4>
   <!-- EN: implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label] -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.5>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->seu(ua) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.5>
   <!-- EN: implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==bodypart,p=2)->o(a) [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.6>implement(IMPLEMENTOWNER_type==bodypart,p=2)->seu(ua) [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.6>
   <!-- EN: implement(IMPLEMENTOWNER_type==bodypart,p=1)->[INITIATOR_possessive] [adjective_bodypart] [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==bodypart,p=1)->o(a) [adjective_bodypart] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.7>implement(IMPLEMENTOWNER_type==bodypart,p=1)->seu [adjective_bodypart] [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.7>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=2)->o(a) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.8>implement(IMPLEMENTOWNER_type==hediff,p=2)->seu(ua) [TOOL_label] do(a) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.8>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label] -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.9>implement(IMPLEMENTOWNER_type==hediff,p=1)->seu(ua) [WEAPON_label]</Combat_MeleeIncludes.rulePack.rulesStrings.9>
   <!-- EN: implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label] -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(IMPLEMENTOWNER_type==hediff,p=1)->o(a) [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
+  <Combat_MeleeIncludes.rulePack.rulesStrings.10>implement(IMPLEMENTOWNER_type==hediff,p=1)->seu(ua) [TOOL_label]</Combat_MeleeIncludes.rulePack.rulesStrings.10>
   <!-- EN: adjective_bodypart->hard -->
   <Combat_MeleeIncludes.rulePack.rulesStrings.11>adjective_bodypart->forte</Combat_MeleeIncludes.rulePack.rulesStrings.11>
   <!-- EN: adjective_bodypart->strong -->

@@ -47,9 +47,9 @@
   <DislikesMen.degreeDatas.misandrist.description>{PAWN_nameDef} detesta e desconfia de todos os homens.</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
-  <DislikesWomen.degreeDatas.misogynist.label>misógino</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.label>misoginia</DislikesWomen.degreeDatas.misogynist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} realmente não gosta e desconfia de mulheres.</DislikesWomen.degreeDatas.misogynist.description>
+  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_nameDef} detesta e desconfia de todas as mulheres.</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
   <FastLearner.degreeDatas.fast_learner.label>aprendiz rápido</FastLearner.degreeDatas.fast_learner.label>
