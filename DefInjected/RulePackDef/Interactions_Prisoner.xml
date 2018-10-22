@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community. -->
-  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] aceitou e se juntou á comunidade de [initiator_nameShortDef].</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] aceitou e se juntou á comunidade de [INITIATOR_nameDef].</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
   
   <!-- EN: sent->[RECIPIENT_nameDef] refused. -->
-  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] rejeitou a oferta.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef] rejeitou a oferta.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
   
 </LanguageData>
