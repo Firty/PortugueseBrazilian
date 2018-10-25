@@ -440,10 +440,10 @@
   <Make_Shell_EMP.jobString>Fazendo munição PEM.</Make_Shell_EMP.jobString>
   
   <!-- EN: fazer bomba de espuma -->
-  <Make_Shell_Firefoam.label>fazer munição de espuma contra incêndio</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.label>fazer munição de espuma</Make_Shell_Firefoam.label>
   <Make_Shell_Firefoam.description />
   <!-- EN: Fazendo bomba de espuma. -->
-  <Make_Shell_Firefoam.jobString>Fazendo munição de espuma contra incêndio.</Make_Shell_Firefoam.jobString>
+  <Make_Shell_Firefoam.jobString>Fazendo munição de espuma.</Make_Shell_Firefoam.jobString>
   
   <!-- EN: fazer bomba de explosão grande -->
   <Make_Shell_HighExplosive.label>fazer munição altamente explosiva</Make_Shell_HighExplosive.label>
